@@ -1,0 +1,57 @@
+ลา/vt กับ/prep หมาป่า/npn
+บ่าย/ncn วัน/ncn หนึ่ง/adj
+ขณะ/ncn ที่/prel เจ้า/pper ลา/vt อ้วน/adv พี/npn ตัว/ncn หนึ่ง/adj กำลัง/ncn เล็ม/npn ต้น/adj ถั่ว/ncn หย่อม/nct หนึ่ง/adj อย่าง/cl มี/vt ความ/pref1 สุข/vi
+ก็/conj มีเสียง/ncn คำราม/vi ต่ำ/adv ๆ/punc
+น่า/prev กลัว/vt ดัง/adv ขึ้น/vpost
+มัน/pper หมุน/vt ตัว/ncn กลับ/vi มา/vpost เห็น/vt หมาป่า/ncn ท่าทาง/ncn ดุร้าย/vi วิ่ง/vi ตัด/vt ทุ่ง/ncn หญ้า/ncn ตรง/vi มา/vpost ที่/prep มัน/pper
+นัยน์ตา/vi ของ/prep หมาป่า/ncn หรี่/vt เล็ก/vi ลง/vpost และ/conj แยกเขี้ยว/vi ยิงฟัน/vi ออก/vpost มา/vpost
+ท่าทาง/ncn ของ/prep มัน/pper หิว/vt โซ/npn เอา/vt มาก/adv ๆ/punc
+"/punc หนี/vt ไม่ทัน/adv แล้ว/vpost "/punc
+เจ้า/ntit ลา/vt คิด/vt อย่าง/advm1 ตื่น/vi กลัว/vt
+"/punc ข้า/pper เสร็จ/vi มัน/pper แน่/adv !/punc "/punc
+ตอน/ncn นี้/det หมาป่า/conj เข้า/vi มา/vpost ใกล้/adv เสีย/vpost จน/conj เจ้า/pper ลาม/vi อง/vi เห็น/vt นัยน์ตา/ncn วาววับ/adj และ/conj น้ำลาย/ncn ที่/prel หยด/vi จาก/prep ซี่/ncn ฟัน/ncn ของ/prep มัน/pper อย่าง/advm1 ชัดเจน/adv
+เจ้า/ntit ลา/vt คิด/vt หา/vt ทาง/ncn เอา/vt ตัว/ncn รอด/vi อย่าง/advm1 สิ้น/adv หวัง/vi
+เมื่อ/conj หมาป่า/vi อยู่/vpost ห่าง/vi ออก/vpost ไป/vpost เพียง/adv เสี้ยว/ncn หนวด/ncn ของ/prep มัน/pper
+เจ้า/ntit ลา/vt ก็/conj ตะโกน/vi ออก/vpost มา/vpost ว่า/conjncl
+"/punc โอ๊ย/npn !/punc กีบ/npn เท้า/ncn ที่/prel น่า/prev สงสาร/vt "/punc
+มัน/pper ร้อง/vi
+"/punc ไม่/neg น่า/prev มา/vi ถูก/psm หนาม/ncn ตำ/vt เจ็บ/vi ๆ/indet อย่าง/advm1 นี้/det เลย/part !/punc "/punc
+"/punc ข้า/pper ไม่/neg มัว/vi มา/vpost ใส่ใจ/vt กับ/prep เรื่อง/ncn เล็ก/adj ๆ/punc น้อย/adv ๆ/punc อย่าง/cl นี้/det หรอก/part น่า/adv "/punc
+หมาป่า/conj เลีย/vt ริมฝีปาก/ncn
+"/punc หนาม/ncn นั่น/det คง/prev จะ/prev อยู่/vi รบกวน/vt เจ้า/ncn อีก/adj ไม่/neg นาน/adv นัก/part หรอก/part "/punc
+เจ้า/ntit ลา/vt ถอน/vt หายใจ/vi
+"/punc ถ้า/conj เจ้า/pper วาง/vt แผน/ncn จะ/prev กิน/vt ข้า/pper ละ/adj ก็/conj "/punc
+มัน/pper พูด/vt
+"/punc เชิญ/vt ได้/vpost เลย/part แต่/conj เจ้า/pper น่า/prev จะ/prev เอา/vt หนาม/ncn ออก/vpost จาก/prep กีบ/ncn เท้า/ncn ข้า/pper ก่อน/conj ไม่/neg งั้น/det มัน/pper จะ/prev ติด/vt คอ/ncn ตอน/ncn เจ้า/ncn กลืน/vt ได้/vpost นะ/part "/punc
+"/punc เจ้า/pper ช่าง/prev มี/vt น้ำใจ/ncn เสีย/vpost จริง/adv "/punc
+หมาป่า/conj พูด/vt พลาง/adv ชายตา/vi มอง/vt
+"/punc ข้า/pper ชอบ/vt มื้อ/ncn กลางวัน/ncn ที่/prel ได้/prev ช่วยเหลือ/vt ผู้/ncn อื่น/indet "/punc
+หมาป่า/conj ก้ม/vi ลง/vpost ดู/vt กีบ/ncn เท้า/ncn เจ้า/ncn ลา/vt
+"/punc หนาม/ncn ตำ/vt ตรง/adv ไหน/indet กัน/prec ล่ะ/part "/punc
+มัน/pper ถาม/vt
+"/punc ให้/conjncl ข้า/pper ดู/vt หน่อย/adv ซิ/part "/punc
+เจ้า/ntit ลายก/npn กีบ/npn เท้า/ncn ด้าน/ncn หลัง/adj ข้าง/cl หนึ่ง/adj ขึ้น/vpost
+"/punc ที่/prel เท้า/ncn ข้าง/cl นี้/det "/punc
+มัน/pper พูด/vt
+"/punc เจ้า/pper มอง/vt เห็น/vt ไหม/pint "/punc
+"/punc ไม่/neg เห็น/vt .../part "/punc
+หมาป่า/conj พูด/vt
+แล้ว/conj ก้ม/vi ใกล้/vi เข้าไป/adv อีก/adv
+"/punc อยู่/vi ตรง/prep กลาง/ncn เลย/part "/punc
+เจ้า/ntit ลา/vt ตอบ/vt
+ยก/vt เท้า/ncn สูง/vi ขึ้น/vpost อีก/adv นิ/npn
+"/punc เจ้า/pper เห็น/vt หรือ/conj ยัง/prev "/punc
+หมาป่า/conj ก้ม/vt ลง/vpost ใกล้/adv ขึ้น/vpost กว่า/adv เดิม/adv
+กระทั่ง/conj จมูก/ncn ของ/prep มัน/pper เกือบ/adv แตะ/vt กีบ/ncn เท้า/ncn เจ้า/ncn ลา/vt
+"/punc ไม่/neg เห็น/vt มี/vt .../punc "/punc
+หมาป่า/conj ตอบ/vt
+"/punc จริง/adv หรือ/pint "/punc
+เจ้า/ntit ลา/vt พูด/vt
+"/punc อาจ/prev จะ/prev เพราะ/conj มัน/pper ไม่/neg มี/vt หนาม/ncn อยู่จริง/npn ๆ/punc น่ะสิ/npn !/punc "/punc
+แล้ว/conj เจ้า/pper ลา/vt ก็/conj ใช้/vt ขา/ncn หลัง/adj ทั้ง/adj สอง/nnum ข้าง/cl เตะ/vt หมาป่า/ncn สุดแรงเกิด/vt หมาป่า/ncn ร้อง/vi ลั่น/adv
+ตีลังกา/npn ลอย/vi ละ/adj ลิ่ว/adv ไป/vpost หล่น/vi ตุ้บ/adv ตรง/prep กลาง/ncn ทุ่ง/ncn หญ้า/ncn
+ลา/vt เฝ้า/vt มอง/vt อย่าง/advm1 ดีใจ/vi เมื่อ/prep หมาป่า/ncn ที่/prel กำลัง/prev มึนงง/vi พา/vt ตัว/ncn เอง/prfx ลุก/vi ขึ้น/vpost แล้ว/vpost ค่อยๆ/adv
+ย่อง/adv เข้า/vi ป่า/ncn ไป/vpost
+"/punc ฮ่า/npn ฮ่า/npn "/punc
+ลา/vt หัวเราะ/vt ชอบใจ/vt
+"/punc ข้า/pper ชอบ/vt หมาป่า/ncn ที่/prel ชอบ/vt ช่วยเหลือ/vt ผู้/ncn อื่น/indet จัง/vi !/punc "/punc

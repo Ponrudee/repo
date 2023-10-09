@@ -1,0 +1,99 @@
+เสื้อ/ncn กัน/prec หนาว/adj สี/ncn แดง/adj ของ/prep ลา/vt น้อย/adv
+ใน/prep ฟาร์ม/ncn เลี้ยง/vt ม้า/ncn แห่ง/cl หนึ่ง/adj
+ขณะ/ncn ที่/prel พวก/nct ม้า/ncn ทั้งหลาย/adj กำลัง/prev คุย/vi กัน/prec อย่าง/advm1 สนุกสนาน/adv
+ลา/vt น้อย/adv ตัว/ncn หนึ่ง/adj กลับ/vi ยืน/vi เหงา/vi อยู่/vpost ตามลำพัง/adv
+"/punc เป็น/vcs อะไร/indet ไป/vpost ลา/vt น้อย/adv ไม่/neg สบาย/vi หรอ/pint "/punc
+มา/vi รี/vi
+ลูก/ncn สาว/ncn ของ/prep เจ้าของ/ncn ฟาร์ม/ncn ถาม/vt
+"/punc เปล่า/adv หรอก/part ฉัน/pper แค่/adv เหงา/vi เท่านั้น/adv เอง/prfx ไม่/neg ได้/prev เป็น/vcs อะไร/pint หรอก/part "/punc
+ลา/vt น้อย/adv ตอบ/vt
+"/punc ใน/prep นี้/det มี/vt ม้า/ncn ตั้ง/vt หลาย/adj ตัว/ncn เธอ/pper ก็/conj ไป/vpost คุย/vi กับ/prep เขา/pper สิ/part ไม่/neg ได้/prev ไม่/neg เหงา/vi "/punc
+มา/vi รีบ/vi อก/ncn
+"/punc เธอ/pper ก็/conj รู้/vt นี่/det ว่า/conjncl พวก/nct เขา/pper ไม่/neg อยาก/prev คุย/vi กับ/prep ฉัน/pper "/punc
+เจ้า/ntit ลาบ/npn อก/ncn อย่าง/advm1 เศร้า/vt ๆ/punc
+มา/vi รี/vi รู้ตัว/vt ว่า/conjncl พวก/nct ม้า/ncn ไม่/neg ยอม/vt รับ/vt เจ้า/ncn ลา/vt น้อย/vi เข้า/vi กลุ่ม/nct
+"/punc เดี๋ยว/adv ฉัน/pper จะ/prev ไป/vpost จัดการ/vt พวก/nct นั้น/det ให้/conjncl เอง/prfx "/punc
+มา/vi รีบ/vi อก/ncn
+"/punc ไม่/neg เป็นไร/vi หรอก/part ฉัน/pper แค่/adv อยาก/vt ออก/vpost ไป/vpost อยู่/vpost ใน/prep ทุ่ง/ncn หญ้า/ncn ข้าง/ncn นอก/prep นั่น/pdem มาก/adv กว่า/adv "/punc
+"/punc แต่/conj ข้าง/ncn นอก/prep มัน/pper หนาว/vi มาก/adv เลย/part นะ/part เธอ/pper อยู่/vpost ไม่/neg ได้/vpost หรอก/part "/punc
+มา/vi รี/vi ไม่/neg เห็น/vt ด้วย/adv
+"/punc เธอ/pper ก็/conj หา/vt เสื้อ/ncn กัน/prec หนาว/adv ให้/conjncl ฉัน/pper สิ/part ฉัน/pper จะ/prev ได้/prev อุ่น/vi "/punc
+เจ้า/ntit ลาบ/npn อก/ncn
+"/punc ฉัน/pper ไม่/neg มี/vt เสื้อ/ncn กัน/prec หนาว/adv ที่/prel ใหญ่/vi พอ/adv ให้/conjncl เธอ/pper ใส่/vt ได้/vpost หรอก/part นะ/part "/punc
+มา/vi รีบ/vi อก/ncn
+"/punc เธอ/pper ใช้/vt ไหม/pint พรม/ncn ถัก/vi ให้/conjncl ฉัน/pper สัก/vt ตัว/ncn ไม่/neg ได้/prev หรอ/vi "/punc
+เจ้า/ntit ลา/vt ขอร้อง/vi
+"/punc ฉัน/pper ต้อง/prev ลอง/vt ไป/vpost ขอ/vt แม่/ncn ดูก่อน/adj ไม่/neg รู้/vt ว่า/conjncl แม่/ncn จะ/prev ให้/vt หรือ/conj เปล่า/adv "/punc
+มา/vi รีบ/vi อก/ncn อย่าง/advm1 ไม่/neg แน่ใจ/vi
+แล้ว/conj เด็กหญิง/ncn ก็/conj วิ่ง/vi กลับ/vi ไป/vpost ที่/prep บ้าน/ncn
+พอ/conj เธอ/pper เล่า/vt เรื่อง/ncn ให้/vcau แม่/ncn ฟัง/vt
+แม่/ncn ก็/conj บอก/vt ให้/conjncl ไป/vpost หา/vt ไหม/ncn พรม/ncn เก่า/adj ๆ/punc ใน/prep กล่อง/ncn เย็บ/vt ผ้า/ncn ของ/prep แม่/ncn
+ใน/prep ที่สุด/adv มา/vpost รี/vi ก็/conj พบ/vt ไหม/ncn พรม/ncn เก่า/adj ๆ/punc สี/ncn แดง/adj กลุ่ม/nct หนึ่ง/adj
+เธอ/pper รีบ/vi กลับ/vi ไป/vpost ที่/prep คอก/ncn ม้า/ncn อีก/adj ครั้ง/cl
+เพื่อ/conj วัด/vt ตัว/ncn เจ้า/ncn ลา/vt น้อย/adv
+แล้ว/conj เธอ/pper ก็/conj ลงมือ/vt ถัก/vt เสื้อ/ncn กัน/prec หนาว/adv ทั่วไป/adv
+เพราะ/conj มี/vt รู/ncn สี่/nnum รู/cl สำหรับ/conj สอด/vt ขา/ncn หนึ่ง/adj รู/cl สำหรับ/conj สอด/vt หาง/ncn
+นอกจาก/conj นี้/det ยัง/prev มี/vt หมวก/ncn ซึ่ง/prel มี/vt รู/ncn สอง/nnum รู/cl ให้/vcau หู/ncn ลอด/vi ออก/vpost มา/vpost อีก/adv ด้วย/adv
+เมื่อ/conj ถัก/vi เสร็จ/adv
+มา/vi รี/vi ก็/conj เอา/vt ไป/vpost ให้/conjncl เจ้า/pper ลา/vt น้อย/adv ลอง/vt สวม/vt
+แม้/conj จะ/prev ไม่/neg ใช่/vt เสื้อ/ncn กัน/prec หนาว/adv ที่/prel สวย/vi งาม/vi
+แต่/conj มัน/pper ก็/conj อุ่น/vi ดี/adv
+ลา/vt น้อย/adv ดีใจ/vi มาก/adv
+มัน/pper เอา/vt แก้ม/ncn ถู/ncn แก้ม/ncn มา/vpost รี/vi เบา/adv ๆ/punc
+เพื่อ/conj แสดง/vt ความ/pref1 ขอบคุณ/vt และ/conj พูด/vt กับ/prep เธอ/pper ว่า/conjncl
+"/punc ตอน/ncn นี้/det ฉัน/pper ออก/vt ไป/vpost ใน/prep ทุ่ง/ncn ได้/vpost แล้ว/vpost ล่ะ/part สิ/part "/punc
+"/punc เดี๋ยวก่อน/npn ต้อง/prev ขอ/vt พ่อ/ncn กับ/prep แม่/ncn ก่อน/adj "/punc
+เมื่อ/conj แม่/ncn เห็น/vt ลา/vt น้อย/adv สวม/vt เสื้อ/ncn กัน/prec หนาว/adv ก็/conj รู้สึก/vi ขำ/vi มาก/adv
+แต่/conj ก็/conj ต้อง/prev กลั้น/vt หัวเราะ/vt ไว้/vpost เพื่อ/conj มิ/neg ให้/vcau ลูก/ncn สาว/ncn เสียน้ำใจ/vi
+"/punc โอ้โห/int มา/vpost รี/vi ทำไม/pint ถึง/prep สวม/vt เสื้อ/ncn กัน/prec หนาว/adv ให้/conjncl ลา/vt น้อย/adv ล่ะ/part เดี๋ยว/adv มัน/pper ก็/conj ร้อน/vi หรอก/part "/punc
+"/punc คือ/vcs ว่า/conjncl มัน/pper อยาก/prev กลับ/vi ออก/vpost ไป/vpost อยู่/vpost ใน/prep ทุ่ง/ncn น่ะสิ/part คะ/vt แม่/ncn อยู่/vpost ใน/prep คอก/ncn แล้ว/vpost มัน/pper ไม่/neg มี/vt เพื่อน/ncn มี/vt เสื้อ/ncn กัน/prec หนาว/ncn นี่/det มัน/pper ก็/conj ไม่/neg ต้อง/prev กลัว/vt หนาว/ncn อีก/adv แล้ว/vpost "/punc
+"/punc ไม่/neg ได้/vpost หรอก/part "/punc
+แม่/ncn พูด/vt
+"/punc แล้ว/conj ถ้า/conj ฝน/ncn ตก/vi ล่ะ/part ถ้า/conj สวม/vt เสื้อ/ncn กัน/prec หนาว/ncn เปียก/adj ๆ/punc มัน/pper ก็/conj จะ/prev หนาว/vi มาก/adv และ/conj ไม่/neg สบาย/vi ได้/vpost "/punc
+"/punc เรา/pper ทำ/vt เพิง/ncn เล็ก/adj ๆ/punc สำหรับ/conj กัน/vt ฝน/ncn ให้/prep มัน/pper ก็ได้/part นี่/det คะ/ncn "/punc
+"/punc ใคร/pind ทำ/vt ล่ะ/part พ่อ/ncn น่ะไม่/npn มี/vt เวลา/ncn ว่าง/adj หรอก/part "/punc
+มา/vi รี/adj ท่าทาง/ncn ผิดหวัง/vi และ/conj ลา/vt น้อย/adv ก็/conj เสียใจ/vi มาก/adv จน/conj แม่/ncn ต้อง/prev พูด/vt ว่า/conjncl
+"/punc งั้น/det ก็/conj ลอง/vt ไป/vpost ขอ/vt ให้/conjncl พี่/ncn เขา/pper ทำให้/vcau ก็ได้/part "/punc
+มา/vi รี/vi จึง/conj รีบ/vi วิ่ง/vi ไป/vpost หา/vt พี่/ncn ชาย/ncn คน/cl โต/adj ที่/prel ชื่อ/ncn ลุย/vi ส์อยู่/vi ที่/prep ลาน/ncn บ้าน/ncn
+"/punc พี่/ncn ช่วย/vt ทำ/vt เพิง/ncn เล็ก/adj ๆ/punc สำหรับ/conj ลา/vt น้อย/adv ให้/conjncl หนู/ncn สัก/advm4 หลัง/cl หนึ่ง/adj ได้/vpost ไหม/pint "/punc
+จะ/prev ได้/prev กลับ/vi ออก/vpost ไป/vpost ใน/prep ทุ่ง/ncn
+หนู/pper ถัก/vt เสื้อ/ncn กัน/prec หนาว/adv ให้/conjncl มัน/pper แล้วแต่/conj ถ้า/conj จะ/prev กัน/vt ฝน/ncn ก็/conj ตอง/ncn มี/vt เพิง/vt ให้/conjncl มัน/pper สัก/advm4 หลัง/cl
+พี่/ncn ช่วย/vt หน่อย/adv นะ/part จ๊ะ/aff
+ลุย/vi ส์มอง/vi มา/vpost รี/vi กับ/prep ลา/vt น้อย/adv ครู่/ncn หนึ่ง/adj แล้ว/vpost ก็/conj ตอบ/vt ตกลง/vi
+มา/vi รี/vi กระโดด/vi ไป/vpost รอบ/ncn ๆ/punc อย่าง/advm1 ดีอกดีใจ/vt
+แล้ว/conj ลุย/vi ส์ก็/part รีบ/vi ออก/vi ไป/vpost สร้าง/vt เพิง/vt ให้/conjncl
+ตอน/ncn เย็น/adj
+พวก/nct เขา/pper ก็/conj อวด/vt ทั้ง/conjc เสือ/ncn กัน/prec หนาว/adv และ/conj เพิง/ncn แสน/nnum สวย/adj ให้/prep พ่อ/ncn ดู/vt
+มา/vi รี/vi เล่า/vt ให้/conjncl พ่อ/ncn ฟัง/vt ตั้งแต่/prep ต้น/ncn จน/conj จบ/vi อย่าง/advm1 รวดเร็ว/adv
+แล้ว/conj แม่/ncn ก็/conj เล่า/vt อย่าง/advm1 นุ่มนวล/vi อีก/adv ครั้ง/cl พร้อม/vi รอย/ncn ยิ้ม/vi
+วัน/ncn รุ่ง/vi ขึ้น/vpost
+มา/vi รี/vi กับ/prep ลุย/vi ส์พาลา/vi น้อย/adv ไป/vpost ใน/prep ทุ่ง/ncn
+มัน/pper สูด/vt อากาศ/ncn บน/prep เนิน/ncn และ/conj กลิ่น/ncn ฟาง/ncn สด/adj เข้า/vi เต็ม/vt ปอด/ncn
+เจ้า/ntit ลา/vt ก็/conj รู้สึก/vi สบาย/adv ใจมาก/adv
+ตั้งแต่/prep วัน/ncn นั้น/det
+ลา/vt น้อย/adv ก็/conj อาศัย/vi อยู่/vpost บน/prep ทุ่ง/ncn หญ้า/ncn อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+มา/vi รี/vi ออก/vpost มา/vpost วิ่ง/vi เล่น/vt กับ/prep มัน/pper บ่อยๆ/adv ฤดู/ncn หนาว/adj ผ่าน/vt ไป/vpost แล้ว/vpost
+เจ้า/ntit ลา/vt ไม่/neg หนาว/vi และ/conj ไม่/neg เปียก/vi เลย/part
+พอ/conj ถึง/prep ฤดู/ncn ใบไม้/ncn ผลิ/vt
+มา/vi รี/vi ก็/conj ถอด/vt เสื้อ/ncn กัน/prec หนาว/adv ให้/conjncl ลา/vt ของ/prep เธอ/pper
+พวก/nct ม้า/ncn กลับ/vi มา/vpost ที่/prep เนิน/ncn แล้ว/vpost
+มัน/pper รู้/vt ว่า/conjncl เจ้า/pper ลา/vt น้อย/adv ไม่/neg มี/vt ความ/pref1 สุข/vi ที่/prel อยู่/vi ร่วม/vi กับ/prep พวก/nct มัน/pper
+"/punc ขอโทษ/vt นะ/part "/punc
+ม้า/ncn ตัว/ncn หนึ่ง/adj พูด/vt
+"/punc พวก/nct เรา/pper ทำตัว/vi ไม่/neg ได้/vpost กับ/prep เธอ/pper เธอ/pper เลย/prev ต้อง/prev ทน/vt หนาว/vi อยู่/vpost ที่/prel นี่/det "/punc
+"/punc ไม่/neg หรอก/part "/punc
+ลา/vt น้อย/adv ว่า/conjncl
+"/punc เพราะ/conj ฉัน/pper มี/vt เสื้อ/ncn กัน/prec หนาว/adj ตัว/cl ใหญ่/adj กับ/prep เพิง/ncn แสน/nnum สวย/adj ฉัน/pper เห็น/vt พระอาทิตย์/ncn ขึ้น/vpost ทุก/adj เช้า/ncn บน/prep เนิน/ncn เขา/pper เห็น/vt พระจันทร์/ncn กับ/prep ดาว/ncn ส่อง/vi สว่าง/vi ใน/prep ตอน/ncn กลางคืน/ncn และ/conj มี/vt เพื่อน/ncn ๆ/punc มา/vpost หา/vt ฉัน/pper เยอะแยะ/adv เลย/part "/punc
+"/punc จริง/adv เห/vi รอ/vt "/punc
+ม้า/ncn อีก/adj ตัว/ncn พูด/vt
+"/punc ฉัน/pper อยาก/vt อยู่/vpost ที่/prel นี่/det ตอน/ncn ฤดู/ncn หนาว/adj บ้าง/adv จัง/adv "/punc
+"/punc ฉัน/pper ด้วย/adv "/punc
+ม้า/ncn ตัว/ncn อื่นๆ/indet พูด/vt
+ดังนั้น/conj
+ใน/prep ฤดู/ncn ร้อน/adj
+แม่/ncn และ/conj มา/vi รี/vi จึง/conj ช่วย/vt กัน/prec ถัก/vt เสื้อ/ncn กัน/prec หนาว/adv ให้/conjncl ม้า/ncn ทุก/adj ตัว/cl
+พ่อ/ncn ก็/conj พยายาม/vi ช่วย/vt ถัก/ncn ด้วย/adv
+ส่วน/conj ลุย/vi ส์ก็/part เป็น/vcs คน/ncn สร้าง/vt เพิง/vt ให้/conjncl พวก/nct มัน/pper
+ฤดู/ncn หนาว/adj ถัด/vi ไป/vpost
+ลา/vt น้อย/adv และ/conj ม้า/ncn ทั้งหลาย/adj จึง/conj ได้/prev อยู่/vi ใน/prep ทุ่ง/ncn
+ที่/prep ซึ่ง/prel พวก/nct มัน/pper จะ/prev ได้/prev ดู/vt พระอาทิตย์/ncn ขึ้น/vpost บน/prep เนิน/ncn ทุกๆ/adj เช้า/ncn

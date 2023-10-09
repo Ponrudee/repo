@@ -1,0 +1,48 @@
+ยาย/ncn แห้ง/vi ลอยฟ้า/adv
+นาน/vi มา/vpost แล้ว/vpost
+มี/vt เด็ก/ncn ผู้หญิง/ncn ที่/prel ผอม/vi มาก/adv คน/cl หนึ่ง/adj
+ใคร/pind ๆ/punc
+มัก/prev เรียก/vt เธอ/pper ว่า/conjncl
+"/punc ยาย/ncn แห้ง/adj "/punc
+เธอ/pper ผอม/vi มาก/adv เพราะ/conj ไม่/neg ชอบ/vt กิน/vt อาหาร/ncn
+เวลา/ncn อาหาร/ncn เช้า/ncn เธอ/pper ก็/conj กิน/vt แค่/adv สอง/nnum สาม/nnum คำ/cl
+พอ/conj พัก/vi เที่ยง/ncn ก็/conj จะ/prev เอา/vt อาหาร/ncn กลางวัน/ncn ของ/prep ตัว/ncn เอง/prfx ให้/conjncl เพื่อน/ncn กิน/vt
+ไม่/neg ว่า/conjncl แม่/ncn จะ/prev ดุ/vt หรือ/conj พยายาม/vi ขอร้อง/vi อย่างไร/pint
+ยาย/ncn แห้ง/vi ก็/conj ไม่/neg ยอม/vt กิน/vt
+สาย/ncn ลม/ncn ซึ่ง/prel พัด/vi ผ่าน/vt มา/vpost ทุก/adj วัน/cl
+เห็น/vt แม่/ncn ของ/prep เธอ/pper ทุกข์/vi ใจ/ncn ทุก/adj ครั้ง/cl ที่/prel ยาย/ncn แห้ง/vi ไม่/neg กิน/vt ข้าว/ncn ก็/conj รู้สึก/vi สงสาร/vt จึง/conj คิด/vt หา/vt ทาง/ncn ช่วย/vt
+"/punc ถ้า/conj ปล่อย/vt ให้/conjncl แม่/ncn หนู/ncn ยัง/prev ผอม/vi อยู่/vpost อย่าง/advm1 นี้/det วัน/ncn หนึ่ง/adj ก็/conj จะ/prev ต้อง/prev ล้ม/vi ป่วย/vi ลง/vpost แน่/adv ๆ/punc ต้อง/prev ทำ/vt อะไร/indet สัก/advm4 อย่าง/cl แล้ว/vpost เรา/pper "/punc
+สาย/ncn ลม/ncn คิด/vt
+วัน/ncn หนึ่ง/adj ขณะ/ncn ที่/prel ยาย/ncn แห้ง/vi กำลัง/prev เดิน/vi ไป/vpost โรงเรียน/ncn
+ลม/ncn ก็/conj พัด/vi กระโปรง/ncn สี/ncn ชมพู/adj ของ/prep เธอ/pper จน/conj พอง/npn ขึ้น/vpost เหมือน/adv ดอกไม้/ncn
+แล้ว/conj ก็/conj ค่อยๆ/adv
+ลอย/vi ขึ้น/vpost
+เธอ/pper ตกใจ/vi จน/conj กระเป๋า/ncn นักเรียน/ncn หลุดมือ/vi
+พอ/conj ไม่/neg มี/vt น้ำหนัก/ncn ของ/prep หนังสือ/ncn คอย/vt ถ่วง/adv
+ยาย/ncn แห้ง/vi ก็/conj ลอย/vi สูง/adv ขึ้น/vpost
+"/punc ช่วย/vt ด้วย/adv ๆ/punc ใคร/pind ก็ได้/part ช่วย/vt ที/ncn "/punc
+เธอ/pper ตะโกน/vi ขอ/vt ความ/pref1 ช่วยเหลือ/vt
+แต่/conj เธอ/pper อยู่/vi สูง/vi มาก/adv จน/conj ไม่/neg มี/vt ใคร/pind ได้ยิน/vt
+เธอ/pper ลอย/vi ไป/vpost เรื่อยๆ/adv
+อย่าง/advm1 ไร้/vt จุดหมาย/ncn
+แล้ว/conj ใน/prep ที่สุด/adj ลม/ncn ก็/conj อ่อน/adj แรง/ncn ลง/vpost
+ยาย/ncn แห้ง/vi ค่อยๆ/adv
+ลอย/vi ลง/vpost มา/vpost นั่ง/vi บน/prep กิ่ง/ncn แอ/npn ปเปิ้ล/adv
+เธอ/pper พยายาม/vi จะ/prev กระโดด/vi ลง/vpost
+แต่/conj ไม่/neg ว่า/conjncl จะ/prev กระโดด/vi กี่/indet ครั้ง/cl
+ลม/ncn ก็/conj พัด/vi เธอ/pper ลอย/vi กลับ/vi ขึ้น/vpost ไป/vpost ทุกที/adv
+"/punc สงสัย/vt ว่า/conjncl เรา/pper จะ/prev ตัว/ncn เบา/adj จน/conj เกินไป/adv ทำ/vt ยัง/prep ไงดีนะ/npn "/punc
+แล้ว/conj ทันใด/conj นั้น/det
+เธอ/pper ก็/conj เห็น/vt ผล/ncn แอป/ncn เปิ้ลที่กำลัง/vi สุก/vi น่า/adv กิน/vt
+"/punc ถ้า/conj เรา/pper กิน/vt อะไร/pint เข้าไป/conj บ้าง/adv คง/prev ทำให้/vcau ตัว/ncn หนัก/vi ขึ้น/vpost แล้ว/vpost ก็/conj คง/prev จะ/prev ลง/vt ไป/vpost ข้าง/cl ล่าง/adj ได้/vpost "/punc
+คิด/vt ได้/vpost ดังนั้น/conj
+ยาย/ncn แห้ง/vi จึง/conj เด็ด/vt แอป/ncn เปิ้ลมากิน/npn หนึ่ง/adj ลูก/cl
+เป็น/vcs ครั้ง/cl แรก/adj ที่/prel เธอ/pper รู้สึก/vi ถึง/prep ความ/pref1 อร่อย/vi
+พอ/conj กิน/vt เสร็จ/adv ก็/conj ลอง/vt กระโดด/vi อีก/adv ครั้ง/cl
+เธอ/pper ลง/vpost ไป/vpost จน/conj เกือบ/adv จะ/prev ถึง/vt พื้น/ncn อยู่/vpost แล้ว/vpost
+แต่/conj ก็/conj ลอย/vi กลับ/vi ขึ้น/vpost มา/vpost อีก/adv
+"/punc สงสัย/vt จะ/prev กิน/vt น้อย/adv ไป/vpost "/punc
+ว่า/conjncl แล้ว/conj เธอ/pper ก็/conj กิน/vt แอป/ncn เปิ้ลอีก/ncn หนึ่ง/adj ลูก/ncn
+แล้ว/vpost ใน/prep ที่สุด/adv เธอ/pper ก็/conj กลับ/vi ลง/vpost สู่/prep พื้น/ncn ดิน/ncn ได้/vpost สำเร็จ/adv
+หลังจาก/conj เหตุการณ์/ncn นั้น/det
+ยาย/ncn แห้ง/vi ก็/conj เปลี่ยน/vt เป็น/advm2 คน/ncn ใหม่/adj ไม่/neg ต้อง/prev ให้/vcau แม่/ncn บังคับ/vt ให้/conjncl กิน/vt อะไร/indet อีก/adv เลย/part

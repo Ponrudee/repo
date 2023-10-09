@@ -1,0 +1,55 @@
+ต้น/ncn อ้อ/int ผู้/pref2 บอบบาง/vi กับ/prep ต้น/ncn มะกอก/npn
+ณ/prep
+ริม/prep ฝั่ง/ncn แม่น้ำ/ncn
+ต้น/ncn อ้อ/int ผู้/pref2 บอบบาง/vi กำลัง/prev เต้น/vi ระบำ/vi ใน/prep สาย/ncn ลม/ncn อ่อน/adj ๆ/punc
+โอนเอน/vi ไป/vpost ทาง/ncn นี้/det ที/part ทาง/ncn นั้น/det ที/part
+การ/pref1 เคลื่อนไหว/vi ของ/prep ต้น/ncn อ้อ/int ช่าง/ncn สง่า/npn งาม/vi ยิ่ง/adv นัก/part
+แม้แต่/conj แมลงปอ/ncn ยัง/prev อด/vt ที่/prel จะ/prev หยุด/vt มอง/vt ตาม/vt ไม่/neg ได้/vpost
+แมลงปอ/ncn ลอยตัว/vi ไม่/neg ไหวติง/vi อยู่/vpost กลาง/prep อากาศ/ncn ก่อน/adj ที่/prel จะ/prev เคลื่อน/vi ตัว/ncn ไป/vpost ตาม/prep กระแสน้ำ/ncn
+ต้น/ncn มะกอก/npn แข็งแรง/vi ที่/prel ยืน/vi อยู่/vpost อีก/adv ฝั่ง/ncn แม่น้ำ/ncn กลับ/vi ไม่/neg รู้สึก/vi ชื่นชม/vt อะไร/pint นัก/part
+"/punc เจ้า/ntit ช่าง/ncn เป็นต้น/part อ้อ/int ที่/prel อ่อนแอ/vi เสีย/vpost จริง/adv "/punc
+มัน/pper ล้อเลียน/vi
+"/punc ทำไม/pint เจ้า/pper ถึง/conj ปล่อย/vt ให้/conjncl ตัว/ncn เอง/prfx ถูก/psm ผลัก/vt ไป/vpost ผลัก/vt มา/vpost ขนาด/ncn นั้น/det ล่ะ/part แค่/adv สาย/ncn ลม/ncn อ่อน/adj ๆ/punc เจ้า/ntit ก็/conj ล้ม/vi แล้ว/vpost เจ้า/pper จะ/prev ทำ/vt อย่างไร/pint ถ้า/conj มี/vt ลม/ncn พัด/vi มา/vpost แรง/adv ๆ/punc สัก/npn วูบ/vt หนึ่ง/adj !/punc "/punc
+แต่/conj ต้น/ncn อ้อ/int ไม่/neg ได้/prev โต้ตอบ/vi อะไร/pint
+มัน/pper แค่/vi ถอนสายบัว/vi อย่าง/advm1 อ่อนหวาน/adv ให้/conjncl กับ/prep ลม/ncn อ่อน/adj ๆ/punc
+ระลอก/ncn ใหม่/adj ที่/prel พัด/vi ผ่าน/vt ไป/vpost
+พร้อม/vi กับ/prep เต้น/vi ระบำ/vi อย่าง/advm1 เบิกบาน/vi ตลอด/adv ทั้ง/conjc บ่าย/ncn
+หลาย/adj วัน/cl ผ่าน/vt ไป/vpost
+หลังจาก/conj ที่/prel ดอกไม้/ncn ได้/prev พับ/vt กลีบ/ncn เตรียมพร้อม/vi สำหรับ/prep ฤดู/ncn หนาว/adj
+ลม/ncn จาก/prep ทาง/prep เหนือ/ncn ก็/conj เริ่ม/vi พัด/vi แรง/adv
+จน/conj เมฆ/ncn ลอย/vi ครึ้ม/adj ทั่ว/adj ท้อง/ncn ฟ้า/ncn อย่าง/advm1 รวดเร็ว/adv
+ลม/ncn พัด/vi กระหน่ำ/vi เข้า/vi มา/vpost ใน/prep ทุ่ง/ncn หญ้า/ncn ที่/prel ต้น/ncn มะกอก/npn อยู่/vpost
+ลม/ncn พัด/vi กระแทก/vt ต้น/ncn มะกอก/npn และ/conj ทำให้/vcau กิ่ง/ncn ไม้/ncn เสียดสี/vi กัน/prec
+"/punc ยืน/vi ให้/conjncl มั่นคง/vi ต้น/ncn อ้อ/int น้อย/adv !/punc "/punc
+ต้น/ncn มะกอก/npn ร้อง/vi
+"/punc ยืน/vi ให้/conjncl มั่นคง/vi เหมือน/vcs ข้า/pper ไม่/neg อย่าง/ncn นั้น/det จะ/prev ถูก/psm พัด/vi ลอย/vi หาย/vi ไป/vpost "/punc
+แล้ว/conj ต้น/ncn มะกอก/npn ก็/conj เตรียม/vt ยืน/vi ตัว/ncn แข็ง/vi ต้าน/vt ลม/ncn แรง/ncn
+ต้น/ncn อ้อ/int ไม่/neg ได้/prev พูด/vt อะไร/pint
+มัน/pper ปะทะ/vi กับ/prep สาย/ncn ลม/ncn ด้วย/prep การ/pref1 โค้ง/vi ตัวอย่าง/ncn นอบน้อม/vt
+แล้ว/conj ปล่อย/vt ให้/conjncl สาย/ncn ลม/ncn พัด/vi ต้น/ncn อ้อ/int ไป/vpost มา/vpost
+โค้ง/ncn ตัว/ncn ไป/vpost ทาง/ncn นั้น/det ที/part ทาง/ncn นี้/det ที/part
+ต้น/ncn อ้อ/int เต้น/vi ระบำ/vi อย่าง/advm1 งดงาม/adv กว่า/prep ทุก/adj ครั้ง/cl
+ลม/ncn พัด/vi แรง/vi ขึ้น/vpost เรื่อยๆ/adv
+ถลา/vi วูบ/vi มา/vpost ปะทะ/vi กิ่ง/ncn ของ/prep ต้น/ncn มะกอก/npn อย่าง/advm1 รุนแรง/adv
+แต่/conj ต้นไม้/ncn ที่/prel ดื้อ/vi รั้น/adv ก็/conj ปฏิเสธ/vt ที่/prel จะ/prev โค้ง/vi ตัว/ncn
+"/punc ข้า/pper จะ/prev ไม่/neg มี/vt วัน/ncn ยอม/vt เจ้า/ncn หรอก/part !/punc "/punc
+ต้น/ncn มะกอก/npn ตะโกน/vi อย่าง/advm1 ไม่/neg เชื่อฟัง/idm
+แล้ว/conj ตอน/ncn นั้น/det เอง/prfx ก็/conj เกิด/vt เสียง/ncn ดัง/adj เปรี๊ยะ/adv ขึ้น/vpost
+เมื่อ/conj กิ่ง/ncn มะกอก/npn กิ่ง/ncn หนึ่ง/adj หัก/vt ครึ่ง/nnum
+"/punc กล้า/vi ดี/adv ยังไง/pint !/punc "/punc
+มัน/pper ร้อง/vi
+ตัว/ncn สั่น/vt ด้วย/prep ความ/pref1 โกรธ/vt ที่/prel ทำ/vt อะไร/indet ไม่/neg ได้/vpost
+แต่/conj ลม/ncn กลับ/vi เร่ง/vt ความ/pref1 เร็ว/vi พัด/vi ผ่าน/vt ทุ่ง/ncn หญ้า/ncn ไป/vpost
+เมื่อ/conj พายุ/ncn สงบ/vi ลง/vpost
+ต้น/ncn มะกอก/npn ก็/conj นึกถึง/vt ต้น/ncn อ้อ/int น้อย/vi ขึ้น/vpost มาก/adv
+"/punc ถ้า/conj ลม/ncn พัด/vi กิ่ง/ncn ไม้/ncn ที่/prel แข็งแรง/vi ของ/prep ข้า/pper หัก/vt ได้/vpost "/punc
+ต้น/ncn มะกอก/npn พึมพำ/vi
+พลาง/adv มอง/vt ข้าม/vt แม่น้ำ/ncn ไป/vpost
+"/punc ต้น/ncn อ้อ/int ที่/prel อ่อนแอ/vi ต้น/cl นั้น/det คง/prev ตาย/vi ไป/vpost นาน/adv แล้ว/vpost "/punc
+แต่/conj ต้น/ncn มะกอก/npn รู้สึก/vi ประหลาด/vi ใจ/ncn อย่าง/advm1 ยิ่ง/adv ที่/prel พบ/vt ว่า/conjncl
+ต้น/ncn อ้อ/int ยัง/prev อยู่/vi ที่/prel เดิม/adj
+ยิ่ง/adv ไป/vpost กว่า/adv นั้น/det
+ต้น/ncn อ้อ/int ก็/conj ไม่/neg เหน็ดเหนื่อย/vi แต่/conj อย่าง/ncn ใด/indet
+เพราะ/conj มัน/pper โอนอ่อน/vi ตาม/prep แรง/ncn ลม/ncn
+มัน/pper ยืน/vi อยู่/vpost ที่/prel ฝั่ง/ncn ตรง/vi ข้าม/vt
+ยัง/prev คง/prev เต้น/vi ระบำ/vi อย่าง/advm1 ร่าเริง/vi

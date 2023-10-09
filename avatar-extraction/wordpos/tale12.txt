@@ -1,0 +1,190 @@
+กระต่าย/ncn กับ/prep เต่า/npn
+"/punc เร็ว/vi เข้า/vi พ่อ/ncn จอม/ncn เฉื่อย/npn "/punc
+กระต่าย/ncn ล้อ/ncn
+พร้อม/vi กับ/prep กระโดด/vi ไป/vpost มา/vpost อยู่/vpost ตรง/prep หน้า/ncn เต่า/npn
+"/punc นี่/pdem เจ้า/pper ไป/vi ไหน/pint ต่อ/prep ไหน/pint ด้วย/prep การ/pref1 เดิน/vi ช้า/vi อย่าง/cl นี้/det เห/vi รอ/vt "/punc
+"/punc ข้า/pper ไป/vi ที่/prel ข้า/pper ต้องการ/vt ได้/vpost ก็/conj แล้วกัน/adv "/punc
+เต่า/npn ตอบ/vt
+"/punc ที่/prel ที่/prel เจ้า/pper ต้องการ/vt มัน/pper คือ/vcs ที่ไหน/pint กัน/prec ล่ะ/part "/punc
+กระต่าย/ncn ล้อเลียน/npn
+"/punc ประมาณ/adv สอง/nnum นิ้ว/cl จาก/prep จุด/ncn เริ่ม/vi ต้น/cl งั้น/det หรือ/pint "/punc
+"/punc อย่า/neg ไป/vpost ยุ่ง/vi กับ/prep เต่า/npn เลย/part จ๊ะ/aff "/punc
+หอย/ncn ทาก/ncn สวน/ncn ตัว/ncn เล็ก/adj ขัด/vt ขึ้น/vpost
+"/punc เขา/pper น่ะเร็ว/vi พอตัว/vi เลย/part ละ/part "/punc
+"/punc ก็/conj อาจ/prev จะ/prev เป็น/vcs ไป/vpost ได้/vpost ถ้า/conj เจ้า/pper เดิน/vi ด้วย/prep ความ/pref1 เร็ว/vi ระดับ/ncn หอย/ncn ทาก/npn "/punc
+กระต่าย/vi หัวเราะ/vt คิกคัก/ncn
+"/punc แต่/conj ถ้า/conj เกิด/vt เต่า/ncn กับ/prep ข้า/pper แข่ง/vi กัน/prec ละ/adj ก็/conj เจ้า/pper ก็/conj ย่อม/prev รู้/vt ดี/adv ว่า/conjncl ใคร/pind จะ/prev ชนะ/vt "/punc
+"/punc เจ้า/pper ไม่/neg มี/vt วัน/ncn รู้/vt จนกว่า/conj จะ/prev ได้/prev ลอง/vt "/punc
+เต่า/npn พูด/vt
+พร้อม/vi กับ/prep รอย/ncn ยิ้ม/vi บน/prep หน้า/ncn ย่น/vi ๆ/punc
+กระต่าย/ncn ประหลาด/adj ใจ/ncn จน/conj กระโดด/vi พลาด/vi
+"/punc เจ้า/pper เชื่อ/vt ว่า/conjncl จะ/prev มี/vt โอกาส/ncn ชนะ/vt ข้า/pper งั้น/det หรือ/conj "/punc
+กระต่าย/ncn พูด/vt
+แม้แต่/conj หอย/ncn ทาก/ncn ก็/conj ดู/vt ประหลาด/vi ใจ/ncn อยู่/vpost พอ/adv สมควร/adv
+"/punc ทำไม/pint ล่ะ/part "/punc
+เต่า/npn ตอบ/vt อย่าง/advm1 เคร่งขรึม/adv
+"/punc ถ้า/conj อย่าง/ncn นั้น/det ละ/adj ก็/conj "/punc
+กระต่าย/ncn พูด/vt
+"/punc มา/vpost ลอง/vt แข่ง/vi กัน/prec พรุ่งนี้/ncn เช้า/ncn สิบ/nnum โมง/cl ตรง/prep ข้า/pper จะ/prev แข่ง/vi กับ/prep เจ้า/ncn เริ่ม/vi จาก/prep ทุ่ง/ncn ดอกไม้/ncn ไป/vpost จนถึง/prep ยุ้ง/ncn ข้าว/ncn ที่/prel ไร่/ncn ของ/prep ชาว/pref3 นา/ncn "/punc
+"/punc ตรง/vi ลง/vpost ตาม/prep นั้น/det "/punc
+เต่า/npn ตอบ/vt
+"/punc พระเจ้า/ncn ช่วย/vt "/punc
+หอย/ncn ทาก/ncn พูด/vt
+"/punc งาน/ncn นี้/det พลาด/vi ไม่/neg ได้/vpost แล้ว/vpost "/punc
+แล้ว/conj หอย/ncn ทาก/adj ก็/conj ออก/vi เดินทาง/vi ทันที/adv
+เพื่อ/conj มัน/pper จะ/prev ได้/prev ไม่/neg พลาด/vt ตอน/ncn จบ/vi ของ/prep การ/pref1 แข่งขัน/vt
+ข่าว/ncn แพร่/vt สะพัด/vi ไป/vpost อย่าง/advm1 รวดเร็ว/adv ราวกับ/adv ไฟ/ncn ป่า/ncn
+หอย/ncn ทาก/npn เล่า/vt ให้/conjncl หนู/ncn นา/ncn ฟัง/vt
+หนู/ncn นาก/ncn ระ/npn ซิบ/vi บอก/vt กระรอก/ncn
+กระรอก/npn ส่งข่าว/vt ต่อ/adv ไป/vpost ยัง/prep หมาจิ้งจอก/ncn
+นกส/npn กาย/ncn ลา/vt ร์ก/ncn ที่/prel บิน/vi ผ่าน/vt มา/vpost แอบ/vt ได้ยิน/vt กระรอก/ncn กับ/prep หมาจิ้งจอก/ncn คุย/vi กัน/prec
+ก็/conj เลย/vi ร้อง/vi เรื่องราว/ncn เป็น/vcs เพลง/ncn ให้/prep สัตว์/ncn อื่น/indet ได้ยิน/vt ทั่ว/adv กัน/prec
+พอ/conj ถึง/prep ตอน/ncn เช้า/ncn เหล่า/nct สัตว์/ncn จาก/prep ที่/ncn ต่างๆ/adj
+พา/vt กัน/prec เดินทาง/vi มา/vpost ชม/vt การ/pref1 แข่งขัน/vt ใน/prep ครั้ง/cl นี้/det อย่าง/advm1 พร้อม/adv เพียง/adv
+อีก/adj ห้า/nnum นาที/cl จะ/prev ถึง/vt กำหนดการ/ncn แข่งขัน/vt
+กระต่าย/ncn กับ/prep เต่า/npn กำลัง/prev ยืด/vt เส้น/ncn ยืด/vi สาย/ncn อยู่/vpost ที่/prep จุด/ncn เริ่ม/vi ต้น/ncn
+ส่วน/conj บรรดา/nct ผู้/pref2 ชม/vt ก็/conj ยืน/vi เรียงราย/vi ไป/vpost ตาม/prep เส้นทาง/ncn ที่/prel ใช้/vt แข่งขัน/vt
+กระต่าย/vi กระโดด/vi กาง/vt แขน/ncn ยี่สิบ/nnum นาที/cl
+และ/conj กระโดด/vi สูง/adv อีก/adv สิบ/nnum สอง/nnum ที/cl เพื่อ/conj อบอุ่น/vi ร่างกาย/ncn
+เต่า/npn เพียง/adv แต่/conj ยืด/vt ขา/ncn ย่น/vi ๆ/punc
+ของ/prep มัน/pper ที่/prel ละ/adj ข้าง/cl
+พลาง/adv จ้อง/vt ไป/vpost ที่/prel ลู่/vi วิ่ง/vi ตรง/prep หน้า/ncn อย่าง/advm1 มุ่ง/vi มั่น/adv
+"/punc เข้า/vi ประจำ/adv ที่/prel ได้/prev "/punc
+ไก่ฟ้า/ncn ซึ่ง/prel รับหน้า/vi ที่/prel เป็น/vcs กรรมการ/ncn ใน/prep การ/pref1 แข่งขัน/vt ครั้ง/cl นี้/det ร้อง/vi บอก/vt
+กระต่าย/ncn กับ/prep เต่า/npn หมอบ/vi ลง/vpost
+ผู้/pref2 ชม/vt เงียบกริบ/adv
+"/punc ระวัง/vi "/punc
+ไก่ฟ้า/ncn ส่ง/vt สัญญาณ/ncn
+ผู้/pref2 เห็น/vt เหตุการณ์/ncn ต่าง/adj ก็/conj ชะเง้อ/vt คอ/ncn
+"/punc ไป/vi !/punc "/punc
+ไก่ฟ้า/ncn ร้อง/vi เสียง/ncn สูง/adj
+กระต่าย/vi พุ่ง/vi ปราด/vi ออก/vpost จาก/prep จุด/ncn เริ่ม/vi ต้น/ncn
+ภายใน/prep เวลา/ncn ไม่/neg กี่/indet วินาที/cl ก็/conj หาย/vi ลับ/vi ไป/vpost จาก/prep สายตา/ncn
+เหลือ/vi เพียง/adv ฝุ่น/ncn ตลบ/adj อบอวล/adj
+เมื่อ/conj ฝุ่น/ncn ค่อย/prev จาก/vt ลง/vpost
+จึง/conj เห็น/vt เต่า/ncn คลาน/vi ต้วมเตี้ยม/adv
+ต้วมเตี้ยม/vi ไป/vpost ตาม/prep ลู่/ncn วิ่ง/vi
+ผู้/pref2 ชม/vt ร้อง/vi ตะโกน/vi ให้/prep กำลังใจ/ncn เต่า/npn ที่/prel คลาน/vi ช้า/adv มาก/adv
+หลาย/adj ตัว/ncn เสียง/ncn แหบ/vt เสียง/ncn แห้ง/vi ไป/vpost แล้ว/vpost
+กว่า/prep เต่า/npn จะ/prev ผ่าน/vt หน้า/ncn พวก/nct มัน/pper ไป/vpost ได้/vpost
+แต่/conj เต่า/npn ยัง/prev คง/prev รักษา/vt ฝีเท้า/ncn อัน/prel เชื่องช้า/vi และ/conj มั่นคง/vi ของ/prep มัน/pper ต่อ/adv ไป/vpost
+ห่าง/vi ไกล/adv ออก/vpost ไป/vpost ข้าง/cl หน้า/adj
+กระต่าย/ncn ยัง/prev รักษา/vt ระดับ/ncn ความ/pref1 เร็ว/vi อยู่/vpost
+หู/ncn ยาว/adj ทั้ง/adj สอง/nnum ข้าง/cl ของ/prep มัน/pper ลู่/vi ไป/vpost ด้าน/ncn หลัง/adj เหมือน/vcs ผืน/ncn ผ้า/ncn
+เมื่อ/conj มัน/pper เอี้ยว/vt ตัว/ncn กลับ/vi มา/vpost มอง/vt ด้วย/adv หลัง/adv
+จึง/conj ได้/prev รู้/vt ว่า/conjncl มัน/pper วิ่ง/vi ทิ้ง/vt ห่าง/vi จาก/prep เต่า/npn มา/vpost ไกล/adv มาก/adv แล้ว/vpost
+กระต่าย/ncn มั่นใจ/vt กับ/prep ชัย/ncn ชนะ/vt ครั้ง/cl นี้/det มาก/adv
+มัน/pper จึง/conj วิ่ง/vi ช้า/vi ลง/vpost เพื่อ/prep ทักทาย/ncn กอง/nct เชียร์/vt
+มัน/pper โบกมือ/vi ให้/conjncl พวก/nct กบ/ncn ที่/prel ปรบ/ncn มือ/ncn ให้/prep กำลังใจ/ncn และ/conj หมาจิ้งจอก/ncn ที่/prel กำลัง/prev ส่งเสียง/vi ร้อง/vi ดัง/adv ๆ/punc
+มัน/pper ส่ง/vt จูบ/ncn ให้/conjncl ลูกเสือ/vt ดาว/ncn กับ/prep ลูก/ncn หมี/ncn
+และ/conj หยุด/vt คุย/vi กับ/prep หมี/ncn ขั้วโลก/npn ที่/prel เดินทาง/vi มา/vpost จาก/prep ขั้วโลก/adj เหนือ/ncn เพื่อ/conj ชม/vt การ/pref1 แข่งขัน/vt ครั้ง/cl นี้/det ด้วย/adv
+ต่อ/vt มา/vpost ไม่/neg นาน/adv
+กระต่าย/vi ก็/conj วิ่ง/vi ทิ้ง/vt ห่าง/vi ฝูง/nct สัตว์/ncn ไป/vpost ไกล/adv อีก/adv ครั้ง/cl
+พอ/conj เสียง/ncn เชียร์/vt เงียบ/vi หาย/vi ไป/vpost
+กระต่าย/vt ก็ได้/part ยิน/vi เสียง/ncn ผึ้ง/ncn ร้อง/vi หึ่งๆ/adv
+และ/conj เสียง/ncn นก/ncn ร้อง/vi จิ๊บ/adv ๆ/punc
+อยู่/vi บน/prep ต้นไม้/ncn
+วัน/ncn นี้/det ท้อง/ncn ฟ้า/ncn แจ่มใส/adj
+เมื่อ/conj กระต่าย/vi วิ่ง/vi ขึ้น/vpost ไป/vpost ถึง/prep เนิน/ncn เขา/pper ลูก/ncn หนึ่ง/adj
+มัน/pper ก็/conj เริ่ม/vi ง่วง/vi ขึ้น/vpost มา/vpost
+"/punc ข้า/pper มี/vt เวลา/ncn อีก/adv เยอะแยะ/adv "/punc
+มัน/pper คิด/vt
+"/punc ข้า/pper น่า/prev จะ/prev หยุด/vi พักผ่อน/vi ที่/prel นี่/pdem สัก/vt หน่อย/adv "/punc
+กระต่าย/vi กระโดด/vi ไป/vpost ที่/prep ต้นไม้/ncn ข้าง/ncn ทาง/prep แล้ว/vpost ล้ม/vt ตัว/ncn นอน/vi ใต้/prep ร่ม/ncn ไม้/ncn
+"/punc ข้า/pper แค่/adv จะ/prev พัก/vi สายตา/ncn "/punc
+กระต่าย/ncn พึมพำ/ncn
+"/punc สัก/advm4 แป๊บ/cl หนึ่ง/adj หรือ/conj อาจ/prev จะ/prev นาน/vi หน่อย/adv ตื่น/vi มา/vpost จะ/prev ได้/prev สดชื่น/vi เหมือน/vcs ดอก/ncn เด/ncn ซี/npn ../punc "/punc
+แต่/conj กระต่าย/vi กลับ/vi หลับ/vi สนิท/vi ไป/vpost อย่าง/advm1 รวดเร็ว/adv
+ขณะ/ncn เดียวกัน/adj
+เต่า/npn ยัง/prev คง/prev คลาน/vi ด้วย/prep ฝีเท้า/ncn อัน/prel เชื่องช้า/vi เหมือน/adv เคย/prev
+เหล่ากอง/npn เชียร์/vt เต่า/npn เริ่ม/vi เดิน/vi ตาม/adv ไป/vpost ข้างๆ/prep
+ลู่/vi แข่ง/vi
+พวก/nct มัน/pper ผลัด/vt กัน/prec ตะโกน/vt ถ้อยคำ/ncn ให้/prep กำลังใจ/ncn
+เต่า/npn คลาน/vi ช้า/adv มาก/adv
+กระทั่ง/conj ความ/pref1 กระตือรือร้น/vi ของ/prep สัตว์/ncn ต่างๆ/adj
+เริ่ม/vi ลด/vt น้อย/adv ลง/vpost
+พวก/nct มัน/pper ส่ง/vt สายตา/ncn แสดง/vt ความ/pref1 กังขา/vi ให้/conjncl แก่/vi กัน/prec อยู่/vpost ด้าน/ncn หลังเต่า/npn
+พอ/conj ผ่าน/vt ไป/vpost ครู่/ncn หนึ่ง/adj
+หมาจิ้งจอก/ncn จึง/conj พูด/vt ใน/prep สิ่ง/ncn ที่/prel สัตว์/ncn ทั้งหลาย/adj กำลัง/prev คิด/vt อยู่/vpost
+"/punc ป่านนี้/ncn กระต่าย/npn ต้อง/prev ไป/vi ถึง/prep เส้น/ncn ชัย/ncn แล้ว/vpost แน่/adv เลย/part "/punc
+แต่/conj เต่า/npn ไม่/neg สนใจ/vt
+มัน/pper ยัง/prev คง/prev มุ่ง/vi มั่น/adv และ/conj พยายาม/vi คลาน/vi ต่อ/adv ไป/vpost
+เต่า/ncn ปีน/npn ขึ้น/vpost เนิน/ncn เขา/pper และ/conj ค่อยๆ/adv
+คลาน/vi ผ่าน/vt หน้า/ncn ต้นไม้/ncn ไป/vpost ช้า/adv ๆ/punc
+"/punc ไม่/neg อยาก/prev เชื่อ/vt เลย/part "/punc
+หมาจิ้งจอก/npn พูด/vt
+เมื่อ/conj มัน/pper สังเกต/vt เห็น/vt กระต่าย/ncn งีบ/vt อยู่/vpost ใต้/prep ร่ม/ncn ไม้/ncn
+"/punc เจ้า/pper อาจ/prev จะ/prev มี/vt โอกาส/ncn ก็ได้/part นะ/part เพื่อน/ncn ยาก/adv "/punc
+เหล่ากอง/npn เชียร์/vt เต่า/npn ส่งเสียง/vi เชียร์/vt สนั่น/npn หวั่นไหว/vi
+เมื่อ/conj เต่า/npn พยายาม/vi ไต่/vi ขึ้น/vpost ไป/vpost ยัง/prep ยอด/ncn เนิน/ncn เขา/pper และ/conj ลง/vt มา/vpost อีก/adv ด้าน/ncn หนึ่ง/adj
+เสียง/ncn เชียร์/vt ลอย/vi เข้าหู/vi กระต่าย/vi ที่/prel กำลัง/prev หลับ/vi อยู่/vpost
+และ/conj มัน/pper ฝัน/vi ว่า/conjncl
+เสียง/ncn เชียร์/vt เหล่า/nct นั้น/det เป็น/vcs เสียง/ncn ร้องของ/ncn ฝูง/nct สัตว์/ncn ตอน/ncn ที่/prel กระต่าย/vi วิ่ง/vi เข้า/vi เส้น/ncn ชัย/ncn
+หนวด/ncn ของ/prep มัน/pper กระตุก/vt ด้วย/prep ความ/pref1 ภาคภูมิ/adv ใจ/ncn เมื่อ/prep มัน/pper รับ/vt ถ้วยรางวัล/ncn ขนาด/ncn ใหญ่/adj สี/ncn ทอง/ncn อร่าม/vi จาก/prep เสือ/ncn ชีตาร์/npn
+และ/conj เสือ/ncn ชี/npn ตาร์ยัง/vi เป็น/advm2 ผู้/pref2 ประกาศ/vt ว่า/conjncl กระต่าย/npn เป็น/vcs นัก/pref2 วิ่ง/vi ที่/prel วิ่ง/vi เร็ว/adv ที่สุด/adv ใน/prep โลก/ncn อีก/adv ด้วย/adv
+ถึง/prep ตอน/ncn นี้/det
+เต่า/npn เริ่ม/vi เห็น/vt เส้น/ncn ชัย/ncn ปรากฏ/vi สู่/prep สายตา/ncn แล้ว/vpost
+มัน/pper ก้าว/vi ช้า/adv ๆ/punc
+ไป/vpost ข้าง/ncn หน้า/adj อย่าง/advm1 มั่นคง/adv
+โดย/conj ไม่/neg เอี้ยว/vt ตัว/ncn มา/vpost มอง/vt ข้าง/ncn หลัง/adj หรือ/conj แม้แต่/conj จะ/prev หัน/vt ไป/vpost มอง/vt ผู้/pref2 ที่/prel คอย/vt ให้/conjncl กำลังใจ/ncn
+และ/conj ตอน/ncn นี้/det บรรดาก/ncn อง/npn เชียร์/vt เต่า/npn ก็/conj ร้อง/vi ตะโกน/vi ด้วย/prep ความ/pref1 ตื่นเต้น/vi
+หอย/ncn ทาก/vi น้อย/adv แทบ/adv จะ/prev ควบคุม/vt ตัว/ncn เอง/prfx ไว้/vpost ไม่/neg อยู่/vpost
+"/punc เร็ว/vi เข้า/vi เต่า/npn "/punc
+มัน/pper ร้อง/vi
+ขณะ/ncn ที่/prel ผลุบๆ/adj
+โผล่ๆ/conj
+หัว/ncn อยู่/vi ตรง/prep เส้น/ncn ชัย/npn
+"/punc เจ้า/ntit ทำได้/npn "/punc
+เมื่อ/conj เต่า/npn เข้า/vi มา/vpost ใกล้/prep เส้น/ncn ชัย/ncn ยิ่ง/adv ขึ้น/vpost
+เสียง/ncn ร้องของ/ncn เหล่า/nct สัตว์/ncn ก็/conj ดัง/vi ขึ้น/vpost
+ดัง/conj ขึ้น/vpost เรื่อยๆ/adv
+หู/ncn ของ/prep กระต่าย/ncn ชัน/adv ขึ้น/vpost เล็กน้อย/adv ใน/prep ขณะ/ncn ที่/prel มัน/pper หลับ/vi
+ใน/prep ความ/pref1 ฝัน/vi ของ/prep มัน/pper ถ้วย/cl ทอง/adj หาย/vi วับ/vi ไป/vpost ใน/prep อากาศ/ncn
+และ/conj เสือ/ncn ชี/npn ตาร์ก็/part ร้อง/vi บอก/vt ให้/conjncl มัน/pper เร่ง/vt ฝีเท้า/ncn
+ทันใด/conj นั้น/det
+กระต่าย/vi ตกใจ/vi ตื่น/vi ขึ้น/vpost
+"/punc ถ้วย/ncn ทอง/ncn ของ/prep ข้า/pper หาย/vi ไป/vpost ไหน/pint "/punc
+มัน/pper พึมพำ/vi
+หรี่/vt ตา/ncn เมื่อ/conj ปะทะ/vi แสง/ncn แดด/ncn จ้า/adv
+แล้ว/conj นึก/vt ขึ้น/vpost มา/vpost ได้/vpost
+"/punc โอ้/pper ไม่/neg ใช่/vt !/punc "/punc
+มัน/pper ร้อง/vi
+"/punc ข้า/pper ยัง/prev ไม่/neg ได้/prev วิ่ง/vi เข้า/vi เส้น/ncn ชัย/ncn นี่/det "/punc
+"/punc พระเจ้า/ncn ช่วย/vt "/punc
+หมาจิ้งจอก/npn แสดง/vt ความ/pref1 คิดเห็น/vi
+"/punc นั่น/pdem มัน/pper อะไร/indet กัน/prec "/punc
+สัตว์/ncn ทั้งหมด/adj ต่าง/adj ต้อง/prev ตัว/ncn อะไร/indet บาง/adj อย่าง/cl ที่/prel กำลัง/prev วิ่ง/vi ตรง/vi มา/vpost หา/vt พวก/nct มัน/pper ด้วย/prep ความ/pref1 ประหลาด/vi ใจ/ncn
+มัน/pper วิ่ง/vi มา/vpost ด้วย/prep ความ/pref1 เร็ว/vi สูง/adv
+จน/conj แทบ/prev มอง/vt ไม่/neg เห็น/vt ว่าเป็น/ncn ตัว/ncn อะไร/indet
+เจ้าตัว/pper นั้น/det คือ/vcs กระต่าย/ncn นั้น/det เอง/prfx
+มัน/pper วิ่ง/vi มา/vpost ใกล้/prep เต่า/ncn ด้วย/prep ความ/pref1 เร็ว/vi ที่/prel เหลือเชื่อ/adv เป็น/advm2 ที่สุด/adv
+ฝูง/nct ชน/ncn กลั้น/vt หายใจ/vi เมื่อ/prep กระต่าย/ncn พุ่ง/vi มา/vpost ตาม/prep ทาง/ncn เหมือนกับ/vcs จรวด/ncn
+"/punc เร็ว/adv เข้า/vt จ๊ะ/aff เต่า/npn "/punc
+หอย/ncn ทาก/vi น้อย/adv ร้อง/vi
+"/punc เร็ว/adv เข้า/vpost "/punc
+"/punc ข้า/pper ปล่อย/vt ให้/conjncl เต่า/npn ชนะ/vt ไม่/neg ได้/vpost "/punc
+กระต่าย/ncn คิด/vt
+"/punc ผู้/pref2 ชนะ/vt ต้อง/prev เป็น/vcs ข้า/pper สิ/part "/punc
+แล้ว/conj มัน/pper ก็/conj เร่ง/vt ความ/pref1 เร็ว/vi จน/conj สุดกำลัง/adv
+เมื่อ/conj กระต่าย/vi เข้า/vi มา/vpost ใกล้/prep เส้น/ncn ชัย/ncn ใบ/ncn หู/ncn ของ/prep มัน/pper ได้ยิน/vt เสียง/ncn หัวใจ/ncn เต้น/vi ถี่/adv รัว/vt
+อีก/adv แค่/adv ไม่/neg กี่/indet ก้าว/vi
+ชัย/ncn ชนะ/vt ก็/conj จะ/prev เป็น/vcs ของ/prep มัน/pper แล้ว/vpost
+แต่/conj เต่า/npn ก็/conj กำลัง/prev จะ/prev ยก/vt เท้า/ncn เหยียบ/vt เส้น/ncn ชัย/ncn
+กระต่าย/ncn พุ่ง/vi ตัว/ncn ไป/vpost ที่/prep เส้น/ncn ชัย/ncn อย่าง/advm1 สิ้น/adv หวัง/vi
+แต่/conj ก็/conj สาย/ncn ไป/vpost เสีย/vpost แล้ว/vpost
+เมื่อ/conj เต่า/ncn ที่/prel คลาน/vi ช้า/adv มาก/adv ๆ/punc
+ก้าว/vi ผ่าน/vt เส้น/ncn ชัย/ncn ไป/vpost
+เสียง/ncn โห่/vi ร้อง/vi ดัง/conj สนั่น/npn
+ฝูง/nct ชน/ncn ยก/vt ตัว/ncn เต่า/npn ขึ้น/vpost หลัง/adv
+ท่ามกลาง/ncn เสียง/ncn ปรบ/ncn มือ/ncn ดัง/adj กึกก้อง/adv
+ใบหน้า/ncn เต่า/npn ยับ/adv ย่น/vi ด้วย/prep รอย/ncn ยิ้ม/vi กว้าง/vi แห่ง/prep ชัย/ncn ชนะ/vt
+ขณะ/ncn เดียวกัน/adj
+กระต่าย/ncn พุ่ง/vi ตัว/ncn ไป/vpost บน/prep ฟ้า/ncn แล้ว/vpost หล่น/vi ลง/vpost มา/vpost คลุก/vt ฝุ่น/ncn ดัง/adj ตุ้บ/adv
+"/punc ข้า/pper คง/prev ขายหน้า/vi ไป/vpost ตลอด/adv ชีวิต/ncn "/punc
+มัน/pper คราง/vi
+"/punc เห็น/vt ไหม/pint "/punc
+เสียง/ncn เล็ก/adj ๆ/punc
+เสียง/ncn หนึ่ง/adj พูด/vt ขึ้น/vpost
+เป็น/vcs เสียง/ncn ของ/prep หอย/ncn ทาก/adj สวน/ncn นั้น/det เอง/prfx
+มัน/pper ภูมิใจ/vi มาก/adv
+"/punc ช้า/adv ๆ/punc และ/conj มั่นคง/vi ก็/conj ชนะ/vt ได้/vpost "/punc

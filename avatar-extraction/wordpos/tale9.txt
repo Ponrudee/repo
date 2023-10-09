@@ -1,0 +1,54 @@
+ต้นไม้/ncn แปลง/vt ร่าง/ncn
+เช้า/ncn วัน/ncn หนึ่ง/adj
+ณ/prep
+ป่า/ncn ที่/prel เคย/prev เงียบ/vi สงบ/vi
+คน/ncn กลุ่ม/nct หนึ่ง/adj กำลัง/prev ส่งเสียง/vi อึกทึก/adv
+พวก/nct เขา/pper ดู/vt แผนที่/ncn
+วัด/ncn ระยะ/ncn และ/conj ป้าย/ncn เครื่องหมาย/ncn สี/ncn แดง/adj บน/prep ต้นไม้/ncn
+พวก/nct ต้นไม้/ncn พา/vt กัน/prec ตกใจ/vi
+พวก/nct มัน/pper ยืน/vi นิ่ง/vi ไม่/neg กล้า/vi กระดุกกระดิก/ncn
+เมื่อ/conj คน/ncn พวก/nct นั้น/det จาก/prep ไป/vpost
+ลม/ncn วูบ/vt ใหญ่/adj ก็/conj พัด/vi มา/vpost
+เป็น/vcs ลม/ncn ของ/prep ต้นไม้/ncn ทั้งหลาย/adj ที่/prel ถอน/vt หายใจ/vi เมื่อ/prep อยู่/vpost ตามลำพัง/adv
+ต้นไม้/ncn ต่าง/adj มอง/vt ดู/vt กันและกัน/prec
+ต้น/ncn เกาลัด/ncn ซึ่ง/prel แก่/vi ที่สุด/adv ใน/prep ป่า/ncn และ/conj เป็น/vcs ผู้/pref2 ที่/prel ต้นไม้/ncn ทุก/adj ต้น/adj ให้/prep ความ/pref1 นับถือ/vt พูด/vt ขึ้น/vpost ว่า/conjncl
+"/punc นี่/pdem เป็น/vcs เครื่องหมาย/ncn ที่/prel คน/ncn ตัด/vt ต้นไม้/ncn เขา/pper ใช้/vt ทุก/adj ปี/cl เขา/pper จะ/prev เลือก/vt ต้นไม้/ncn ใน/prep ป่า/ncn ของ/prep พวก/nct เขา/pper ไป/vpost เข้า/vi โรง/ncn เลื่อย/ncn "/punc
+"/punc ฉัน/pper ไม่/neg อยาก/vt ไป/vpost ฉัน/pper ยัง/prev เด็ก/ncn อยู่/vpost เลย/part ไม่/neg ใช่/vt ต้น/ncn ใหญ่/adj อย่าง/prep ลุง/ncn สัก/npn หน่อย/adv "/punc
+ต้น/ncn สน/ncn ต้น/ncn หนึ่ง/adj พูด/vt
+ต้นไม้/ncn ทุก/adj ต้น/ncn เริ่ม/vi เข้าใจ/vt แล้ว/vpost ว่า/conjncl อะไร/pint จะ/prev เกิด/vt ขึ้น/vpost แก่/prep ต้นไม้/ncn ที่/prel ถูก/psm ป้ายสี/ncn แดง/adj
+ต้น/ncn เกาลัด/ncn ใหญ่/adj พูด/vt ขึ้น/vpost ว่า/conjncl
+"/punc อย่า/neg เศร้า/vt ไป/vpost เลย/part ต้น/adj สน/ncn น้อย/adv เรา/pper กำลัง/prev จะ/prev เจอ/vt เรื่อง/ncn ใหม่/adj ๆ/punc ที่/prel น่า/prev ตื่นเต้น/vi ใน/prep ชีวิต/ncn นะ/part "/punc
+"/punc ฉัน/pper ไม่/neg เห็น/vt อยาก/prev จะ/prev เจอ/vt เลย/vi นี่/det ฉัน/pper อยาก/vt อยู่/vpost ใน/prep ป่า/ncn นี้/det นี่/det เป็นบ้า/vi นข/adv อง/ncn เรา/pper "/punc
+"/punc ฉัน/pper เข้าใจ/vt เธอ/pper แต่/conj สิ่ง/ncn ใหม่/adj ๆ/punc กำลัง/prev รอ/vt เธอ/pper อยู่/vpost พวก/nct ฉัน/pper ก็/conj ต้อง/prev ไป/vi เหมือน/adv กัน/prec เธอ/pper ต้อง/prev ทำใจ/vi ยอม/vt รับ/vt สภาพ/ncn ที่/prel จะ/prev เกิด/vt ขึ้น/vpost "/punc
+พอ/conj เช้าตรู่/ncn
+คน/ncn งาน/ncn ก็/conj กลับ/vi มา/vpost เอา/vt เพื่อน/ncn ๆ/punc ของ/prep มัน/pper ไป/vpost
+ลำ/ncn ต้น/adj และ/conj กิ่ง/ncn ไม้/ncn ถูก/psm บรรทุก/vt ไป/vpost ใน/prep รถ/ncn ต้น/adj เกาลัด/ncn ใหญ่/adj และ/conj ต้น/adj สน/ncn น้อย/vi ได้/vpost พบ/vt กัน/prec อีก/adj ครั้ง/cl ที่/prel ประตู/ncn โรง/ncn เลื่อย/ncn
+"/punc เป็นไง/pint หนู/pper น้อย/vi เรา/pper กำลัง/prev เดินทาง/vi ผจญ/vt ภัย/ncn ครั้ง/cl ใหญ่/adj กัน/prec แล้ว/vpost ไม่/neg ต้อง/prev กลัว/vt ฉัน/pper อยู่/vpost ใกล้/adv ๆ/punc เธอ/pper นี่เอง/part "/punc
+สน/npn น้อย/vi กลั้น/vt น้ำตา/ncn ไว้/vpost เพราะ/conj มัน/pper ไม่/neg มี/vt กิ่ง/ncn ใบ/ncn จะ/prev ซ่อน/vt น้ำตา/ncn อีก/adv แล้ว/vpost
+ทั้ง/adj สอง/nnum ถูก/psm ยก/vt ไป/vpost ใส่/vt ใน/prep เครื่องจักร/ncn พร้อม/vi กับ/prep ซุง/ncn ต้น/ncn อื่น/indet ซึ่ง/prel ถูก/psm สับ/vt เป็น/advm2 ชิ้น/cl เล็ก/adj ชิ้น/cl น้อย/adv
+"/punc ลุง/ncn เกาลัด/vt ลุง/ncn ยัง/prev อยู่/vi หรือ/conj เปล่า/adv "/punc
+"/punc อยู่/vi นี่/det ฉัน/pper จะ/prev เจอ/vt กับ/prep เธอ/pper ใน/prep ถัง/ncn "/punc
+เสียง/ncn สั่น/vt ๆ/punc ตอบ/vt มา/vpost
+"/punc ที่/prel นี่/pdem ดี/adv จัง/adv "/punc
+ต้น/ncn สน/npn กล่าว/vt
+"/punc ลุง/ncn ว่า/conjncl เขา/pper จะ/prev เก็บ/vt เรา/pper ไว้/vpost ใน/prep ถัง/ncn นี้/det นาน/vi ไหม/pint มัน/pper สบาย/vi ดี/adv นะ/part น้ำ/ncn ก็/conj อุ่น/vi เหมือน/vcs ฤดู/ncn ร้อน/adj ใน/prep ป่า/ncn ของ/prep เรา/pper เลย/part "/punc
+หลาย/adj วัน/cl ผ่าน/vt ไป/vpost
+จนกระทั่ง/conj เช้า/ncn วัน/ncn หนึ่ง/adj
+ต้น/ncn สน/npn น้อย/vi ก็/conj ร้อง/vi ขึ้น/vpost
+"/punc ลุง/ncn เกาลัด/vi ฉัน/pper ถูก/psm ใส่/vt กาว/ncn แล้ว/vpost เส้นใย/ncn ทุก/adj เส้น/ncn ใน/prep ตัว/ncn ฉัน/pper ติด/vt กัน/prec ไป/vpost หมด/adv "/punc
+ต้นไม้/ncn ชรา/npn หัวเราะ/vt
+"/punc ถูก/vi แล้ว/vpost เด็ก/ncn น้อย/adj เธอ/pper กำลัง/prev จะ/prev กลาย/vi เป็น/advm2 สิ่ง/ncn ใหม่/adj เธอ/pper เคย/prev เป็นต้น/part ไม้/ncn แต่/conj ตอน/ncn นี้/det เป็น/vcs กระดาษ/ncn แล้ว/vpost "/punc
+"/punc วิเศษ/vi เลย/part แล้ว/vpost ทีนี้/adv ฉัน/pper จะ/prev ไป/vt ที่ไหน/indet ต่อ/adv อีก/adv ล่ะ/part "/punc
+"/punc ถึง/prep เวลา/ncn ต้อง/prev ลา/vt กัน/prec แล้ว/vpost เรา/pper ต้อง/prev แยก/vt ทาง/ncn กัน/prec ตรง/adv นี้/det เธอ/pper จะ/prev ไป/vpost กับ/prep กระดาษ/ncn อื่นๆ/indet อีก/adv จำนวน/ncn มาก/adv จะ/prev เข้าไป/vi ใน/prep เครื่องจักร/ncn เพื่อ/conj ทำให้/vcau เป็น/vcs หนังสือพิมพ์/ncn หนังสือ/ncn เล่ม/ncn หรือ/conj กระดาษ/ncn ห่อ/vt ของ/prep หรือ/conj มิ/neg ฉะนั้น/conj ก็/conj เป็น/vcs กระดาษ/ncn แข็ง/adj "/punc
+"/punc ถ้า/conj ฉัน/pper อยาก/prev เป็น/vcs หนังสือ/ncn เรียน/vt หรือ/conj สมุด/ncn ล่ะ/part ฉัน/pper ต้อง/prev ทำ/vt อย่างไร/pint "/punc
+"/punc ก็/conj ต้อง/prev ฟอก/vt ตัว/ncn ให้/conjncl ขาว/adj มาก/adv ๆ/punc "/punc
+ดังนั้น/conj
+ต้น/ncn สน/npn น้อย/vi จึง/conj เปลี่ยน/vt ไป/vpost เป็น/advm2 อุปกรณ์/ncn การ/pref1 เรียน/vt ของ/prep เด็ด/adj ชาย/ncn เล็ก/adj ๆ/punc คน/cl หนึ่ง/adj
+ซึ่ง/prel ทำ/vt หมึก/ncn หยด/ncn เป็น/vcs ดวง/ncn โต/vi ลง/vpost ไป/vpost บน/prep แถว/ncn ตัว/ncn อักษร/ncn
+ก/nlab -/punc ไก่/ncn
+ข/nlab -/punc ไข่/ncn
+อัน/prel สวย/vi งาม/vi
+วัน/ncn หนึ่ง/adj
+เด็กชายก็/part ลอก/vi บท/ncn กวี/ncn เกี่ยว/vi กับ/prep ป่า/ncn ลง/vpost ไป/vpost
+ซึ่ง/prel ทำให้/vcau สมุด/ncn เล่ม/cl น้อย/adj ปลื้ม/vt ใจมาก/idm
+"/punc เด็ก/ncn น้อย/adj จง/prev จำ/vt รำลึก/vi ไว้/vpost กระดาษ/ncn ขาว/adj ที่/prel ใช้/vt อยู่/vpost นั่น/det หนา/vi ต้น/adj สน/ncn น้อย/adj และ/conj เพื่อน/ncn เดินทาง/vi มา/vpost จาก/prep ใน/prep ป่า/ncn ให้/conjncl พวก/nct เรา/pper ได้/prev ใช้/vt งาน/ncn จง/prev ระวัง/vi ชั่งใจ/vi ใช้/vt กระดาษ/ncn เพราะ/conj อาจ/prev ประหยัด/vi ได้/vpost มหาศาล/adv ถ้า/conj กระดาษ/ncn แผ่น/ncn ใด/indet ไม่/neg ใช้/vt การ/pref1 ก็/conj อย่า/neg พาล/vt แช/ncn เชือน/vi ทิ้ง/vt เกลื่อน/adv ไป/vpost กระดาษ/ncn เก่า/adj เหล่า/cl นี้/det ยัง/prev มี/vt ค่า/ncn หาก/conj นำ/vt มา/vpost ประดิษฐ์/vt ผลิต/vt ใหม่/adv เป็น/vcs หนทาง/ncn ช่วย/vt รักษา/vt ป่า/ncn วิไล/npn ให้/conjncl คง/vi ไว้/vpost ถึง/prep วัน/ncn หน้า/adj อย่า/neg ลืม/vt เอย/adv "/punc

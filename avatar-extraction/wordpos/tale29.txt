@@ -1,0 +1,152 @@
+ห่าน/ncn ออก/vt ไข่/ncn เป็น/advm2 ทองคำ/ncn
+ชาว/pref3 นา/ncn กับ/prep ภรรยา/ncn อาศัย/vi อยู่/vpost บน/prep ภูเขา/ncn สูง/adj
+พวก/nct เขา/pper มี/vt ฐานะ/ncn ยากจน/adj
+ไม่/neg มี/vt เงิน/ncn ติดตัว/adv
+แต่/conj ยัง/prev โชค/ncn ดี/adj ที่/prel มี/vt ทรัพย์สิน/ncn อย่าง/advm1 อื่น/indet อยู่/vpost บ้าง/adv
+พวก/nct เขา/pper มี/vt กระท่อม/ncn หลัง/adv งาม/vi
+มี/vt น้ำ/ncn สะอาด/adj ใน/prep ลำธาร/ncn ไว้/vpost ดื่ม/vt กิน/vt
+มี/vt ไก่/ncn ใน/prep คอก/ncn
+และ/conj มี/vt แพะ/ncn ไว้/vpost คอย/vt ให้/conjncl นม/ncn
+ใน/prep ฤดู/ncn ร้อน/adj
+ต้น/ncn มะกอก/npn ก็/conj จะ/prev ออก/vt ผล/ncn ดก/ncn
+นำ/vt มาส/ncn กัด/vt เป็นน้ำ/ncn มัน/pper ได้/vpost
+"/punc เรา/pper มี/vt ทุก/adj อย่าง/cl บน/prep นี้/det "/punc
+ภรรยา/ncn ชาว/pref3 นา/ncn เคย/prev บอก/vt นายพราน/ncn ที่/prel ขึ้น/vt เขา/pper มา/vpost ล่า/vt กวาง/ncn
+วัน/ncn หนึ่ง/adj
+ชาว/pref3 นา/ncn ขี่/vt ลา/vt ไป/vpost ตลาด/ncn
+ลัดเลาะ/vt ลง/vpost ไป/vpost ตาม/prep เส้นทาง/ncn บน/prep เขา/pper อย่าง/advm1 ระมัดระวัง/adv
+ระหว่าง/prep ทาง/ncn กลับ/vi
+เขา/pper เจอ/vt หญิง/ncn ชรา/npn ที่/prel กำลัง/prev เก็บ/vt สมุนไพร/ncn อยู่/vpost ท่ามกลาง/prep หมอก/ncn ยาม/ncn พลบ/vt ค่ำ/ncn
+"/punc สวัสดี/vi พ่อคุณ/npn "/punc
+หญิง/ncn ชรา/npn ทักทาย/vt ชาว/pref3 นา/ncn
+และ/conj จ้อง/vt ไป/vpost ที่/prep ตะกร้า/ncn หวาย/npn ที่/prel รัด/vt ไว้/vpost ข้าง/prep ลำ/ncn ตัว/ncn ของ/prep ลา/ncn
+"/punc เอา/vt ของดี/ncn ๆ/punc อะไร/indet มา/vpost ฝาก/vt คุณนาย/ncn บ้าง/adv ล่ะ/part "/punc
+"/punc ฉัน/pper ไม่/neg มี/vt เงิน/ncn ซื้อ/vt อะไร/indet มาก/adv นัก/part หรอก/part "/punc
+ชาว/pref3 นายอมรับ/npn
+"/punc ได้/prev แต่/conj ผ้า/ncn ทอ/vt พื้นเมือง/adj มา/vpost ให้/conjncl ภรรยา/ncn เย็บ/vt ผ้า/ncn กัน/prec เปื้อน/adv ผืน/ncn ใหม่/adj แล้ว/vpost ก็/conj ไว/vi น์ชั้น/adv ดี/adv สอง/nnum สาม/nnum ขวด/cl กับ/prep ปลาเค็ม/npn จะ/prev ได้/prev เป็น/vcs มื้อ/ncn พิเศษ/adj เสียหน่อย/vi อยู่/vpost บน/prep ภูเขา/ncn นี่/det เรา/pper ไม่ค่อย/vi ได้/vpost กิน/vt ปลา/ncn สัก/advm4 เท่าไหร่/pint "/punc
+"/punc จริง/vi สิ/part ฉัน/pper ก็/conj ไม่/neg ได้/prev กิน/vt ปลา/ncn มา/vpost หลาย/adj ปี/cl แล้ว/vpost "/punc
+หญิง/ncn ชรา/npn เห็น/vt ด้วย/adv
+"/punc แบ่ง/vt ของ/prep ฉัน/pper ไป/vpost ก็ได้/part "/punc
+ชาว/pref3 นาก/ncn ล่าว/adj
+"/punc ฉัน/pper ซื้อ/vt มา/vpost เยอะ/adv เลย/part "/punc
+แล้ว/conj เขา/pper ก็/conj หยิบ/vt ปลา/ncn ที่/prel ส่งกลิ่น/vi คลุ้ง/vt ตัว/ncn หนึ่ง/adj จาก/prep ตะกร้า/ncn
+และ/conj ยัด/vt ใส่/vt มือ/ncn ตะปุ่มตะป่ำ/vi ของ/prep นาง/ntit
+"/punc ฉัน/pper อยาก/prev ตอบแทน/vt ความ/pref1 ใจดี/adj ของ/prep ท่าน/pper "/punc
+หญิง/ncn ชรา/npn กล่าว/vt
+แล้ว/conj นาง/ntit ก็/conj ตบมือ/ncn ย่น/vi ๆ/punc
+และ/conj ตะโกน/vt ภาษา/ncn แปลก/adj ๆ/punc
+ที่/prel ชาว/pref3 นา/ncn ฟัง/vt ไม่/neg ออก/vpost
+ทันใด/conj นั้น/det
+นางก็/part ถูก/adj ราย/cl ล้อม/vt ด้วย/prep ฝูง/nct ห่าน/ncn ที่/prel ตีปีก/vt ออก/vpost มา/vpost จาก/prep ม่าน/ncn หมอก/ncn
+"/punc ฉัน/pper ให้/conjncl "/punc
+หญิง/ncn ชรา/npn หัวเราะ/vt เบา/adv ๆ/punc
+พร้อม/vi กับ/prep อุ้ม/vt ห่าน/ncn ตัว/ncn หนึ่ง/adj ขึ้น/vpost มา/vpost
+"/punc เอา/vt มัน/pper ไป/vpost มัน/pper จะ/prev ออก/vt ไข่/ncn งาม/vi ๆ/punc ให้ท่าน/npn "/punc
+ชาว/pref3 นาวาง/npn ห่าน/vi ไว้/vpost ใน/prep ตะกร้า/ncn
+ปิด/vt ฝา/ncn แล้ว/vpost ผูก/vt ไว้/vpost ไม่/neg ให้/conjncl มัน/pper หนี/vt
+พอ/conj เขา/pper กลับ/vi ถึง/prep บ้าน/ncn
+จึง/conj ปล่อย/vt ห่าน/ncn ไว้/vpost ใน/prep คอก/ncn
+มัน/pper เริ่ม/vi เบียดเสียด/vt หา/vt อาหาร/ncn กับ/prep พวก/nct แม่/ncn ไก่/ncn
+เช้า/ncn วัน/ncn ต่อ/adv มา/vpost
+เมื่อ/conj ภรรยา/ncn ชาว/pref3 นา/ncn ออก/vpost ไป/vpost ดู/vt แม่/ncn ไก่/ncn
+เธอ/pper เห็น/vt ห่าน/ncn ตัว/cl นั้น/det ออก/vt ไข่/ncn มา/vpost หนึ่ง/adj ฟอง/cl
+--/punc
+ขนาด/ncn มหึมา/adj
+เธอ/pper หยิบ/vt มัน/pper ขึ้น/vpost มา/vpost
+"/punc หา/vt !/punc "/punc
+เธอ/pper พูด/vt
+แปลก/adj ใจ/ncn กับ/prep ความ/pref1 หนัก/vi ของ/prep มัน/pper
+"/punc ฉัน/pper คง/prev ตาฝาด/vi แน่/adv ๆ/punc นี่/pdem มัน/pper ก้อน/cl หิน/ncn นี่/det นา/ncn "/punc
+เธอ/pper กำลัง/prev จะ/prev ขว้าง/vt มัน/pper ทิ้ง/vt
+พระอาทิตย์/ncn ก็/conj โผล่/vi พ้น/vt ก้อน/ncn เมฆ/ncn
+และ/conj ส่อง/vi แสง/ncn กระทบ/vt ไข่/ncn ใบ/ncn นั้น/det จน/conj มัน/pper เกิด/vt ประกาย/ncn ระยิบระยับ/vi
+ด้วย/prep ความ/pref1 ฉงน/vi
+ภรรยา/ncn ชาว/pref3 นา/ncn เช็ด/vt มัน/pper กับ/prep มุม/ncn ผ้า/ncn กัน/prec เปื้อน/adv ผืน/ncn ใหม่/adj จน/conj สะอาด/adj
+ไข่/ncn ฟอง/cl นั้น/det ดูเหมือน/vcs ทำ/vt จาก/prep ทองคำ/ncn
+--/punc
+แต่/conj มัน/pper จะ/prev เป็น/vcs ไป/vpost ได้/vpost อย่างไร/pint
+"/punc ใคร/pind เป็น/vcs คน/ncn ให้/prep ห่าน/ncn ตัว/ncn นี้/det กับ/prep ท่าน/pper "/punc
+เธอ/pper ถาม/vt สามี/ncn
+"/punc แม่/ncn เฒ่า/ncn คน/ncn หนึ่งน่ะ/part "/punc
+ชาว/pref3 นา/ncn ตอบ/vt
+"/punc ฉัน/pper เจอ/vt นางกำลัง/ncn เก็บ/vt สมุนไพร/ncn ตอน/ncn พลบ/vt ค่ำ/ncn "/punc
+"/punc นางต้อง/npn เป็น/vcs แม่มด/ncn ใจดี/adj แน่/adv ๆ/punc "/punc
+ภรรยา/ncn ของ/prep เขา/pper กล่าว/vt
+"/punc ฉัน/pper คิด/vt ว่า/conjncl ห่าน/ncn ของ/prep นาง/ntit ออก/vt ไข่/ncn เป็น/advm2 ทองคำ/ncn "/punc
+ชาว/pref3 นา/ncn ไม่/neg เชื่อ/vt สายตา/ncn ตัว/ncn เอง/prfx
+เขา/pper ผูก/vt อาน/ncn ลา/vt อีก/adj ครั้ง/cl และ/conj ไป/vt หา/vt พ่อ/ncn ค้าขาย/vt ทอง/ncn ที่/prep ตลาด/ncn
+ใช่/vt แล้ว/vpost
+ไข่/ncn ฟอง/cl นั้น/det ทำ/vt จาก/prep ทองคำ/ncn จริงๆ/adv
+ทองคำ/ncn บริสุทธิ์/vi เสีย/vpost ด้วย/adv
+เขา/pper ขาย/vt มัน/pper ได้/prev เงิน/ncn มา/vpost พอ/adv สมควร/adv
+พอที่/conj ซื้อ/vt ผ้า/ncn ดีๆ/adj
+ให้/vcau ภรรยา/ncn
+ซื้อ/vt ไว/adv น์ขวด/ncn ใหญ่/adj
+ซื้อ/vt เครื่องมือ/ncn ให้/prep ตัว/ncn เอง/prfx
+และ/conj ซื้อ/vt ปลาก/ncn ลับ/adj บ้าน/ncn
+ไม่/neg ใช่/vt ปลา/ncn ซา/npn ร์ดีน/npn เค็ม/npn ถูก/adj ๆ/punc
+ที่/prel ซื้อ/vt เมื่อ/prep วาน/ncn
+แต่/conj เป็น/vcs ปลา/ncn สด/adj ราคา/ncn แพง/adj ที่/prel เพิ่ง/prev จับ/vt จาก/prep ทะเล/ncn เมื่อ/conj คืน/vt
+เช้า/ncn วัน/ncn ต่อ/adv มา/vpost
+ห่าน/ncn ตัว/cl นั้น/det ออก/vt ไข่/ncn ทองคำ/ncn อีก/adj ฟอง/cl
+มัน/pper ยัง/prev ออก/vt ไข่/ncn ไป/vpost เรื่อยๆ/adv
+จน/conj ชาว/pref3 นา/ncn เอา/vt ใส่/vt ไว้/vpost เต็ม/vt ตะกร้า/ncn
+ไม่/neg นาน/adv ชาว/pref3 นา/ncn กับ/prep ภรรยา/ncn ก็/conj ร่ำรวย/vi
+พวก/nct เขา/pper สวม/vt เสื้อ/ncn ผ้า/ncn ราคา/ncn แพง/adj และ/conj ขี่/vt ม้า/ncn ไป/vpost ตลาด/ncn
+พวก/nct เขา/pper กิน/vt อาหาร/ncn สด/adj บน/prep จาน/ncn ราคา/ncn แพง/adj ใน/prep ฤดู/ncn ร้อน/adj
+พวก/nct เขา/pper ซ่อม/vt และ/conj ทาสี/ncn กระท่อม/ncn ใหม่/adj
+และ/conj ยัง/prev สร้าง/vt โรง/ncn รีด/vt นม/ncn เอา/vt ไว้/vpost เลี้ยง/vt แม่/ncn วัว/ncn ฝูง/cl หนึ่ง/adj อีก/adv ด้วย/adv
+เธอ/pper คง/prev คิด/vt ว่า/conjncl ชาว/pref3 นา/ncn จะ/prev มี/vt ความ/pref1 สุข/vi
+แต่/conj ตรงกันข้าม/adj !/punc
+ทุก/adj เช้า/cl
+ขณะ/ncn ที่/prel เขา/pper เช็ด/vt ถู/ncn ไข่/ncn ทองคำ/ncn ฟอง/ncn ใหม่/adj
+เขา/pper ก็/conj มี/vt แต่/conj ความ/pref1 กังวล/vi ใจ/ncn
+"/punc ถ้า/conj หาก/conj มี/vt ใคร/pind มา/vpost ขโมย/vt ห่าน/ncn วิเศษ/vi ตัว/ncn นี้/det ไป/vpost ล่ะ/part "/punc
+เขา/pper บอก/vt กับ/prep ภรรยา/ncn
+"/punc เรา/pper จะ/prev ทำ/vt อย่างไร/pint ถ้า/conj ห่าน/ncn นี้/det ป่วย/vi ตาย/vi ไป/vpost เรา/pper คง/prev ไม่/neg มี/vt ทาง/ncn รวย/vi ไป/vpost กว่า/adv นี้/det แล้ว/vpost ไม่/neg นาน/adv เรา/pper ก็/conj จะ/prev กลับ/vi ไป/vpost จน/conj อีก/adj ครั้ง/cl "/punc
+"/punc อย่า/neg กลัดกลุ้ม/vi ไป/vpost เลย/part ที่รัก/ncn ไม่/neg มี/vt ใคร/pind มา/vpost ขโมย/vt ห่าน/ncn ตัว/cl นี้/det ไป/vpost หรอก/part "/punc
+ภรรยา/ncn รับรอง/vt กับ/prep เขา/pper
+"/punc มี/vt แต่/conj พวก/nct นายพราน/ncn ที่/prel ขึ้น/vt เขา/pper มา/vpost ถึง/prep บน/prep นี้/det และ/conj พวก/nct เขา/pper ไม่/neg เคย/prev เข้า/vi มา/vpost ใกล้/prep ฟาร์ม/ncn ส่วน/ncn ห่าน/ncn ตัว/ncn นั้น/det มัน/pper คง/prev ไม่/neg อยู่/vi กับ/prep เรา/pper ไป/vpost ตลอด/adv กาล/ncn หรอก/part ฉัน/pper เลย/vi เก็บหอมรอมริบ/vt เงิน/ncn ทอง/ncn ไว้/vpost ใช้/vt ใน/prep คราว/ncn จำเป็น/vi นี่ไง/pint เรา/pper มี/vt อาหาร/ncn แห้ง/vi ไว้/vpost กิน/vt ตลอด/adv ปี/ncn พอ/adv อาหาร/ncn หมด/adv เรา/pper ยัง/prev มี/vt วัว/ncn ไว้/vpost ให้/prep นม/ncn มี/vt ไก่/ncn ไว้/vpost ออก/vpost ไข่/ncn และ/conj มี/vt ทุ่ง/ncn หญ้า/ncn ไว้/vpost ปลูก/vt พืช/ncn มัน/pper มาก/adv พอที่/adv เรา/pper จะ/prev เก็บ/vt ไว้/vpost กิน/vt จน/conj แก่/prep เฒ่า/ncn โน่น/det แหละ/part "/punc
+แต่/conj ชาว/pref3 นา/ncn อด/vt กังวล/vi ใจ/ncn ไม่/neg ได้/vpost
+ความ/pref1 โชค/ncn ดี/adj ถูก/psm ทำลาย/vt ลง/vpost
+เพราะ/conj ความ/pref1 กลัดกลุ้ม/vi ตลอด/adv เวลา/ncn ของ/prep เขา/pper
+แล้ว/conj เช้า/ncn วัน/ncn หนึ่ง/adj
+ความ/pref1 คิด/vt โง่/vi ๆ/punc
+ก็/conj ผุด/vt ขึ้น/vpost มา/vpost ใน/prep ใจ/ncn เขา/pper
+"/punc ฉัน/pper ต้อง/prev ตักตวง/vt ไข่/ncn ทองคำ/ncn ทุก/adj ฟอง/cl เดี๋ยวนี้/adv "/punc
+เขา/pper บอก/vt กับ/prep ตัว/ncn เอง/prfx
+"/punc ก่อน/adv ที่/prel มัน/pper จะ/prev สาย/ncn เกินไป/adv "/punc
+วัน/ncn เดียวกัน/adj นั้น/det เอง/prfx
+ระหว่าง/prep ที่/prel ภรรยา/ncn ของ/prep เขา/pper ไป/vpost เยี่ยม/vt เพื่อน/ncn ที่/prel อยู่/vi เลย/vi ลง/vpost ไป/vpost จาก/prep ภูเขา/ncn
+ชาว/pref3 นาค/npn ว้า/ncn ห่าน/ncn ตัว/ncn นั้น/det และ/conj บิด/vt คอ/ncn มัน/pper อย่าง/advm1 ชำนาญ/vt ด้วย/prep เมือ/ncn เปล่า/adj อย่าง/advm1 รวดเร็ว/adv
+และ/conj เบามือ/ncn เสีย/adj จน/conj ห่าน/ncn แทบ/prev ไม่/neg รู้สึก/vi อะไร/indet เลย/part
+แล้ว/conj เขา/pper ก็/conj ใช้/vt มีด/ncn ผ่า/vt ห่าน/ncn ที่/prel ตาย/vi แล้ว/vpost ออก/vpost
+ลอง/vt นึกดู/adv ว่า/conjncl เขา/pper จะ/prev ตกใจ/vi แค่/adv ไหน/pint เมื่อ/conj ไม่/neg พบ/vt ไข่/ncn ทองคำ/ncn ใน/prep ท้อง/ncn
+--/punc
+มี/vt เพียง/adv ไข่แดง/npn นิ่ม/adv ๆ/punc
+ที่/prel ปราศจาก/vt เปลือก/ncn ทองคำ/ncn เท่านั้น/adv
+ยิ่ง/adv ไป/vpost กว่า/adv นั้น/det
+ความ/pref1 โชค/ncn ร้าย/adj ยัง/prev ตาม/vt มา/vpost อีก/adv
+ขณะ/ncn ที่/prel ไข่แดง/vt ฟอง/ncn เล็ก/adj ๆ/punc แข็งตัว/vi ใน/prep มือ/ncn ของ/prep เขา/pper
+ทรัพย์สมบัติ/ncn ก็/conj หาย/vi วับ/vi ไป/vpost ใน/prep อากาศ/ncn
+ทั้ง/conjc เครื่องมือ/ncn จาน/ncn ชาม/ncn
+เสื้อ/ncn ผ้า/ncn ดีๆ/adj
+ไวน์/ncn
+ม้า/ncn
+--/punc
+หรือ/conj แม้แต่/conj แม่/ncn วัว/ncn
+และ/conj โรง/ncn รีด/vt นม/ncn ก็/conj อันตรธาน/ncn หาย/vi ไป/vpost ด้วย/adv
+"/punc โธ่/npn ที่รัก/ncn เธอ/pper ทำ/vt อะไร/pint ลง/vpost ไป/vpost "/punc
+ภรรยา/ncn ชาว/pref3 นาก/adj ล่าว/ncn เมื่อ/conj กลับ/vi มา/vpost แล้ว/vpost พบ/vt ว่า/conjncl กระท่อม/ncn กลับ/vi มา/vpost ซอมซ่อ/vi เหมือน/adv เดิม/adv
+สามี/ncn ของ/prep นาง/ntit เสียใจ/vi จน/conj พูด/vt ไม่/neg ออก/vpost
+ภรรยา/ncn ที่/prel น่า/prev สงสาร/vt พยายาม/vi ปลอบ/vt ใจ/ncn เขา/pper
+แต่/conj ไม่/neg ว่า/conjncl จะ/prev พูด/vt อย่างไร/pint
+เขา/pper ก็/conj ไม่/neg รู้สึก/vi ดี/adv ขึ้น/vpost
+เอาแต่/conj สะอึกสะอื้น/vt เหมือน/adv กัน/prec เด็ก/ncn
+เขา/pper ผูก/vt อาน/ncn ลา/vt และ/conj ขี่/vt ออก/vpost ไป/vpost หา/vt แม่มด/ncn ที่/prel เคย/prev ให้/vcau ห่าน/ncn ทองคำ/ncn กับ/prep เขา/pper
+บางที/conj นาง/ntit อาจ/prev ให้/vcau เขา/pper อีก/adj ตัว/cl
+และ/conj คราว/ncn นี้/det เขา/pper จะ/prev ไม่/neg ยอม/vt ให้/conjncl ความ/pref1 โลภ/vt เข้า/vi ครอบงำ/vi อีก/adv
+แต่/conj เขา/pper ไม่/neg เจอ/vt นางอีกเลย/part
+มีคน/npn เล่า/vt ว่า/conjncl เขา/pper ยัง/prev เที่ยว/vi เดิน/vi หา/vt นางไป/ncn ทั่ว/adj ภูเขา/ncn จนถึง/prep ทุกวันนี้/ncn
+ขณะ/ncn ที่/prel ฝ่าย/ncn ภรรยา/ncn นั่ง/vi ถอน/vt ใจ/ncn อยู่/vpost กับ/prep บ้าน/ncn
+รอ/vt วัน/ncn ที่/prel พวก/nct เขา/pper จะ/prev พอใจ/vt กับ/prep สิ่ง/ncn เล็กน้อย/adv ที่/prel ตน/pper มี/vt

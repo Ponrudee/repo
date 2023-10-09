@@ -1,0 +1,93 @@
+สะพานลอย/vi เกเร/vi กับ/prep เจ้า/ncn ด่าง/adj
+ณ/prep
+ถนน/ncn สาย/ncn หนึ่ง/adj ใจกลาง/ncn มหานคร/npn
+ถนน/ncn สาย/ncn นี้/det มี/vt หก/nnum เลน/cl
+รถ/ncn รา/ncn วิ่ง/vi กัน/prec ขวักไขว่/adj
+และ/conj ที่/prel นี่/pdem มี/vt สะพานลอย/adv ข้าม/vt ถนน/ncn อยู่/vpost แห่ง/cl หนึ่ง/adj
+เป็น/vcs สะพานลอย/ncn นิสัย/ncn เกเร/vi
+ชอบ/vt แกล้ง/vi คน/ncn ที่/prel ข้าม/vt สะพานลอย/ncn เสมอ/adv
+บาง/adj ครั้ง/cl เมื่อ/conj มี/vt ชาย/ncn หนุ่ม/adj เดิน/vi มา/vpost เพื่อ/conj ข้าม/vt สะพานลอย/ncn
+เจ้า/ntit สะพานลอย/npn จอม/ncn เกเร/vi ก็/conj จะ/prev แกล้ง/vi ยืด/vi ตัว/ncn ขึ้น/vpost เพื่อ/conj จะ/prev ทำให้/vcau บันได/ncn สูง/vi ขึ้น/vpost .../punc สูง/adv ขึ้น/vpost .../punc สูง/vi ขึ้น/vpost จน/conj ชาย/ncn หนุ่ม/adj ต้อง/prev ปีน/vt ขึ้น/vpost บันได/ncn ที/cl ละ/adj ขั้น/ncn .../punc ที/ncn ละ/adj ขั้น/ncn .../punc ที/ncn ละ/adj ขั้น/ncn
+กว่า/adv จะ/prev ข้าม/vt สะพานลอย/ncn นี้/det ไป/vpost ได้/vpost ทำเอา/adv เขา/pper แทบ/prev หมด/vt แรง/ncn
+หรือ/conj บาง/adj ครั้ง/cl เมื่อ/prep เด็ก/ncn ๆ/punc
+นักเรียน/ncn กำลัง/prev จะ/prev เดิน/vi ข้าม/vt
+เจ้า/ntit สะพานลอย/npn จอม/ncn เกเร/vi ก็/conj จะ/prev แกล้ง/vi หด/vi ตัว/ncn ให้/conjncl ทาง/ncn เดิน/vi แคบ/vi ลง/vpost จน/conj เกือบ/prev แทรก/vt ตัว/ncn ผ่าน/vt ไป/vpost ไม่/neg ได้/vpost
+และ/conj วันดีคืนดี/npn หากว่า/conj มี/vt ฝน/ncn ตก/vi เจ้า/ntit สะพานลอย/npn ก็/conj จะ/prev แกล้ง/vi อม/vt น้ำ/ncn ฝน/ncn ที่/prel ตกลง/vi มา/vpost ไว้/vpost
+ไม่/neg ปล่อย/vt ให้/conjncl ระบาย/vt ออก/vpost ไป/vpost
+คน/ncn ที่/prel เดิน/vi ข้าม/vt สะพานลอย/ncn ก็/conj แทบ/prev จะ/prev ต้อง/prev ว่าย/vi น้ำ/ncn ข้าม/vt กว่า/adv จะ/prev ไป/vpost ถึง/prep อีก/adj ฝั่ง/ncn ได้/prev ก็/conj เนื้อตัว/vi เปียก/vi ปอน/adv
+ยิ่ง/adv ยาม/ncn กลางคืน/ncn หาก/conj มี/vt หญิง/ncn สาว/ncn กำลัง/prev เดิน/vi ข้าม/vt สะพานลอย/idm ล่ะ/part ก็/conj
+เจ้า/ntit สะพานลอย/npn จอม/ncn เกเร/vi ก็/conj จะ/prev แกล้ง/vi ดับ/vt ไฟ/ncn
+แล้ว/conj ทำ/vt เสียง/ncn น่า/prev กลัว/vt ใส่/vt ทันที/adv
+"/punc แบร่/npn .../punc "/punc
+หญิง/ncn สาว/ncn ตกใจ/vi คิด/vt ว่า/conjncl ถูก/psm ผีหลอก/vt
+วิ่ง/vi หนี/vt แทบ/prev ตก/vi บันได/ncn
+เจ้า/ntit สะพานลอย/npn เกเร/vi หัวเราะ/vt ชอบใจ/vt
+เหตุการณ์/ncn เป็น/vcs เช่น/conjncl นี้/det ทุก/adj วัน/cl
+จน/conj สุดท้าย/adj ก็/conj ไม่/neg มี/vt ใคร/pind ใช้/vt สะพานลอย/ncn ข้าม/vt ถนน/ncn อีก/adv เลย/part
+แต่/conj ยัง/prev มี/vt หมา/ncn จรจัด/vt อยู่ตัว/ncn หนึ่ง/adj ชื่อ/ncn เจ้า/ncn ด่าง/adj
+ซึ่ง/prel ยัง/prev คง/prev พยายาม/vi ข้าม/vt สะพานลอย/ncn เพื่อ/conj มายัง/ncn ตลาด/ncn ที่/prel อยู่/vi อีก/adv ฝั่ง/ncn หนึ่ง/adj ของ/prep ถนน/ncn
+และ/conj ทุกๆ/adj
+ครั้ง/ncn ที่/prel เจ้า/ntit ด่าง/ncn เดิน/vi ขึ้น/vpost บันได/ncn มา/vpost ถึง/prep บน/prep สะพานลอย/ncn
+มัน/pper ก็/conj ยก/vt ขา/ncn ขึ้น/vpost ข้าง/cl หนึ่ง/adj แล้ว/vpost ฉี่/npn เพื่อ/conj ประกาศ/vt อาณาเขต/ncn ของ/prep มัน/pper
+เจ้า/ntit สะพานลอย/npn จอม/ncn เกเร/vi สุด/adv ที่/prel จะ/prev ทน/vt
+จึง/conj พยายาม/vi แกล้ง/vi เจ้า/ncn ด่าง/adj ทุก/adj วิถี/ncn ทาง/ncn เพื่อ/conj ไม่/neg ให้/vcau มัน/pper เดิน/vi ขึ้น/vpost มาบน/vt สะพานลอย/adv อีก/adv
+แต่/conj ไม่/neg ว่า/conjncl สะพานลอย/npn จะ/prev พยายาม/vi ยืด/vi ตัว/ncn เท่าไร/pint
+เจ้า/ntit ด่าง/ncn ก็/conj พยายาม/vi ปีน/ncn ขึ้น/vpost มา/vpost ได้/vpost เสมอ/adv
+ไม่/neg ว่า/conjncl สะพานลอย/npn จะ/prev พยายาม/vi หด/vi ตัว/ncn ลง/vpost เท่าไร/pint
+เจ้า/ntit ด่าง/ncn ก็/conj พยายาม/vi เดิน/vi ลอด/vi ไป/vpost จน/conj ได้/prev
+หรือ/conj เมื่อ/conj ฝน/ncn ตกลง/vi มา/vpost แล้ว/vpost สะพานลอย/vi อม/vt น้ำ/ncn ไว้/vpost
+เจ้า/ntit ด่าง/ncn ก็/conj พยายาม/vi ว่าย/vi น้ำ/ncn ข้าม/vt สะพานลอย/ncn จาก/prep ฝั่ง/ncn ตลาด/ncn เพื่อ/conj กลับ/vi ไป/vpost นอน/vi ยัง/prep ป้าย/ncn รถ/ncn ประจำ/vt ทาง/ncn ที่/prel ประจำ/vi
+บาง/adj ครั้ง/cl สะพานลอย/vi ก็/conj แกล้ง/vi ดับ/vt ไฟ/ncn
+แต่/conj แทน/vt ที่/prep เจ้า/ncn ด่าง/adj จะ/prev กลัว/vt
+กลับ/vi หอน/vt เสียง/ncn โหยหวน/adv
+"/punc โบร๋ว/npn .../punc "/punc
+สะพานลอย/vi ตกใจ/vi กลัว/vt นึก/vt ว่า/conjncl เจ้า/ntit ด่าง/ncn เห็น/vt ผี/ncn จริงๆ/adv
+จึง/conj รีบ/vi เปิด/vt ไฟ/ncn ทุก/adj ดวง/cl
+ช่วง/ncn เวลา/ncn นั้น/det จึง/conj เป็น/vcs คืน/ncn ที่/prel แสง/ncn ไฟ/ncn บน/prep สะพานลอย/ncn สว่างไสว/npn เป็น/advm2 พิเศษ/adv
+เวลา/ncn ผ่าน/vt ไป/vpost
+สะพานลอย/pper ก็/conj ยัง/prev ไม่/neg สามารถ/prev กลั่นแกล้ง/vt หรือ/conj ขัดขวาง/vt ไม่/neg ให้/vcau เจ้า/ncn ด่าง/adj เดิน/vi ข้าม/vt สะพานลอย/vi ได้/vpost สัก/advm4 ครั้ง/cl เดียว/adj
+และ/conj สะพานลอย/vi เกเร/vi ก็/conj เริ่ม/vi สังเกต/vt ว่า/conjncl
+ทุก/adj ครั้ง/cl ที่/prel เจ้า/ntit ด่าง/ncn เดิน/vi ขึ้น/vpost มาบน/vt สะพาน/ncn แล้ว/vpost
+มัน/pper มัก/prev จะ/prev หยุด/vt อยู่/vpost กลาง/prep สะพาน/ncn ยก/vt ขา/ncn หน้า/adj เขย่ง/ncn เกาะ/ncn ราว/adj สะพาน/ncn มอง/vt ลง/vpost ไป/vpost ข้าง/cl ล่าง/adj เสมอ/adv
+อยู่/vi มา/vpost วัน/ncn หนึ่ง/adj ขณะ/ncn ที่/prel เจ้า/ntit ด่าง/ncn กำลัง/prev เขย่ง/vt เกาะ/ncn ราว/adj สะพาน/ncn
+สะพานลอย/ncn จอม/ncn เกเร/vi จึง/conj ถาม/vt ขึ้น/vpost ว่า/conjncl
+"/punc เจ้า/ntit หมา/ncn น้อย/adv ทำไม/pint เจ้า/pper ต้อง/prev พยายาม/vi เดิน/vi ข้าม/vt สะพานลอย/ncn อย่าง/prep ฉัน/pper ไป/vpost ให้/conjncl ได้/prev ไม่/neg ว่า/conjncl ฉัน/pper จะ/prev พยายาม/vi ขัดขวาง/vt หรือ/conj กลั่นแกล้ง/vt เจ้า/ncn ทุก/adj ครั้ง/cl "/punc
+"/punc ก็/conj ข้าง/ncn บน/adj นี้/det มัน/pper ปลอดภัย/vi กว่า/prep ข้าง/ncn ล่าง/adj นี่/det "/punc
+เจ้า/ntit ด่าง/ncn ตอบ/vt
+"/punc ไม่/neg จริง/adv หรอก/part ถ้า/conj บน/prep นี้/det ปลอดภัย/vi จริง/adv แล้ว/vpost ทำไม/pint คน/cl ที่/prel โดน/psm ฉัน/pper แกล้ง/vi ถึง/prep ยอม/vt ลง/vpost ไป/vpost เดิน/vi ข้าม/vt ถนน/ncn ล่ะ/part "/punc
+"/punc คง/prev เพราะ/conj เขา/pper ไม่/neg เคย/prev เสีย/vt เพื่อน/ncn ไป/vpost อย่าง/advm1 ฉัน/pper น่ะสิ/part เดิมที/adv ฉัน/pper เคย/prev มี/vt เพื่อน/ncn รัก/vt อยู่ตัว/ncn หนึ่ง/adj ชื่อ/ncn เจ้า/ntit จุด/ncn เรา/pper เป็น/vcs เพื่อน/ncn เล่น/vt กัน/prec มา/vpost ตั้งแต่/prep ยัง/prep เด็ก/ncn เรา/pper มัก/prev ไป/vt ไหน/indet ด้วย/adv กัน/prec เสมอ/adv และ/conj ทุก/adj วัน/ncn เรา/pper ต้อง/prev ข้าม/vt ถนน/ncn สาย/ncn นี้/det ฉัน/pper ชวน/vt เจ้า/ncn จุด/ncn ข้าม/vt สะพานลอย/vi เสมอ/adv แต่/conj เจ้า/ntit จุด/ncn ก็/conj มัก/prev ตอบ/vt ว่า/conjncl ข้าม/vt สะพานลอย/ncn ช้า/vi ข้าม/vt ถนน/ncn เร็ว/adv กว่า/adv เรา/pper เลย/vi แยก/vt กัน/prec ระหว่าง/prep ที่/prel ฉัน/pper กำลัง/prev ข้าม/vt สะพานลอย/ncn ฉัน/pper ก็/conj ชะเง้อ/vi ลง/vpost ไป/vpost มอง/vt เจ้า/ncn จุด/ncn ที่/prel กำลัง/prev วิ่ง/vi ข้าม/vt ถนน/ncn อย่าง/advm1 ระมัดระวัง/adv "/punc
+"/punc ใน/prep ขณะ/ncn ที่/prel มัน/pper กำลัง/prev วิ่ง/vi ผ่าน/vt รถ/ncn ประจำ/vt ทาง/ncn คัน/cl ใหญ่/adj ไป/vpost นั้น/det มัน/pper คง/prev มอง/vt ไม่/neg เห็น/vt รถ/ncn คัน/cl หนึ่ง/adj ที่/prel วิ่ง/vi มา/vpost ด้วย/prep ความ/pref1 เร็ว/vi สูง/vi รถ/ncn คัน/cl นั้น/det ชน/vt เจ้า/ncn จุด/ncn เข้า/vi อย่าง/advm1 จัง/adv เจ้า/ntit จุด/ncn กระเด็น/vi ลอย/vi ไป/vpost ตก/vi อยู่/vpost กลาง/prep ถนน/ncn อีก/adj ฝั่ง/ncn หนึ่ง/adj ก่อน/conj จะ/prev พยายาม/vi ลุก/vi ขึ้น/vpost พา/vt ตัว/ncn เอง/prfx ไป/vpost ถึง/prep เกาะ/ncn กลาง/adj ถนน/ncn และ/conj หมด/vt แรง/ncn ล้ม/vi ลง/vpost นอน/vi แน่นิ่ง/adv ใน/prep ที่สุด/adj ตอน/ncn นั้น/det ฉัน/pper ทำ/vt อะไร/indet ไม่/neg ได้/vpost เลย/part ได้/vpost แค่/adv เห่า/vi ร้อง/vi เรียก/vt เจ้า/ncn จุด/ncn จาก/prep ตรง/adv นี้/det เท่านั้น/adv "/punc
+เจ้า/ntit ด่าง/ncn เล่า/vt เรื่อง/ncn เพื่อน/ncn เก่า/adj ด้วย/prep น้ำเสียง/ncn เศร้า/vt สร้อย/adv
+"/punc มิน่า/adv เวลา/ncn นายเดิน/npn ข้าม/vt ฉัน/pper ถึง/prep ได้/prev หยุด/vi ยืน/vi ชะเง้อ/vi มอง/vt ลง/vpost ไป/vpost ที่/prep เกาะ/ncn กลาง/adj ถนน/ncn เสมอ/adv นาย/ntit คง/prev คิดถึง/vt เจ้า/ntit จุด/ncn สินะ/npn "/punc
+สะพาน/ncn เกเร/vi พูด/vt อย่าง/advm1 เศร้า/vt ใจ/ncn
+"/punc ใช่/vt ฉัน/pper คิดถึง/vt เจ้า/ncn จุด/ncn มาก/adv แล้ว/vpost นายล่ะ/part ทำไม/pint นายต้อง/part แกล้ง/vi คน/ncn ที่/prel เดิน/vi ข้าม/vt นายด้วยล่ะ/part "/punc
+เจ้า/ntit ด่าง/ncn ถาม/vt กลับ/vi บ้าง/adv
+"/punc ก็/conj เพราะ/conj คน/ncn ที่/prel เดิน/vi ข้าม/vt ฉัน/pper แกล้ง/vi ฉัน/pper ก่อน/adv น่ะสิ/part บาง/adj คน/cl ก็/conj ชอบ/vt ทิ้ง/vt ขยะ/ncn บน/prep ตัว/ncn ฉัน/pper จน/conj ตัว/ncn ฉัน/pper เหม็น/adj สาบ/ncn ไป/vpost หมด/adv บาง/adj คน/cl ชอบ/vt แกล้ง/vi เอา/vt สีมา/npn พ่น/vt มา/vpost ป้าย/ncn บน/prep ตัว/ncn ฉัน/pper ไม่/neg เห็น/vt มัน/pper จะ/prev สวย/vi ตรง/adv ไหน/pint ใน/prep เมื่อ/conj ไม่/neg มี/vt ใคร/pind รัก/vt ไม่/neg มี/vt ใคร/pind ดูแล/vt ฉัน/pper ฉัน/pper ก็/conj เลย/vi แกล้ง/vi ทุก/adv คนซะเลย/vi จะ/prev ได้/prev ไม่/neg ต้อง/prev มี/vt ใคร/pind อยาก/vt มา/vpost ข้าม/vt ฉัน/pper อีก/adv โดย/conj เฉพาะ/prep นาย/ntit เจ้า/ntit หมา/ncn น้อย/adv นาย/ntit ชอบ/vt มา/vpost ฉี่/conj รด/vt ฉัน/pper เสมอ/adv "/punc
+"/punc ฮะ/npn ๆ/punc ๆ/punc ขอโทษ/vt ที/ncn คือ/vcs ว่า/conjncl มัน/pper เป็น/vcs นิสัยน่ะ/ncn นี่/det .../punc เอาอย่าง/vt นี้/det ไหม/pint เรา/pper มา/vpost เป็น/advm2 เพื่อน/ncn กัน/prec ถ้า/conj นายให้/vcau ฉัน/pper ข้าม/vt สะพานลอย/ncn แบบ/ncn สบาย/adj ๆ/punc ฉัน/pper จะ/prev ช่วย/vt ดู/vt ไม่/neg ให้/conjncl มีคน/idm มา/vpost แกล้ง/vi นายอีกดีไหม/int "/punc
+เจ้า/ntit ด่าง/ncn เสนอ/vt
+"/punc อืม/vt ก็ดี/part นะ/part ตั้งแต่/conj ไม่/neg มี/vt ใคร/pind มา/vpost ข้าม/vt ฉัน/pper ก็/conj เหงา/vi ๆ/punc เหมือน/adv กัน/prec มี/vt นาย/ntit มา/vpost เป็น/advm2 เพื่อน/ncn ก็ดี/part แต่/conj มี/vt ข้อแม้/ncn ว่า/conjncl นาย/ntit ห้าม/vt ฉี่/ncn บน/prep ตัว/ncn ฉัน/pper อีก/adv "/punc
+สะพานลอย/vi รับ/vt ข้อ/ncn เสนอ/vt พร้อม/vi วาง/vt เงื่อนไข/ncn
+"/punc ได้/prev เลย/vi แล้ว/vpost คอย/vt ดู/vt นะ/part ถ้า/conj นายดี/ncn กับ/prep ทุก/adj คน/cl นายจะ/prev มี/vt เพื่อน/ncn มาก/adv กว่า/adv นี้/det อีก/adv "/punc
+ตั้งแต่/prep วัน/ncn นั้น/det เป็นต้น/part มา/vpost
+เจ้า/ntit สะพานลอย/npn จะ/prev คอย/vt บริการ/ncn คน/ncn ข้าม/vt สะพานลอย/ncn เป็น/advm2 อย่าง/advm1 ดี/adv
+หาก/conj วัน/ncn ไหน/indet ฝน/ncn ตก/vi สะพานลอย/adv ก็/conj จะ/prev กาง/vt ร่ม/ncn กัน/prec ฝน/ncn เพื่อให้/conj คน/ncn ที่/prel ข้าม/vt สะพานลอย/ncn ไม่/neg เปียก/vi
+วันดีคืนดี/ncn เจ้า/ntit สะพานลอย/npn ครึ้ม/adj อก/ncn ครึ้ม/adj ใจ/ncn ก็/conj จะ/prev ร้องเพลง/vi ให้/conjncl คน/ncn ที่/prel เดิน/vi ข้าม/vt ฟัง/vt อย่าง/advm1 สบาย/adv ใจ/ncn
+และ/conj ถ้า/conj มี/vt เด็ก/ncn ๆ/punc
+ขึ้น/vpost มาบน/vt สะพานลอย/adv
+พอ/conj ถึง/prep เวลา/ncn ลง/vpost สะพาน/ncn มัน/pper ก็/conj จะ/prev เปลี่ยน/vt ขั้น/ncn บันได/ncn ของ/prep ตัว/ncn เอง/prfx เป็น/vcs กระดานลื่น/ncn ให้/prep เด็ก/ncn ๆ/punc
+ลื่น/vi ไถล/vi ลง/vpost ไป/vpost ข้าง/cl ล่าง/adj อย่าง/advm1 สนุกสนาน/adv
+และ/conj ปลอดภัย/vi
+หาก/conj เป็น/vcs ผู้/pref2 สูงอายุ/vi ข้าม/vt
+เจ้า/ntit สะพานลอย/npn ก็/conj จะ/prev เปลี่ยน/vt บันได/ncn ของ/prep ตัว/ncn เอง/prfx เป็น/vcs บันไดเลื่อน/ncn
+พา/vt ผู้/pref2 สูงอายุ/vi ขึ้น/vpost และ/conj ลง/vpost อย่าง/advm1 สะดวก/adv สบาย/adv
+ต่าง/adj จาก/prep คน/ncn หนุ่ม/adj สาว/ncn ที่/prel ยัง/prev ต้อง/prev ให้/vcau เดิน/vi ขึ้น/vpost บันได/ncn เป็นการ/ncn ออกกำลัง/vt กาย/ncn กัน/prec บ้าง/adv
+ร่างกาย/ncn จะ/prev ได้/prev แข็งแรง/vi
+เจ้า/ntit สะพานลอย/npn จะ/prev ทำ/vt เช่น/conjncl นี้/det ทุก/adj วัน/ncn จน/conj ผู้คน/ncn ละแวก/ncn นั้น/det ต่าง/pind ก็/conj ชอบ/vt เดิน/vi ข้าม/vt สะพานลอย/ncn
+และ/conj ทุก/adj ครั้ง/cl ที่/prel ลง/vpost จาก/prep สะพานลอย/ncn พวก/nct เขา/pper ก็/conj มัก/prev จะ/prev พูด/vt ว่า/conjncl
+"/punc ขอบคุณ/vt นะ/part คุณ/pper สะพานลอย/adj ใจดี/adj "/punc
+สะพานลอย/pper ก็/conj จะ/prev อาย/vt จน/conj เปลี่ยน/vt สี/ncn ตัว/ncn เป็น/vcs สี/ncn แดง/adj ก่ำ/adv
+และ/conj ถ้า/conj มี/vt ใคร/pind จะ/prev ทิ้ง/vt ขยะ/ncn หรือ/conj เอา/vt สีมา/adv พ่น/vt บน/prep สะพานลอย/ncn
+ก็/conj เป็น/vcs หน้าที่/ncn เจ้า/ncn ด่าง/adj ที่/prel จะ/prev เห่า/vi เตือน/vt หรือ/conj วิ่ง/vi ไล่/vt
+หรือ/conj ถ้า/conj หาก/conj มี/vt ใบไม้/ncn มา/vpost อุด/vt ตัน/ncn ตรง/prep ท่อ/ncn ระบาย/vt น้ำ/ncn
+เจ้า/ntit ด่าง/ncn ก็/conj จะ/prev ช่วย/vt คาบ/vt เศษ/adj ใบไม้/ncn ออก/vpost ไป/vpost ทิ้ง/vt ให้/conjncl
+ทั้ง/adj สอง/nnum จึง/conj กลาย/vi เป็น/advm2 เพื่อน/ncn สนิท/adj และ/conj พึ่ง/vt พา/vt กัน/prec ตลอด/adv มา/vpost

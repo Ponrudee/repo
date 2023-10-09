@@ -1,0 +1,93 @@
+ลิ/ncn ลลี่ทุ่ง/ncn ผู้/pref2 แสน/nnum ดี/adv
+กาล/ncn ครั้ง/cl หนึ่ง/adj นาน/adv มา/vpost แล้ว/vpost
+มีคน/npn เลี้ยง/vt แพะ/ncn คน/ncn หนึ่ง/adj ชื่อ/ncn มาร์แตง/npn
+เขา/pper รับจ้าง/vt เลี้ยง/vt แพะ/ncn ให้/conjncl ชาว/pref3 ไร่/ncn คน/ncn หนึ่ง/adj
+มาร์แตง/npn รัก/vt แพะ/ncn ที่/prel เขา/pper เลี้ยง/vt มาก/adv
+โดย/conj เฉพาะ/prep ซา/npn ราห์ลูก/vt แพะ/ncn น้อย/adv ที่/prel สวย/vi ที่สุด/adv ใน/prep ฝูง/nct
+ซึ่ง/prel ใคร/pind ๆ/punc
+ต่าง/pind ก็/conj พา/vt กัน/prec ชื่นชม/vt
+มี/vt เพียง/adv ลิ/ncn ลลี่ทุ่ง/ncn ต้น/ncn เดียว/adj ที่/prel ไม่/neg ทำ/vt เช่น/conjncl นั้น/det
+เพราะ/conj มัน/pper เห็น/vt ว่า/conjncl ซา/npn ราห์หยิ่ง/vi มาก/adv เกินไป/adv
+ซึ่ง/prel การ/pref1 ทำ/vt เช่น/conjncl นี้/det ทำให้/vcau
+ซา/npn ราห์โกรธ/npn มาก/adv
+ทุก/adj ครั้ง/cl ที่/prel เดิน/vi ผ่าน/vt
+ซา/npn ราห์ก็/part จะ/prev มอง/vt ลิ/ncn ลลี่ทุ่ง/vi อย่าง/advm1 ดูถูก/vi ว่าเป็น/adv เพียง/adv ดอกไม้/ncn ป่า/ncn ธรรมดา/adj ๆ/punc
+ไม่/neg มี/vt ทาง/ncn เทียบ/vt กับ/prep มัน/pper ได้/vpost
+ซา/npn ราห์แสน/npn สวย/vi นิสัย/ncn เปลี่ยน/vt ไป/vpost ทุก/adj วัน/cl
+มัน/pper ชอบ/vt แกล้ง/vi เพื่อน/ncn ๆ/punc
+หรือ/conj แม้แต่/conj มาร์แตง/npn เอง/prfx
+มัน/pper มัก/prev จะ/prev แตกฝูง/vt บ่อยๆ/adv
+และ/conj ชอบ/vt ไป/vpost แอบ/vt อยู่/vpost หลัง/prep พุ่ม/ncn ไม้/ncn
+เพื่อให้/conj มาร์แตง/npn ร้อง/vi เรียก/vt ด้วย/prep ความ/pref1 เป็น/vcs ห่วง/vt ว่า/conjncl
+แพะ/ncn ที่/prel งาม/vi ที่สุด/adv ของ/prep เขา/pper จะ/prev หาย/vi ไป/vpost
+ซา/npn ราห์รู้สึก/vi ภูมิใจ/vi มาก/adv ที่/prel เห็น/vt เขา/pper เที่ยว/vi วิ่ง/vi ตาม/prep หา/vt
+ซา/npn ราห์ทำให้/vcau เพื่อน/ncn อารมณ์/ncn เสีย/adj มาก/adv ขึ้น/vpost ทุกที/adv
+เพราะ/conj มัน/pper ชอบ/vt เยาะ/vt เย้ย/vt แพะ/ncn ตัว/ncn อื่น/indet ที่/prel ไม่/neg สวย/vi
+มาร์แตง/npn เอง/prfx ก็/conj เริ่ม/vi ไม่/neg พอใจ/vt ที่/prel มัน/pper ไม่/neg เชื่อฟัง/vi เขา/pper
+ต้น/ncn หญ้า/ncn ซุบซิบ/vi กัน/prec ว่า/conjncl
+"/punc ซา/npn ราห์เอาแต่ใจ/vt ตัว/ncn เอง/prfx ใหญ่/adv แล้ว/vpost "/punc
+ดอกไม้/ncn ทั้งหลาย/adj ก็/conj ไม่/neg ชื่นชม/vt แพะ/ncn ดื้อ/adj เช่น/conjncl นี้/det อีก/adv
+ใน/prep ที่สุด/adj พวก/nct มัน/pper ก็/conj เห็น/vt ด้วย/adv กับ/prep ต้น/ncn ลิ/ncn ลลี่ทุ่ง/npn
+แต่/conj ซา/npn ราห์ก็/part ยัง/prev คง/prev เอาแต่ใจ/vt ตัว/ncn โดย/conj ไม่/neg สนใจ/vt กับ/prep ความ/pref1 ไม่/neg พอใจ/vt ของ/prep ผู้/ncn อื่น/indet
+วัน/ncn หนึ่ง/adj
+ชาว/pref3 ไร่/ncn ผ่าน/vt มา/vpost และ/conj ถาม/vt มาร์แตง/adv ว่า/conjncl แพะ/ncn ของ/prep เขา/pper เป็น/vcs อย่างไร/pint บ้าง/pind
+"/punc ก็ดี/part ครับ/aff "/punc
+มาร์แตง/npn พูด/vt
+"/punc แต่/conj ซา/npn ราห์ทำให้/vcau ผม/pper หนักใจ/vi มาก/adv "/punc
+"/punc จับ/vt มัน/pper ใส่/vt ปลอกคอ/ncn สิ/part "/punc
+ชาว/pref3 ไร่/ncn แนะนำ/vt
+"/punc เอา/vt แบบ/ncn ที่/prel มี/vt กระดึง/ncn ด้วย/prep เสียง/ncn กระดึง/npn จะ/prev บอก/vt ให้/conjncl เธอ/pper รู้/vt ว่า/conjncl มัน/pper อยู่/vi ที่ไหน/pint "/punc
+พอ/conj ซา/npn ราห์ได้ยิน/npn ดังนั้น/conj ก็/conj แทบ/prev คลั่ง/vi
+มัน/pper จะ/prev ถูก/psm เขา/pper สวม/vt ปลอกคอ/ncn
+แถม/conj มี/vt กระดึง/vt ด้วย/adv !/punc
+ทุก/adj คน/cl พา/vt กัน/prec หัวเราะ/vt เยาะ/vt มัน/pper
+จริงๆ/adv
+ก็/conj ไม่/neg ทุก/adj คน/cl หรอก/part
+เพราะ/conj ลิ/ncn ลลี่ทุ่ง/npn ไม่/neg ได้/prev หัวเราะ/vt
+ความ/pref1 จริง/vi มัน/pper เป็น/vcs ดอกไม้/ncn ที่/prel ใจดี/adj ทีเดียว/part
+มัน/pper เห็น/vt น้ำตา/ncn ที่/prel ไหล/vi จาก/prep ดวงตา/ncn ของ/prep ซาราห์/npn
+แพะ/ncn น้อย/vi เดิน/vi ไป/vpost จาก/prep ฝูง/nct อย่าง/ncn เศร้า/vt สร้อย/adv
+และ/conj ก็/conj เริ่ม/vi ร้องไห้/vi
+ลา/vt ก่อน/adv ความ/pref1 ภาคภูมิ/adv ใจ/ncn
+ลา/vt ก่อน/adv ความ/pref1 เอาแต่ใจ/vt ตัว/ncn
+มัน/pper กำลัง/prev จะ/prev มี/vt ปลอกคอ/idm
+แพะ/ncn ที่/prel ไม่/neg มี/vt อิสระ/ncn นั้น/det ช่าง/prev น่า/prev อาย/vi เสีย/vpost จริงๆ/adv
+เมื่อ/conj ชาว/pref3 ไร่/ncn กลับ/vi ไป/vpost แล้ว/vpost
+มาร์แตง/npn ก็/conj เอา/vt ปลอกคอ/ncn ที่/prel มี/vt กระดึง/vi ออก/vpost มา/vpost เพื่อ/conj จะ/prev สวม/vt ให้/conjncl ซาราห์/npn
+แต่/conj เจ้า/ntit แพะ/ncn น้อย/vi ดิ้น/vi อย่าง/advm1 แรง/adv จน/conj ปลอกคอ/vi ขาด/vt
+"/punc ไม่/neg เป็นไร/vi "/punc
+เขา/pper ว่า/conjncl
+"/punc ฉัน/pper จะ/prev เก็บ/vt กระดึง/vi ไว้/vpost บน/prep หิ้ง/ncn ใน/prep ยุ้ง/ncn นี้/det ก่อน/adv แล้ว/vpost พรุ่งนี้/ncn ค่อย/prev เอา/vt ปลอกคอ/ncn อัน/prel ใหม่/vi มา/vpost ใส่/vt "/punc
+คืน/ncn นั้น/det ซา/npn ราห์นอน/vi ร้องไห้/vi อยู่/vpost ใต้/prep หิ้ง/ncn ที่/prel วาง/vt กระดึง/ncn
+มัน/pper เสียใจ/vi มาก/adv ที่/prel ไม่/neg มี/vt ใคร/pind ชื่นชม/vt อีก/adv ต่อ/adv ไป/vpost
+รุ่งเช้า/pper ก็/conj เดิน/vi เหม่อ/vi อย่าง/advm1 เศร้า/vt สร้อย/ncn
+ลิ/ncn ลลี่ทุ่ง/npn ร้อง/vi เรียก/vt มัน/pper ด้วย/prep ความ/pref1 สงสาร/vt
+"/punc เขย่า/vt หิ้ง/ncn สิ/part "/punc
+มัน/pper บอก/vt
+"/punc เอา/vt กระดึง/ncn นั่น/det มา/vpost ให้/vcau ฉัน/pper "/punc
+ซา/npn ราห์ไม่/npn เข้าใจ/vt ว่า/conjncl ลิ/ncn ลลี่ทุ่ง/npn กำลัง/prev จะ/prev ทำ/vt อะไร/pint
+แต่/conj มัน/pper ก็/conj ทำ/vt ตาม/prep ที่/prel ลิ/ncn ลลี่ทุ่ง/npn บอก/vt
+"/punc ทีนี้/npn "/punc
+ลิ/ncn ลลี่ทุ่ง/ncn พูด/vt
+"/punc จง/prev ให้/vt สัญญา/ncn ต่อหน้า/adv แพะ/ncn ตัว/ncn อื่นๆ/indet ว่า/conjncl เจ้า/pper จะ/prev เปลี่ยนแปลง/vt ตัว/ncn เอง/prfx เป็น/vcs แพะ/ncn ที่/prel สุภาพ/vi เรียบร้อย/adv จะ/prev ไม่/neg เป็น/vcs อย่าง/ncn เมื่อ/prep ก่อน/adv อีก/adv "/punc
+"/punc จ้ะ/npn ฉัน/pper สัญญา/ncn "/punc
+ซา/npn ราห์พูด/vt
+"/punc เอาละ/det กลับ/vi ไป/vpost เข้า/vi ฝูง/nct ได้/vpost แล้ว/vpost "/punc
+"/punc เธอ/pper จะ/prev เอา/vt กระดึง/vi ไป/vpost ทำ/vt อะไร/indet เห/vi รอ/vt "/punc
+ซา/npn ราห์ถาม/vi
+"/punc ก็/conj เอา/vt ไป/vpost ใช้/vt ของ/prep ฉัน/pper น่ะสิ/part "/punc
+ลิ/ncn ลลี่ทุ่ง/ncn ตอบ/vt
+ซา/npn ราห์ดีใจ/vi มาก/adv
+มัน/pper กระโดด/vi ไป/vpost มา/vpost อย่าง/advm1 สบาย/adv ใจ/ncn
+แต่/conj ก็/conj ไม่/neg ลืม/vt ที่/prel จะ/prev ทำตัว/vi สุภาพ/vi เรียบร้อย/adv ตาม/prep ที่/prel สัญญา/ncn ไว้/vpost
+มาร์แตง/npn หาก/conj ระ/npn ดึง/vt ไม่/neg เจอ/vt
+แต่/conj เขา/pper ก็/conj ไม่/neg กังวล/vi ใจ/ncn อีก/adv แล้ว/vpost
+เพราะ/conj ซา/npn ราห์กลาย/vi เป็น/vcs แพะ/ncn ที่/prel ว่าง่าย/vi ไม่/neg ดื้อ/vi เหมือน/adv อย่าง/advm1 เคย/prev
+มัน/pper รีบ/vi ขาน/vt รับ/vt ทันที/adv ที่/prel เขา/pper ร้อง/vi เรียก/vt
+แต่/conj เขา/pper ก็/conj สังเกต/vt เห็น/vt บาง/adj อย่าง/cl ที่/prel แปลก/vi ไป/vpost
+ซา/npn ราห์มัก/vt เลีย/vt ต้น/ncn ลิ/ncn ลลี่ทุ่ง/ncn แปลก/adj ๆ/punc
+ต้น/ncn หนึ่ง/adj เหมือน/vcs กำลัง/prev ขอบคุณ/vt
+และ/conj ยิ่ง/adv ไป/vpost กว่า/adv นั้น/det ก็/conj คือ/vcs ดอก/ncn ลิ/ncn ลลี่ทุ่ง/ncn ของ/prep ต้น/ncn นั้น/det มี/vt รูปร่าง/ncn เหมือน/adv กระดึง/adv
+ไม่/neg เหมือนกับ/vcs ต้น/ncn อื่นๆ/indet
+ที่/prel มี/vt ลักษณะ/ncn กลม/adj ๆ/punc
+มี/vt เพียง/adv ซา/npn ราห์ตัว/ncn เดียว/adj ที่/prel รู้/vt ว่า/conjncl ทำไม/pint จึง/conj เป็น/vcs เช่น/conjncl นั้น/det

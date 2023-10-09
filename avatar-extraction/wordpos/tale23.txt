@@ -1,0 +1,53 @@
+หงส์/npn ขน/vt ทอง/ncn
+กาล/ncn ครั้ง/cl หนึ่ง/adj ใน/prep ทะเลสาบ/ncn ที่/prel สวย/vi งาม/vi
+มี/vt หงส์/ncn ที่/prel หลง/vi ตัว/ncn เอง/prfx ตัว/ncn หนึ่ง/adj
+มัน/pper ชอบ/vt ดูถูก/vt สัตว์/ncn อื่นๆ/indet
+ว่า/conjncl ต่ำต้อย/vi กว่า/prep ตน/pper
+เพราะ/conj มัน/pper สืบ/vt เชื้อสาย/ncn มา/vpost จาก/prep ตระกูล/ncn หงส์/npn ที่/prel สูง/vi ศักดิ์/npn ใน/prep สมัย/ncn โบราณ/adj
+คืน/vt หนึ่ง/adj หงส์/ncn ผู้/pref2 เย่อหยิ่ง/vi สังเกต/vt เห็น/vt ขน/ncn ทองคำ/ncn เส้น/ncn หนึ่ง/adj งอก/vi ออก/vpost มาตรง/ncn ปลาย/adj ปีก/ncn
+พอ/conj วัน/ncn รุ่ง/vi ขึ้น/vpost ก็/conj พบ/vt อีก/adv เส้น/ncn หนึ่ง/adj ที่/prep คอ/ncn
+และ/conj วัน/ncn ต่อ/vt มา/vpost ก็/conj พบ/vt อีก/adv เส้น/ncn หนึ่ง/adj ที่/prel ปลาย/adj หาง/ncn
+เชื่อ/vt ไหม/pint ว่า/conjncl มัน/pper ไม่/neg รู้สึก/vi แปลก/vi ใจ/ncn สัก/npn นิดเดียว/adv
+เพราะ/conj มัน/pper คิด/vt ว่า/conjncl มัน/pper สมควร/vi จะ/prev ได้/prev รับ/vt สิ่ง/ncn เหล่า/nct นี้/det อยู่/vi แล้ว/vpost
+และ/conj ยิ่ง/adv กว่า/adv นั้น/det มัน/pper กลับ/vi กำลัง/prev รอ/vt ว่า/conjncl เมื่อ/conj ใด/indet จะ/prev มี/vt มงกุฎ/ncn งอก/vi ขึ้น/vpost บน/prep หัวเสีย/npn ที/part
+พวก/nct นักท่องเที่ยว/npn และ/conj ชาว/pref3 เมือง/ncn พา/vt กัน/prec มา/vpost ดู/vt หงส์/npn ประหลาด/vi สี/ncn ทอง/ncn อย่าง/advm1 ตื่นเต้น/vi
+แต่/conj ความ/pref1 จริง/vi อย่าง/advm1 หนึ่ง/adj ก็/conj คือ/vcs
+ยิ่ง/adv ขน/vt ทอง/ncn งอก/vi ออก/vpost มา/vpost แทน/vt ขน/ncn ขาว/adj มาก/adv ขึ้น/vpost
+หงส์/npn ผู้/pref2 ยิ่ง/prev ใหญ่/adj ก็/conj ยิ่ง/prev มี/vt น้ำหนัก/ncn มาก/adv ขึ้น/vpost
+ทำให้/vcau มัน/pper ว่าย/vi น้ำ/ncn ลำบาก/vi
+พวก/nct เป็ด/ncn มอง/vt ดู/vt พญา/ncn หงส์/npn ผู้/pref2 สูง/vi ศักดิ์/npn อย่าง/cl แปลก/adj ใจ/ncn เพราะ/conj มัน/pper ลาก/vt ตัว/ncn ขึ้น/vpost บน/prep ตลิ่ง/ncn และ/conj ซ่อน/vt ตัว/ncn อยู่/vpost ใต้/prep สะพาน/ncn
+ใน/prep ที่สุด/adv
+เมื่อ/conj ขน/ncn ขาว/adj อัน/prel สุดท้าย/adj เปลี่ยน/vt เป็น/advm2 ทอง/ncn
+ขณะ/ncn ที่/prel มัน/pper จุ่ม/vt หัว/ncn ลง/vpost ใน/prep น้ำ/ncn เพื่อ/conj มอง/vt หา/vt อาหาร/ncn
+หงส์/npn
+ผู้/pref2 ยิ่ง/prev ใหญ่/adj ก็/conj จม/vi ดิ่ง/vi ลง/vpost ไป/vpost ก้น/ncn คลอง/ncn ทันที/adv
+เป็ด/ncn น้อย/adj ตัว/ncn หนึ่ง/adj เห็น/vt เข้า/vi ก็/conj รีบ/vi ดำ/vi น้ำลง/vi ไป/vpost ช่วย/vt ด้วย/prep ความ/pref1 เป็น/vcs ห่วง/ncn
+ตอน/ncn แรก/adj เป็ด/ncn ตัว/ncn อื่น/indet ก็/conj ไม่/neg อยาก/prev ช่วย/vt เจ้า/ntit หงส์/npn ขน/vt ทอง/ncn
+แต่/conj ไม่/neg นาน/vi ก็/conj ใจอ่อน/vi
+พวก/nct มัน/pper ช่วย/vt กัน/prec ดึง/vt ร่าง/ncn เจ้า/ntit หงส์/npn ขึ้น/vpost มาบน/vt ตลิ่ง/ncn
+หงส์ทอง/npn นอน/vi แผ่/vt บน/prep หญ้า/ncn เหมือนกับ/vcs ตาย/vi ไป/vpost แล้ว/vpost
+ไม่/neg นาน/adv มัน/pper ก็/conj ลืมตา/vi ขึ้น/vpost
+เมื่อ/conj คิด/vt ทบทวน/vt เหตุการณ์/ncn ครู่/ncn หนึ่ง/adj
+เจ้า/ntit หงส์/npn ก็/conj สำนึก/vi ได้/vpost ว่า/conjncl มัน/pper ได้/prev รับ/vt ความ/pref1 ช่วยเหลือ/vt จาก/prep ผู้/pref2 ที่/prel มัน/pper เคย/prev ดูถูก/vt เหยียดหยาม/ncn มา/vpost ก่อน/adv
+"/punc ขอบใจ/vt เพื่อน/ncn รัก/vt "/punc
+มัน/pper พึมพำ/vi
+เพราะ/conj ไม่/neg ถนัด/vt ที่/prel จะ/prev ทำตัว/vi ให้/conjncl น่า/prev รัก/vt
+"/punc เจ้า/pper ต้อง/prev ขอบใจ/vt เป็ด/ncn น้อย/adv ต่างหาก/adv "/punc
+เป็ด/ncn ตัว/ncn อื่นๆ/indet บอก/vt พลาง/adv บุ้ยใบ้/vi ไป/vpost ที่/prep ผู้/pref2 ช่วย/vt ชีวิต/ncn ตัว/ncn น้อย/adj ซึ่ง/prel ยืน/vi เขิน/vi อยู่/vpost ห่าง/adv ๆ/punc
+"/punc เจ้า/pper นั่น/det น่ะหรือ/vi "/punc
+หงส์/npn แปลก/vi ใจ/ncn
+นึก/vt ขึ้น/vpost ได้/vpost ว่า/conjncl เจ้าตัว/pper นี้/det เอง/prfx ที่/prel มัน/pper เคย/prev เกลียด/vi ที่สุด/adv
+"/punc ขอบใจ/vt เจ้า/ncn มาก/adv นะ/part เป็ด/ncn น้อย/adv "/punc
+เจ้า/ntit หงส์/npn บอก/vt อย่าง/advm1 จริงใจ/vi
+ความ/pref1 สำนึก/vi ผิด/vi ครั้ง/cl นี้/det ทำให้/vcau เกิด/vt ผล/ncn บาง/adj อย่าง/advm1 ตาม/adv มา/vpost
+ใน/prep วัน/ncn รุ่ง/vi ขึ้น/vpost เมื่อ/conj ตื่น/vi ขึ้น/vpost
+ขน/vt ทอง/ncn ทุก/adj เส้น/ncn ก็/conj หาย/vi ไป/vpost
+และ/conj เงา/ncn สี/ncn ขาว/adj งาม/vi สง่า/vi เช่น/conjncl ครั้ง/ncn ก่อน/adj ก็/conj กลับคืน/vi มา/vpost ใหม่/adv
+ดูราว/ncn กับ/prep ตุ๊กตา/ncn กระเบื้อง/ncn เคลือบ/vt ที่/prel สะท้อน/vi ภาพ/ncn จาก/prep กระจกเงา/ncn
+ความ/pref1 ประพฤติ/vi ของ/prep เจ้า/ntit หงส์/npn เปลี่ยน/vt ไป/vpost มาก/adv
+สุภาพ/vi อ่อนโยน/vi และ/conj มี/vt น้ำใจ/ncn
+มัน/pper ลอย/vi อวด/vt โฉม/ncn เพื่อ/conj รอ/vt รับ/vt เศษ/adj ขนมปัง/ncn ที่/prel เด็ก/ncn ๆ/punc
+โยน/vt ใส่/vt
+และ/conj คน/ncn ที่/prel ผ่าน/vt ไป/vpost มา/vpost มัก/prev จะ/prev แปลก/vi ใจ/ncn ที่/prel เห็น/vt มัน/pper ว่าย/vi น้ำ/ncn อยู่/vpost ร่วม/vt กับ/prep ลูก/ncn เป็ด/ncn น้อย/adv สี/ncn เทา/adj
+ตัว/ncn หนึ่ง/adj เป็น/advm2 ประจำ/adv
+ดูเหมือน/vcs มัน/pper จะ/prev รัก/vt ลูก/ncn เป็ด/ncn ตัว/ncn นั้น/det มาก/adv ทีเดียว/part

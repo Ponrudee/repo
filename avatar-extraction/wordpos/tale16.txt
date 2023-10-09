@@ -1,0 +1,86 @@
+กบ/ncn ผู้/pref2 เฒ่า/ncn นั่ง/vi เฝ้า/vt กอ/nct บัว/ncn
+กาล/ncn ครั้ง/cl หนึ่ง/adj นาน/adv มา/vpost แล้ว/vpost
+กบ/ncn ฝูง/cl หนึ่ง/adj พา/vt กัน/prec ออก/vpost ไป/vpost หากิน/vi แมลง/ncn ตาม/prep แหล่ง/ncn น้ำ/ncn ต่างๆ/adj
+แต่/conj เผอิญ/vi กบ/ncn ผู้/pref2 เฒ่า/ncn พลัด/vt ตกลง/vi ไป/vpost ใน/prep อ่าง/ncn บัว/ncn
+เมื่อ/conj กบ/ncn ตัว/ncn อื่นๆ/indet
+เห็น/vt ก็/conj กระโดด/vi ตาม/prep กบ/ncn ผู้/pref2 เฒ่า/ncn ลง/vpost ไป/vpost ใน/prep อ่าง/ncn บัว/ncn อีก/adj
+จน/conj สุดท้าย/adj กบ/ncn ทั้ง/adj ฝูง/cl พา/vt กัน/prec ตกลง/vi มา/vpost ลอยคอ/idm ตุ๊บป่อง/idm
+ตุ๊บป่อง/ncn
+อยู่/vi ใน/prep อ่าง/ncn บัว/ncn
+"/punc เอ๊า/npn !/punc พวก/nct เจ้า/pper กระโดด/vi ลง/vpost มา/vpost ทำไม/pint กัน/prec ข้า/pper น่ะแก่/vt แล้ว/vpost สายตา/ncn ก็/conj ฝ้า/ncn ฟาง/ncn ข้า/pper จึง/conj เผลอ/vi ตกลง/vi มา/vpost หรอก/part นะ/part "/punc
+กบ/ncn ผู้/pref2 เฒ่า/ncn กล่าว/vt
+"/punc ข้า/pper ก็/conj ไม่/neg รู้/vt เห็น/vt ท่าน/pper กระโดด/vi ลง/vpost มา/vpost ก็/conj เลย/vi กระโดด/vi ตาม/adv "/punc
+กบ/ncn ตัว/ncn หนึ่ง/adj กล่าว/vt
+"/punc ส่วน/conj ข้า/pper ก็/conj ไม่/neg รู้/vt พอ/adv ข้า/pper เห็น/vt เขา/pper กระโดด/vi ลง/vpost มา/vpost ข้า/pper ก็/conj เลย/vi กระโดด/vi ตาม/prep เขา/pper ลง/vpost มา/vpost "/punc
+กบ/ncn อีก/adj ตัว/ncn กล่าว/vt
+"/punc ส่วน/conj ข้า/pper เอง/prfx ก็/conj ไม่/neg รู้/vt เหมือน/adv กัน/prec พอ/adv ข้า/pper เห็น/vt ท่าน/pper ผู้/pref2 เฒ่า/ncn กับ/prep กบ/ncn บ้า/npn อีก/adj สอง/nnum ตัว/cl กระโดด/vi ลง/vpost มา/vpost ข้า/pper ก็/conj เลย/vi กระโดด/vi ตาม/adv "/punc
+กบ/ncn ตัว/cl ที่/norm สาม/nnum กล่าว/vt
+"/punc เจ้า/ntit ว่า/conjncl ใคร/pind บ้า/vt "/punc
+"/punc ก็/conj เจ้า/ntit น่ะสิ/npn นี่/det เลย/part ตกลง/vi มา/vi กัน/prec หมด/adv "/punc
+"/punc ช่วย/vt ไม่/neg ได้/vpost เจ้า/ncn โง่/adj เอง/prfx กระโดด/vi ตาม/prep ข้า/pper ลง/vpost มา/vpost ทำไม/pint ล่ะ/part "/punc
+กบ/ncn ทั้งหลาย/adj เริ่ม/vi เถียง/vt กัน/prec อย่าง/advm1 ไม่/neg สบ/vt อารมณ์/ncn
+"/punc พอ/adv ๆ/punc หยุด/vt ได้/vpost แล้ว/vpost "/punc
+กบ/ncn ผู้/pref2 เฒ่า/ncn กล่าว/vt
+"/punc อย่า/neg เพิ่ง/prev เถียง/vt กัน/prec เลย/part ว่า/conjncl ใคร/pind ผิด/vi ใคร/pind ถูก/vi ไหน/pint ๆ/punc ก็/conj ตกลง/vi มา/vi กัน/prec หมด/adv แล้ว/vpost หา/vt ทาง/ncn ขึ้น/vpost ไป/vpost ให้/vt ได้/vpost ก่อน/adv เถอะ/part "/punc
+"/punc ใน/prep บรรดากบ/ncn ทั้งหมด/adj นี้/det เจ้าขา/ncn ยาว/adj ที่สุด/adv ลอง/vt ดู/vt สิ/part ว่า/conjncl จะ/prev กระโดด/vi ขึ้น/vpost ไป/vpost ได้/vpost ไหม/pint "/punc
+กบ/ncn ผู้/pref2 เฒ่า/ncn กล่าว/vt กับ/prep กบ/ncn หนุ่ม/adj ตัว/ncn หนึ่ง/adj
+"/punc ครับ/aff ท่าน/pper "/punc
+กบ/ncn หนุ่ม/adj รับคำ/vt
+กบ/ncn หนุ่ม/adj รวบรวม/vt พละ/npn กำลัง/ncn ทั้งหมด/adj
+แล้ว/conj กระโดด/vi ขึ้น/vpost ไป/vpost หมาย/ncn จะ/prev ข้าม/vt ขอบ/ncn อ่าง/ncn บัว/ncn ออก/vpost ไป/vpost ให้/conjncl ได้/prev แต่/conj เพราะ/conj ระดับ/ncn น้ำ/ncn กับ/prep ขอบ/ncn อ่าง/ncn ห่าง/vi มาก/adv เกินไป/adv
+กบ/ncn หนุ่ม/adj กระโดด/vi ไป/vpost ชน/vt เข้า/vi กับ/prep ข้าง/ncn ฝา/ncn ผนัง/ncn ของ/prep อ่าง/ncn บัว/ncn อย่าง/advm1 จัง/adv
+ตู้ม/npn !/punc
+ทำให้/vcau กบ/ncn หนุ่ม/adj ร่วง/vi ลง/vpost มา/vpost ใน/prep อ่าง/ncn บัว/ncn ดัง/adj เดิม/adj
+"/punc เป็น/vcs ยัง/prev ไงบ้าง/vt "/punc
+กบ/ncn ผู้/pref2 เฒ่า/ncn ถาม/vt
+"/punc ไม่/neg ไหว/adv ครับ/aff ข้า/pper กระโดด/vi สุดกำลัง/adv แล้วแต่/conj ก็/conj ออก/vt ไป/vpost ไม่/neg ได้/vpost "/punc
+กบ/ncn หนุ่ม/adj ตอบ/vt
+"/punc ทำ/vt ยัง/prev ไงดีล่ะ/det เรา/pper ต้อง/prev ตาย/vi กัน/prec แน่/adv ๆ/punc เลย/vi ถ้า/conj กระโดด/vi ขึ้น/vpost ไป/vpost ไม่/neg ได้/vpost "/punc
+กบ/ncn ตัว/ncn หนึ่ง/adj กล่าว/vt ขึ้น/vpost มา/vpost
+"/punc ใช่/vt ๆ/punc ๆ/punc เรา/pper จะ/prev ทำ/vt ยัง/prev ไงกัน/vi ดี/adv "/punc
+กบ/ncn ทั้ง/adj ฝูง/cl ส่งเสียง/vi ร้อง/vi โวยวาย/vi กัน/prec จ้าละหวั่น/adv
+เหตุการณ์/ncn เริ่ม/vi วุ่นวาย/vi ขึ้น/vpost เรื่อยๆ/adv
+กบ/ncn บาง/adj ตัว/ncn ร้องไห้/vi เมื่อ/conj ทราบ/vt ชะตา/ncn กรรม/ncn ว่า/conjncl ตัว/ncn เอง/prfx กำลัง/prev จะ/prev อด/vt ตาย/vi ใน/prep อ่าง/ncn บัว/ncn
+กบ/ncn บาง/adj ตัว/ncn ก็/conj ตำหนิ/vt ด่าทอ/ncn ว่าเป็น/ncn เพราะ/conj กบ/ncn อีก/adj ตัว/ncn กระโดด/vi ลง/vpost มา/vpost
+ตน/pper เอง/prfx จึง/conj กระโดด/vi ตาม/adv
+กบ/ncn บาง/adj ตัว/ncn ก็/conj รวบรวม/vt พลัง/ncn กระโดด/vi เพื่อ/conj ที่/prel จะ/prev ให้/vcau หลุดพ้น/vi ออก/vpost ไป/vpost จาก/prep อ่าง/ncn บัว/ncn
+แต่/conj ก็/conj ไม่/neg สำเร็จ/vi
+บ้าง/pind ก็/conj กระโดด/vi ชน/ncn กันเอง/adj
+แล้ว/conj ก็/conj มี/vt ปาก/ncn มีเสียง/vi กัน/prec ตี/vt กัน/prec วุ่นวาย/vi ไป/vpost หมด/adv
+แต่/conj มี/vt กบ/ncn อยู่/vpost เพียง/adv สอง/nnum ตัว/cl เท่านั้น/adv ที่/prel ยัง/prev คง/prev มี/vt อาการ/ncn สงบ/vi นิ่ง/vi นั่น/pdem ก็/conj คือ/vcs
+กบ/ncn หนุ่ม/adj
+กับ/prep
+กบ/ncn ผู้/pref2 เฒ่า/ncn
+"/punc ท่าน/pper ครับ/aff เรา/pper จะ/prev ทำ/vt อย่างไร/pint กัน/prec ดี/adv "/punc
+กบ/ncn หนุ่ม/adj ถาม/vt กบ/ncn ผู้/pref2 เฒ่า/ncn
+"/punc ใจเย็น/npn ๆ/punc เรา/pper ต้อง/prev มี/vt สติ/ncn ค่อยๆ/adj คิด/vt ความ/pref1 ตื่นตูม/vi ขาด/vt สติ/ncn คือ/vcs การ/pref1 วิ่ง/vi ไป/vpost สู่/prep ความ/pref1 ตาย/vi "/punc
+"/punc ครับ/aff ท่าน/pper "/punc
+กบ/ncn หนุ่ม/adj ตอบ/vt
+เมื่อ/conj กบ/ncn หนุ่ม/adj ฟัง/vt แล้ว/vpost
+เขา/pper ก็/conj ลอยคอ/vi อยู่/vpost นิ่ง/adv ๆ/punc
+อยู่/vi ใน/prep น้ำ/ncn ไม่/neg ขยับ/vt ตัว/ncn เคลื่อนไหว/vi
+ส่วน/conj กบ/ncn ผู้/pref2 เฒ่า/ncn ก็/conj ขึ้น/vpost ไป/vpost นั่ง/vi หลับตา/vi อยู่/vpost บน/prep ใบ/ncn บัว/ncn นิ่ง/vi ๆ/punc
+คิด/vt หา/vt วิธี/ncn ที่/prel จะ/prev ออก/vi ไป/vpost จาก/prep อ่าง/ncn บัว/ncn ให้/vt ได้/vpost
+เวลา/ncn ผ่าน/vt ไป/vpost วันแล้ววันเล่า/adv
+กบ/ncn จำนวน/ncn ไม่/neg น้อย/vi จม/vi น้ำตาย/vi เพราะ/conj ความ/pref1 เหน็ดเหนื่อย/vi
+กบ/ncn บาง/adj ตัว/ncn ก็/conj จม/vi น้ำตาย/vi เพราะ/conj ความ/pref1 หิว/vt
+ส่วน/conj กบ/ncn ตัว/ncn ที่/prel เหลือ/vi อยู่/vpost ก็/conj อ่อน/adj แรง/ncn ลง/vpost ไป/vpost มาก/adv จึง/conj ได้/prev แต่/conj ลอยคอ/vi อยู่/vpost นิ่ง/adv ๆ/punc
+ใน/prep น้ำ/ncn
+ห้า/nlab วัน/ncn ผ่าน/vt ไป/vpost
+ใน/prep ที่สุด/adv กบ/ncn ผู้/pref2 เฒ่า/ncn ซึ่ง/prel นั่ง/vi นิ่ง/adv ๆ/punc
+อยู่/vpost
+ก็/conj ลืมตา/vi ขึ้น/vpost
+แล้ว/conj ก็/conj แหงน/vi หน้า/ncn มอง/vt ขึ้น/vpost ไป/vpost บน/prep ฟ้า/ncn
+"/punc อ๊อบ/vt อ๊อบ/vt อ๊อบ/ncn อ๊อบ/npn .../punc อ๊อบ/vt อ๊อบ/vt อ๊อบ/ncn อ๊อบ/npn "/punc
+กบ/ncn ผู้/pref2 เฒ่า/ncn ส่งเสียง/vi ร้อง/vi ก้อง/vt กังวาน/vi
+ฉับพลัน/adv กบ/ncn หนุ่ม/adj ก็/conj อุทาน/vi ออก/vpost มา/vpost
+"/punc เข้าใจ/vt แล้ว/vpost ท่าน/ntit ผู้/pref2 เฒ่า/ncn กำลัง/prev เรียก/vt ฝน/ncn "/punc
+แล้ว/conj กบ/ncn หนุ่ม/adj ก็/conj ตะโกน/vi ชักชวน/vt กบ/ncn ตัว/ncn อื่นๆ/indet
+"/punc เอ้า/npn !/punc เร็ว/adv เข้า/vpost พวก/nct เรา/pper มา/vi ช่วย/vt กัน/prec เรียก/vt ฝน/ncn อ๊อบ/vt อ๊อบ/ncn อ๊อบ/npn "/punc
+"/punc อ๊อบ/vt อ๊อบ/ncn อ๊อบ/vt อ๊อบ/ncn อ๊อบ/npn ๆ/punc ๆ/punc ๆ/punc อ๊อบ/npn !!!/punc "/punc
+กบ/ncn ที่/prel ยัง/prev พอ/prev มี/vt แรง/ncn อยู่/vpost จึง/conj ช่วย/vt กัน/prec ร้อง/vi เรียก/vt ฝน/ncn
+จน/conj ใน/prep ที่สุด/adj ฝน/ncn ก็/conj ตกลง/vi มา/vpost
+เมื่อ/conj ฝน/ncn ตกลง/vi มา/vpost น้ำ/ncn ใน/prep อ่าง/ncn บัว/ncn จึง/conj เพิ่ม/vt ปริมาณ/ncn ขึ้น/vpost เรื่อยๆ/adv
+เมื่อ/conj น้ำ/ncn เพิ่ม/vt ขึ้น/vpost เรื่อยๆ/adv
+จน/conj ล้น/vi อ่าง/ncn บัว/ncn
+ใน/prep ที่สุด/adv กบ/ncn ทุก/adj ตัว/ncn ก็/conj ออก/vi มา/vpost จาก/prep อ่าง/ncn บัว/ncn ได้/vpost สำเร็จ/adv

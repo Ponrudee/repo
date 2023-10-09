@@ -1,0 +1,63 @@
+น้ำตา/ncn ของ/prep เมฆ/ncn น้อย/adv
+ก้อน/ncn เมฆ/ncn เป็น/vcs นัก/pref2 เดินทาง/vi ผู้/pref2 ยิ่ง/prev ใหญ่/adj โดย/conj มี/vt ลม/ncn คอย/vt พัด/vi ให้/conjncl มัน/pper ลอย/vi ไป/vpost
+มัน/pper ลอย/vi ละ/adj ล่อง/vi ไป/vpost ใน/prep ท้อง/ncn ฟ้า/adj ราวกับ/conj เป็น/vcs เรือ/ncn ใบ/ncn
+ชีวิต/ncn ของ/prep ก้อน/ncn เมฆ/ncn น้อย/adv ๆ/punc
+น่า/prev จะ/prev มี/vt แต่/conj ความ/pref1 สุข/vi สนุกสนาน/adv
+แต่/conj เรื่อง/ncn ที่/prel จะ/prev เล่า/vt ให้/conjncl ฟัง/vt ต่อ/adv ไป/vpost นี้/det จะ/prev ทำให้/vcau เรา/pper รู้/vt ว่า/conjncl เมฆ/ncn ก้อน/cl น้อย/adj ก็/conj อาจ/prev มี/vt ความ/pref1 ทุกข์/vi ได้/vpost เหมือน/adv กัน/prec
+กาล/ncn ครั้ง/cl หนึ่ง/adj
+มี/vt เมฆ/ncn น้อย/adv ก้อน/cl หนึ่ง/adj ลอย/vi ตาม/prep ลม/ncn อยู่/vpost ใน/prep ท้อง/ncn ฟ้า/ncn สี/ncn คราม/vi อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+เมฆ/ncn น้อย/adj ไม่/neg เคย/prev รู้/vt เลย/part ว่า/conjncl ตัว/ncn เอง/prfx มีหน้า/adv ที่/prel รดน้ำ/vi ต้นไม้/ncn
+ดังนั้น/conj บน/prep พื้น/ncn โลก/ncn จึง/conj แทบ/prev ไม่/neg มี/vt ต้นไม้/ncn ใดๆ/indet
+ขึ้น/vpost เลย/part
+วัน/ncn หนึ่ง/adj
+เมฆ/ncn น้อย/vi เห็น/vt ดอกไม้/ncn เล็ก/adj ๆ/punc
+ดอก/ncn หนึ่ง/adj กำลัง/prev ต่อสู้/vi กับ/prep ความ/pref1 ตาย/vi
+พระอาทิตย์/ncn ผู้/pref2 โหดร้าย/vi ทำให้/vcau หลอดเลือด/ncn ที่/prel บอบบาง/vi ของ/prep มัน/pper แห้ง/vi ลง/vpost
+และ/conj กลีบ/ncn ดอก/ncn สี/ncn ขาว/adj ก็/conj เหี่ยว/vi เฉา/vi ไป/vpost
+ดอกไม้/ncn ดอก/ncn เล็ก/adj ๆ/punc
+ที่/prel เกิด/vt มา/vpost อย่าง/advm1 ยาก/adv ลำบาก/vi กำลัง/prev จะ/prev ตาย/vi ลง/vpost
+เพราะ/conj ผืน/ncn ดิน/ncn แห้ง/vi แข็ง/vi และ/conj ลม/ncn ก็/conj ไม่/neg ได้/prev พัด/vi พา/vt เอา/vt ความ/pref1 ชุ่มชื้น/vi มา/vpost ด้วย/adv
+เมฆ/ncn น้อย/vi รู้สึก/vi ทุกข์/vi ใจมาก/adv เมื่อ/conj เห็น/vt ดอกไม้/ncn นั้น/det
+"/punc ฉัน/pper จะ/prev ต้อง/prev ลง/vt ไป/vpost ข้าง/cl ล่าง/adj เพื่อ/prep ปลอบโยน/ncn มัน/pper สัก/vt หน่อย/adv "/punc
+เมฆ/ncn น้อย/vi รำพึง/vi กับ/prep ตัว/ncn เอง/prfx
+แต่/conj เรื่อง/ncn นี้/det ไม่/neg ใช่/vt เรื่อง/ncn ง่าย/adv
+เพราะ/conj มัน/pper ไม่/neg สามารถ/vi ลง/vpost ไป/vpost ยัง/prep พื้น/ncn ดิน/ncn เบื้อง/ncn ล่าง/adj ได้/vpost ถ้า/conj ท้อง/ncn ฟ้า/ncn ไม่/neg อนุญาต/vt
+เมฆ/ncn น้อย/vi พยายาม/vi ต่อสู้/vi ดิ้นรน/vi ให้/conjncl พ้น/vi จาก/prep พลัง/ncn อำนาจ/ncn ของ/prep ท้อง/ncn ฟ้า/ncn ที่/prel ฉุด/vt มัน/pper ไว้/vpost
+แต่/conj ก็/conj ทำ/vt ไม่/neg สำเร็จ/vi
+ลม/ncn ที่/prel จะ/prev มา/vi ช่วย/vt พัด/vi ก็/conj ไม่/neg มี/vt
+ใน/prep ขณะ/ncn เดียวกัน/adj
+ดอกไม้/ncn น้อย/adv ๆ/punc
+ก็/conj ค่อยๆ/adv
+ตาย/vi ลง/vpost ไป/vpost ช้า/adv ๆ/punc
+เหมือน/vcs เปลว/ncn เทียน/ncn ที่/prel ค่อยๆ/adv
+ดับ/vt แสง/ncn
+ครั้น/conj แล้ว/conj เมฆ/ncn น้อย/adj ก็/conj ระเบิด/ncn ความ/pref1 อัดอั้นตันใจ/vi ออก/vpost มา/vpost
+มัน/pper ร้องไห้/vi อย่าง/advm1 สิ้น/adv หวัง/vi
+น้ำตา/ncn ของ/prep มัน/pper เริ่ม/vi จาก/prep เป็น/vcs ฝอย/ncn ๆ/punc
+แล้ว/vpost ค่อยๆ/adv
+โต/vi ขึ้น/vpost เป็น/advm2 เม็ด/ncn เหมือน/adv ไข่มุก/adv
+หยด/vi ลง/vpost ถูก/vt ดอกไม้/ncn น้อย/adv ๆ/punc
+ซึ่ง/prel ดื่ม/vt น้ำ/ncn วิเศษ/vi นั้น/det อย่าง/advm1 กระหาย/vt ด้วย/prep ความ/pref1 ตื่นเต้น/vi ยินดี/vi
+เมฆ/ncn น้อย/vi ไม่/neg รู้/vt มา/vpost ก่อน/adv เลย/part ว่า/conjncl มัน/pper ได้/prev ทำ/vt น้ำ/ncn ฝน/ncn ขึ้น/vpost มา/vpost แล้ว/vpost
+ผืน/ncn ดิน/ncn ถูก/psm ปกคลุม/vt ด้วย/prep ทุ่ง/ncn หญ้า/ncn เขียว/adj ขจี/npn
+ดอกไม้/ncn ปรากฏ/vi ขึ้น/vpost เต็ม/vt ท้อง/ncn ทุ่ง/ncn
+และ/conj ต้นไม้/ncn ก็/conj งอก/vi ขึ้น/vpost มา/vpost
+เมฆ/ncn ก้อน/cl อื่นๆ/indet
+เห็น/vt เพื่อน/ncn โศก/adj เศร้า/vt ก็/conj พลอย/vi ร้องไห้/vi ไป/vpost ด้วย/adv
+ทุกๆ/adj
+ที่/prel ที่/prel มี/vt เมฆ/ncn อยู่/vpost ก็/conj จะ/prev มี/vt สาย/ncn ฝน/ncn ตก/vi กระจาย/vi ไป/vpost ด้วย/adv
+พันธุ์/ncn พืช/ncn จึง/conj เจริญ/vi งอกงาม/vi ขยาย/vt ออก/vpost ไป/vpost ทั่ว/adv ทุก/adj ทิศ/cl
+ภูเขา/ncn ก็/conj ถูก/psm ปกคลุม/vt ด้วย/prep ป่า/ncn เขียว/adj ชอุ่ม/ncn
+ก้อน/ncn เมฆ/ncn ประหลาด/adj ใจ/ncn ที่/prel เห็น/vt ดอกไม้/ncn ดอก/ncn เล็ก/adj ๆ/punc
+กลับ/vi ฟื้น/vi ขึ้น/vpost อย่าง/advm1 เข้มแข็ง/adv
+มัน/pper แปลก/vi ใจ/ncn จน/conj หยุด/vi ร้องไห้/vi
+เมฆ/ncn ก้อน/cl อื่นๆ/indet
+ก็/conj หยุด/vt หลั่ง/vt น้ำตา/ncn
+เมื่อ/conj เห็น/vt การ/pref1 เปลี่ยนแปลง/vt อัน/prel มหัศจรรย์/vi ที่/prep ตัว/ncn เอง/prfx ทำ/vt
+โลก/ncn ที่/prel แห้งแล้ง/vi กลาย/vi เป็น/vcs โลก/ncn ที่/prel ร่มเย็น/vi
+แล้ว/conj สัตว์/ncn ตัว/ncn แรก/adj ก็/conj เกิด/vt ขึ้น/vpost
+ด้วย/prep แรง/ncn ลม/ncn ช่วย/vt เป่า/ncn
+เมฆ/ncn ทั้งหลาย/adj ก็/conj เริ่ม/vi การ/pref1 เดินทาง/vi อัน/prel ยิ่ง/adv ใหญ่/vi ต่อ/adv ไป/vpost
+ตั้งแต่/prep นั้น/det มา/vpost
+ทุก/adj ครั้ง/cl ที่/prel เห็น/vt ต้นไม้/ncn ต้องการ/vt น้ำ/ncn
+เมฆ/ncn ก็/conj จะ/prev รู้สึก/vi ทุกข์/vi ใจ/ncn และ/conj ร้องไห้/vi ออก/vpost มา/vpost

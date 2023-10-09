@@ -1,0 +1,35 @@
+นิทาน/ncn หิ่งห้อย/ncn
+มี/vt เรื่อง/ncn เล่า/vt มากมาย/adv หลาย/adj เรื่อง/ncn เกี่ยว/vi กับ/prep รุ้ง/ncn กินน้ำ/ncn
+แต่/conj เคย/prev ได้ยิน/vt เรื่อง/ncn นี้/det กัน/prec หรือ/conj ยัง/prev
+ตาม/prep ธรรมดา/adj เมื่อ/prep พระอาทิตย์/ncn กำลัง/prev ส่อง/vi แสง/ncn จ้า/adv อยู่/vpost บน/prep ฟ้า/ncn
+ฝน/ncn ก็/conj จะ/prev ไม่/neg ตก/vi
+เพราะ/conj พระอาทิตย์/ncn ที่/prel แจ่มใส/vi กับ/prep ฝน/ncn ที่/norm แสน/nnum เศร้า/vt นั้น/det ตกลง/vi กัน/prec ว่า/conjncl จะ/prev ผลัด/vt กัน/prec ปรากฏ/vi ตัว/ncn
+ทั้ง/conjc คู่/ncn จึง/conj ไม่/neg เคย/prev ได้/prev พบ/vt กัน/prec เลย/part
+แต่/conj วัน/ncn หนึ่ง/adj
+พระอาทิตย์/ncn กับ/prep สาย/ncn ฝน/ncn ก็/conj รู้สึก/vi ว่า/conjncl เล่น/vt ซ่อนหา/vi กัน/prec มา/vpost นาน/adv พอ/adv แล้ว/vpost
+ทั้ง/adj สอง/nnum จึง/conj ตัดสินใจ/vi ที่/prel จะ/prev ปรากฏ/vi ตัว/ncn ขึ้น/vpost พร้อม/adv ๆ/punc
+กัน/prec สัก/advm4 ครั้ง/cl
+พระอาทิตย์/ncn ส่อง/vi แสง/ncn จ้า/adv แผ่/vt กว้าง/adv ลง/vpost บน/prep พื้น/ncn โลก/ncn
+และ/conj ฝน/ncn ก็/conj ตกลง/vi มา/vpost เป็น/advm2 ม่าน/ncn หยด/ncn น้ำ/ncn พรม/vi ลง/vpost บน/prep ทุ่ง/ncn หญ้า/ncn ป่า/ncn เขา/pper
+หยด/ncn น้ำ/ncn และ/conj แสงสว่าง/ncn ประกอบ/vt กัน/prec เป็น/advm2 สะพาน/ncn สาย/ncn หนึ่ง/adj
+นั่น/pdem ก็/conj คือ/vcs .../punc รุ้ง/ncn กินน้ำ/ncn
+พระ/ntit อาทิตย์/npn พูด/vt ขึ้น/vpost ว่า/conjncl
+"/punc ฉัน/pper จะ/prev สร้าง/vt สะพาน/ncn นี้/det เพื่อ/conj เดินทาง/vi ไป/vpost หา/vt เมฆ/ncn เพื่อน/ncn รัก/vt "/punc
+สาย/ncn ฝน/ncn ก็/conj พูด/vt ว่า/conjncl
+"/punc ฉัน/pper จะ/prev สร้าง/vt สะพาน/ncn นี้/det เพื่อ/conj ไป/vpost พบ/vt กับ/prep พระอาทิตย์/ncn "/punc
+แล้ว/conj ภาพ/ncn ที่/prel น่า/prev อัศจรรย์/npn ก็/conj ปรากฏ/vi ขึ้น/vpost
+พระอาทิตย์/ncn ส่อง/vi แสง/ncn แรง/ncn กล้า/vi ที่สุด/adv
+และ/conj เมฆ/ncn ก็/conj โปรย/adj หยาด/ncn ฝน/ncn เบาบาง/vi ที่สุด/adv ลง/vpost บน/prep สะพาน/ncn หลาก/adj สี/ncn นั้น/det
+ม่าน/ncn น้ำ/ncn ฝน/ncn กระทบ/vt กับ/prep ม่าน/ncn แสง/ncn แดด/ncn
+แรง/ncn กระทบ/vt ทำให้/vcau หยด/ncn ประกาย/ncn แสง/ncn ที่/prel ตกลง/vi มาก/adv ระ/npn จัด/vt กระจาย/vt ไป/vpost ทั่ว/adj ผืน/ncn โลก/ncn
+สัตว์/ncn ต่างๆ/adj
+ตกใจ/vi กลัว/vt
+เมื่อ/conj เห็น/vt ฝน/ncn ประหลาด/vi ตกลง/vi มา/vpost เป็น/advm2 ประกาย/ncn
+จึง/conj พา/vt กัน/prec วิ่ง/vi หนี/vt
+มี/vt เพียง/adv หนอน/ncn บาง/adj ตัว/ncn เท่านั้น/adv ที่/prel ไม่/neg กลัว/vt หยด/ncn น้ำ/ncn ที่/prel ส่อง/vi สว่าง/vi นี้/det
+พวก/nct มัน/pper กลับ/vi เห็น/vt ว่า/conjncl ฝน/ncn ประหลาด/adj นี้/det ช่าง/prev สวย/vi งาม/vi น่า/adv กิน/vt
+จึง/conj ลอง/vt ชิม/vt ดู/vt
+และ/conj ด้วย/prep เหตุ/ncn นี้/det
+เมื่อ/conj หนอน/ncn พวก/nct นี้/det โต/vi เต็มที่/adv
+มัน/pper จึง/conj กลาย/vi เป็น/vcs แมลง/ncn ที่/prel มี/vt แสงสว่าง/ncn ใน/prep ตัว/ncn เอง/prfx
+นั่น/pdem ก็/conj คือ/vcs หิ่งห้อย/ncn ที่/prel คอย/vt ส่อง/vi แสง/ncn กระ/npn พริบ/vi วิบ/vt วาว/ncn ใน/prep ยาม/ncn ค่ำคืน/ncn นั่นเอง/part

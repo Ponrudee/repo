@@ -1,0 +1,77 @@
+แพะ/ncn อยาก/vt กินน้ำ/ncn อัดลม/npn
+ณ/prep
+ฟาร์ม/ncn เลี้ยง/vt แพะ/ncn แห่ง/cl หนึ่ง/adj
+มี/vt แพะ/ncn ตัวเมีย/adj ตัว/ncn หนึ่ง/adj ชื่อ/ncn
+"/punc โฟแลต/npn "/punc
+มัน/pper เป็น/vcs แพะ/ncn ที่/prel มัก/prev จะ/prev มี/vt ความ/pref1 คิด/vt ประหลาด/vi ๆ/punc
+อยู่/vi เสมอ/adv
+ยก/vt ตัวอย่าง/ncn เช่น/conjncl
+อยาก/vt กินน้ำ/ncn อัดลม/npn
+ทุก/adj วัน/ncn อาทิตย์/npn
+ทุก/adj คนใน/ncn ครอบครัว/ncn ของ/prep เจ้าของ/ncn ฟาร์ม/ncn จะ/prev นั่ง/vi รถ/ncn ออก/vpost ไป/vpost หา/vt อะไร/pind ดื่ม/vt กัน/prec ที่/prep ร้าน/ncn ประจำ/adj
+ซึ่ง/prel ตั้ง/vt อยู่/vpost ริม/prep แม่น้ำ/ncn
+ทุก/adj ครั้ง/cl ที่/prel พวก/nct เขา/pper ไป/vpost
+เจ้า/ntit โฟแลตก็/part จะ/prev ยืน/vi มอง/vt อย่าง/advm1 มี/vt ความ/pref1 หวัง/vi ว่า/conjncl สัก/advm4 วัน/ncn หนึ่ง/adj มัน/pper จะ/prev ได้/vt ไป/vpost กับ/prep พวก/nct เขา/pper ด้วย/adv
+มัน/pper ฝัน/vi ที่/prel จะ/prev ได้/prev กินน้ำ/vi อัดลม/adv สัก/advm4 แก้ว/ncn
+แต่/conj ก็/conj ไม่/neg เคย/prev มี/vt ใคร/pind คิด/vt จะ/prev พา/vt มัน/pper ไป/vpost ด้วย/adv สัก/advm4 คน/ncn
+เจ้า/ntit โฟแลตอยาก/npn กินน้ำ/vi อัดลม/vi มาก/adv จน/conj ไม่/neg ยอม/vt กิน/vt อะไร/pint เลย/part
+หลาย/adj วัน/cl ผ่าน/vt ไป/vpost มัน/pper ก็/conj ผอม/vi จน/conj ไม่/neg มี/vt น้ำนม/ncn สำหรับ/conj เอา/vt ไป/vpost ทำ/vt เนย/ncn
+เจ้าของ/ncn ฟาร์ม/ncn แปลก/vi ใจมาก/adv จึง/conj มา/vi ถาม/vt มัน/pper ว่า/conjncl
+"/punc เป็น/vcs อะไร/pint ไป/vpost ล่ะโฟแลต/npn ทำไม/pint ไม่/neg ยอม/vt กิน/vt อะไร/indet เลย/part ไม่/neg หิว/vt หรือไง/pint "/punc
+"/punc หิว/vt สิ/part แต่/conj ฉัน/pper เบื่อ/vt หญ้า/ncn แล้ว/vpost ก็/conj น้ำ/ncn จืด/adj ๆ/punc นั่น/det ด้วย/prep ฉัน/pper อยาก/prev กิน/vt อย่าง/advm1 อื่น/indet บ้าง/pind "/punc
+มัน/pper บอก/vt
+"/punc แปลก/vi จริงๆ/adv เลย/part เจ้า/ncn นี่/det ฉัน/pper ไม่/neg เคย/prev เห็น/vt แพะ/ncn ที่ไหน/pint ไม่/neg อยาก/prev กิน/vt หญ้า/ncn แล้ว/vpost เจ้า/pper อยาก/prev กิน/vt อะไร/pint ล่ะ/part "/punc
+เจ้าของ/ncn ฟาร์ม/ncn ถาม/vt
+"/punc เอ่อ/ncn .../punc ฉัน/pper อยาก/prev กินน้ำ/vi อัดลมน่ะ/part "/punc
+มัน/pper ตอบ/vt อาย/ncn ๆ/punc
+"/punc น้ำอัดลม/ncn !/punc แก/pper รู้จัก/vt น้ำอัดลม/ncn ด้วย/adv หรือ/pint "/punc
+เจ้าของ/ncn ฟาร์ม/ncn แปลก/adj ใจ/ncn
+"/punc รู้/vt สิ/part ก็/conj ฉัน/pper เคย/prev ได้ยิน/vt พวก/nct เด็ก/ncn ๆ/punc คุย/vi กัน/prec ว่า/conjncl พวก/nct เขา/pper ไป/vpost ดื่ม/vt น้ำอัดลม/ncn กัน/prec ทุก/adj วัน/ncn อาทิตย์/npn ที่/prel ร้าน/ncn ริม/prep แม่น้ำ/ncn "/punc
+เจ้า/ntit โฟแลตตอบ/npn
+เจ้าของ/ncn ฟาร์ม/ncn ได้ยิน/vt ก็/conj หัวเราะ/vt พลาง/adv พูด/vt ว่า/conjncl
+"/punc อย่าง/cl นี้/det นี่เอง/part ฉัน/pper ว่า/conjncl เจ้า/pper คง/prev ไม่/neg ชอบ/vt มัน/pper เท่าไร/pint นัก/part หรอก/part แต่/conj ถ้า/conj อยาก/prev กิน/vt ฉัน/pper ก็/conj จะ/prev เอา/vt มา/vpost ให้/conjncl ชิม/vt ดู/vt "/punc
+แล้ว/conj เขา/pper ก็/conj เดิน/vi ไป/vpost ที่/prep บ้าน/ncn
+ไม่/neg นาน/adv ก็/conj กลับ/vi มา/vpost พร้อม/vi กับ/prep ขวด/ncn น้ำอัดลม/ncn
+เขา/pper เท/vt ใส่/vt ชาม/ncn แล้ว/vpost วาง/vt ไว้/vpost ตรง/prep หน้า/ncn เจ้าโฟแลต/npn
+พอ/conj เห็น/vt น้ำอัดลม/ncn
+เจ้า/ntit แพะ/ncn ก็/conj รีบ/vi เลีย/vt อย่าง/advm1 ดีใจ/vi
+"/punc ชอบ/vt ไหม/pint ล่ะ/part "/punc
+เจ้าของ/ncn ฟาร์ม/ncn ถาม/vt
+"/punc ชอบ/vt จ้ะ/ncn อร่อย/vi มาก/adv เลย/part "/punc
+เจ้า/ntit โฟแลตตอบ/npn อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+"/punc แล้ว/conj ทีนี้/npn จะ/prev กิน/vt หญ้า/ncn ได้/vpost หรือ/conj ยัง/prev ล่ะ/part จะ/prev ได้/prev มี/vt นม/ncn ไป/vpost ทำ/vt เนย/npn "/punc
+เจ้า/ntit โฟแลตลังเล/npn อยู่/vi ครู่/ncn หนึ่ง/adj ก่อน/conj จะ/prev ตอบ/vt ว่า/conjncl
+"/punc คือ/vcs อย่าง/cl นี้/det นะ/part จ๊ะ/aff ตอน/ncn ที่/prel เด็ก/ncn ๆ/punc คุย/vi กัน/prec ถึง/prep น้ำอัดลม/ncn เขา/pper ยัง/prev เล่า/vt ถึง/prep ร้าน/ncn ที่/prel ไป/vi ด้วยว่า/adv สวย/vi มาก/adv ๆ/punc ฉัน/pper ก็/conj เลย/prev อยาก/vt ไป/vpost บ้าง/adv น่ะจ้ะ/part "/punc
+"/punc อะไร/pint นะ/part !/punc "/punc
+เจ้าของ/ncn ฟาร์ม/ncn ตกใจ/vi
+พอ/conj เห็น/vt ท่าทาง/ncn ผิดหวัง/vi ของ/prep เจ้า/ntit แพะ/ncn
+เขา/pper ก็/conj ลูบ/vt หลัง/prep มัน/pper แล้ว/vpost พูด/vt ว่า/conjncl
+"/punc ฉัน/pper คง/prev พา/vt เจ้า/ntit ไป/vt ไม่/neg ได้/vpost หรอก/part นะ/part เพราะ/conj ไม่/neg มี/vt ใคร/pind เขา/pper พา/vt แพะ/ncn ไป/vpost นั่ง/vi กินน้ำ/vi อัดลม/vi ใน/prep ร้าน/ncn อาหาร/ncn กัน/prec หรอก/part เสียใจ/vi ด้วย/adv นะ/part "/punc
+พอ/conj ถึง/prep เวลา/ncn อาหาร/ncn ค่ำ/ncn
+เจ้าของ/ncn ฟาร์ม/ncn ก็/conj เล่า/vt เรื่อง/ncn นี้/det ให้/vcau ภรรยา/ncn ของ/prep เขา/pper ฟัง/vt
+แล้ว/conj เธอ/pper ก็/conj พูด/vt ขึ้น/vpost ว่า/conjncl
+"/punc ทำไม/pint คุณ/pper ถึง/conj ไม่/neg พา/vt มัน/pper ไป/vpost ล่ะ/part น่า/prev สนุก/vi ดี/vi ออก/vpost "/punc
+เจ้าของ/ncn ฟาร์ม/ncn มอง/vt ภรรยา/ncn ของ/prep เขา/pper อย่าง/advm1 แปลก/vi ใจ/ncn
+"/punc เธอ/pper นี่/det ก็/conj แปลก/vi พอ/adv ๆ/punc กับ/prep เจ้า/ntit โฟแลตเลย/npn ใคร/pind ที่ไหน/pint เขา/pper จะ/prev ให้/vcau เรา/pper เอา/vt แพะ/ncn เข้าไป/adj ใน/prep ร้าน/ncn อาหาร/ncn ของ/prep เขา/pper ล่ะ/part "/punc
+"/punc ทำไม/pint จะ/prev ไม่/neg ได้/vpost ล่ะ/part คุณ/pper เคย/prev เอา/vt ไป/vpost หรือ/conj ก็/conj ที/ncn สุนัข/ncn ยัง/prev เข้า/vi ได้/vpost แล้ว/vpost ทำไม/pint แพะ/ncn ถึง/prep เข้า/vi ไม่/neg ได้/vpost เจ้า/ntit โฟแลตน่ะเรียบร้อย/npn ยิ่ง/adv กว่า/prep สุนัข/ncn อีก/adv นะ/part "/punc
+ดังนั้น/conj เจ้าของ/ncn ฟาร์ม/ncn จึง/conj ต้อง/prev ยอม/vt ทำ/vt ตาม/prep ความ/pref1 เห็น/vt ของ/prep ภรรยา/ncn
+วัน/ncn อาทิตย์/npn ต่อ/adv มา/vpost
+เจ้า/ntit โฟแลตจึง/npn ได้/prev ขึ้น/vt รถ/ncn ไป/vpost กับ/prep ทุก/adj คน/cl ด้วย/adv
+เมื่อ/conj ไป/vpost ถึง/prep
+ภรรยา/ncn ของ/prep เจ้าของ/ncn ฟาร์ม/ncn ก็/conj จูง/vt มัน/pper เดิน/vi นำ/vt เข้าไป/adv ใน/prep ร้าน/ncn
+พนักงาน/ncn เห็น/vt แพะ/ncn เข้า/vi มา/vpost ใน/prep ร้าน/ncn ก็/conj ทำท่า/vi งง/vi
+เธอ/pper จึง/conj ถาม/vt เขา/pper ว่า/conjncl
+"/punc นี่/pdem พ่อ/ncn หนุ่ม/adj ฉัน/pper เอา/vt แพะ/ncn เข้า/vi มา/vpost กิน/vt อาหาร/ncn ด้วย/adv ได้/vpost ไหม/pint "/punc
+"/punc เอ่อ/ncn .../punc อะไร/pint นะ/part ครับ/aff "/punc
+พนักงาน/ncn ยัง/prev งง/vi ไม่/neg หาย/vi
+"/punc แพะไง/pint รู้จัก/vt ไหม/pint ฉัน/pper จะ/prev เอา/vt แพะ/ncn เข้า/vi มา/vpost ได้/vpost ไหม/pint มัน/pper เรียบร้อย/vi มาก/adv เลย/part นะ/part ไม่/neg ต้อง/prev กลัว/vt ว่า/conjncl จะ/prev ทำ/vt วุ่นวาย/vi หรอก/part "/punc
+พนักงาน/ncn หนุ่ม/adj เห็น/vt เจ้า/ncn โฟแลตยืน/ncn นิ่ง/vi เรียบร้อย/adv ก็/conj เลย/vi ตัดสินใจ/vi ว่า/conjncl
+"/punc ถ้า/conj อย่าง/cl นั้น/det เชิญ/vt ทาง/ncn นี้/det เลย/part ครับ/aff ตรง/prep โต๊ะ/ncn ริม/prep น้ำ/ncn "/punc
+ดังนั้น/conj เจ้า/ntit โฟแลตจึง/npn ได้/prev กินน้ำ/vi อัดลม/vi ใน/prep ร้าน/ncn ที่/prel อยู่/vi ริม/prep แม่น้ำ/ncn เหมือน/adv อย่าง/advm1 ที่/prel ฝัน/vi
+พอ/conj ลูกค้า/ncn คน/cl อื่นๆ/indet
+เห็น/vt แพะ/ncn ก็/conj พา/vt กัน/prec มอง/vt ดู/vt อย่าง/advm1 แปลก/vi ใจ/ncn
+บาง/adj คน/cl ก็/conj มา/vi ขอ/vt ถ่ายรูป/vt
+คน/ncn ที่/prel ผ่าน/vt ไป/vpost ผ่าน/vt มา/vpost ก็/conj เข้า/vi มา/vpost ดู/vt
+วัน/ncn นั้น/det จึง/conj มี/vt ลูกค้า/ncn แน่น/vi ร้าน/ncn ไป/vpost หมด/adv
+"/punc วัน/ncn นี้/det ผม/pper ไม่/neg คิด/vt เงิน/ncn พวก/nct คุณ/pper นะ/part ครับ/aff เพราะ/conj เจ้า/ntit แพะ/ncn ตัว/cl นี้/det ร้าน/ncn ของ/prep เรา/pper จึง/conj มี/vt ลูกค้า/ncn เต็ม/vt ไป/vpost หมด/adv แล้ว/vpost คราว/cl หน้า/adj พา/vt มัน/pper มา/vpost อีก/adv นะ/part ครับ/aff "/punc
+ดังนั้น/conj เจ้า/ntit โฟแลตจึง/npn ได้/prev ไป/vt กินน้ำ/ncn อัดลม/ncn กับ/prep ครอบครัว/ncn นี้/det ทุก/adj อาทิตย์/cl เลย/part

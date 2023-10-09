@@ -1,0 +1,270 @@
+หนู/ncn บ้าน/ncn กับ/prep หนู/ncn นา/ncn
+"/punc กิน/vt อาหาร/ncn กลางวัน/ncn ที่/prel ต่าง/adj จังหวัด/ncn --/npn น่า/prev สนใจ/vt เป็น/advm2 ที่สุด/adv !/punc "/punc
+หนู/ncn บ้าน/ncn อุทาน/vi เมื่อ/conj ได้/prev รับ/vt บัตร/ncn เชิญ/vt จาก/prep ญาติ/ncn ของ/prep มัน/pper
+ซึ่ง/prel ผู้/pref2 นำ/vt ข่าว/ncn นี้/det มา/vpost แจ้ง/vt ก็/conj คือ/vcs คุณ/ncn ไปรษณีย์/ncn นก/ncn นั่นเอง/part
+"/punc อากาศ/ncn สดชื่น/vi แสง/ncn แดด/ncn อ่อน/adj ๆ/punc มี/vt แต่/conj ความ/pref1 เงียบ/vi และ/conj สงบ/vi สุข/vi .../punc "/punc
+หนู/ncn น้อย/adj ยัง/prev คง/prev ฝันเฟื่อง/vi ต่อ/adv ไป/vpost
+ขณะ/ncn ที่/prel มอง/vt ออก/vpost ไป/vpost นอก/prep หน้าต่าง/ncn แล้ว/vpost เห็น/vt ความ/pref1 วุ่นวาย/vi ตรง/prep ถนน/ncn ข้าง/cl ล่าง/adj
+"/punc เชื่อ/vt เลย/part ว่า/conjncl อาหาร/ncn ต้อง/prev มี/vt รสชาติ/ncn วิเศษ/adv สุด/adv เวลา/ncn ที่/prel เรา/pper พักผ่อน/vi อยู่/vpost ใน/prep สวน/ncn ดอกไม้/ncn ใต้/prep ท้อง/ncn ฟ้า/ncn กว้าง/adj "/punc
+"/punc ขอโทษ/vt นะ/part จ๊ะ/aff "/punc
+นก/ncn ไปรษณีย์/ncn พูด/vt
+มัน/pper กำลัง/prev คอย/vt อยู่/vpost ที่/prep ขอบ/ncn หน้าต่าง/ncn อย่าง/advm1 ร้อน/vi ใจ/ncn
+"/punc ต้อง/prev ตอบ/vt จดหมาย/ncn ไหม/pint "/punc
+"/punc โอ/npn จริง/vi สินะ/npn "/punc
+หนู/ncn บ้าน/ncn พูด/vt
+"/punc ช่วย/vt บอก/vt เขา/pper ด้วยว่า/conj ฉัน/pper ยินดี/vi ที่/prel จะ/prev ไป/vpost ฉัน/pper จะ/prev ไป/vt ถึงที่/ncn นั่น/det ตอน/ncn เที่ยง/ncn วัน/ncn พรุ่งนี้/ncn "/punc
+นก/ncn ไปรษณีย์/ncn พยัก/vt หน้า/ncn แล้ว/vpost บิน/vi หาย/vi ไป/vpost ใน/prep ท้อง/ncn ฟ้า/adj
+เช้าตรู่/ncn วัน/ncn รุ่ง/vi ขึ้น/vpost
+หนู/pper น้อย/vi ลอด/vt ตัว/ncn ออก/vpost จาก/prep ประตู/ncn บ้าน/ncn ใน/prep เมือง/ncn หลัง/adj ที่/prel มัน/pper อาศัย/vt อยู่/vpost
+แล้ว/conj ออก/vi เดินทาง/vi ไป/vpost เยี่ยม/vt ญาติ/ncn ของ/prep มัน/pper ที่/prel ต่าง/adj จังหวัด/ncn
+หนู/pper น้อย/vi วิ่ง/vi ไป/vpost ตาม/prep ถนน/ncn ที่/prel มี/vt แต่/conj ความ/pref1 จอแจ/vi
+มัน/pper แทรก/vt ตัว/ncn ผ่าน/vt เท้า/ncn ของ/prep ผู้คน/ncn อย่าง/advm1 เร่งรีบ/vi
+จน/conj มา/vpost ถึง/prep สถานี/ncn รถไฟ/ncn
+ผู้โดยสาร/ncn นับ/vt ร้อย/nnum เคลื่อน/vi ตัว/ncn ออก/vpost จาก/prep รถไฟ/ncn ไป/vpost สู่/prep ชานชาลา/npn
+พวก/nct เขา/pper ต่าง/pind ถือ/vt กระเป๋า/ncn เดินทาง/vi และ/conj ร่ม/vi อยู่/vpost ใน/prep มือ/ncn
+หนู/pper น้อย/vi หลบ/vt หลีก/vt ขา/ncn ของ/prep คน/ncn เหล่า/cl นั้น/det อย่าง/advm1 รวดเร็ว/adv
+แล้ว/conj กระโดด/vi ขึ้น/vpost รถไฟ/ncn ได้/prev ทัน/vi เวลา/ncn พอดี/adv
+ประตู/ncn ปิด/vt ตาม/advm5 หลัง/adv มัน/pper และ/conj รถไฟ/ncn ก็/conj เคลื่อน/vi ตัว/ncn ออก/vpost จาก/prep สถานี/ncn
+เจ้า/ntit หนู/npn ไต่/vi ขึ้น/vpost ไป/vpost ยัง/prep ที่/prel ว่าง/vi ข้าง/prep หน้าต่าง/ncn
+มัน/pper มอง/vt ภาพ/ncn เมือง/ncn อัน/prel วุ่นวาย/vi ที่/prel วิ่ง/vi ผ่าน/vt ไป/vpost
+บ้าน/ncn และ/conj ร้าน/ncn รวง/ncn
+ตรอก/ncn ซอย/ncn และ/conj ถนน/ncn
+ผู้คน/ncn และ/conj เสา/ncn ไฟ/ncn
+รถ/ncn ประจำ/vt ทาง/ncn และ/conj รถยนต์/ncn ขับ/vt ผ่าน/vt ไป/vpost อย่าง/advm1 รวดเร็ว/adv
+ภาพ/ncn เหล่า/nct นั้น/det ค่อยๆ/adv
+เปิด/vt ทาง/ncn ให้/prep เนิน/ncn เขา/pper สี/ncn เขียว/adj สูง/adv ๆ/punc
+ต่ำ/vi ๆ/punc
+ลดหลั่น/vi กัน/prec
+และ/conj ทุ่ง/ncn ดอกไม้/ncn กว้าง/adj สุด/adj ตา/ncn เผยอ/vt อก/ncn มา/vpost
+กระทั่ง/conj รถไฟ/ncn มา/vpost หยุด/vt ที่/prep สถานี/ncn ชนบท/ncn ที่/prel เงียบเหงา/vi แห่ง/cl หนึ่ง/adj
+เจ้า/ntit หนู/npn จึง/conj กระโดด/vi ลง/vpost
+มัน/pper กระโดด/vi ลง/vpost ไป/vpost ตาม/prep ขั้น/ncn บันได/ncn ที่/prel สถานี/ncn แล้ว/vpost มา/vpost ยืน/vi อยู่/vpost บน/prep ถนน/ncn นอก/prep เมือง/ncn สาย/ncn เล็ก/adj ๆ/punc
+ที่/prel แสน/adv เงียบเหงา/vi
+ผึ้ง/ncn ส่งเสียง/vi หึ่งๆ/adv
+เบา/adv ๆ/punc
+ใน/prep อากาศ/ncn
+ท้อง/ncn ฟ้า/adj เป็น/vcs สี/ncn ฟ้า/ncn เข้ม/adj ปราศจาก/vt เสียง/ncn ใดๆ/indet
+ไม่/neg มี/vt ภาพ/ncn ผู้คน/ncn ที่/prel เร่งรีบ/vi หรือ/conj รถ/ncn ประจำ/adj ทาง/prep เสียง/ncn ดัง/adj ให้/conjncl ได้/prev เห็น/vt เลย/part
+หนู/pper น้อย/vi ดึง/vt บัตร/ncn เชิญ/vt ออก/vpost จาก/prep กระเป๋า/ncn เพื่อ/conj จะ/prev ดู/vt เส้นทาง/ncn ที่/prel ญาติ/ncn ของ/prep มัน/pper ส่ง/vt มา/vpost ให้/vpost
+"/punc จาก/prep สถานี/ncn ให้/vt ไป/vpost ตาม/prep ถนน/ncn สาย/ncn เล็ก/adj ๆ/punc ลง/vpost เนิน/ncn แล้ว/vpost เลี้ยว/vt ซ้าย/ncn ไป/vpost ทาง/prep ทุ่ง/ncn หญ้า/ncn "/punc
+มัน/pper อ่าน/vt
+"/punc ตรง/vi ไป/vpost เรื่อยๆ/adv จนกว่า/conj จะ/prev ได้ยิน/vt เสียง/ncn แม่น้ำ/ncn แล้ว/vpost ค่อย/prev เลี้ยว/vt ขวา/ncn ที่/prel เด/vi ซีด/adj อก/ncn ที่/norm สาม/nnum แล้ว/vpost เธอ/pper จะ/prev พบ/vt ทาง/ncn เข้า/vi บ้าน/ncn อยู่/vpost ใต้/prep ดอก/ncn ป๊อป/ncn ปี้/npn "/punc
+ไม่/neg นาน/adv นัก/part
+หนู/ncn บ้าน/ncn ก็/conj มา/vi เคาะ/vt ประตู/ncn ไม้/ncn บาน/adj เล็ก/adj ๆ/punc
+ที่/prel อยู่/vi ใน/prep ร่ม/ncn เงา/ncn ของ/prep ดอก/ncn ป๊อป/ncn ปี้/npn ที่/prel กำลัง/prev ไหว/vi ไป/vpost มา/vpost
+ญาติ/ncn ของ/prep มัน/pper เปิด/vt ประตู/ncn ออก/vpost
+ร้อง/vi จี๊ด/npn ๆ/punc
+ด้วย/prep ความ/pref1 ดีใจ/vi
+"/punc ดีใจ/vi จัง/adv ที่/prel ได้/prev เจอ/vt เธอ/pper !/punc "/punc
+หนู/ncn นา/ncn ร้อง/vi
+"/punc เข้า/vi มา/vpost สิ/part !/punc "/punc
+หนู/ncn บ้าน/ncn ก้มหัว/vi ลอด/vi เข้าไป/adv ข้าง/cl ใน/prep
+เช่น/conjncl เดียว/adj กับ/prep บ้าน/ncn หนู/ncn ใน/prep ชนบท/ncn หลัง/cl อื่นๆ/indet
+ใน/prep บ้าน/ncn ไม่/neg มี/vt อย่าง/ncn อื่น/indet นอกจาก/conj โพรง/ncn เล็ก/adj ๆ/punc
+โพรง/ncn หนึ่ง/adj ใน/prep พื้น/ncn ดิน/ncn
+และ/conj ผนัง/ncn ว่าง/vi เปล่า/adv และ/conj พื้น/ncn โคลน/ncn
+แต่/conj สำหรับ/prep หนู/ncn บ้าน/ncn ผู้/pref2 คุ้นเคย/vi กับ/prep บ้าน/ncn หลัง/adj ใหญ่/adj โต/adj
+ที่/prel ผนัง/ncn มี/vt กระดาษ/ncn ปิด/vt ตกแต่ง/vt และ/conj พื้นบ้าน/adj ที่/prel เงา/ncn วับ/vi
+ที่/prel นี่/det ก็/conj น่า/prev ผิดหวัง/vi มาก/adv ทีเดียว/part
+แต่/conj หนู/ncn บ้าน/ncn ไม่/neg อยาก/prev เสีย/vt มารยาท/ncn
+มัน/pper จึง/conj แค่/adv พูด/vt ออก/vpost มา/vpost ว่า/conjncl
+"/punc ทำไม/pint เรา/pper ไม่/neg ออก/vi ไป/vpost กิน/vt ข้าง/ncn นอก/adj กัน/prec ล่ะ/part วัน/ncn นี้/det อากาศ/ncn ดี/vi มาก/adv เลย/part นะ/part !/punc "/punc
+"/punc เป็น/vcs ความ/pref1 คิด/vt ที่/prel ดี/vi "/punc
+หนู/ncn นา/ncn พูด/vt
+แล้ว/conj มัน/pper ก็/conj วิ่ง/vi พรวดพราด/vi ไป/vpost ที่/prep ห้อง/ncn เก็บ/vt ของ/prep เพื่อ/conj จะ/prev เอา/vt อาหาร/ncn กลางวัน/ncn
+ต่อ/vt มา/vpost มัน/pper ก็/conj กระวีกระวาด/vi ออก/vpost มา/vpost ข้าง/prep นอก/ncn หอบ/vt เมล็ด/ncn ดอก/ncn ทานตะวัน/vi มา/vpost เต็ม/adv อ้อม/adv แขน/ncn
+"/punc ตาม/advm5 สบาย/adv เลย/part นะ/part "/punc
+หนู/ncn นา/ncn พูด/vt
+หนู/ncn บ้าน/ncn แทะ/ncn เมล็ด/ncn พืช/ncn
+"/punc นี่/pdem ก็/conj เป็น/vcs อาหาร/ncn ธรรมดา/adj ๆ/punc "/punc
+มัน/pper คิด/vt
+"/punc บางที/conj จาน/ncn ต่อ/prep ไป/vpost อาจ/prev จะ/prev น่า/prev ตื่นเต้น/vi กว่า/adv นี้/det ก็ได้/part "/punc
+หนู/ncn นา/ncn สังเกต/vt เห็น/vt ว่า/conjncl ญาติ/ncn ของ/prep มัน/pper กิน/vt ไป/vpost เพียง/adv นิดเดียว/adv จึง/conj พูด/vt ขึ้น/vpost
+"/punc นี่/pdem จ้ะ/vi "/punc
+แล้ว/conj ก็/conj ยื่น/vt เมล็ด/ncn ดอก/ncn ทานตะวัน/vt ให้/conjncl หนู/ncn บ้าน/ncn เพิ่ม/vt อีก/adv
+"/punc กิน/vt ให้/vpost เต็มที่/adv เลย/part นะ/part "/punc
+"/punc ฉัน/pper ไม่/neg อยาก/prev อิ่ม/vi ตั้งแต่/prep อาหาร/ncn เรียก/vt น้ำย่อยน่ะ/part "/punc
+หนู/ncn บ้าน/ncn ยิ้ม/vi
+"/punc ฉัน/pper อยาก/prev เก็บ/vt ท้อง/ncn ไว้/vpost เผื่อ/adv อาหาร/ncn หลัก/adj "/punc
+"/punc อาหาร/ncn หลัก/adj งั้น/det หรือ/conj "/punc
+หนู/ncn นา/ncn พูด/vt อย่าง/advm1 แปลก/vi ใจ/ncn
+"/punc ทั้งหมด/adv ก็/conj มี/vt อยู่/vpost แค่/adv นี้/det แหละ/part จ้ะ/aff "/punc
+หนู/ncn บ้าน/ncn ประหลาด/adj ใจ/ncn
+"/punc แค่/adv นี้/det เอง/prfx หรือ/conj "/punc
+มัน/pper ร้อง/vi
+"/punc แล้ว/vpost ปกติ/adv เธอ/pper กิน/vt อะไร/pint ล่ะ/part "/punc
+"/punc ก็/conj กิน/vt เมล็ด/ncn พืช/ncn แบบ/ncn นี้ไง/indet "/punc
+หนู/ncn นา/ncn ตอบ/vt
+"/punc บางที/conj ก็/conj จะ/prev มี/vt สต/ncn รอ/vt เบอรี่หนึ่ง/ncn หรือ/conj สอง/nnum ลูก/cl แต่/conj ต้อง/prev เป็น/vcs หน้า/ncn ของ/prep มัน/pper นะ/part .../part "/punc
+หนู/ncn นา/ncn หยุด/vt พูด/vt เมื่อ/conj เห็น/vt สีหน้า/ncn ตกใจ/vi ของ/prep ญาติ/ncn
+"/punc ไม่/neg มี/vt พาย/vt หรือ/pint "/punc
+หนู/ncn บ้าน/ncn ถาม/vt
+"/punc ไม่/neg มี/vt แซน/ncn ด์วิช/npn หรือมัฟฟิน/npn หรือ/conj ชีส/npn บ้าง/pind หรือ/conj "/punc
+หนู/ncn นา/ncn ส่าย/vt หัว/ncn
+"/punc แล้ว/conj เค้ก/ncn ช็อกโกแลต/ncn ทาร์ต/npn แยม/npn หรือ/conj ว่า/conjncl ไอศกรีม/ncn ล่ะ/part "/punc
+"/punc ฉัน/pper ยัง/prev ไม่/neg เคย/prev ชิม/vt ด้วย/adv ซ้ำ/adv "/punc
+หนู/ncn นา/ncn ตอบ/vt
+"/punc โถ/ncn ญาติ/ncn ที่รัก/ncn ของ/prep ฉัน/pper "/punc
+หนู/ncn บ้าน/ncn พูด/vt
+"/punc ชีวิต/ncn เธอ/pper ยัง/prev ไม่/neg คุ้ม/vt ค่า/ncn ถ้า/conj ยัง/prev ไม่/neg เคย/prev ได้/prev ลอง/vt ไอศกรีม/ncn "/punc
+หนู/ncn บ้าน/ncn ลุก/vi ขึ้น/vpost ยืน/vi
+แล้ว/conj ดึง/vt หนู/ncn นา/ncn ให้/conjncl ลุก/vi ตาม/adv
+"/punc เรา/pper จะ/prev ต้อง/prev ออก/vi จาก/prep ที่/ncn นี่/det เดี๋ยวนี้/adv "/punc
+มัน/pper พูด/vt อย่าง/advm1 หนักแน่น/adv
+"/punc เธอ/pper ไป/vi กิน/vt ข้าว/ncn เย็น/adj ที่/prel บ้าน/ncn ฉัน/pper เถอะ/part "/punc
+"/punc แต่ว่า/conj ฉัน/pper ยัง/prev ไม่/neg เคย/prev ออก/vi นอก/prep เขต/ncn ทุ่ง/ncn นา/ncn มา/vpost ก่อน/adv นี่/det "/punc
+หนู/ncn นา/ncn ร้อง/vi เมื่อ/prep พวก/nct มัน/pper วิ่ง/vi ไป/vpost ที่/prep สถานี/ncn
+"/punc งั้น/det ก็ได้/part เวลา/ncn ที่/prel เธอ/pper จะ/prev ต้อง/prev ออก/vi จาก/prep ทุ่ง/ncn นา/ncn แล้ว/vpost ละ/adj "/punc
+หนู/ncn บ้าน/ncn ตอบ/vt
+พวก/nct มัน/pper กระโดด/vi ขึ้น/vpost รถไฟ/ncn
+แล้ว/conj ปีน/npn ป่าย/vi ขึ้น/vpost ไป/vpost ยัง/prep ที่นั่ง/ncn ข้าง/prep หน้าต่าง/ncn
+เมื่อ/conj รถไฟ/ncn ค่อยๆ/adj
+เคลื่อน/vi ตัว/ncn ผ่าน/vt ชนบท/ncn
+หนู/ncn นาม/ncn อง/vi ออก/vpost ไป/vpost นอก/prep หน้าต่าง/ncn อย่าง/advm1 ตื่นเต้น/vi
+จมูก/ncn ของ/prep มัน/pper แนบ/vt กระจก/ncn
+ภาพ/ncn ทุ่ง/ncn นา/ncn เปลี่ยน/vt เป็นบ้า/ncn นคน/idm และ/conj ถนน/ncn
+รถ/ncn ประจำ/vt ทาง/ncn และ/conj รถยนต์/ncn
+ต่อ/vt มา/vpost ไม่/neg นาน/adv นัก/part พวก/nct มัน/pper ก็/conj มา/vi ถึง/prep เมือง/ncn อัน/prel แสน/adv วุ่นวาย/vi
+เมื่อ/conj หนู/ncn ทั้ง/adj สอง/nnum ก้าว/vi ออก/vpost จาก/prep สถานี/ncn
+หนู/ncn นา/ncn ก็/conj อ้า/vt ปากกว้าง/ncn
+ตัว/ncn มัน/pper สั่น/vt ด้วย/prep ความ/pref1 กลัว/vt เมื่อ/conj เห็น/vt รถ/ncn วิ่ง/vi อย่าง/advm1 รวดเร็ว/adv ผ่าน/vt หน้า/ncn มัน/pper
+และ/conj ตัว/ncn สั่น/vt มาก/adv ขึ้น/vpost เมื่อ/prep รถ/ncn ประจำ/adj ทาง/prep ขนาด/ncn ยักษ์/adj จอด/vt เสียง/ncn เอี๊ยด/vt ข้าง/prep พวก/nct มัน/pper
+แต่/conj ดูเหมือน/vcs หนู/ncn บ้าน/ncn แทบ/prev จะ/prev ไม่/neg ได้/prev สังเกต/vt เห็น/vt ด้วย/adv ซ้ำ/adv
+"/punc เร็ว/adv เข้า/vpost "/punc
+มัน/pper พูด/vt
+แล้ว/conj มุด/ncn หาย/vi เข้าไป/adv กับ/prep การ/pref1 จราจร/ncn อัน/prel แสน/adv วุ่นวาย/vi
+กว่า/prep พวก/nct มัน/pper จะ/prev มา/vi ถึง/prep บ้าน/ncn ที่/prel หนู/ncn บ้าน/ncn อาศัย/vi
+หนู/ncn นา/ncn ก็/conj เกือบ/prev จะ/prev ถูก/psm เหยียบ/vt
+เฉียด/vt ถูก/psm รถ/ncn ทับ/vt
+และ/conj เหน็ดเหนื่อย/vi เป็น/advm2 ที่สุด/adv
+"/punc ยินดี/vi ต้อนรับ/vt สู่/prep บ้าน/ncn อัน/prel ต่ำต้อย/vi ของ/prep ฉัน/pper "/punc
+หนู/ncn บ้าน/ncn พูด/vt
+แล้ว/conj หนู/ncn ทั้ง/adj สอง/nnum ก็/conj ลอด/vt ตัว/ncn ผ่าน/vt ประตู/ncn หน้า/adj เข้าไป/adv
+หนู/ncn นา/ncn ร้อง/vi อุทาน/vi
+เมื่อ/conj เห็น/vt กระเบื้อง/ncn เป็น/vcs มัน/ncn เงา/ncn อยู่/vpost ทั่วไป/adv หมด/adv
+ผนัง/ncn ห้อง/ncn มีด/ncn อก/ncn ไม้/ncn งดงาม/vi แปลก/vi ตา/ncn คลุม/vt อยู่/vpost
+และ/conj บน/prep เพดาน/ncn มี/vt โคม/ncn ระย้า/ncn ทำ/vt จาก/prep แก้ว/ncn เจียระไน/vt ส่อง/vi แสง/ncn เหมือน/vcs ดวง/ncn อาทิตย์/npn ห้อย/vi อยู่/vpost
+"/punc เธอ/pper หิว/vt หรือ/conj ยัง/prev "/punc
+หนู/ncn บ้าน/ncn ถาม/vt
+"/punc หิว/vt ตาลาย/ncn เลย/part ละ/part "/punc
+หนู/ncn นา/ncn ตอบ/vt
+"/punc งั้นพ/ncn วก/vi เรา/pper รอ/vt อะไร/pint กัน/prec อยู่/vpost ล่ะ/part "/punc
+หนู/ncn บ้าน/ncn หัวเราะ/vt
+หนู/ncn นา/ncn ทั้ง/adj สอง/nnum ตัว/cl วิ่ง/vi ผ่าน/vt พื้น/ncn กระเบื้อง/vi ไป/vpost ยัง/prep ห้อง/ncn อาหาร/ncn
+และ/conj ปีน/npn ขึ้น/vpost ไป/vpost ตาม/prep ขา/ncn โต๊ะ/ncn อาหาร/ncn ขนาด/ncn ยักษ์/adj
+"/punc อาหาร/ncn เย็น/adj ตั้งโต๊ะ/adv แล้ว/vpost "/punc
+หนู/ncn บ้าน/ncn พูด/vt อย่าง/advm1 โอ้อวด/adv
+ปากของ/vt หนู/ncn นา/ncn อ้า/vt กว้าง/adv
+มัน/pper ไม่/neg เคย/prev เห็น/vt อาหาร/ncn มากมาย/adv ขนาด/ncn นี้/det มา/vpost ก่อน/adv ใน/prep ชีวิต/ncn
+มี/vt ชีส/npn กอง/vt เป็น/advm2 ภูเขา/ncn
+และ/conj บิส/npn กิตชิ้น/ncn เล็ก/adj ๆ/punc
+เรียง/vt เป็น/advm2 แถว/ncn
+องุ่น/ncn สี/ncn ม่วง/adj พวง/ncn โต/adj
+และ/conj แซน/ncn ด์วิช/npn ที่/prel ชวน/vt ให้/conjncl น้ำลายหก/vt วาง/vt เป็น/advm2 ตั้ง/vt ๆ/punc
+และ/conj ที่/prel ปลาย/adj โต๊ะ/ncn ยัง/prev มี/vt เค้ก/ncn และ/conj ของหวาน/ncn น่า/prev อร่อย/vi มากมาย/adv เกิน/adv กว่า/adv ที่/prel มัน/pper เคย/prev ฝัน/vi ไว้/vpost วาง/vt อยู่/vpost
+"/punc ตาม/advm5 สบาย/adv เลย/part นะ/part "/punc
+หนู/ncn บ้าน/ncn พูด/vt
+ขณะ/ncn ชี/npn สอ/npn ยู่/vi เต็มปาก/adv
+หนู/ncn นา/ncn วิ่ง/vi ไป/vpost รอบ/prep โต๊ะ/ncn
+ทำ/vt อะไร/indet ไม่/neg ถูก/vi
+มัน/pper ดึง/vt องุ่น/ncn ตรง/adv นี้/det แล้ว/vpost แทะ/vi แซน/ncn ด์วิช/npn ตรง/adv นั้น/det
+ก่อน/conj จะ/prev ปีน/vt ไป/vpost ทั่ว/adj กอง/nct ชีส/npn
+ชิม/vt อาหาร/ncn ตรง/adv นี้/det นิด/adv ตรง/adv นี้/det หน่อย/adv จน/conj เต็มปาก/adv
+"/punc วี้ด/npn !/punc "/punc
+หนู/ncn บ้าน/ncn ร้อง/vi เสียง/ncn แหลม/ncn จาก/prep ฝั่ง/ncn ตรง/vi ข้าม/vt ของ/prep โต๊ะ/ncn
+ก่อน/conj จะ/prev เลื่อน/vt ตัว/ncn ไป/vpost ตาม/prep ช้อน/vt ลง/vpost มา/vpost ที่/prep ชาม/ncn ใส่/vt
+วิป/ncn ครีม/adj
+"/punc รอ/vt ฉัน/pper ด้วย/adv !/punc "/punc
+หนู/ncn นา/ncn ตะโกน/vi อย่าง/advm1 ร่าเริง/vi แล้ว/vpost ก็/conj วิ่ง/vi ไป/vpost ร่วม/vt สนุก/vi ด้วย/adv
+หลังจาก/conj ที่/prel กิน/vt เค้ก/ncn ช็อกโกแลต/ncn เข้าไป/adv
+และ/conj เลีย/vt น้ำตาล/ncn บน/prep ชิ้น/ncn เชอ/ncn รี่/npn พร้อม/vi กับ/prep เคี้ยว/vt ทาร์ต/ncn สต/npn รอ/vt เบอรี่ชิ้น/ncn ใหญ่/adj อย่าง/advm1 ติด/vt หนึบ/vi แล้ว/vpost
+หนู/ncn นา/ncn ก็/conj คิด/vt ว่า/conjncl บ้าน/ncn ใน/prep เมือง/ncn หลัง/adj นี้/det ให้/vcau ความ/pref1 รู้สึก/vi เหมือน/vcs เป็นบ้าน/ncn ตัว/ncn เอง/prfx เลย/part
+ขณะ/ncn ที่/prel มัน/pper กำลัง/prev เช็ด/vt อุ้ง/vt เท้า/ncn ด้วย/prep ผ้า/ncn เช็ด/vt ปากแข็ง/ncn ๆ/punc
+สี/ncn ขาว/adj
+หนู/ncn บ้าน/ncn ก็/conj ร้อง/vi ว่า/conjncl
+"/punc มา/vpost กับ/prep ฉัน/pper สิ/part ฉัน/pper มี/vt อะไร/pint ให้/conjncl เธอ/pper ประหลาด/vi ใจ/ncn "/punc
+หนู/ncn บ้าน/ncn ใช้/vt อุ้ง/vt เท้า/ncn ลาก/vt ญาติ/ncn ของ/prep มัน/pper ไป/vpost ยัง/prep ถ้วย/ncn แก้ว/ncn เย็น/adj ๆ/punc
+ใบ/ncn หนึ่ง/adj ที่/prel มี/vt ลูก/ncn กลม/adj ๆ/punc
+ขนาด/ncn ใหญ่/adj สี/ncn ขาว/adj และ/conj สี/ncn ชมพู/adj อยู่/vpost ใน/prep นั้น/det
+"/punc นี่/pdem .../punc "/punc
+หนู/ncn บ้าน/ncn พูด/vt อย่าง/advm1 ตื่นเต้น/vi
+"/punc ไอศกรีมไงล่ะ/int "/punc
+หนู/ncn ทั้ง/adj สอง/nnum แกว่ง/vt ตัว/ncn ขึ้น/vpost ไป/vpost บน/prep ช้อน/vt แล้ว/vpost กระโดด/vi ลง/vpost ไป/vpost ใน/prep ถ้วย/ncn ใบ/ncn นั้น/det
+"/punc มัน/pper เย็น/vi เจี๊ยบ/adv เลย/part !/punc "/punc
+หนู/ncn นา/ncn อุทาน/vi
+"/punc แน่/adv อยู่/vpost แล้ว/vpost "/punc
+หนู/ncn บ้าน/ncn พูด/vt
+"/punc ลอง/vt ชิม/vt ดู/vt สิ/part "/punc
+หนู/ncn นา/ncn จุ่ม/vt อุ้ง/vt เท้า/ncn ลง/vpost ไป/vpost ใน/prep ไอศกรีม/ncn แล้ว/vpost เลีย/vt
+มัน/pper ส่ง/vt ความ/pref1 รื่นรมย์/vi อัน/prel หอม/vi หวาน/vi เย็น/vi จน/conj สั่น/vt สะท้าน/vi ไป/vpost ถึง/prep สันหลัง/ncn ของ/prep เจ้า/ntit หนู/npn น้อย/adv
+"/punc สวรรค์/ncn จริงๆ/adv เลย/part !/punc "/punc
+หนู/ncn นาถ/npn อน/vi หายใจ/vi
+พร้อม/vi กับ/prep หลับตา/vi อย่าง/advm1 เป็น/advm2 สุข/ncn
+ทันใด/conj นั้น/det
+ประตู/ncn ห้อง/ncn อาหาร/ncn ก็/conj เปิด/vt ออก/vpost
+ชาย/ncn คน/cl หนึ่ง/adj เดิน/vi เข้า/vi มา/vpost ใน/prep ห้อง/ncn เพียง/adv ชั่ว/vi พริบ/adv ตา/ncn
+หนู/ncn บ้าน/ncn ก็/conj กระโดด/vi ลง/vpost ไป/vpost ซ่อน/vt ตัว/ncn อยู่/vpost ด้าน/ncn หลัง/adj ถ้วย/cl ไอศกรีม/ncn
+แต่/conj หนู/ncn นา/ncn ตรึง/vt แน่น/vi อยู่/vpost กับ/prep ที่/prel ด้วย/prep ความ/pref1 กลัว/vt
+"/punc หา/vt ที่/prel ซ่อน/vt สิ/part !/punc "/punc
+หนู/ncn บ้าน/ncn กระซิบ/npn
+"/punc เร็ว/adv เข้า/vi ก่อน/adv ที่/prel เขา/pper จะ/prev เห็น/vt เจ้า/ncn "/punc
+เมื่อ/conj สติ/ncn กลับ/vi มา/vpost
+หนู/ncn นา/ncn ก็/conj มุด/ncn ตัว/ncn ลง/vpost ไป/vpost ระหว่าง/prep ไอศกรีม/ncn สอง/nnum ลูก/cl
+มัน/pper เย็น/vi กว่า/prep อากาศ/ncn ตอน/ncn กลาง/adj ฤดู/ncn หนาว/adj เสีย/vpost อีก/adv
+แต่/conj หนู/ncn นา/ncn ก็/conj ไม่/neg กล้า/vi ขยับ/vt มัน/pper หมอบ/vi ตัว/ncn สั่น/vt
+จนกระทั่ง/conj ได้ยิน/vt เสียง/ncn ประตู/ncn ปิด/vt ลง/vpost อีก/adv ครั้ง/cl
+แล้ว/conj เห็น/vt ใบหน้า/ncn ของ/prep หนู/ncn บ้าน/ncn กำลัง/prev มอง/vt ลง/vpost มา/vpost
+"/punc ตะ/npn -/punc ตอน/ncn -/punc นี้/det -/punc มะ/npn -/punc มัน/ncn -/punc ปะ/vt -/punc ปลอด/vt -/punc ภัย/ncn -/punc หระ/npn -/punc หรือ/conj -/punc ยะ/npn -/punc ยัง/prev "/punc
+หนู/ncn นา/ncn ถาม/vt
+ฟัน/vt ของ/prep มัน/pper สั่น/vt กระทบ/vt กัน/prec ด้วย/prep ความ/pref1 หนาว/vi
+"/punc ปลอดภัย/vi แล้ว/vpost "/punc
+หนู/ncn บ้าน/ncn ตอบ/vt
+พลาง/adv ดึง/vt ตัว/ncn ญาติ/ncn ของ/prep มัน/pper ออก/vpost มา/vpost จาก/prep ถ้วย/ncn ไอศกรีม/ncn
+แล้ว/conj ปัด/vt เกล็ด/vt น้ำแข็ง/ncn ออก/vpost จาก/prep หนวด/ncn
+"/punc มา/vpost กิน/vt พาย/vt แอป/ncn เปิ้ลกัน/npn "/punc
+หนู/ncn บ้าน/ncn พูด/vt ให้/conjncl หนู/ncn นาค/ncn ลาย/ncn ความ/pref1 หวาด/vt กลัว/vt
+"/punc พาย/vt จะ/prev ช่วย/vt ให้/conjncl เธอ/pper อบอุ่น/vi ขึ้น/vpost "/punc
+ขณะ/ncn ที่/prel หนู/ncn บ้าน/ncn และ/conj หนู/ncn นา/ncn กำลัง/prev มุ่ง/vi หน้า/ncn ไป/vpost ยัง/prev พาย/vt แอป/ncn เปิ้ลอบ/vt ที่สุด/adv ขอบ/ncn โต๊ะ/ncn
+ก็/conj มีเสียง/npn
+"/punc เมี้ยว/npn "/punc
+ดัง/conj ขึ้น/vpost
+ก่อน/adv ที่/prel หนู/ncn นา/ncn จะ/prev ทัน/vi ได้/vpost ถาม/vt ว่า/conjncl เกิด/vt อะไร/pint ขึ้น/vpost
+แมว/ncn สี/ncn ส้ม/ncn ตัว/ncn เขื่อง/vt ท่าทาง/ncn ดุร้าย/vi ก็/conj กระโดด/vi ขึ้น/vpost มาบน/vt โต๊ะ/ncn ตรง/prep หน้า/ncn พวก/nct มัน/pper
+"/punc วิ่ง/vi ให้/conjncl เร็ว/vi ที่สุด/adv "/punc
+หนู/ncn บ้าน/ncn ร้อง/vi เสียง/ncn แหลม/adj
+คราว/cl นี้/det
+ไม่/neg จำเป็น/vi ต้อง/prev บอก/vt หนู/ncn นา/ncn ซ้ำ/adv สอง/nnum
+ทั้ง/adj คู่/cl หนี/vt อย่าง/advm1 อลหม่าน/vi โดย/conj มี/vt แมว/ncn จี้/vt ตาม/advm5 หลัง/adv มา/vpost ติดๆ/vi
+พวก/nct มัน/pper วิ่ง/vi ผ่าน/vt เค้ก/ncn ช็อกโกแลต/ncn
+ลอด/vt ตัว/ncn ผ่าน/vt ช่อง/ncn ระหว่าง/prep จาน/ncn สอง/nnum ใบ/ncn แล้ว/vpost วิ่ง/vi ไป/vpost รอบ/ncn ๆ/punc
+ถาด/ncn ชีส/npn
+แมว/ncn ขู่/vt อย่าง/advm1 ดุร้าย/adv พร้อม/vi กับ/prep วิ่ง/vi ไล่/vt หลัง/prep พวก/nct มัน/pper
+ทำให้/vcau แก้ว/ncn ล้ม/vt ชาม/ncn ปลิว/vi ไป/vpost ทุก/adj ทิศ/ncn ทุก/adj ทาง/ncn
+หนู/ncn ทั้ง/adj สอง/nnum วิ่ง/vi มา/vpost ถึง/prep ขอบ/ncn โต๊ะ/ncn ได้/prev ทัน/vi เวลา/ncn พอดี/adv
+เมื่อ/conj หนู/ncn นาก/ncn ระ/npn โดด/vi ลง/vpost จาก/prep โต๊ะ/ncn
+มัน/pper รู้สึก/vi ได้/vpost ว่า/conjncl กรงเล็บ/vt ของ/prep แมว/ncn พลาด/vi หลัง/adv ของ/prep มัน/pper ไป/vpost อย่าง/advm1 หวุดหวิด/adv
+หนู/ncn นาก/ncn ระ/npn โดด/vi ลง/vpost บน/prep พรม/ncn ผืน/ncn นุ่ม/adj
+หัวใจ/ncn เต้น/vi ถี่/vi รัว/vt ด้วย/prep ความ/pref1 กลัว/vt
+ด้าน/ncn หลัง/adj ของ/prep มัน/pper
+เจ้า/ntit แมว/ncn กำลัง/prev ขู่/vt อย่าง/advm1 โกรธ/vt แค้น/vt เมื่อ/prep มัน/pper เซ/vi ถลา/vi ไป/vpost ที่/prep ขอบ/ncn โต๊ะ/ncn
+ตะปบ/vt ผ้า/ncn ปู/vt โต๊ะ/ncn ไว้/vpost เพื่อ/prep กัน/prec ไม่/neg ให้/vcau ตัว/ncn เอง/prfx หล่น/vi ลง/vpost ไป/vpost
+"/punc ทาง/ncn นี้/det !/punc "/punc
+หนู/ncn บ้าน/ncn ร้อง/vi
+ชี้/vt ไป/vpost ทาง/prep รู้/vt เล็ก/adj ๆ/punc
+ตรง/vi ริม/prep ผนัง/ncn
+มีเสียง/npn ร้อง/vi อย่าง/advm1 เจ็บปวด/adv และ/conj เสียง/ncn โครมคราม/npn ดัง/conj สนั่น/npn เมื่อ/conj แมว/ncn หล่น/vi ลง/vpost มา/vpost ที่/prep พื้น/ncn
+มัน/pper ดึง/vt ผ้า/ncn ปู/vt โต๊ะ/ncn และ/conj จาน/ncn กับแก้ว/cl ทั้งหมด/adj ตาม/prep ลง/vpost มา/vpost ด้วย/adv
+หนู/pper น้อย/vi ทั้ง/conjc สอง/nnum มุด/ncn เข้า/vi รู/ncn ไป/vpost โดย/advm3 ไม่/neg หัน/vt กลับ/vi มา/vpost มอง/vt
+แล้ว/conj ทรุด/vi ตัว/ncn ลง/vpost ไป/vpost กอง/nct ที่/prel พื้น/ncn ด้าน/ncn หลัง/adj กำแพง/ncn
+สีข้าง/ncn ของ/prep หนู/ncn ทั้ง/adj สอง/nnum ขยับ/vt ขึ้น/vpost ลง/vpost
+"/punc นั่น/pdem ก็/conj แค่/adv ข้อ/ncn เสีย/adj เล็ก/adj ๆ/punc น้อย/adv ๆ/punc ข้อ/ncn หนึ่ง/adj ของ/prep การ/pref1 ใช้/vt ชีวิต/ncn แบบ/ncn คน/ncn ที่/prel มี/vt ระดับน่ะ/part "/punc
+หนู/ncn บ้าน/ncn หอบ/vt แฮก/adv
+"/punc ข้อ/ncn เสีย/adj เล็ก/adj ๆ/punc น้อย/adv ๆ/punc งั้น/det หรือ/conj "/punc
+หนู/ncn นา/ncn ร้อง/vi
+"/punc เชิญ/vt เธอ/pper มี/vt ชีวิต/ncn แบบ/ncn มี/vt ระดับ/ncn ของ/prep เธอ/pper ต่อ/adv ไป/vpost เถอะ/part ฉัน/pper ขอก/adj ลับ/adj ชนบท/ncn ของ/prep ฉัน/pper ดี/adv กว่า/adv "/punc
+"/punc อะไร/pint นะ/part "/punc
+หนู/ncn บ้าน/ncn พูด/vt
+"/punc แล้ว/vpost ก็/conj อยู่/vi โดย/conj ไม่/neg มี/vt อาหาร/ncn จาก/prep สวรรค์/ncn พวก/nct นี้/det น่ะหรือ/vi "/punc
+"/punc ใช่/vt "/punc
+หนู/ncn นา/ncn ตอบ/vt อย่าง/advm1 หนักแน่น/adv
+"/punc ฉัน/pper ยินดี/vi จะ/prev อยู่/vi อย่าง/advm1 สงบ/vi สุข/vi มาก/adv กว่า/adv มา/vpost เสี่ยงชีวิต/npn เพื่อ/conj แลก/vt กับ/prep ไอศกรีม/ncn หนึ่ง/adj อุ้ง/vt มือ/ncn แบบ/ncn นี้/det "/punc

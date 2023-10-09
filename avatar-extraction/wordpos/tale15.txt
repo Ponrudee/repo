@@ -1,0 +1,121 @@
+เจ้า/ntit หญิง/ncn ปุยฝ้าย/vi กับ/prep เจ้า/ntit ชาย/ncn สาย/ncn ลม/ncn
+เจ้า/ntit ชาย/ncn สาย/ncn ลม/ncn อาศัย/vi อยู่/vpost ใน/prep ดิน/ncn แดน/ncn ทาง/prep ตอน/ncn เหนือ/ncn ที่/prel ซึ่ง/prel มี/vt อากาศ/ncn หนาว/adj เย็น/ncn ตลอด/adj ทั้ง/adj ปี/cl
+เวลา/ncn ที่/prel เจ้า/ntit ชาย/ncn เดินทาง/vi ไป/vpost ไหน/indet มา/vpost ไหน/indet
+ต้นไม้/ncn ก็/conj จะ/prev สะบัด/vt กิ่ง/ncn ก้าน/ncn ไป/vpost มา/vpost
+ใบไม้/ncn สี/ncn น้ำตาล/adj จะ/prev ปลิว/vi โปรยปราย/vi ใน/prep อากาศ/ncn ก่อน/adj ร่วง/vi ลง/vpost มาก/adv อง/vt สุม/ncn บน/prep พื้น/ncn ดิน/ncn
+ว่า/vt กัน/prec ว่า/conjncl เจ้า/ntit ชาย/ncn นำพา/vi สาย/ncn ลม/ncn ไป/vpost ด้วย/adv ทุกแห่ง/adv หน/cl
+เมื่อ/conj เจ้า/ntit ชาย/ncn เดินทาง/vi ลง/vpost สู่/prep ทิศ/ncn ใต้/ncn
+ชาว/pref3 เมือง/ncn ก็/conj จะ/prev พูด/vt กัน/prec ว่า/conjncl
+"/punc ลม/ncn เหนือ/ncn มา/vpost แล้ว/vpost "/punc
+หลังจาก/conj นั้น/det ก็/conj จะ/prev รีบ/vi พา/vt กัน/prec เก็บข้าว/adj โพด/ncn ใน/prep ไร่/ncn
+เพื่อ/conj เอา/vt ไว้/vpost เป็น/advm2 เสบียง/ncn ใน/prep ฤดู/ncn หนาว/adj
+พร้อม/vi กับ/prep ปิด/vt ประตู/ncn หน้าต่าง/ncn อย่าง/advm1 แน่นหนา/vi
+เหมือน/vcs จะ/prev บอก/vt ว่า/conjncl ไม่/neg ต้องการ/vt ต้อนรับ/vt การ/pref1 มา/vpost เยือน/vt ของ/prep เจ้า/ntit ชาย/ncn
+เจ้า/ntit ชาย/ncn สาย/ncn ลม/ncn รู้สึก/vi เศร้า/vt พระทัย/ncn ทุกๆ/adj
+ครั้ง/ncn เวลา/ncn ที่/prel พระองค์/pper เสด็จ/vi ไป/vpost ตาม/prep ถนน/ncn ใน/prep เมือง/ncn
+ใคร/pind สัก/advm4 คน/ncn จะ/prev ดึง/vt ผ้า/ncn มา/vpost คลุม/vt ศีรษะ/ncn แล้ว/vpost รีบ/vi อุ้ม/vt เด็ก/ncn เล็ก/adj ๆ/punc
+หนี/vt ไป/vpost ทาง/prep อื่น/indet พลาง/adv พูด/vt ว่า/conjncl
+"/punc ลม/ncn เย็น/adj ๆ/punc จะ/prev ทำให้/vcau หนู/ncn ไม่/neg สบาย/vi "/punc
+หรือ/conj ถ้า/conj พระองค์/pper เสด็จ/vi เข้าไป/adv อ่าน/vt หนังสือ/ncn ใน/prep ห้องสมุด/ncn
+หนอน/ncn หนังสือ/ncn ที่/prel กำลัง/prev ก้ม/vt หน้า/ncn ก้ม/vt ตา/ncn อ่าน/vt อย่าง/advm1 ตั้งใจ/vi ต่าง/pind พา/vt กัน/prec หยุด/vi
+และ/conj ไล่/vt ตะปบ/ncn หน้า/adj กระดาษ/ncn ที่/prel เอาแต่/conj พลิก/vt ไป/vpost ที่/prep อื่น/indet
+ดูเหมือน/vcs พระองค์/pper จะ/prev ทำให้/vcau คน/ncn อื่นๆ/indet
+เดือดร้อน/vi ไป/vpost เสีย/vpost หมด/adv
+เจ้า/ntit ชาย/ncn ถูก/psm ห้าม/vt ไม่/neg ให้/vcau เดินทาง/vi ไป/vpost ยัง/prep ดินแดง/ncn ที่/prel อยู่/vi ทาง/prep ทิศ/ncn ตะวันตก/ncn
+ที่/prel ซึ่ง/prel มี/vt เรื่อง/ncn เล่า/vt ขาน/vt ถึง/prep ความ/pref1 เงียบ/vi สงัด/adv และ/conj ปิศาจ/ncn สี/ncn ขาว/adj
+แต่/conj เจ้า/ntit ชาย/ncn คิด/vt ว่า/conjncl ใน/prep เมื่อ/conj ตน/pper เอง/prfx ไม่/neg มี/vt ประโยชน์/ncn ต่อ/prep ชาว/pref3 เมือง/ncn นี้/det แล้ว/vpost ก็/conj น่า/prev จะ/prev ลอง/vt ไป/vpost เยี่ยม/vt ดิน/ncn แดน/ncn ที่/prel ยัง/prev ไม่/neg เคย/prev เห็น/vt นี้/det ดู/vt สัก/advm4 ครั้ง/cl
+ใน/prep เช้า/ncn วัน/ncn หนึ่ง/adj ที่/prel ดวง/ncn อาทิตย์/npn ซ่อน/vt ตัว/ncn อยู่/vpost หลัง/prep ก้อน/ncn เมฆ/ncn สี/ncn เทา/adj
+ชาว/pref3 เมือง/ncn ต่าง/pind เก็บ/vt เสื้อ/ncn ผ้า/ncn ที่/prel ตาก/vt ไว้/vpost ลง/vpost จาก/prep ราว/adv
+ปิด/vt ประตู/ncn หน้าต่าง/ncn และ/conj บ่น/vi พึมพำ/vi ถึง/prep ลม/ncn มรสุม/ncn ที่/prel จะ/prev พัด/vi พา/vt เอา/vt สาย/ncn ฝน/ncn มา/vpost ใน/prep ไม่/neg ช้า/adv นี้/det
+เจ้า/ntit ชาย/ncn สาย/ncn ลม/ncn จึง/conj เริ่ม/vi ออก/vpost เดินทาง/vi โดย/conj ไม่/neg มี/vt ใคร/pind รู้สึก/vi ถึง/prep สาย/ncn ลม/ncn ที่/prel กำลัง/prev พัด/vi ไป/vpost ยัง/prep ทิศ/ncn ตะวันตก/ncn
+ยิ่ง/adv เข้าไป/adv ใกล้/prep ดิน/ncn แดน/ncn ทาง/prep ทิศ/ncn ตะวันตก/ncn
+เจ้า/ntit ชาย/ncn ก็/conj ยิ่ง/adv รู้สึก/vi ได้/vpost ถึง/prep ความ/pref1 แห้งแล้ง/vi ของ/prep ผิว/ncn ดิน/ncn
+ต้นไม้/ncn สี/ncn น้ำตาล/adj แก่/prep ยืน/vi นิ่ง/adv ไม่/neg ไหวติง/idm
+คล้าย/vcs คน/ncn ครึ่ง/nnum หลับ/vi ครึ่ง/nnum ตื่น/vi
+แต่ละ/adj ต้น/cl มี/vt ใบ/ncn สี/ncn เหลือง/adj ติด/vt กิ่ง/ncn เพียง/adv ไม่/neg กี่/indet ใบ/cl
+จึง/conj ไม่/neg มีเสียง/vt โบก/vt สะบัด/vt แม้/conj เจ้า/ntit ชาย/ncn จะ/prev ลอด/vt ตัว/ncn เดิน/vi ผ่าน/vt ต้น/ncn แล้ว/vpost ต้น/cl เล่า/part
+เบื้องหน้า/ncn ออก/vpost ไป/vpost ไม่/neg ไกล/adv
+มอง/vt เห็น/vt แต่/conj ความ/pref1 เวิ้งว้าง/vt สี/ncn ขาว/adj โพลน/adj
+เจ้า/ntit ชาย/ncn ลังเล/vi พระทัย/vi ว่า/conjncl ควร/prev จะ/prev เดิน/vi ต่อ/prep ไป/vpost ดี/adv หรือ/conj ไม่/neg
+ทันใด/conj นั้น/det พื้น/ncn ดิน/ncn ที่/prel ข้าง/ncn พระ/honm บาท/npn ก็/conj ขยับเขยื้อน/npn
+ผิว/ncn หน้า/adj ดิน/ncn ยก/vt ตัว/ncn สูง/vi ขึ้น/vpost แล้ว/vpost เศษ/adj ดิน/ncn ก็/conj กระจาย/vt ออก/vpost เป็น/advm2 วง/ncn
+หลังจาก/conj นั้น/det ก็/conj มี/vt จมูก/ncn เล็ก/adj ๆ/punc
+แหลม/ncn ๆ/punc
+สี/ncn ชมพู/adj ยื่น/vt ออก/vpost มา/vpost จาก/prep พื้นที่/ncn เป็น/vcs รู/ncn นั้น/det
+ครู่/ncn ต่อ/prep มา/vpost เจ้าของ/ncn จมูก/ncn ก็/conj ใช้/vt เล็บ/ncn ยาว/adj ๆ/punc
+คุ้ย/vt ดิน/ncn แล้ว/vpost ดัน/vt ตัว/ncn ขึ้น/vpost มา/vpost ยืน/vi บน/prep พื้น/ncn ทำ/vt จมูก/ncn ฟุด/ncn ฟิด/npn
+เจ้า/ntit ชาย/ncn สังเกต/vt เห็น/vt ว่า/conjncl ขน/vt สี/ncn เทา/adj ของ/prep มัน/pper ยาว/vi มา/vpost คลุม/vt หน้า/ncn จน/conj แทบ/prev มอง/vt ไม่/neg เห็น/vt ตา/ncn ทั้ง/adj สอง/nnum ข้าง/cl
+แต่/conj ที่/prel น่า/prev ขัน/vt ออก/vpost จะ/prev แบน/vi ๆ/punc
+และ/conj มี/vt เล็บ/ncn ยาว/adj เป็น/vcs ซี่/npn ๆ/punc
+คล้าย/vcs คราด/vt สำหรับ/conj กวาด/vt ใบไม้/ncn
+"/punc เจ้า/ntit ตุ่น/npn นี่เอง/part "/punc
+เจ้า/ntit ชาย/ncn ทัก/npn
+"/punc สวัสดี/vi เจ้า/ntit กำลัง/prev จะ/prev ไป/vi ไหน/pint หรือ/pint "/punc
+"/punc เจ้า/ntit ชาย/ncn สาย/ncn ลม/ncn ใช่/vt ไหม/pint "/punc
+เจ้า/ntit ตุ่น/npn ใช้/vt จมูก/ncn ดม/npn ที่/prel รอง/adj พระบาท/ncn อีก/adj ครั้ง/cl ให้/conjncl แน่ใจ/vi ก่อน/adv ก้มหัว/adv อย่าง/advm1 พินอบพิเทา/adj
+"/punc กระหม่อม/npn รีบ/vi มา/vpost หา/vt พระองค์/pper เพื่อ/conj จะ/prev บอก/vt ว่า/conjncl พระองค์/pper จะ/prev เสด็จ/vi ต่อ/adv ไป/vpost ข้าง/prep หน้า/ncn อีก/adj ไม่/neg ได้/vpost "/punc
+"/punc เพราะ/conj ดิน/ncn แดน/ncn แห่ง/prep ปิศาจ/ncn สี/ncn ขาว/adj ที่/prel เห็น/vt อยู่/vpost ข้าง/prep หน้า/ncn นั้น/det น่ะหรือ/ncn "/punc
+เจ้า/ntit ชาย/ncn หัวเราะ/vt อย่าง/advm1 อารมณ์/ncn ดี/adj
+"/punc ไม่/neg ใช่/vt เรื่อง/ncn ของ/prep ปิศาจ/ncn พะ/npn ย่ะ/part ค่ะ/aff แต่/conj ถ้า/conj เสด็จ/vi ต่อ/adv ไป/vpost พระองค์/pper จะ/prev ทำให้/vcau เจ้า/ncn หญิง/ncn ปุยฝ้าย/vt ทรง/honm เสีย/vt พระทัย/ncn แน่/adv ๆ/punc "/punc
+เจ้า/ntit ตุ่น/npn ทำ/vt จมูก/ncn ยุก/vt ยิก/ncn และ/conj ใช้/vt เล็บ/ncn ที่/prel ยาว/vi เหมือน/adv คราด/vt คุ้ย/vt ดิน/ncn ไป/vpost พลาง/adv
+มัน/pper ไม่/neg จำเป็น/vi ต้อง/prev ใช้/vt ตา/ncn ใน/prep การ/pref1 มอง/vt อะไร/indet ๆ/punc
+แต่/conj ก็/conj สามารถ/prev เดินทาง/vi อยู่/vpost ใต้/prep ดิน/ncn ได้/vpost ด้วย/prep การ/pref1 ดม/ncn กลิ่น/ncn และ/conj ขุด/vt อุโมงค์/ncn
+"/punc เล่า/vt เรื่อง/ncn ของ/prep เจ้า/ntit หญิง/ncn ปุยฝ้าย/vt ให้/conjncl เรา/pper ฟัง/vt หน่อย/adv "/punc
+เจ้า/ntit ชาย/ncn ตรัส/vt
+เจ้า/ntit หญิง/ncn ปุยฝ้าย/vi อาศัย/vi อยู่/vpost ใน/prep ดิน/ncn แดน/ncn ทาง/prep ทิศ/ncn ตะวันตก/ncn ที่/prel ซึ่ง/prel อบอุ่น/vi ไป/vpost ด้วย/prep แสง/ncn แดด/ncn ยาม/ncn บ่าย/ncn ตลอด/adj ทั้ง/adj ปี/cl
+เจ้า/ntit หญิง/ncn ปุยฝ้าย/ncn คอย/vt ดูแล/vt ต้นไม้/ncn เล็ก/adj ๆ/punc
+ที่/prel ชื่อว่า/vi
+"/punc ต้น/ncn ฝ้าย/ncn "/punc
+ให้ออก/ncn ดอก/ncn สี/ncn ขาว/adj
+ดอก/ncn ฝ้าย/ncn ที่/prel ฟู/vi และ/conj นุ่ม/vi บาน/vi สะพรั่ง/vi มอง/vt เห็น/vt เป็น/advm2 ดิน/ncn แดน/ncn สี/ncn ขาว/adj ไกล/adv สุด/adv ลูก/ncn หู/ncn ลูก/ncn ตา/ncn
+ชาว/pref3 เมือง/ncn นี้/det ต้อง/prev ทำ/vt งาน/ncn หนัก/adv ทุก/adj วัน/cl โดย/conj ต้อง/prev หิ้ว/vi ถัง/ncn น้ำ/ncn ไป/vpost ที่/prep แม่น้ำ/ncn และ/conj ตัก/vt น้ำ/ncn กลับ/vi มารด/ncn ต้น/adj ฝ้าย/ncn ทุกๆ/adj
+ต้น/ncn
+พวก/nct เขา/pper ไม่/neg กล้า/vi คุย/vi กัน/prec หรือ/conj หัวเราะ/vt เสียง/ncn ดัง/adj นัก/part
+เพราะ/conj ถ้า/conj มี/vt ใคร/pind หายใจ/vi แรง/vi ๆ/punc
+หรือ/conj จาม/ncn ดัง/adj ๆ/punc
+ออก/vt มา/vpost
+ปุยฝ้าย/ncn จะ/prev ปลิว/vi ขึ้น/vpost ไป/vpost ใน/prep อากาศ/ncn แล้ว/vpost ลอย/vi หนี/vt ไป/vpost ใน/prep ท้อง/ncn ฟ้า/adj
+ว่า/vt กัน/prec ว่า/conjncl ถ้า/conj ปุยฝ้าย/ncn หนี/vt ขึ้น/vpost ไป/vpost บน/prep ท้อง/ncn ฟ้า/adj มาก/adv ๆ/punc
+เข้า/vi
+มัน/pper จะ/prev รวม/vt ตัว/ncn กลาย/adj เป็น/vcs เมฆ/ncn ก้อน/cl ใหญ่/adj
+แล้ว/conj บดบัง/vt แสงอาทิตย์/ncn ไม่/neg ให้/vcau ส่อง/vi ลง/vpost มา/vpost
+ไม่/neg อยาก/prev นึก/vt ภาพ/ncn เลย/part ว่า/conjncl ถ้า/conj เจ้า/ntit ชาย/ncn สาย/ncn ลม/ncn เสด็จ/vi ไป/vpost ที่/prel นั่น/pdem จะ/prev สร้าง/vt ความ/pref1 โกลาหล/vi ให้/prep กับ/prep ชาว/pref3 เมือง/ncn มาก/adv เพียง/adv ใด/pint
+เจ้า/ntit ชาย/ncn นั่ง/vi ลง/vpost ข้างๆ/prep
+เจ้า/ntit ตุ่น/npn แล้ว/vpost ครุ่นคิด/adv
+นิ้ว/ncn มือ/ncn แบน/adj ๆ/punc
+และ/conj เล็บ/ncn ที่/prel ยาว/vi ของ/prep เจ้า/ntit ตุ่น/npn ดู/vt น่า/prev ขัน/vt ก็/conj จริง/adv
+แต่/conj มัน/pper ก็/conj มี/vt ประโยชน์/ncn ใน/prep การ/pref1 ขุด/vt ดิน/ncn และ/conj ทำให้/vcau มัน/pper สามารถ/prev เดินทาง/vi ไป/vpost ไหน/indet มา/vpost ไหน/indet ได้/vpost อย่าง/advm1 รวดเร็ว/adv
+"/punc ทุก/adj สิ่ง/ncn ล้วน/adv มี/vt ประโยชน์/ncn ใน/prep ตัว/ncn เอง/prfx "/punc
+เจ้า/ntit ชาย/ncn ตรัส/vt
+"/punc เจ้า/pper ช่วย/vt เดินทาง/vi ล่วงหน้า/adv ไป/vpost ยัง/prep ดิน/ncn แดน/ncn สี/ncn ขาว/adj นั้น/det ได้/vpost หรือ/conj ไม่/neg ใช้/vt มือ/ncn อัน/prel แสน/adv มี/vt ประโยชน์/ncn ของ/prep เจ้า/ncn ขุด/vt ดิน/ncn เป็น/vcs คัน/ncn ส่ง/vt น้ำ/ncn ยาว/vi ไป/vpost จน/conj สิ้นสุด/vi ที่/prep ฝ้าย/ncn ต้น/adj สุดท้าย/adj ส่วน/cl ที่/prel ริม/prep แม่น้ำ/ncn นั้น/det ให้/conjncl ชาว/pref3 เมือง/ncn ช่วย/vt กัน/prec สร้าง/vt เครื่องมือ/ncn ที่/prel มี/vt ใบพัด/ncn คล้าย/vcs กลีบ/ncn ดอกไม้/ncn และ/conj ทำให้/vcau มัน/pper หมุน/vi เป็น/advm2 วง/ncn ไป/vpost รอบ/prep ๆ/punc ได้/vpost "/punc
+หลังจาก/conj นั้น/det ไม่/neg นาน/adv
+เจ้า/ntit ชาย/ncn สาย/ncn ลม/ncn ก็/conj เดินทาง/vi เข้า/vi สู่/prep ดิน/ncn แดน/ncn แห่ง/prep ปุยฝ้าย/ncn
+โดย/conj ลัดเลาะ/vt ไป/vpost ตาม/prep เส้นทาง/ncn ของ/prep แม่น้ำ/ncn
+ใน/prep ที่สุด/adv พระองค์/pper ก็/conj มา/vi ถึง/prep กังหัน/ncn ใหญ่/adj ริม/prep น้ำ/ncn ที่/prel เพิ่ง/prev สร้าง/vt เสร็จ/adv
+สาย/ncn ลม/ncn จาก/prep เจ้า/ntit ชาย/ncn ทำให้/vcau ใบพัด/vi ของ/prep กังหัน/ncn เคลื่อน/vi ตัว/ncn หมุน/vi
+และ/conj เริ่ม/vi วิด/vt น้ำ/ncn จาก/prep แม่น้ำ/ncn ไหล/vi ลง/vpost สู่/prep คัน/ncn ดิน/ncn สำหรับ/conj ส่ง/vt น้ำ/ncn
+ชาว/pref3 เมือง/ncn ต่าง/pind กระโดด/vi โลดเต้น/vi อย่าง/advm1 ดีใจ/vi เมื่อ/conj เห็น/vt น้ำ/ncn ไหล/vi ผ่าน/vt ต้น/ncn ฝ้าย/ncn ทุก/adj ต้น/adj
+แม้/conj จะ/prev เป็นต้น/part ที่/prel อยู่/vi ไกล/adv ที่สุด/adv
+ดิน/ncn ที่/prel แห้ง/vi แข็ง/vi ก็/conj เริ่ม/vi ชุ่มชื้น/vi และ/conj
+อ่อน/vi นุ่ม/vi ลง/vpost
+เจ้า/ntit หญิง/ncn ปุยฝ้าย/vi เสด็จ/vi ออก/vpost มา/vpost ต้อนรับ/vt เจ้า/ntit ชาย/ncn
+ฉลองพระองค์/ncn ของ/prep เจ้า/ncn หญิง/ncn เป็น/vcs สี/ncn ขาว/adj บริสุทธิ์/adj
+ตัด/vt เย็บ/vt ด้วย/prep ผ้า/ncn ที่/prel ทอ/vt จาก/prep ดอก/ncn ฝ้าย/ncn อัน/prel อ่อน/vi นุ่ม/vi ที่สุด/adv ใน/prep โลก/ncn
+เจ้า/ntit หญิง/ncn แย้ม/ncn สรวล/npn ต้อนรับ/vt เจ้า/ncn ชาย/ncn แห่ง/prep สาย/ncn ลม/ncn อย่าง/advm1 เป็น/advm2 มิตร/ncn
+ตั้งแต่/prep นั้น/det มา/vpost
+เจ้า/ntit ชาย/ncn ก็/conj ออก/vi เดินทาง/vi ไป/vpost ใน/prep ทุกแห่ง/ncn อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+ถ้า/conj เจ้า/ntit ชาย/ncn ล่อง/vt เรือ/ncn ออก/vpost จาก/prep ฝั่ง/ncn ใน/prep เวลา/ncn กลางคืน/ncn
+ชาว/pref3 บ้าน/ncn ก็/conj จะ/prev บอก/vt ต่อๆ/adv
+กัน/prec ว่า/conjncl
+"/punc ลมบก/ncn มา/vpost แล้ว/vpost "/punc
+หลังจาก/conj นั้น/det พวก/nct เขา/pper ก็/conj จะ/prev พา/vt กันลง/vt เรือ/ncn ของ/prep ตน/pper เช่น/conjncl เดียวกัน/adj
+กาง/vt ใบ/ncn สี/ncn ขาว/adj ให้/conjncl แผ่/vt กว้าง/adv ที่สุด/adv เพื่อให้/conj เรือ/ncn แล่น/vi ออก/vpost สู่/prep ทะเล/ncn ไป/vpost หา/vt ปลา/ncn
+แล้ว/conj เมื่อ/conj ถึง/prep ตอน/ncn เช้า/ncn ที่/prel เจ้า/ntit ชาย/ncn ล่อง/vt เรือก/ncn ลับ/vi เข้า/vi มา/vpost
+คน/ncn หา/vt ปลา/ncn ที่/prel พา/vt เรือก/ncn ลับ/vi ถึง/prep ฝั่ง/ncn ก็/conj จะ/prev พูด/vt กัน/prec ว่า/conjncl
+"/punc ขอบคุณ/vt ลมทะเล/ncn ที่/prel พา/vt เรา/pper กลับ/vi มา/vpost อย่าง/advm1 ปลอดภัย/vi "/punc
+เจ้า/ntit ชาย/ncn เดินทาง/vi ไป/vpost ยัง/prep ดิน/ncn แดน/ncn ทาง/prep ทิศ/ncn ตะวันตก/ncn บ่อย/adv ขึ้น/vpost
+และ/conj ตก/vi หลุม/ncn รัก/vt เจ้า/ncn หญิง/ncn ปุยฝ้าย/ncn
+กังหัน/ncn ลม/ncn หมุน/vi วันแล้ววันเล่า/vi เพื่อ/conj วิด/vt น้ำ/ncn ส่ง/vt ไป/vpost ให้/conjncl ต้น/adj ฝ้าย/ncn ได้/prev ชุ่มชื่น/vi และ/conj เติบโต/vi อย่าง/advm1 เขียว/adj ชอุ่ม/ncn
+ส่วน/conj เจ้า/ntit ตุ่น/npn น่ะหรือ/vt
+มัน/pper ก็/conj ยัง/prev คง/prev อาศัย/vt อยู่/vpost ใน/prep รู/ncn ใต้/prep ดิน/ncn
+และ/conj เล่า/vt ให้/conjncl ลูก/ncn หลาน/ncn ฟัง/vt อยู่/vpost เสมอ/adv ถึง/prep เรื่องราว/ncn ของ/prep เจ้า/ntit หญิง/ncn ปุยฝ้าย/vi กับ/prep เจ้า/ncn ชาย/ncn แห่ง/prep สาย/ncn ลม/ncn

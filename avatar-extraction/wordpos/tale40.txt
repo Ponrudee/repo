@@ -1,0 +1,114 @@
+กบ/ncn เลือก/vt นาย/ntit
+กบ/ncn จำนวน/ncn มาก/adv เคย/prev อาศัย/vi อยู่/vpost ใกล้/prep ภูเขา/ncn โอลิมปัส/npn
+น้ำ/ncn ใน/prep สระ/ncn ลึก/adj และ/conj อุดม/vi ไป/vpost ด้วย/prep วัชพืช/ncn ที่/prel แม่/ncn กบ/ncn เอา/vt ไว้/vpost วางไข่/vi
+อากาศ/ncn รอบ/ncn ๆ/punc
+สระ/ncn เต็ม/vt ไป/vpost ด้วย/prep แมลง/ncn ที่/prel พวก/nct มัน/pper ใช้/vt ลิ้น/ncn เหนียว/adj ๆ/punc
+จับ/vt กิน/vt
+เหนือ/prep สิ่ง/ncn อื่น/indet ใด/indet มี/vt ต้น/ncn กก/ncn แผ่น/ncn หนา/vi ขึ้น/vpost อยู่/vpost ทั่ว/adj สระ/ncn
+ไว้/vpost คอย/vt กำบัง/vt พวก/nct กบ/ncn จาก/prep สัตว์/ncn ร้าย/adj
+ชีวิต/ncn เป็น/vcs ดั่ง/ncn งาน/ncn รื่นเริง/vi ใหญ่/adj สำหรับ/prep พวก/nct มัน/pper
+ซึ่ง/prel พวก/nct มัน/pper ฉลอง/vt ด้วย/prep การ/pref1 ว่าย/vi น้ำ/ncn ตลอด/adj เวลา/ncn
+และ/conj ร้องเพลง/vi กัน/prec เนิ่นนาน/vi ยาม/ncn อาทิตย์/npn ขึ้น/vpost และ/conj อาทิตย์/ncn ตกดิน/npn
+วัน/ncn หนึ่ง/adj
+นก/ncn นางแอ่น/adj สอง/nnum ตัว/cl มา/vpost พัก/vi ดื่ม/vt น้ำ/ncn บน/prep ต้น/ncn กก/npn
+"/punc ฉัน/pper จะ/prev ไป/vpost ส่งข่าว/vt ให้/conjncl พระ/honm ราชา/ncn นก/ncn นางแอ่น/npn "/punc
+นก/ncn ตัว/ncn หนึ่ง/adj กล่าว/vt กับ/prep นก/ncn อีก/adj ตัวอย่าง/ncn ภาคภูมิ/adv ใจ/ncn
+กบ/ncn รุ่น/cl เยาว์/adj สอง/nnum ตัว/cl ได้ยิน/vt เข้า/vpost
+"/punc พวก/nct เจ้า/ncn มี/vt พระ/honm ราชา/ncn ด้วย/adv หรือ/pint "/punc
+พวก/nct มัน/pper ถาม/vt
+"/punc สัตว์/ncn ทุก/adj ชนิด/cl มี/vt พระ/honm ราชา/ncn ทั้งนั้น/adv แหละ/part "/punc
+นก/ncn นางแอ่น/npn กล่าว/vt
+"/punc พวก/nct เรา/pper ไม่/neg เห็น/vt มี/vt เลย/part "/punc
+พวก/nct กบ/ncn รุ่น/ncn เยาว์/npn พูด/vt อย่าง/advm1 เป็น/advm2 กังวล/vi
+"/punc ต้อง/prev มี/vt สิ/part "/punc
+นก/ncn นางแอ่น/npn ยืนกราน/vi
+"/punc เขา/pper คง/prev อยู่/vi อีก/adv สระ/ncn หนึ่ง/adj พวก/nct เจ้า/pper ไม่/neg เคย/prev ได้ยิน/vt ข่าว/ncn จาก/prep เขา/pper หรือ/conj ส่ง/vt เครื่อง/ncn บรรณาการ/ncn ให้/conjncl เขา/pper เลย/vi หรือ/pint "/punc
+พวก/nct กบ/ncn ส่าย/vt หัว/ncn
+และ/conj เริ่ม/vi สะกิด/vt ใจ/ncn ว่า/conjncl พวก/nct มัน/pper ไม่/neg มี/vt ผู้/pref2 นำ/vt
+ไม่/neg มี/vex ใคร/pind คอย/vt ดูแล/vt
+ขณะ/ncn ที่/prel สระ/ncn ของ/prep มัน/pper ก็/conj ดู/vt ไม่/neg เหมือน/vcs สวรรค์/ncn ตรง/adv ไหน/pint
+ชีวิต/ncn ว่าง/adj เปล่า/neg ไร้/vt ซึ่ง/prel ความ/pref1 หมาย/vi เสีย/vpost จริง/adv
+ขณะ/ncn ที่/prel เกิด/vt ความ/pref1 ไม่/neg พอใจ/vt ขึ้น/vpost
+กบ/ncn ที่/prel อาวุโส/vi ที่สุด/adv
+และ/conj อ้วน/adv ที่สุด/adv ใน/prep สระ/ncn ก็/conj เรียก/vt ประชุม/vi
+"/punc เรา/pper ต้อง/prev ทูล/npn ขอ/vt ให้/conjncl ซี/npn อุส/npn เจ้า/ntit แห่ง/prep ทวย/ncn เทพ/npn ทั้งปวง/adj ประทาน/vt พระ/honm ราชา/ncn ให้/conjncl เรา/pper "/punc
+มัน/pper กล่าว/vt
+"/punc มาส/npn วด/vi อ้อนวอน/vi กัน/prec เถิด/part "/punc
+แล้ว/conj กบ/ncn ทุก/adj ตัว/ncn ก็/conj ประสาน/vt มือ/ncn กัน/prec
+หลับตา/vi และ/conj เริ่ม/vi ร้อง/vi พร้อม/vi ๆ/punc
+กัน/prec
+"/punc โอ/npn เทพ/npn ซี/npn อุส/npn ผู้/pref2 ยิ่ง/adv ใหญ่/adj พวก/nct เรา/pper ไซร้/vi พร้อม/vi กัน/prec ร้อง/vi สรรเสริญ/npn ขอ/vt ท่าน/pper โปรด/vi เมตตา/vt พวก/nct เรา/pper เทอญ/vt จง/prev อัญเชิญ/vt พระ/honm ราชา/ncn มา/vpost ให้/vcau เรา/pper !/punc "/punc
+ยัง/prev ไม่ทัน/vt ที่/prel พวก/nct มัน/pper จะ/prev สวด/vi อ้อนวอน/vi จบ/vi
+ก็/conj เกิด/vt ฟ้าแลบ/ncn ลง/vpost มา/vpost
+จน/conj ทุก/adj ตัว/ncn สะดุ้ง/vi โหยง/adv
+แล้ว/conj ก็/conj มี/vt ของ/prep ใหญ่/adj ๆ/punc
+ตกลง/vi มา/vpost จาก/prep ฟาก/ncn ฟ้า/adj
+มัน/pper ตกกระ/vi ทบ/vt สระ/ncn เสียง/ncn ดัง/adj ลั่น/adv
+จน/conj คลื่น/ncn แตก/vi กระจาย/vi ไป/vpost บน/prep ฝั่ง/ncn
+พวก/nct กบ/ncn พา/vt กัน/prec ตกใจ/vi กลัว/vt
+กระโดด/vi หนี/vt ไป/vpost หลบ/vt ใน/prep ต้น/ncn กก/npn ใกล้/adv ๆ/punc
+แล้ว/conj จึง/conj แอบ/vt มอง/vt ออก/vpost มา/vpost ที/cl ละ/adj ตัว/ncn
+สิ่ง/ncn ที่/prel ลอย/vi อยู่/vpost ใน/prep สระ/ncn คือ/vcs สัตว์/ncn ประหลาด/adj ตัว/ncn เทอะทะ/vi
+ตัว/ncn ของ/prep มัน/pper ยาว/adj ผิว/ncn หยาบ/adj
+และ/conj เงียบกริบ/vi เหมือน/adv ป่าช้า/adv
+"/punc ต้อง/prev เป็น/vcs พระ/honm ราชา/ncn ของ/prep พวก/nct เรา/pper แน่/adv "/punc
+พวก/nct กบ/ncn กระซิบ/vi ด้วย/prep ความ/pref1 หวาด/vt กลัว/vt
+"/punc เทพ/npn ซี/npn อุ/ncn สคง/npn ตอบ/vt คำ/ncn อ้อนวอน/vi ของ/prep พวก/nct เรา/pper แล้ว/vpost "/punc
+พวก/nct มัน/pper รวบรวม/vt ความ/pref1 กล้า/vi และ/conj เข้าไป/adv ใกล้/prep เจ้านาย/ncn คน/cl ใหม่/adj ที่/prel กำลัง/prev หลับ/vi อยู่/vpost อย่าง/advm1 เงียบกริบ/adv ที่สุด/adv เท่า/cl ที่/prel จะ/prev ทำได้/vi
+พวก/nct กบ/ncn รุ่น/ncn เยาว์/npn เอา/vt ใบ/ncn บัว/ncn มา/vpost ร้อย/nnum เป็น/vcs พวงมาลัย/ncn ประดับ/vt ทั่ว/adj ตัวพระ/ncn ราชา/ncn องค์/ncn ใหม่/adj
+ทว่า/conj
+พระ/ntit ราชา/ncn ยัง/prev เงียบ/vi สนิท/adv
+พวก/nct กบ/ncn อยาก/vt ให้/conjncl เขา/pper พูด/vt
+หรือ/conj ออก/vt คำสั่ง/ncn
+แต่/conj เขา/pper ก็/conj ไม่/neg พูด/vt
+ถึง/prep อย่าง/cl นั้น/det
+ทุก/adj ตัว/ncn ก็ดี/part ใจ/ncn ที่/prel มี/vt ผู้/pref2 นำ/vt
+เพราะ/conj ทำให้/vcau พวก/nct มัน/pper เท่าเทียม/vi กับ/prep สัตว์/ncn ทุก/adj ชนิด/cl ใน/prep โลก/ncn
+พวก/nct มัน/pper จึง/conj ร้อง/vi สรรเสริญ/vt เขา/pper ทุก/adj ครา/ncn ที่/prel พระ/ntit อาทิตย์/npn ขึ้น/vpost และ/conj ตก/vi
+หนึ่ง/adj หรือ/conj สอง/nnum สัปดาห์/cl ต่อ/prep มา/vpost
+นก/ncn นางแอ่น/ncn ตัว/ncn หนึ่ง/adj แวะ/vi มา/vpost ดื่ม/vt น้ำ/ncn ที่/prel สระ/ncn อีก/adj ครั้ง/cl
+มัน/pper เพิ่ง/prev ไป/vpost ส่งข่าว/vt ให้/conjncl พระราชา/ncn นก/ncn นางแอ่น/npn และ/conj กำลัง/prev จะ/prev กลับ/vi บ้าน/ncn
+"/punc นั่น/pdem ไม่/neg ใช่/vt พระ/honm ราชา/ncn เสียหน่อย/npn "/punc
+มัน/pper ว่า/conjncl เมื่อ/prep พวก/nct กบ/ncn ให้/conjncl มัน/pper ดู/vt สัตว์/ncn ประหลาด/adj ตัว/ncn เทอะทะ/vi ใน/prep น้ำ/ncn
+"/punc นั่น/pdem มัน/pper ซุง/ncn ต่างหาก/adv แค่/adv ไม้/ncn ท่อน/ncn หนึ่ง/adj มัน/pper คง/prev หัก/vt ลง/vpost มา/vpost จาก/prep ต้นไม้/ncn "/punc
+พวก/nct กบ/ncn ตกตะลึง/npn พรึง/conj เพริด/npn
+เทพ/npn ซี/npn อุส/npn เล่นตลก/npn กับ/prep พวก/nct มัน/pper อย่าง/advm1 ร้ายกาจ/npn แบบ/ncn นี้/det ได้/vpost อย่างไร/pint
+เหตุ/ncn ใด/indet จึง/conj ส่ง/vt ซาก/ncn ไม้/ncn มา/vpost ให้/conjncl เป็น/vcs พระ/honm ราชา/ncn ของ/prep พวก/nct มัน/pper
+"/punc เรา/pper ต้องการ/vt พระ/honm ราชา/ncn ที่/prel มี/vt ชีวิต/ncn จริงๆ/adv ต่างหาก/adv "/punc
+ทุก/adj ตัว/ncn ตอบ/vt พร้อม/vi กัน/prec
+"/punc พระราชา/npn ที่/prel พูด/vt ได้/vpost และ/conj ออก/vt คำสั่ง/ncn พวก/nct เรา/pper ได้/vt --/punc ผู้/pref2 นำ/vt ที่/prel สง่า/vi งาม/vi และ/conj น่า/prev ประทับใจ/vt แบบ/ncn พระราชา/npn ของ/prep สัตว์/ncn อื่นๆ/indet "/punc
+กบ/ncn ที่/prel อาวุโส/vi ที่สุด/adv เรียก/vt ประชุม/vi อีก/adv ครั้ง/cl
+พวก/nct กบ/ncn ประสาน/vt มือ/ncn
+หลับตา/vi และ/conj เริ่ม/vi ร้อง/vi อีก/adv ครั้ง/cl
+"/punc โอ/npn เทพ/npn ซี/npn อุส/npn ผู้/pref2 ยิ่ง/adv ใหญ่/adj พวก/nct เรา/pper ไซร้/vi พร้อม/vi กัน/prec ร้อง/vi สรรเสริญ/npn ขอ/vt ท่าน/pper โปรด/vi เมตตา/vt พวก/nct เรา/pper เทอญ/vt จง/prev อัญเชิญ/vt พระ/honm ราชา/ncn มา/vpost ให้/vcau เรา/pper !/punc "/punc
+แล้ว/conj ก็/conj เป็น/vcs เหมือน/adv ครั้ง/cl ก่อน/adj
+สายฟ้า/ncn แลบ/adj ลง/vpost มา/vpost จน/conj พวก/nct กบ/ncn พา/vt กัน/prec หนี/vt ไป/vpost หลบ/vt ใน/prep ต้น/ncn กก/npn
+จาก/prep ตรง/adv นั้น/det
+พวก/nct มัน/pper มอง/vt ขึ้น/vpost มา/vpost เห็น/vt จุด/ncn สี/ncn ขาว/adj บน/prep ฟ้า/ncn
+ค่อยๆ/adv ลอง/vt ลง/vpost สู่/prep พื้น/ncn ดิน/ncn
+เหมือนกับ/vcs กระดาษ/ncn หนัง/ncn ที่/prel ถูก/psm ลม/ncn พัด/vi ลง/vpost มา/vpost จาก/prep ภูเขา/ncn โอลิมปัสอ/npn ย่าง/vt ไร/ncn อย่าง/advm1 นั้น/det
+ขณะ/ncn ที่/prel ใกล้/vi เข้า/vi มา/vpost
+พวก/nct กบ/ncn ก็/conj ดู/vt ออก/vpost ว่า/conjncl มัน/pper คือ/vcs นก/ncn ที่/prel สง่า/vi งาม/vi แบบ/ncn ที่/prel ไม่/neg เห็น/vt มา/vpost ก่อน/adv
+มัน/pper มีคอ/vi และ/conj ขา/ncn ยาว/adj ระหง/adv
+มี/vt ขน/ncn สี/ncn ม่วง/adj ประดับ/vt อยู่/vpost บน/prep หน้าอก/ncn ของ/prep มัน/pper
+นก/ncn ตัว/cl นั้น/det หุบ/vt ปีก/ncn อย่าง/advm1 สง่า/adv งาม/vi และ/conj เข้า/vi มา/vpost พัก/vi ใน/prep น้ำ/ncn
+"/punc ถวายพระพร/ncn พระ/honm ราชา/ncn กบ/ncn องค์/ncn ใหม่/adj พวก/nct เรา/pper ขอ/vt ต้อนรับ/vt พระองค์/pper ด้วย/prep ความ/pref1 ยินดี/vi "/punc
+พวก/nct กบ/ncn แก่/prep ๆ/punc ออก/vpost มา/vpost จาก/prep ต้น/ncn กก/npn อย่าง/advm1 ระมัดระวัง/adv
+พร้อม/vi กับ/prep โค้ง/ncn คำนับ/ncn
+ผู้/pref2 นำ/vt ตัว/ncn ใหม่/adj ไม่/neg ตอบ/vt รับ/vt การ/pref1 ทักทาย/vi
+มัน/pper กลับ/vi มอง/vt ไป/vpost รอบ/ncn ๆ/punc ด้วย/prep ดวงตา/ncn ดุดัน/adv
+และ/conj ส่าย/vt จะงอย/ncn ปาก/ncn ขาว/adj ๆ/punc สี/ncn เหลือง/adj ที่/prel มี/vt ปลาย/ncn แหลม/ncn คม/adv ไป/vpost มา/vpost
+มัน/pper ยก/vt ปีก/ncn เล็กน้อย/adv
+และ/conj พุ่ง/vi ไป/vpost ข้าง/prep หน้า/ncn อย่าง/advm1 รวดเร็ว/adv ปลาย/adj สายฟ้า/ncn ของ/prep เทพ/npn ซี/npn อุส/npn
+กบ/ncn อาวุโส/adj ที่สุด/adv หาย/vi ลง/vpost ไป/vpost ใน/prep คอหอย/ncn ของ/prep มัน/pper
+ตัว/ncn อื่นๆ/indet ร้อง/vi ด้วย/prep ความ/pref1 กลัว/vt และ/conj กระโจน/vt หา/vt ที่/prel กำบัง/vt ท่ามกลาง/ncn ต้น/ncn กก/npn
+เทพ/npn ซี/npn อุส/npn ทรง/vt พิโรธ/ncn ที่/prel พวก/nct มัน/pper ไม่/neg พอใจ/vt พระ/honm ราชา/ncn องค์/ncn แรก/adj
+จึง/conj ส่ง/vt นก/ncn กระสา/npn มา/vpost แทน/adv
+--/punc
+ซึ่ง/prel อาหาร/ncn โปรด/vi ของ/prep นก/ncn คือ/vcs กบ/ncn กับ/prep ปลา/ncn นั่นเอง/part
+การ/pref1 ดำเนิน/vt ชีวิต/ncn ของ/prep พวก/nct กบ/ncn เปลี่ยน/vt ไป/vpost ทุก/adj วัน/cl ต้อง/prev ใช้/vt ชีวิต/ncn ด้วย/prep ความ/pref1 หวาด/vt กลัว/vt
+จะ/prev ออก/vi จาก/prep ที่/prel ซ่อน/vt ก็/conj ต่อ/vt เมื่อ/prep พระราชา/npn ไม่/neg อยู่/vi หรือ/conj กำลัง/prev หลับ/vi
+และ/conj พวก/nct มัน/pper ไม่/neg สามารถ/vi มา/vpost ร่วม/vt ร้องเพลง/vi ยาม/ncn พระอาทิตย์/ncn ขึ้น/vpost และ/conj ตก/vi ได้/vpost อีก/adv ต่อ/adv ไป/vpost
+เหล่า/nct กบ/ncn ต่าง/adj เสียใจ/vi ว่า/conjncl ตน/pper ไม่/neg น่า/prev ทูล/vt ขอ/vt ผู้/pref2 นำ/vt จาก/prep เทพ/npn ซี/npn อุส/npn เลย/part
+ตอน/ncn ที่/prel ไม่/neg มี/vt ผู้/pref2 นำ/vt
+พวก/nct มัน/pper เคย/prev มี/vt ชีวิต/ncn ที่/prel ดี/vi กว่า/adv นี้/det มาก/adv

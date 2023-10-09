@@ -1,0 +1,45 @@
+การ/pref1 ผจญ/vt ภัย/ncn ของ/prep ลูกค้าง/ncn คาว/adj
+ท่ามกลาง/ncn ความ/pref1 มืด/vi มิด/adv ใน/prep ยาม/ncn ค่ำคืน/ncn
+ชาย/ncn ชรา/npn คน/cl หนึ่ง/adj กำลัง/prev นั่ง/vi อ่าน/vt หนังสือ/ncn อย่าง/advm1 เงียบ/adv ๆ/punc
+ทันใด/conj นั้น/det เขา/pper ก็/conj รู้สึก/vi เหมือน/adv มี/vt อะไร/indet บาง/adj อย่าง/cl เคลื่อน/vi ผ่าน/vt ด้าน/ncn หลัง/adj ไป/vpost อย่าง/advm1 รวดเร็ว/adv
+เขา/pper รีบ/vi หัน/vt ไป/vpost ดู/vt แต่/conj ก็/conj ไม่/neg พบ/vt อะไร/pint
+ชาย/ncn ชรา/npn จึง/conj เปิด/vt ไฟ/ncn ทุก/adj ดวง/cl แล้ว/vpost เดิน/vi ดู/vt ทั่ว/adj ห้อง/ncn
+ใน/prep ที่สุด/adv เขา/pper ก็/conj พบ/vt ลูกค้าง/ncn คาว/adj ตัว/ncn หนึ่ง/adj ห้อย/ncn หัว/ncn อยู่/vi ที่/prel ขื่อ/vt ไม้/ncn
+ครอบครัว/ncn ของ/prep เจ้า/ntit ค้างคาว/npn น้อย/vi ตัว/ncn นี้/det อาศัย/vi อยู่/vpost ใน/prep ยุ้ง/ncn ข้าวเก่า/npn ๆ/punc ที่/prel อีก/adv หมู่/nct บ้าน/ncn หนึ่ง/adj
+พ่อ/ncn ของ/prep มัน/pper บอก/vt เสมอ/adv ว่า/conjncl ไม่/neg ให้/vt ลูก/ncn ๆ/punc บิน/vi ออก/vpost ไป/vpost ข้าง/ncn นอก/prep ตอน/ncn กลางวัน/ncn เด็ดขาด/adv
+เพราะ/conj ค้างคาว/ncn ไม่/neg สามารถ/prev ทน/vt ต่อ/prep แสงสว่าง/ncn ได้/vpost
+และ/conj นอกจาก/conj นั้น/det ยัง/prev อาจ/prev ถูก/psm เหยี่ยว/ncn จับ/vt ไป/vpost หรือ/conj อาจ/prev ถูก/psm คน/ncn ทำร้าย/vt ได้/vpost
+พวก/nct ลูก/ncn ๆ/punc ทุก/adj ตัว/ncn ต่าง/adj เชื่อฟัง/vt คำ/ncn เตือน/vt ของ/prep พ่อ/ncn ค้างคาว/npn เป็น/advm2 อย่าง/advm1 ดี/adv
+เจ้า/ntit ค้างคาว/npn น้อย/adv ซึ่ง/prel เป็น/vcs น้อง/ncn สุดท้อง/ncn รู้สึก/vi ไม่/neg พอใจ/vt ที่/prel ถูก/psm ทิ้ง/vt ให้/conjncl อยู่ตัว/vi เดียว/adv
+มัน/pper อยาก/vt ออก/vpost ไป/vpost หา/vt อาหาร/ncn เหมือน/vcs พี่/ncn ๆ/punc บ้าง/adv
+แต่/conj พ่อ/ncn บอก/vt ว่า/conjncl มัน/pper ยัง/prev เด็ก/ncn เกินไป/adv
+ต้อง/prev รอ/vt ให้/conjncl โตก/vt ว่า/conjncl นี้/det อีก/adv หน่อย/adv
+เจ้า/ntit ค้างคาว/npn น้อย/vi รอ/vt ไม่/neg ไหว/adv แล้ว/vpost
+วัน/ncn นี้/det มัน/pper ต้อง/prev แสดง/vt ให้/conjncl ทุก/adj ตัว/ncn เห็น/vt ว่า/conjncl มัน/pper ไม่/neg ใช่/vt เด็ก/ncn เล็ก/adj ๆ/punc
+อีก/adv ต่อ/adv ไป/vpost
+เจ้า/ntit ค้างคาว/npn น้อย/vi ตัดสินใจ/vi บิน/vi ออก/vpost ไป/vpost ทั้งๆ/adv ที่/prel ใกล้/vi จะ/prev สว่าง/vi แล้ว/vpost
+มัน/pper คิด/vt ว่า/conjncl ไป/vpost เดี๋ยวเดียว/vi คง/prev ไม่/neg เป็นไร/vi
+แต่/conj มัน/pper ไม่/neg รู้/vt เลย/part ว่าการ/vt ตัดสินใจ/vt ครั้ง/cl นี้/det จะ/prev ทำให้/vcau ชีวิต/ncn ต้อง/prev เปลี่ยน/vt ไป/vpost อย่าง/advm1 ไม่/neg มี/vt วัน/ncn เหมือน/adv เดิม/adv
+หลังจาก/conj บิน/vi ไป/vpost ได้/vpost ไม่/neg นาน/adv
+ฟ้า/ncn ก็/conj สว่าง/vi ขึ้น/vpost
+เจ้า/ntit ค้างคาว/npn เริ่ม/vi มอง/vt อะไร/indet ไม่/neg เห็น/vt เพราะ/conj แสงสว่าง/ncn ทำให้/vcau ตา/ncn มัน/pper ฝ้า/ncn ฟาง/ncn
+ค้างคาว/npn น้อย/vi พยายาม/vi เพ่ง/vi สายตา/ncn ไป/vpost ข้าง/cl หน้า/adj เพื่อ/conj หา/vt ทาง/ncn กลับ/vi บ้าน/ncn
+แล้ว/conj มัน/pper ก็/conj เห็น/vt ยุ่ง/vi ข้าวเก่า/npn ๆ/punc หลัง/adj หนึ่ง/adj
+"/punc บ้าน/ncn ของ/prep เรา/pper อยู่/vpost นั่นเอง/part "/punc
+มัน/pper นึก/vt ใน/prep ใจ/ncn และ/conj รีบ/vi บิน/vi เข้าไป/adv ใน/prep ยุ่ง/vi ข้าว/ncn หลัง/adj นั้น/det
+แต่/conj มัน/pper ก็/conj ต้อง/prev ผิดหวัง/vi เมื่อ/conj พบ/vt ว่า/conjncl นั่น/pdem ไม่/neg ใช่/vt บ้าน/ncn ของ/prep มัน/pper
+ใน/prep นั้น/det มี/vt ค้างคาว/ncn อาศัย/vi อยู่/vpost เต็ม/vt ไป/vpost หมด/adv เลย/part
+เจ้า/ntit ค้างคาว/npn น้อย/adv จึง/conj ต้อง/prev บิน/vi ต่อ/adv ไป/vpost แม้/conj ว่า/conjncl ข้าง/ncn นอก/prep จะ/prev สว่าง/vi มาก/adv แล้ว/vpost
+ใน/prep ที่สุด/adv มัน/pper ก็/conj เห็น/vt หน้าต่าง/ncn ของ/prep บ้าน/ncn หลัง/adj หนึ่ง/adj เปิด/vt อยู่/vpost
+จึง/conj รีบ/vi โผล่/vi เข้าไป/adv
+แล้ว/conj ทั้งหมด/adv ก็/conj คือ/vcs เรื่องราว/ncn ของ/prep เจ้า/ntit ค้างคาว/npn ตัว/ncn น้อย/adj ที่/prel บิน/vi เข้า/vi มา/vpost อยู่/vpost ใน/prep ห้อง/ncn ของ/prep ชาย/ncn ชรา/npn
+ตอน/ncn เช้า/ncn
+เจ้า/ntit ค้างคาว/npn น้อย/vi ยัง/prev คง/prev เกาะ/vt อยู่/vpost ที่/prep เดิม/adj
+ชาย/ncn ชรา/npn จึง/conj เรียก/vt หลาน/ncn ชาย/ncn มา/vpost ดู/vt
+พอ/conj มัน/pper ได้ยิน/vt เสียง/ncn คน/ncn ก็/conj ตกใจ/vi บิน/vi หนี/vt ออก/vpost ไป/vpost
+แต่/conj แล้ว/conj วัน/ncn รุ่ง/vi ขึ้น/vpost พวก/nct เขา/pper ก็/conj พบ/vt วัน/ncn เกาะ/ncn อยู่/vi ที่/prel เดิม/adv อีก/adv
+ที่/prel เป็น/vcs เช่น/conjncl นี้/det ก็/conj เพราะว่า/conj เจ้า/ntit ค้างคาว/npn น้อย/vi กลับ/vi บ้าน/ncn ไม่/neg ถูก/vi
+มัน/pper จึง/conj ตัดสินใจ/vi อาศัย/vi อยู่/vpost ที่/prep บ้าน/ncn หลัง/adj นี้/det เพราะ/conj คน/ncn ที่/prel นี่/det ใจดี/adj
+และ/conj ตั้งแต่/prep นั้น/det มา/vpost เจ้า/ntit ค้างคาว/npn ก็/conj อาศัยที่/ncn บ้าน/ncn ของ/prep ชาย/ncn ชรา/npn อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+บาง/adj ครั้ง/cl มัน/pper ก็/conj ช่วย/vt จับ/vt แมลง/ncn ต่างๆ/adj กิน/vt
+เพื่อ/conj เป็นการ/ncn ตอบแทน/vt เจ้าของ/ncn บ้าน/ncn

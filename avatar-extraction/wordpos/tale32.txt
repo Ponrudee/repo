@@ -1,0 +1,33 @@
+สุนัข/ncn จิ้งจอก/ncn กับ/prep นายพราน/ncn
+จะ/prev มี/vt ใคร/pind รู้/vt บ้าง/pind ไหม/pint ว่า/conjncl
+เมื่อ/conj ก่อน/adv นี้/det สุนัข/ncn จิ้งจอก/npn ไม่/neg ได้/prev มี/vt ขน/ncn สี/ncn น้ำตาล/adj อย่าง/prep ตอน/ncn นี้/det
+แต่/conj มัน/pper มี/vt ขน/ncn สี/ncn ขาว/adj
+ถ้า/conj อยาก/prev รู้/vt ว่า/conjncl ทำไม/pint สุนัข/ncn จิ้งจอก/ncn สี/ncn ขาว/adj จึง/conj กลาย/vi เป็น/advm2 สี/ncn น้ำตาล/adj
+ต้อง/prev อ่าน/vt เรื่อง/ncn นี้/det
+นานแสนนาน/adv มา/vpost แล้ว/vpost
+สุนัข/ncn จิ้งจอก/ncn ตัว/ncn หนึ่ง/adj ชอบ/vt แอบ/vt เข้าไป/ncn ขโมย/vt ไก่/ncn ของ/prep ชาว/pref3 บ้าน/ncn กิน/vt เป็น/advm2 ประจำ/vt ไม่/neg ว่า/conjncl ชาว/pref3 บ้าน/ncn จะ/prev หา/vt ทาง/ncn ป้องกัน/vt อย่างไร/pint
+มัน/pper ก็/conj ยัง/prev เข้าไป/adv กิน/vt ไก่/ncn ใน/prep เล้า/ncn ได้/vpost อยู่/vpost ดี/adv
+ใน/prep ที่สุด/adj พวก/nct เขา/pper ก็/conj มา/vi ประชุม/vi กัน/prec เพื่อ/conj หา/vt ทาง/ncn จัดการ/vt กับ/prep สุนัข/ncn จิ้งจอก/ncn เจ้าเล่ห์/npn ตัว/ncn นี้/det
+"/punc พวก/nct เรา/pper ต้อง/prev ช่วย/vt กัน/prec ไม่/neg อย่าง/ncn นั้น/det สัตว์/ncn เลี้ยง/vt ของ/prep เรา/pper ไม่/neg เหลือ/vi แน่/adv ๆ/punc "/punc
+ชาย/ncn คน/cl หนึ่ง/adj พูด/vt
+แล้ว/conj พวก/nct เขา/pper ก็/conj แบ่ง/vt กลุ่ม/nct กัน/prec ออก/vpost ไป/vpost ตาม/prep ล่า/vt เจ้า/ncn สุนัข/ncn จิ้งจอก/ncn เจ้าเล่ห์/npn
+พอ/conj รู้/vt ว่า/conjncl มีคน/npn กำลัง/prev ตาม/vt ล่า/vt
+เจ้า/ntit สุนัข/ncn จิ้งจอก/npn ก็/conj รีบ/vi หนี/vt เข้าไป/adv ใน/prep ป่า/ncn ลึก/adj
+แต่/conj เพราะ/conj ขน/vt สี/ncn ขาว/adj ของ/prep มัน/pper ตัด/vt กับ/prep สี/ncn ของ/prep ต้นไม้/ncn รอบ/ncn ตัว/ncn มาก/adv
+ชาว/pref3 บ้าน/ncn จึง/conj มอง/vt เห็น/vt มัน/pper ใน/prep ที่สุด/adv
+"/punc นั่นไง/pint มัน/pper อยู่/vi ตรง/adv นั้น/det ตาม/prep ไป/vpost เร็ว/adv พวก/nct เรา/pper "/punc
+เจ้า/ntit จิ้งจอก/npn ไม่/neg รู้/vt ว่า/conjncl จะ/prev หนี/vt ไป/vpost ไหน/pint
+เพราะ/conj ถูก/vt ชาว/pref3 บ้าน/ncn ล้อม/vt ไว้/vpost
+"/punc ตาย/vi แน่/adv เรา/pper คราว/cl นี้/det ไม่/neg น่า/prev ไป/vpost ขโมย/vt ไก่/ncn มา/vpost กิน/vt เลย/part ถ้า/conj รอด/vi ไป/vpost ได้/vpost ฉัน/pper จะ/prev ไม่/neg ทำ/vt อีก/adv แล้ว/vpost ฉัน/pper จะ/prev หา/vt อาหาร/ncn อยู่/vpost แต่/conj ใน/prep ป่า/ncn เหมือน/vcs ตัว/ncn อื่นๆ/indet "/punc
+เจ้า/ntit จิ้งจอก/npn พูด/vt กับ/prep ตัว/ncn เอง/prfx ขณะ/ncn นอน/vi รอ/vt ความ/pref1 ตาย/vi
+ขณะ/ncn นั้น/det เอง/prfx
+เทวดา/npn ประจำ/vt ป่า/ncn ซึ่ง/prel รับ/vt รู้/vt เหตุการณ์/ncn ทั้งหมด/adv มา/vpost โดย/advm3 ตลอด/adv
+ได้ยิน/vt ที่/prep เจ้า/ntit สุนัข/ncn จิ้งจอก/ncn พูด/vt ก็/conj รู้สึก/vi สงสาร/vt
+จึง/conj บันดาล/vt ให้/conjncl เกิด/vt พายุ/ncn พัด/vi ใบไม้/ncn แห้ง/vi ร่วง/vi ลง/vpost มา/vpost คลุม/vt ตัว/ncn เจ้า/ntit จิ้งจอก/npn
+พอ/conj พวก/nct ชาว/pref3 บ้าน/ncn มา/vpost ถึง/prep ก็/conj มอง/vt ไม่/neg เห็น/vt
+"/punc อะไร/pint กัน/prec !/punc เมื่อกี้/adv ยัง/prev เห็น/vt อยู่/vpost เลย/part มัน/pper หาย/vi ไป/vpost ไหน/pint นะ/part "/punc
+พวก/nct เขา/pper ช่วย/vt กัน/prec หา/vt เจ้า/ntit จิ้งจอก/npn กัน/prec อยู่/vpost นาน/adv จน/conj เห็น/vt ว่า/conjncl คง/prev ไม่/neg เจอ/vt แน่/adv ๆ/punc
+แล้ว/conj จึง/conj พา/vt กัน/prec กลับ/vi
+เจ้า/ntit จิ้งจอก/npn รอ/vt จน/conj ชาว/pref3 บ้าน/ncn ไป/vpost หมด/adv แล้ว/vpost จึง/conj ออก/vi มา/vpost จาก/prep กอง/nct ใบไม้/ncn
+ตั้งแต่/prep นั้น/det เป็นต้น/part มา/vpost
+เจ้า/ntit จิ้งจอก/npn ก็/conj ไม่/neg เคย/prev เข้าไป/vi ที่/prep หมู่/nct บ้าน/ncn อีก/adv เลย/part

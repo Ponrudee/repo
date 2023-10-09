@@ -1,0 +1,102 @@
+นก/ncn สาลิกา/npn กับ/prep นกยูง/ncn
+ใน/prep กิ่ง/ncn ก้าน/ncn สาขา/ncn ของ/prep ต้น/ncn โอ๊ก/adj เก่า/adj แก่/prep
+มี/vt รัง/ncn ที่/prel สร้าง/vt จาก/prep กิ่ง/ncn ไม้/ncn และ/conj ใบไม้/ncn
+ยึด/vt ไว้/vpost ด้วย/prep ฟาง/ncn กับ/prep ขน/ncn แกะ/vt
+ภายใน/ncn มี/vt พ่อ/ncn กับ/prep แม่นก/npn สาลิกา/npn
+และ/conj ลูก/ncn ๆ/punc
+สี่/nnum ตัว/cl อาศัย/vi อยู่/vpost
+พวก/nct มัน/pper ร้อง/vi จิ๊บ/adv ๆ/punc
+อย่าง/ncn มี/vt ความ/pref1 สุข/vi ตลอด/adv วัน/ncn
+เมื่อ/conj นก/ncn สาลิกา/npn น้อย/vi โต/vi พอ/adv จะ/prev บิน/vi ได้/vpost
+พ่อ/ncn กับ/prep แม่/ncn ก็/conj สอน/vt ให้/conjncl ลูก/ncn ๆ/punc
+รู้จัก/vt จับ/vt หนอน/ncn กิน/vt เอง/prfx
+และ/conj สอน/vt วิธี/ncn เลียน/vt เสียง/ncn นก/ncn พันธุ์/ncn อื่นๆ/indet
+เพื่อ/conj ความ/pref1 สนุกสนาน/vi ครื้นเครง/adv
+เมื่อ/conj นก/ncn สาลิกา/npn ตัว/ncn ใหญ่/adj ที่สุด/adv อายุ/ncn ได้/vpost เจ็ด/nnum สัปดาห์/cl และ/conj เริ่ม/vi เป็น/advm2 ผู้ใหญ่/ncn
+มัน/pper บิน/vi ข้าม/vt แนว/ncn พุ่ม/ncn ไม้สูง/vt
+จน/conj มา/vi อยู่/vpost ใน/prep สวน/ncn ของ/prep พระราชา/npn
+ตอน/ncn นั้น/det อยู่/vpost ใน/prep ช่วง/ncn ปลาย/adj ฤดู/ncn ใบไม้/ncn ผลิ/vt
+กุหลาบ/ncn กำลัง/prev ออกดอก/vi บาน/vi สะพรั่ง/adv
+น้ำพุ/ncn ตั้ง/vt อยู่/vpost กลาง/prep สวน/ncn
+มีนก/vt ยูง/ncn ที่/prel สง่า/vi งาม/vi ฝูง/cl หนึ่ง/adj เดิน/vi กรีดกราย/vi อยู่/vpost รอบ/ncn ๆ/punc
+สนาม/ncn หญ้า/ncn
+นก/ncn สาลิกา/ncn หนุ่ม/adj ไม่/neg เคย/prev เห็น/vt สัตว์/ncn ที่/prel ดู/vt สง่า/ncn งาม/vi เช่น/conjncl นี้/det มา/vpost ก่อน/adv
+เหล่า/nct นกยูง/ncn เดินขบวน/vi กัน/prec หน้า/adj น้ำพุ/ncn
+หาง/ncn ที่/prel มัน/pper วาว/vi ของ/prep พวก/nct มัน/pper รำแพน/npn ต้อง/prev แสงอาทิตย์/ncn
+ส่อง/vi ประกาย/ncn ระยิบระยับ/vi
+เหมือน/vcs ท้อง/ncn ทะเล/ncn สี/ncn น้ำเงิน/adj อม/vt เขียว/adj แต้ม/ncn ด้วย/prep เพชรนิลจินดา/npn
+ทันใด/conj นั้น/det นก/ncn สาลิกา/npn ก็/conj รู้สึก/vi อับอาย/vt ขน/ncn ที่/prel ต่ำต้อย/vi ของ/prep มัน/pper
+เหมือนกับ/vcs ชาย/ncn ที่/prel ฝัน/vi ร้าย/adv ว่า/conjncl ตัว/ncn เอง/prfx สวม/vt ชุด/ncn ซอมซ่อ/ncn
+เดิน/vi ทะเล่อทะล่า/vi เข้าไป/adv ใน/prep วัง/ncn
+มัน/pper จึง/conj ซ่อน/vt ตัว/ncn อยู่/vpost ใน/prep ต้น/adj มะเดื่อ/ncn
+คน/ncn รับ/vt ใช้/vt คน/ncn หนึ่ง/adj เดิน/vi ถือ/vt ตะกร้า/ncn หวาย/npn ออก/vpost มา/vpost จาก/prep พระราช/honm วังและโปรยอาหารให้นกยูง/vt
+เจ้า/ntit ชาย/ncn น้อย/adv องค์/ncn หนึ่ง/adj วิ่ง/vi ออก/vpost มา/vpost เล่น/vt ท่ามกลาง/ncn ฝูง/nct นก/ncn
+หัวเราะ/vt และ/conj ชื่นชม/vt สี/ncn สัน/ncn ของ/prep พวก/nct มัน/pper
+หลังจาก/conj กิน/vt เสร็จ/adv
+พวก/nct นกยูง/ncn ก็/conj นอน/vi หลับ/vi
+ทำให้/vcau นก/ncn สาลิกา/npn สามารถ/prev กระพือปีก/vt ออก/vpost จาก/prep ต้นไม้/ncn โดย/conj ไม่/neg มี/vt ใคร/pind เห็น/vt
+พอก/ncn ลับ/adj บ้าน/ncn แม่/ncn ของ/prep มัน/pper ถาม/vt ว่า/conjncl วัน/ncn นี้/det สนุก/vi หรือ/conj เปล่า/adv
+"/punc ก็ดี/part จ้ะ/aff "/punc
+มัน/pper ตอบ/vt อย่าง/advm1 ไร้/vt ความ/pref1 กระตือรือร้น/vi เหมือน/adv เคย/prev
+แล้ว/conj มัน/pper ก็/conj นอน/vi ไม่/neg หลับ/vi ตลอด/adv คืน/vt
+เพราะ/conj มัว/adv แต่/conj คิดถึง/vt นกยูง/ncn และ/conj ขน/ncn ที่/prel สวย/vi งาม/vi ของ/prep พวก/nct มัน/pper
+ใน/prep ตอน/ncn เช้า/ncn
+มัน/pper บิน/vi ไป/vpost ที่/prep สระ/ncn น้ำ/ncn และ/conj สำรวจ/vt เงา/ncn ที่/prel น่า/prev เศร้า/vt ของ/prep ตน/pper ใน/prep น้ำ/ncn พร้อม/vi กับ/prep ถอน/vt หายใจ/vi
+"/punc เฮ้อ/ncn ฉัน/pper อยาก/prev เป็น/vcs นกยูง/ncn บ้าง/adv จัง/adv จะ/prev ได้/prev อยู่/vi ข้าง/prep น้ำพุ/ncn ใน/prep สวน/ncn ของ/prep พระราชา/npn และ/conj มี/vt เจ้า/ntit ชาย/ncn น้อย/vi คอย/vt ชื่นชม/vt มัน/pper คง/prev สนุก/vi กว่า/prep การ/pref1 ค้น/vt หา/vt ลูก/ncn โอ๊ก/adj หรือ/conj หา/vt หนอน/ncn เป็น/vcs ไหน/pint ๆ/punc "/punc
+จาก/prep วัน/ncn นั้น/det เป็นต้น/part มา/vpost
+มัน/pper จะ/prev ไป/vpost ซ่อน/vt ตัว/ncn อยู่/vpost ใน/prep ต้น/ncn มะเดื่อ/ncn ทุก/adj วัน/cl
+เพื่อ/conj เฝ้า/vt ดู/vt และ/conj อิจฉา/vi พวก/nct นกยูง/ncn ใน/prep สวน/ncn
+"/punc ออก/vpost มา/vpost เถอะ/part "/punc
+น้องๆ/adv ของ/prep มัน/pper บอก/vt เมื่อ/conj ล่วงรู้/vt ความ/pref1 ลับ/vi
+"/punc มี/vt แกะ/vt ใน/prep ทุ่ง/ncn หญ้า/ncn แน่ะ/int เรา/pper เลียน/vt เสียง/ncn พวก/nct มัน/pper เป็น/vcs แล้วด้วย/adv สนุก/vi กว่า/adv ซ่อน/vt ตัว/ncn อยู่/vpost ใน/prep ต้นไม้/ncn นี้/det เป็น/vcs ไหน/pint ๆ/punc "/punc
+"/punc ออก/vi มา/vpost จาก/prep สวน/ncn นั่น/det เถอะ/part "/punc
+แม่/ncn ของ/prep มัน/pper บอก/vt
+เมื่อ/conj นก/ncn สาลิกา/ncn หนุ่ม/adj เล่า/vt เรื่อง/ncn ทั้งหมด/adj ให้/conjncl ฟัง/vt
+"/punc ชนบท/ncn เต็ม/vt ไป/vpost ด้วย/prep แมลง/ncn ให้/conjncl เรา/pper จับ/vt กิน/vt "/punc
+"/punc ออก/vi มา/vpost จาก/prep ต้นไม้/ncn นั้น/det เถอะ/part "/punc
+พ่อ/ncn ของ/prep นก/ncn สาลิกา/npn บอก/vt
+เมื่อ/conj แม่/ncn ของ/prep มัน/pper เล่า/vt ให้/conjncl ฟัง/vt ว่า/conjncl ทำไม/pint มัน/pper ถึง/conj ไม่/neg ใช้/vt เวลา/ncn อยู่/vpost กับ/prep ครอบครัว/ncn อีก/adv เลย/part
+"/punc พ่อ/ncn จะ/prev สอน/vt ให้/conjncl เจ้า/pper ขุด/vt รู/ncn ใต้/prep ดิน/ncn เจ้า/pper จะ/prev ได้/prev รู้/vt ว่า/conjncl จะ/prev ซ่อน/vt ลูก/ncn โอ๊ก/adj ไว้/vpost ที่ไหน/pint เมื่อ/conj มัน/pper สุก/vi งอม/adv "/punc
+แต่/conj ไม่/neg มี/vt อะไร/pind ดึงดูด/vt ให้/conjncl นก/ncn สาลิกา/ncn หนุ่ม/adj ออก/vpost จาก/prep สวน/ncn ของ/prep พระราชาได้/ncn
+ฤดู/ncn ใบไม้/ncn ผลิ/vt เปลี่ยน/vt เป็น/advm2 ฤดู/ncn ร้อน/adj
+และ/conj นกยูง/vt ก็/conj เริ่ม/vi ผลัด/vt ขน/ncn
+ทิ้ง/vt ขนนก/vi ไว้/vpost บน/prep สนาม/ncn หญ้า/ncn
+นก/ncn สาลิกา/npn จึง/conj เกิด/vt ความ/pref1 คิด/vt
+"/punc โอกาส/ncn ที่/prel ฉัน/pper จะ/prev เป็น/vcs นกยูง/ncn มา/vpost ถึง/adv แล้ว/vpost "/punc
+มัน/pper บอก/vt กับ/prep ตน/pper เอง/prfx
+และ/conj ขณะ/ncn ที่/prel นกยูง/vt นอน/vi หลับ/vi อยู่/vpost ใต้/prep ร่ม/ncn เงา/ncn ของ/prep ซุ้ม/ncn กุหลาบ/ncn
+มัน/pper ก็/conj กระโดด/vi ลง/vpost จาก/prep คอน/npn และ/conj เก็บ/vt ขนนก/vt ที่/prel ร่วง/vi หล่น/vi
+ไม่/neg นาน/adv มัน/pper ก็/conj เก็บ/vt ได้/vpost มาก/adv พอ/adv จะ/prev ดำเนิน/vt การ/pref1 ตาม/prep แผน/ncn
+มัน/pper เจอ/vt ฟาง/ncn เส้น/ncn หนึ่ง/adj ปลิว/vi มา/vpost ใน/prep แนว/ncn พุ่ม/ncn ไม้/ncn
+จึง/conj ใช้/vt กรงเล็บ/ncn กับ/prep จะงอย/ncn มัด/vt ขนนก/vt ยูง/ncn เข้า/vi กับ/prep หาง/ncn ของ/prep ตน/pper
+"/punc ทีนี้/conj ฉัน/pper ก็/conj เป็น/vcs นกยูง/ncn แล้ว/vpost "/punc
+มัน/pper พูด/vt อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+แล้ว/conj ก็/conj บิน/vi อย่าง/advm1 ภาคภูมิ/adv ใจ/ncn ลง/vpost สู่/prep สนาม/ncn หญ้า/ncn ที่/prel เรียบ/vi เตียน/ncn
+"/punc สวัสดี/vi "/punc
+พวก/nct นกยูง/ncn โง/vi หัว/ncn ขึ้น/vpost ที/cl ละ/adj ตัว/ncn พร้อม/vi กับ/prep กะพริบ/ncn ตา/ncn ที่/prel เหมือน/vcs อัญมณี/ncn
+"/punc ดู/vt สิ/part พวก/nct เรา/pper มีนก/vi ยูง/vt ตัว/ncn ใหม่/adj ใน/prep สวน/ncn แน่ะ/int "/punc
+ตัว/ncn หนึ่ง/adj พูด/vt
+"/punc เจ้า/pper เป็น/vcs ของกำนัล/ncn ชิ้น/cl ใหม่/adj ของ/prep เจ้า/ntit ชาย/ncn หรือ/conj ใคร/pind ส่ง/vt เจ้า/pper มา/vpost ผู้/pref2 ครอง/vt เมือง/ncn บา/vt บิ/ncn โลน/npn อัน/prel มหัศจรรย์/vi หรือ/conj ฟาโรห์แห่ง/vt อี/ntit ยิปต์อัน/npn ลี้ลับ/vt กัน/prec ล่ะ/part "/punc
+พวก/nct นกยูง/ncn ล้อมวง/npn เข้า/vi มา/vpost ต้อนรับ/vt มัน/pper
+ส่งเสียง/vi อึกทึก/ncn ครึกโครม/adj
+แล้ว/conj ก็/conj เกิด/vt เรื่อง/ncn โชค/ncn ร้าย/adj ที่/prel ไม่/neg คาด/vi คิด/vt
+การก/ncn อด/vt รัด/vt ฟัด/vt เหวี่ยง/vt ทำให้/vcau ฟาง/ncn ที่/prel มัด/vi ขนนก/vt ยูง/ncn กับ/prep หาง/ncn ของ/prep นก/ncn สาลิกา/npn หลุด/vi ออก/vpost
+ขนนก/vi ร่วง/vi ลง/vpost มา/vpost
+"/punc เจ้า/pper หลอก/vi เรา/pper นี่/det "/punc
+นกยูง/vt ตัว/ncn หนึ่ง/adj ร้อง/vi ลั่น/adv
+"/punc เจ้า/pper ไม่/neg ใช่/vt นกยูง/vt เสียหน่อย/ncn แต่/conj เป็น/vcs นก/ncn ธรรมดา/adj ที่/prel ควร/prev อยู่/vi แต่/conj ใน/prep ป่า/ncn โน่น/det เจ้า/pper ขโมย/vt ขนนก/vt เหล่า/nct นั้น/det จาก/prep พวก/nct เรา/pper เอา/vt คืน/vt มานะ/npn เจ้าหัว/vi ขโมย/vt !/punc "/punc
+นกยูง/vt ตัว/ncn อื่นๆ/indet
+ต่าง/pind ก็/conj โกรธ/vt ที่/prel ถูก/psm หลอก/vi จึง/conj รุม/vt จิก/vt ตีนก/vt สาลิกา/ncn
+ไม่/neg นาน/adv มัน/pper ก็/conj ไม่/neg เหลือ/vi ขนนก/vt ยูง/ncn
+รวม/vt ถึง/prep ขน/ncn อีก/adj หลาย/adj กระจุก/vt ของ/prep ตัว/ncn เอง/prfx
+นก/ncn ที่/prel น่า/prev สงสาร/vt สู้/vi อุตส่าห์/vi หนี/vt เอาชีวิต/vi รอด/vi มา/vpost ได้/vpost
+หลังจาก/conj พัก/vi หายใจ/vi ใน/prep ต้น/adj มะเดื่อ/ncn
+มัน/pper ก็/conj เดิน/vi กะโผลกกะเผลก/npn กลับ/vi บ้าน/ncn
+พ่อ/ncn กับ/prep แม่/ncn ของ/prep มัน/pper ไม่/neg ได้/prev ดุ/vt ด่า/vt ที่/prel มัน/pper ทำตัว/vi โง่/vi ๆ/punc
+ทั้ง/adj คู่/cl ให้/conjncl มัน/pper กิน/vt หนอน/ncn ตัว/ncn อ้วน/adj เนื้อ/ncn ฉ่ำ/adv ระหว่าง/prep พักฟื้น/vi
+เมื่อ/conj อาการ/ncn ดี/vi ขึ้น/vpost
+พ่อ/ncn ก็/conj สอน/vt วิธี/ncn ซ่อน/vt ลูก/ncn โอ๊ก/adj เมื่อ/conj สุก/vi งอม/vt ให้/conjncl มัน/pper
+นก/ncn สาลิกา/npn สนุก/vi กับ/prep การ/pref1 เรียน/vt ร้อง/vi เสียง/ncn นก/ncn พันธุ์/ncn อื่นๆ/indet
+และ/conj เลียน/vt เสียง/ncn แมว/ncn กับ/prep แกะ/ncn ซึ่ง/prel เป็น/vcs พรสวรรค์/ncn อัน/prel ยอด/ncn เยี่ยม/adj ที่/prel นก/ncn สาลิกา/npn ทุก/adj ตัว/cl มี/vt ติดตัว/adv
+มัน/pper ไม่/neg อิจฉา/vi พวก/nct นกยูง/cl ที่/norm ร้ายกาจ/ncn พวก/nct นั้น/det อีก/adv ต่อ/adv ไป/vpost
+แต่/conj มัน/pper มี/vt ความ/pref1 สุข/vi มาก/adv ที่/prel ได้/prev เป็น/vcs ตัว/ncn ของ/prep ตัว/ncn เอง/prfx

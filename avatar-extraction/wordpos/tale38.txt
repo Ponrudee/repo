@@ -1,0 +1,85 @@
+กระรอก/ncn น้อย/vi กับ/prep นก/ncn เค้า/ncn แมว/ncn
+บน/prep เขา/pper เล็ก/adj ๆ/punc ลูก/ncn หนึ่ง/adj
+มี/vt กระรอก/ncn สี/ncn น้ำตาล/adj อม/vt แดง/adj ตัว/ncn หนึ่ง/adj อาศัย/vi อยู่/vpost ใน/prep โพรง/ncn ของ/prep ต้น/ncn โอ๊ก/adj
+ขน/ncn ของ/prep มัน/pper สะท้อน/vi แสง/ncn แดด/ncn เป็น/vcs ประกาย/ncn แวววาว/adj
+ช่วง/ncn นี้/det เป็น/vcs ฤดู/ncn ใบไม้/ncn ร่วง/vi
+กระรอก/ncn น้อย/adj ต้อง/prev รีบ/vi สะสม/vt อาหาร/ncn เอา/vt ไว้/vpost สำหรับ/prep ฤดู/ncn หนาว/adj ที่/prel กำลัง/prev จะ/prev มา/vi ถึง/prep ใน/prep รัง/ncn ของ/prep มัน/pper จึง/conj เต็ม/vt ไป/vpost ด้วย/prep ผลไม้/ncn ต่างๆ/adj มากมาย/adv
+ทั้ง/conjc ลูก/ncn สน/npn
+ลูกเบอรี่/npn
+และ/conj ถั่ว/ncn หลาย/adj ชนิด/cl
+แต่/conj สิ่ง/ncn ที่/prel มัน/pper ต้องการ/vt มาก/adv ที่สุด/adv ก็/conj คือ/vcs ลูก/ncn เฮ/vi เซ/adv ลนัต/npn
+เจ้า/ntit กระรอก/npn ชอบ/vt กิน/vt ลูก/ncn เฮ/vi เซ/adv ลนัต/npn มาก/adv กว่า/adv อะไร/pint ทั้งหมด/adv
+แต่/conj น่า/prev เสียดาย/vt ที่/prep บน/prep เขา/pper ลูก/cl นี้/det ไม่/neg มี/vt ต้น/ncn เฮ/vi เซ/adv ลนัต/npn แม้แต่/conj ต้น/ncn เดียว/adj
+มัน/pper จึง/conj ตัดสินใจ/vi เดินทาง/vi ไป/vpost ที่/prel เขา/pper ลูก/ncn อื่น/indet เพื่อ/conj เก็บ/vt ลูก/ncn เฮ/vi เซ/vi ลนัต/npn มา/vpost กิน/vt
+เจ้า/ntit กระรอก/npn น้อย/vi ออก/vpost เดินทาง/vi แต่/conj เช้า/ncn
+มัน/pper เดิน/vi ไป/vpost ไกล/adv กว่า/adv ทุก/adj ครั้ง/cl
+แล้ว/conj ทันใด/conj นั้น/det มัน/pper ก็ได้/part กลิ่น/ncn อะไร/indet บาง/adj อย่าง/cl ลอย/vi มา/vpost ตาม/prep ลม/ncn
+"/punc ต้อง/prev เป็น/vcs เฮ/vi เซ/adv ลนัต/npn แน่/adv ๆ/punc "/punc
+มัน/pper คิด/vt แล้ว/vpost รีบ/vi เดิน/vi ตาม/prep กลิ่น/ncn นั้น/det ไป/vpost
+ไม่/neg นาน/adv ก็/conj พบ/vt ต้น/ncn เฮ/vi เซ/adv ลนัต/npn
+มันดี/ncn ใจมาก/adj
+รีบ/vi ไต่/vi ไป/vpost ตาม/prep กิ่ง/ncn ไม้/ncn อย่าง/advm1 ตื่นเต้น/vi
+"/punc ลูก/ncn เฮ/vi เซ/adv ลนัต/npn เต็ม/vt ไป/vpost หมด/adv เลย/part "/punc
+เจ้า/ntit กระรอก/npn ร้อง/vi อย่าง/advm1 ตื่นเต้น/vi
+กระรอก/npn น้อย/vi รีบ/vi เก็บ/vt ลูก/ncn เฮ/vi เซ/vi ลนัต/npn ไป/vpost ไว้/vpost ที่/prep รัง/ncn
+มัน/pper ขน/vt ไป/vpost มาก/adv เท่า/cl ที่/prel จะ/prev มี/vt แรง/ncn
+แต่/conj ขณะ/ncn ที่/prel กำลัง/prev ตั้งหน้าตั้งตา/vi ทำ/vt งาน/ncn ของ/prep ตัว/ncn เอง/prfx อยู่/vpost นั้น/det
+เจ้า/ntit กระรอก/npn ก็ได้/part กลิ่น/ncn ไม่/neg น่า/prev ไว้ใจ/vi บาง/adj อย่าง/cl
+มัน/pper มอง/vt ไป/vpost รอบ/ncn ๆ/punc
+นั่นไง/indet !/punc
+เจ้า/ntit นก/ncn เค้า/pper แมว/ncn จอม/ncn โหด/vi อยู่/vpost บน/prep กิ่ง/ncn ไม้/ncn นั่นเอง/part
+โชค/ncn ดี/adj ที่/prel นก/ncn เค้า/ncn แมว/ncn กำลัง/prev หลับ/vi อยู่/vpost
+เจ้า/ntit กระรอก/npn จึง/conj ค่อยๆ/adv
+เดิน/vi อย่าง/advm1 ระมัดระวัง/adv
+แต่/conj แล้ว/conj มัน/pper ก็/conj เผลอ/vi ทำ/vt ลูก/ncn เฮ/vi เซ/adv ลนัต/npn หล่น/vi ลงพื้น/adv
+เจ้า/ntit กระรอก/npn ยืน/vi ตัว/ncn แข็ง/vi ไม่/neg กระดุกกระดิก/adv
+ตาม/prep อง/ncn ไป/vpost ที่/prel เจ้า/ntit นก/ncn เค้า/ncn แมว/ncn
+โชค/ncn ดี/adj ที่/prel มัน/pper ยัง/prev คง/prev หลับ/vi สนิท/vi กระรอก/vi น้อย/adv ยืน/vi นิ่ง/adv
+จน/conj แน่ใจ/vi ว่า/conjncl ปลอดภัย/vi แล้ว/vpost ก็/conj ตัดสินใจ/vi วิ่ง/vi ไป/vpost อย่าง/advm1 รวดเร็ว/adv
+เสียง/ncn ฝีเท้า/ncn ของ/prep มัน/pper ทำให้/vcau เจ้า/pper นก/ncn เค้า/ncn แมว/ncn ตื่น/vi ขึ้น/vpost
+มัน/pper เห็น/vt เจ้า/ntit กระรอก/npn แว้/vt บ/adv ๆ/punc
+แต่/conj แสง/ncn แดด/ncn ตอน/ncn เที่ยง/ncn ทำให้/vcau มันตา/ncn พร่า/vi มัว/adv
+"/punc ไม่/neg เป็นไร/vi เอา/vt ไว้/vpost คราว/cl หน้า/adj ค่อย/prev จับ/vt มัน/pper ก็ได้/part ถึง/prep ยัง/prep ไงตอน/ncn นี้/det เรา/pper ก็/conj รู้/vt แล้ว/vpost ว่า/conjncl เจ้า/ntit กระรอก/npn นั่น/det ชอบ/vt กิน/vt ลูก/ncn เฮ/vi เซ/adv ลนัต/npn เต็ม/adv ซึ่ง/prel แถว/ncn นี้/det ก็/conj มี/vt เพียง/adv ต้น/ncn นี้/det ต้น/ncn เดียว/adj เท่านั้น/adv มัน/pper ต้อง/prev กลับ/vi มา/vpost อีก/adv แน่/adv ๆ/punc "/punc
+เจ้า/ntit นก/ncn เค้า/pper แมว/ncn บอก/vt กับ/prep ตัว/ncn เอง/prfx
+แล้ว/conj ก็/conj เป็น/vcs อย่าง/ncn ที่/prel คาด/vi ไว้/vpost
+วัน/ncn รุ่ง/vi ขึ้น/vpost เจ้า/ntit กระรอก/npn ก็/conj กลับ/vi มา/vpost
+เฮ/vi เซ/adv ลนัต/npn สอง/nnum สาม/nnum ลูก/cl ที่/prel มัน/pper เก็บ/vt ได้/vpost เมื่อ/prep วาน/ncn นั้น/det ช่าง/prev น้อย/vi นิด/adv เหลือเกิน/adv
+กระรอก/npn น้อย/vi ตัดสินใจ/vi อยู่/vpost นาน/adv ก่อน/adv จะ/prev ยอม/vt เสี่ยงชีวิต/ncn กลับ/vi มา/vpost อีก/adv ครั้ง/cl
+มัน/pper ปลอบ/vt ใจ/ncn ตัว/ncn เอง/prfx ว่านก/vt เค้า/ncn แมว/ncn นั้น/det ต้อง/prev นอน/vi หลับ/vi พักผ่อน/vi ใน/prep เวลา/ncn กลางวัน/ncn
+ถ้า/conj ไม่/neg ทำ/vt เสียง/ncn ดัง/conj มัน/pper ก็/conj ไม่/neg รู้/vt
+และ/conj อีก/adv อย่าง/advm1 หนึ่ง/adj
+นก/ncn เค้า/ncn แมว/ncn นั้น/det เป็น/vcs นก/ncn กลางคืน/ncn
+มัน/pper ทน/vt แสง/ncn แดด/ncn จ้า/adv ใน/prep เวลา/ncn กลางวัน/ncn ไม่/neg ได้/vpost
+กระรอก/npn น้อย/vi ตัดสินใจ/vi กลับ/vi ไป/vpost ที่/prel ต้น/ncn เฮ/vi เซ/adv ลนัต/npn อีก/adj ครั้ง/cl
+แต่/conj พอ/prev เดิน/vi เข้าไป/adv ใกล้/adv จน/conj เกือบ/adv จะ/prev ถึง/vt
+มัน/pper ก็/conj รู้สึก/vi กลัว/vt ขึ้น/vpost มา/vpost อีก/adv
+มัน/pper มอง/vt หานก/vt เค้า/ncn แมว/ncn
+ตรง/vi นั้นไง/pint !/punc
+เจ้า/ntit นก/ncn หลับ/vi อยู่/vpost ที่/prep เดิม/adj
+กระรอก/vt น้อย/adv ค่อยๆ/adv ย่อง/adv เข้าไป/adv จนถึง/prep ต้น/ncn เฮ/vi เซ/adv ลนัต/npn
+มัน/pper รีบ/vi เก็บ/vt ลูก/ncn เฮ/vi เซ/adv ลนัตอ/ncn ย่าง/vt รวดเร็ว/adv
+พอ/conj เสร็จ/vi แล้ว/vpost ก็/conj ค่อยๆ/adv ย่อง/adv ออก/vpost ไป/vpost
+นก/ncn เค้า/ncn แมว/ncn รู้/vt ว่า/conjncl มี/vt กระรอก/ncn เข้า/vi มา/vpost
+แต่/conj พระอาทิตย์/ncn ทำให้/vcau มัน/pper ลืมตา/vi ไม่/neg ขึ้น/vpost
+มัน/pper รู้/vt ว่า/conjncl ต้นไม้/ncn นี้/det ยัง/prev มี/vt ลูก/ncn อยู่/vpost อีก/adv มากมาย/adv
+แต้/npn รู้/vt ว่า/conjncl เจ้า/ntit กระรอก/npn ต้อง/prev กลับ/vi มา/vpost อีก/adv
+ซึ่ง/prel มัน/pper ก็/conj คิด/vt ถูก/psm
+เพราะ/conj กระรอก/ncn กลับ/vi ไป/vpost ที่/prel นั่น/det อีก/adv นับ/vt ไม่/neg ถ้วน/adv
+เนื่องจาก/conj มัน/pper รู้/vt ว่า/conjncl พระอาทิตย์/ncn จะ/prev ช่วย/vt ให้/conjncl มัน/pper ปลอดภัย/vi
+เช้า/ncn วัน/ncn หนึ่ง/adj ท้อง/ncn ฟ้า/ncn สลัว/vi
+มี/vt เมฆ/ncn บัง/vt ให้/conjncl แดด/ncn อ่อน/adj แสง/ncn ลง/vpost
+นก/ncn เค้า/ncn แมว/ncn ค่อยๆ/adj ลืมตา/vi ขึ้น/vpost
+เอาละ/part
+วัน/ncn นี้/det แหละ/part
+มัน/pper จะ/prev ได้/prev กิน/vt กระรอก/ncn เสียที/part
+แต่/conj นก/ncn เค้า/ncn แมว/ncn ไม่/neg รู้/vt เลย/part ว่า/conjncl
+กระรอก/ncn น้อย/adj กำลัง/prev มอง/vt ดู/vt ลูก/ncn เฮ/vi เซ/vi ลนัตก/vt อง/ncn มหึมา/adj ที่/prel สะสม/vt ไว้/vpost สำหรับ/prep ฤดู/ncn หนาว/adj อย่าง/advm1 ภูมิใจ/vi
+มี/vt ลูก/ncn เฮ/vi เซ/vi ลนัตก/vt อง/ncn ล้น/vi ไป/vpost จนถึง/prep เตียง/ncn นอน/vi
+ที่/prel ต้น/ncn โอ๊ก/adj
+นก/ncn เค้า/ncn แมว/ncn คง/prev รอ/vt อยู่/vpost
+มัน/pper เหนื่อย/vi มาก/adv แต่/conj ก็/conj ไม่/neg กล้า/vi หลับ/vi
+เพราะ/conj กลัว/vt จะ/prev ไม่/neg ได้ยิน/vt เสียง/ncn ของ/prep เจ้า/ntit กระรอก/npn
+เวลา/ncn ผ่าน/vt ไป/vpost
+นก/ncn เค้า/ncn แมว/ncn ก็/conj เริ่ม/vi กระวนกระวาย/adv
+มัน/pper มอง/vt ดู/vt ต้น/ncn เฮ/vi เซ/adv ลนัต/npn ที่/prel เหลือ/vi แต่/conj ใบ/ncn แล้ว/vpost ก็/conj รู้/vt ว่า/conjncl กระรอก/vt น้อย/adv จะ/prev ไม่/neg มา/vpost อีก/adv
+มัน/pper ถอน/vt ใจ/ncn แล้ว/vpost กลับ/vi ไป/vpost ที่/prep ต้น/ncn โอ๊ก/adj อย่าง/advm1 ผิดหวัง/vi

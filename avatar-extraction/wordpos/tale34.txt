@@ -1,0 +1,92 @@
+บุรุษ/ncn ไปรษณีย์/ncn ผู้/pref2 น่า/prev รัก/vt
+ที่/prel ลาน/ncn กลาง/ncn หมู่/nct บ้าน/ncn
+มี/vt พ่อ/ncn ค้า/vt ร้าน/ncn ขาย/vt ของชำ/ncn คน/cl หนึ่ง/adj
+อาศัย/vi อยู่/vpost ตามลำพัง/vi กับ/prep ลูก/ncn สาว/ncn สุด/adj ที่รัก/ncn ชื่อ/ncn ลูอิส/npn
+เขา/pper ขาย/vt ของ/prep ทุก/adj อย่าง/ncn ไม่/neg ว่า/conjncl ปากกา/ncn
+พู่กัน/ncn
+ลูกกวาด/vi
+กรรไกร/ncn
+จุก/ncn ขวด/ncn
+ผ้า/ncn ม่าน/ncn
+ร้าน/ncn ของ/prep เขา/pper ดู/vt งดงาม/vi ราวกับ/adv สายรุ้ง/ncn ที่/prel อยู่/vi ทาม/vt กลาง/ncn ชุมชน/ncn แออัด/vi
+แต่/conj โชค/ncn ร้าย/adj ที่/prel ระยะ/ncn หลัง/adj นี้/det ไม่/neg มี/vt ใคร/pind ซื้อ/vt ของ/prep ที่/prel ร้าน/ncn ของ/prep เขา/pper เลย/part
+ไม่/neg ว่าน/vt อต/ncn สัก/advm4 ตัว/ncn หรือ/conj กระดุม/vt สัก/advm4 เม็ด/ncn
+วัน/ncn หนึ่ง/adj
+ด้วย/prep ความ/pref1 ท้อแท้/vi
+พ่อ/ncn ค้า/vt จึง/conj ตัดสินใจ/vi ออก/vpost เดินทาง/vi ไป/vpost แสวง/vt โชค/ncn ใน/prep อีก/adj ซีก/ncn โลก/ncn หนึ่ง/adj ระหว่าง/prep ที่/prel เขา/pper เดินทาง/vi ไป/vpost นั้น/det
+ลูอิส/npn น้อย/vi จะ/prev ต้อง/prev อาศัย/vt อยู่/vpost กับ/prep ป้า/ncn ซึ่ง/prel เป็น/vcs หญิง/ncn ชรา/npn ผม/pper หงอก/vi ขาว/adj โพลน/adj
+เด็ก/ncn ๆ/punc ใน/prep หมู่/nct บ้าน/ncn เรียก/vt แก/pper ว่า/conjncl ยาย/ncn จู้จี้/npn
+เมื่อ/conj ถึง/prep วัน/ncn เดินทาง/vi
+เด็กหญิง/ncn โศก/adj เศร้า/vt มาก/adv
+เธอ/pper เอาแต่/conj ร้องไห้/vi
+ผู้/pref2 เป็น/vcs พ่อ/ncn จึง/conj ปลอบ/vt และ/conj ให้/vt สัญญา/ncn กับ/prep เธอ/pper อย่าง/advm1 เข้มแข็ง/adv ว่า/conjncl
+"/punc อย่า/neg ร้องไห้/vi ไป/vpost เลย/part ลูก/ncn รัก/vt พ่อ/ncn จะ/prev ไม่/neg ลืม/vt ลูก/ncn จะ/prev เขียน/vt จดหมาย/ncn มา/vpost หา/vt จาก/prep ทุก/adj ที่/prel ที่/prep พ่อ/ncn ไป/vpost ถึง/prep ลูก/ncn จะ/prev ต้อง/prev ได้/vt ข่าว/ncn พ่อ/ncn ทุก/adj วัน/ncn เชียว/ncn ละ/adj "/punc
+แล้ว/conj เขา/pper ก็/conj จาก/prep ไป/vpost
+เวลา/ncn ผ่าน/vt ไป/vpost วันแล้ววันเล่า/adv
+เดือน/ncn แล้ว/vpost เดือน/cl เล่า/part
+ลูอิส/npn ที่/prel น่า/prev สงสาร/vt อยู่/vpost กับ/prep คุณ/ntit ยาย/ncn จู้จี้/npn ที่/prel คอย/vt ตะคอก/ncn สั่ง/vt งาน/ncn เธอ/pper ทุก/adj วัน/cl
+"/punc ไป/vpost ขัด/vt ถู/ncn โต๊ะ/ncn เก้าอี้/ncn พวก/nct นั้น/det ไป/vpost เช็ด/vt กระจก/ncn หน้าต่าง/ncn ไป/vpost ขัด/vt พื้น/ncn ฯลฯ/punc "/punc
+ไม่/neg เคย/prev มี/vt คำ/ncn พูด/vt อ่อนโยน/vi หรือ/conj คำ/ncn ที่/prel แสดง/vt ความ/pref1 รัก/vt เลย/part แม้แต่/conj คำ/ncn เดียว/adj
+วัน/ncn ที่/prel ลูอิสมี/vt ความ/pref1 สุข/vi ก็/conj คือ/vcs วัน/ncn ที่/prel เธอ/pper ได้/prev รับ/vt จดหมาย/ncn จาก/prep พ่อ/ncn
+มัน/pper เป็น/vcs เหมือน/vcs แสง/ncn แดด/ncn ที่/prel ขับ/vt ไล่/vt ความ/pref1 โศก/adj เศร้า/vt ไป/vpost จาก/prep ตัว/ncn เธอ/pper จริงๆ/adv
+บุรุษ/ncn ไปรษณีย์/ncn ชื่อ/ncn เฟลิก/npn ซ์นำ/vt จดหมาย/ncn ล้ำ/vi ค่า/ncn นี้/det มา/vpost ให้/conjncl เธอ/pper
+เขา/pper มีด/ncn วง/ncn ตา/ncn สี/ncn น้ำตาล/adj อ่อนโยน/vi และ/conj ไม่/neg มี/vt อะไร/indet จะ/prev ทำให้/vcau เขา/pper มี/vt ความ/pref1 สุข/vi ได้/prev เท่ากับ/vcs การ/pref1 ได้/prev เห็น/vt รอย/ncn ยิ้ม/vi ของ/prep ลูอิส/npn
+จน/conj มา/vpost ถึง/prep วัน/ncn อาทิตย์/npn อัน/prel แสน/adv เศร้า/vt
+วัน/ncn หนึ่ง/adj ใน/prep ฤดู/ncn ใบไม้/ncn ร่วง/vi
+เฟลิก/ncn ซ์ไม่/npn มี/vt จดหมาย/ncn มา/vpost ให้/prep เธอ/pper
+วัน/ncn รุ่ง/vi ขึ้น/vpost ก็/conj ไม่/neg มี/vt และ/conj ไม่/neg มี/vt ไป/vpost จน/conj ตลอด/adj สัปดาห์/cl
+"/punc พ่อ/ncn เขา/pper ลืม/vt แก/pper ไป/vpost แล้ว/vpost ละ/adj "/punc
+คุณ/ntit ยาย/ncn จู้จี้/npn พูด/vt อย่าง/advm1 ไม่/neg ถนอม/npn น้ำใจ/ncn
+ลูอิสตก/vt อยู่/vpost ใน/prep ช่วง/ncn เวลา/ncn แห่ง/prep ความ/pref1 เศร้า/vt
+"/punc โถ/npn ไม่/neg ได้การ/vi เสีย/vpost แล้ว/vpost "/punc
+บุรุษ/ncn ไปรษณีย์/ncn หนุ่ม/adj น้อย/adv ไม่/neg อาจ/prev ทน/vt เห็น/vt เธอ/pper ร้องไห้/vi
+เขา/pper จึง/conj ตัดสินใจ/vi ว่า/conjncl จะ/prev เขียน/vt จดหมาย/ncn ถึง/prep เธอ/pper
+เขา/pper ใช้/vt ปากกา/ncn ด้าม/ncn ที่/prel ดี/vi ที่สุด/adv เลียน/vt แบบ/ncn ลายมือ/ncn ที่/prel คุ้นเคย/vi ของ/prep พ่อ/ncn ค้า/vt
+เขา/pper เขียน/vt จดหมาย/ncn ตลอด/adj คืน/ncn นั้น/det และ/conj คืน/vt ต่อๆ/adv มา/vpost
+เพื่อ/conj ส่งข่าว/vt สาร/ncn จาก/prep ทั่ว/adj โลก/ncn ให้/vt แก่/prep ลูอิส/npn
+จาก/prep ออสเตรเลีย/npn
+ปา/vt ตาโกนี/npn
+ชิ/npn ลี/npn
+อินโดนีเซีย/npn
+ลาป/ncn อน/npn
+ญี่ปุ่น/npn
+อู/vi กัน/prec ดา/vt
+หรือ/conj บอต/vi สวา/adv นา/ncn และ/conj เมื่อ/conj เขา/pper คิด/vt ว่า/conjncl ได้/prev เขียน/vt ไป/vpost ครบ/adv หมด/adv ทุก/adv ที่/prel แล้ว/vpost
+ก็/conj คิด/vt ชื่อ/ncn ดิน/ncn แดน/ncn อื่นๆ/indet ขึ้น/vpost มา/vpost อีก/adv ไม่/neg ว่า/conjncl จะ/prev เป็น/vcs กา/ncn ปา/vt บา/vt วา/part นา/ncn
+มิ/neg ชิ/npn กา/vt ตอง/ncn บุค/ncn ตูมาลู/npn
+หรือ/conj ปา/vt ปา/vt โบ/ncn นูก็มี/ncn
+หลาย/adj ปี/cl ผ่าน/vt ไป/vpost
+ลูอิส/npn โต/vi เป็น/advm2 สาว/ncn
+เธอ/pper เป็น/vcs หญิง/ncn สาว/ncn ที่/prel สวย/vi งาม/vi
+แต่/conj จะ/prev มี/vt ความ/pref1 สุข/vi เฉพาะ/prep เวลา/ncn ที่/prel
+บุรุษ/ncn ไปรษณีย์/ncn มา/vpost หา/vt เท่านั้น/adv
+เช้าตรู่/ncn วัน/ncn หนึ่ง/adj
+ก่อน/conj พระอาทิตย์/ncn ขึ้น/vpost เธอ/pper ได้ยิน/vt เสียง/ncn เคาะ/vt ประตู/ncn
+"/punc ไป/vpost เปิด/vt ประตู/ncn ซิ/part "/punc
+เสียง/ncn คุณ/ntit ยาย/ncn จู้จี้/npn ตะโกน/vi สั่ง/vt
+ลูอิส/npn เปิด/vt ประตู/ncn
+แล้ว/conj เธอ/pper ก็/conj พบ/vt ผู้ชาย/ncn ที่/prel แต่ง/vt กาย/ncn หรูหรา/vi ยืน/vi อยู่/vpost ที่/prep หน้า/adj ประตู/ncn
+เขา/pper อ้า/vt แขวน/vt รอ/vt รับ/vt เธอ/pper
+"/punc พ่อ/ncn พ่อ/ncn จ๋า/adj หนู/ncn ได้/prev รับ/vt จดหมาย/ncn พ่อ/ncn ทุก/adj ฉบับ/cl เลย/part แม้/conj กระทั่ง/conj ฉบับ/cl สุดท้าย/adj ที่/prel ส่ง/vt มา/vpost จาก/prep ดิน/ncn แดน/ncn ที่/prel ไกล/vi แสน/adv ไกล/adv หนู/ncn ก็ได้/part รับ/vt เมื่อ/prep วาน/ncn นี้/det เอง/prfx "/punc
+พ่อ/ncn มอง/vt หน้า/ncn ลูก/ncn สาว/ncn ด้วย/prep ความ/pref1 สงสัย/vt
+"/punc ลูก/ncn รัก/vt อย่า/neg ล้อ/vt เล่น/vt น่า/adv พ่อ/ncn ไม่/neg ได้/prev เขียน/vt จดหมาย/ncn ถึง/prep ลูก/ncn มา/vpost ตั้ง/vt นาน/adv แล้ว/vpost เพราะ/conj เรือ/ncn ที่/prel พ่อ/ncn ขึ้น/vpost เกิด/vt ล่ม/vi ทำให้/vcau พ่อ/ncn ต้อง/prev ผจญ/vt ภัย/ncn มากมาย/adv พ่อ/ncn จะ/prev เล่า/vt ให้/conjncl ฟัง/vt ทีหลัง/adv พ่อ/ncn ดีใจ/vi เหลือเกิน/adv ที่/prel ได้/prev กลับ/vi มา/vpost หา/vt และ/conj ได้/prev อยู่/vi กับ/prep ลูก/ncn อีก/adj ฟัง/vt นี่/det นะ/part พ่อ/ncn จะ/prev ซื้อ/vt ปราสาท/ncn และ/conj สร้าง/vt ร้าน/ncn ใหม่/adj ให้/conjncl ใหญ่/vi โต/vi สวย/vi งาม/vi ทีเดียว/part "/punc
+ลูอิส/npn ใช้/vt เวลา/ncn ชั่ง/adj โมง/cl แล้ว/vpost ชั่วโมง/cl เล่า/part ฟัง/vt พ่อ/ncn เล่า/vt เรื่อง/ncn
+เธอ/pper ซุก/vt ตัว/ncn อยู่/vpost ใน/prep อ้อมอก/ncn พ่อ/ncn
+แต่/conj ถึง/prep อย่างไร/pint
+เธอ/pper ก็/conj ยัง/prev ไม่/neg มี/vt ความ/pref1 สุข/vi
+เธอ/pper ยัง/prev คิดถึง/vt จดหมาย/ncn ที่/prel ได้/prev รับ/vt ใน/prep ช่วง/ncn เวลา/ncn ที่/prel ผ่าน/vt มา/vpost
+และ/conj เธอ/pper ก็/conj เข้าใจ/vt เรื่อง/ncn ทั้งหมด/adj
+"/punc พ่อ/ncn รอ/vt เดี๋ยว/adv นะ/part เดี๋ยว/adv หนู/ncn มา/vpost "/punc
+ลูอิส/npn วิ่ง/vi ไป/vpost ยัง/prep บ้าน/ncn ที่/prel อยู่/vi ติด/vt กับ/prep ที่ทำการ/ncn ไปรษณีย์/ncn
+มอง/vt เข้าไป/adv ทาง/prep ช่อง/ncn หน้าต่าง/ncn
+เฟลิก/ncn ซ์อยู่/ncn ที่/prel นั่นเอง/part
+นั่ง/vi อยู่/vpost ที่/prep โต๊ะ/ncn
+ศีรษะ/ncn ซบ/vi ตะ/adv แตง/adv ข้าง/cl
+เขา/pper หลับ/vi คา/vt จดหมาย/ncn ที่/prel กำลัง/prev เขียน/vt อยู่/vpost
+ปากกา/ncn ยัง/prev อยู่/vi ใน/prep มือ/ncn
+และ/conj หัวใจ/ncn ของ/prep ลูอิส/npn ก็/conj ตื้นตัน/vi ใน/prep ตัว/ncn เขา/pper เป็นอันมาก/adv
+หลังจาก/conj นั้น/det อีก/adv หนึ่ง/adj สัปดาห์/cl
+ใน/prep ปราสาท/ncn สี/ncn รุ้ง/adj
+พ่อ/ncn ก็/conj จัด/vt งาน/ncn แต่งงาน/vi ให้/prep ลูก/ncn สาว/ncn กับ/prep บุรุษ/ncn ไปรษณีย์/ncn อย่าง/advm1 ใหญ่/adv โต/adv
+ใคร/pind ๆ/punc ก็/conj พูด/vt ว่า/conjncl คู่รัก/ncn ทั้ง/adj สอง/nnum จะ/prev ไม่/neg มี/vt วัน/ncn พราก/vt จาก/prep กัน/prec เลย/part
+เพราะ/conj พวก/nct เขา/pper เขียน/vt จดหมาย/ncn รัก/vt ถึงกัน/ncn ตลอด/adj เวลา/ncn

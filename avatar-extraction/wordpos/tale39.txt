@@ -1,0 +1,109 @@
+กระดิ่ง/ncn ผูก/vt คอ/ncn แมว/ncn
+ใน/prep หุบเขา/ncn รอบ/ncn กรุง/ncn เอ/ncn เธนส์มี/ncn ไร่/ncn แห่ง/cl หนึ่ง/adj
+และ/conj ที่/prel ไร่/ncn แห่ง/cl นั้น/det มี/vt หนู/ncn จำนวน/ncn มาก/adv อาศัย/vi อยู่/vpost นับ/vt ร้อย/nnum ๆ/punc ตัว/ncn
+เนื่องจาก/conj เจ้าของ/ncn ไร่/ncn แก่/prep แล้ว/vpost และ/conj สายตา/ncn ผ้า/ncn ฟาง/ncn
+พวก/nct หนู/pper จึง/conj กลาย/vi เป็น/vcs เจ้าของ/ncn ที่/prel
+หนู/pper ขน/vt สี/ncn ทอง/ncn ทำ/vt รัง/ncn อยู่/vpost ใน/prep ทุ่ง/ncn ข้าวโพด/ncn
+หนู/pper ขน/vt สี/ncn เทา/adj อม/vt ฟ้า/ncn สร้าง/vt บ้าน/ncn อยู่/vpost ใน/prep โรงเรียนเก็บ/ncn เมล็ด/ncn ข้าว/ncn ด้วย/prep การ/pref1 ใช้/vt ฟัน/ncn อัน/prel แหลม/vi คม/adv กัด/vt ทะลุ/vt กระสอบ/ncn
+มี/vt หนู/ncn ใน/prep โรง/ncn รีด/vt นม/ncn
+หนู/ncn ใน/prep ตู้/ncn กับข้าว/ncn
+หนู/ncn ใน/prep ราง/ncn หญ้า/ncn
+หรือ/conj แม้แต่/conj หนู/ncn ใน/prep หนอน/ncn
+โอ้โฮ/npn
+เจ้า/ntit พวก/nct นี้/det !/punc
+พวก/nct มัน/pper ช่าง/prev สุข/vi สบาย/adv ราวกับ/conj เป็น/vcs เจ้าของ/ncn ที่/prel เสีย/vt จริง/adv
+จนกระทั่ง/conj เช้า/ncn วัน/ncn หนึ่ง/adj
+เจ้าของ/ncn ไร่/ncn พบ/vt อึ/npn หนู/ncn ใน/prep น้ำผึ้ง/ncn ซึ่ง/prel เขา/pper เตรียม/vt ไว้/vpost เป็น/advm2 อาหาร/ncn เช้า/ncn
+เขา/pper จึง/conj ตัดสินใจ/vi ไป/vpost ซื้อ/vt แมว/ncn มา/vpost ตัว/ncn หนึ่ง/adj !/punc
+สำหรับ/conj พวก/nct หนู/ncn เล็ก/adj ๆ/punc แล้ว/vpost
+เจ้า/ntit แมว/ncn ตัว/cl นั้น/det ช่าง/prev ดู/vt น่า/adv กลัว/vt
+แถม/conj มี/vt ขน/ncn หยาบ/ncn ทั้ง/adj ตัว/cl
+มัน/pper ออก/vt ล่า/vt เหยื่อ/ncn ผู้/pref2 เคราะห์/ncn ร้าย/adj ทั้ง/conjc วัน/ncn ทั้ง/adj คืน/vt
+มัน/pper ดัก/vt รอ/vt อยู่/vpost นอก/prep รู/ncn หนู/ncn และ/conj สะกด/vi รอย/ncn พวก/nct หนู/ncn ด้วย/prep อุ้ง/ncn เท้า/ncn ที่/prel ฉับไว/vi ไร้/vt สุ้มเสียง/ncn
+เวลา/ncn ตะครุบ/vt เหยื่อ/ncn
+เขี้ยว/ncn และ/conj กรงเล็บ/vt ของ/prep มัน/pper คมกริบ/adv ราวกับ/adv คม/adv มีด/ncn ของ/prep มัจจุราช/npn เลย/part ทีเดียว/part
+สุดท้าย/adj พวก/nct หนู/ncn ก็/conj ทน/vt ไม่/neg ได้/vpost อีก/adv ต่อ/adv ไป/vpost
+พวก/nct มัน/pper ต้อง/prev ทำ/vt อะไร/indet สัก/advm4 อย่าง/cl กับ/prep เจ้า/ntit แมว/ncn ชั่ว/ncn ร้าย/adj ตัว/ncn นั้น/det
+พรรคพวก/ncn ของ/prep มัน/pper หลาย/adj ตัว/cl ถูก/psm กลืน/vt หาย/vi ลง/vpost ไป/vpost ใน/prep ลำ/ncn คอ/ncn ที่/prel หิว/vt อยู่/vpost ตลอด/adv เวลา/ncn ของ/prep เจ้า/ntit แมว/ncn
+แต่/conj จะ/prev มี/vt วิธี/ncn ไหน/indet ให้/prep สัตว์/ncn ตัว/ncn เล็ก/adj ๆ/punc ที่/prel ปกป้อง/vt ตัว/ncn เอง/prfx ไม่/neg ได้/prev อย่าง/advm1 พวก/nct มัน/pper เอาชนะ/vt สัตว์/ncn ร้าย/adj ตัว/ncn ใหญ่/adj เทอะทะ/vi อย่าง/advm1 เจ้า/ntit แมว/ncn ได้/vpost นะ/part
+หนู/ncn ผู้/pref2 เฒ่า/ncn เรียก/vt สมาชิก/ncn หนู/ncn ทุก/adj ตัว/ncn มา/vpost ประชุม/vi ใน/prep สวน/ncn ส้ม/adj หลัง/prep โรงนา/npn
+ซึ่ง/prel ทั้ง/adj หนู/ncn ตาม/prep ท้อง/ncn นา/ncn กัน/prec หนู/ncn บ้าน/ncn จะ/prev มา/vi รวม/vt ตัว/ncn กัน/prec ได้/vpost
+โดย/conj ไม่/neg ต้อง/prev เดินทาง/vi จาก/prep บ้าน/ncn มา/vpost ไกล/adv นัก/part
+พวก/nct มัน/pper เจอ/vt กัน/prec ตอน/ncn บ่าย/ncn แก่/prep ๆ/punc วัน/ncn หนึ่ง/adj
+ตอน/ncn ที่/prel เจ้า/ntit แมว/ncn กำลัง/prev งีบ/vt หลับ/vi บน/prep กำแพง/ncn สวน/ncn
+หนู/pper มา/vpost ชุมนุม/vi กัน/prec เป็น/advm2 แถว/ncn ๆ/punc ใต้/prep ต้นไม้/ncn
+ทั้ง/conjc หนู/ncn สี/ncn น้ำตาล/adj
+สี/ncn ดำ/adj
+สี/ncn เทา/adj
+และ/conj สี/ncn แยม/ncn ผิว/ncn ส้ม/adj
+ทุก/adj ตัว/cl ต่าง/pind ก็/conj สั่น/vt เทา/adj จน/conj หนวด/ncn บาง/adj ๆ/punc กระดิก/npn ไป/vpost มา/vpost
+พวก/nct มัน/pper ต่าง/pind ก็/conj มี/vt เรื่อง/ncn ที่/prel อยาก/prev จะ/prev พูด/vt
+ทั้ง/conjc ความ/pref1 คิด/vt ที่/prel จะ/prev เสนอ/vt
+ความ/pref1 คิดเห็น/vi ที่/prel จะ/prev หารือ/vi
+บาง/adj ตัว/ncn มี/vt เรื่อง/ncn สยอง/ncn ขวัญ/ncn จะ/prev เล่า/vt
+"/punc เจ้า/ntit แมว/ncn ตัว/cl นั้น/det ย่อง/adv มา/vpost หา/vt ลูก/ncn ๆ/punc ฉัน/pper ตอน/ncn กำลัง/prev แทะ/vi เชือก/ncn เส้น/ncn หนึ่ง/adj อยู่/vpost "/punc
+"/punc มัน/pper ตะครุบ/vt ลูก/ncn ๆ/punc ตัว/ncn น้อย/vi ของ/prep ฉัน/pper ตอน/ncn กำลัง/prev เล่น/vt อยู่/vpost ใน/prep สวน/ncn ครัว/ncn "/punc
+"/punc แล้ว/conj เรา/pper จะ/prev ป้องกัน/vt ตัวอย่าง/ncn ไร/ncn ดี/adj "/punc
+หนู/ncn ผู้/pref2 เฒ่า/ncn ขัด/vt ขึ้น/vpost
+"/punc ตอน/ncn นี้/det มา/vpost ช่วย/vt กัน/prec คิด/vt เรื่อง/ncn นี้/det กัน/prec ก่อน/adv เถอะ/part "/punc
+หนู/ncn บาง/adj ตัว/ncn ยื่น/vt ข้อ/ncn เสนอ/vt ที่/prel น่า/prev ขัน/vt
+"/punc ขัง/vt เจ้า/ncn แมว/ncn นั่น/det ไว้/vpost ใน/prep โรงนา/npn สิ/part "/punc
+"/punc ผลัก/vt มัน/pper ลง/vpost หลุม/ncn ลึก/adj ไป/vpost เลย/part "/punc
+"/punc ลง/vt บ่อ/ncn น้ำ/ncn เลย/part สิ/part !/punc "/punc
+"/punc จับ/vt มัน/pper โยน/vt ลง/vpost แม่น้ำ/ncn ดี/adj กว่า/adv !/punc พวก/nct แมว/ncn กลัวน้ำ/vi เดี๋ยว/adv มัน/pper ต้อง/prev ร้อง/vi โหยหวน/adv ดัง/conj เท่ากับ/vcs พวก/nct เรา/pper รวม/vt กัน/prec แน่/adv "/punc
+"/punc แค่/adv นั้น/det ยัง/prev กำจัด/vt มัน/pper ไม่/neg ได้/vpost หรอก/part "/punc
+หนู/ncn ผู้/pref2 เฒ่า/ncn กล่าว/vt
+"/punc เดี๋ยว/adv เจ้าของ/ncn ไร่/ncn ก็/conj ซื้อ/vt ตัว/ncn ใหม่/adj มา/vpost อีก/adv "/punc
+หนู/ncn ขาว/adj สาม/nnum ตัว/cl ยก/vt อุ้ง/vt เท้า/ncn ขึ้น/vpost จะ/prev พูด/vt
+ทุก/adj ตัว/ncn เงียบ/vi เสียง/ncn ลง/vpost ทันที/adv
+เพราะ/conj ถึง/prep แม้/conj พวก/nct มัน/pper จะ/prev ยัง/prev เด็ก/ncn
+หนู/ncn ขาว/adj ก็/conj ถือว่า/vi ฉลาด/vi มาก/adv
+พวก/nct มัน/pper เพิ่ง/prev สร้าง/vt บ้าน/ncn ใน/prep หีบ/ncn ไม้/ncn ที่/prel เจ้าของ/ncn ไร่/ncn เอา/vt ไว้/vpost เก็บ/vt เอกสาร/ncn ทาง/prep กฎหมาย/ncn
+และ/conj ยัง/prev ทำลาย/vt ม้วน/vt กระดาษ/ncn แห่ง/prep ปัญญา/ncn ของ/prep เจ้าของ/ncn ไร่/cl จน/adj หมด/adv
+"/punc ปัญหา/ncn ก็/conj คือ/vcs ว่า/conjncl "/punc
+หนู/ncn ขาว/adj ตัว/ncn แรก/adj กล่าว/vt
+"/punc พวก/nct แมว/ncn ไม่/neg ส่งเสียง/vi เลย/part ตอน/ncn ย่อง/adv มา/vpost หา/vt เรา/pper นก/ncn ฮูก/ncn ดัง/conj ขยับ/vt ปีก/ncn ดัง/adj พั่บ/ncn ๆ/punc งู/ncn ยัง/prev แลบ/adj ลิ้น/conj ดัง/conj แฉ่/vt ๆ/punc แต่/conj แมว/ncn กลับ/vi เงียบกริบ/adv ไม่/neg มีเสียง/vt กระ/ncn ชิบ/vt หรือ/conj ว่า/conjncl เสียง/ncn อะไร/indet สักแอะ/part "/punc
+"/punc ทาง/ncn ออก/vpost ของ/prep สถานการณ์/ncn คับ/vt ขับ/vt ของ/prep เรา/pper นั้น/det ง่าย/adv มาก/adv "/punc
+หนู/ncn สี/ncn ขาว/adj ตัว/cl ที่/norm สอง/nnum กล่าว/vt
+"/punc คน/ncn โง่/adj ก็/conj มอง/vt ออก/vpost ว่า/conjncl ต้อง/prev ทำ/vt อย่างไร/pint ที่/prel เรา/pper ต้องการ/vt ก็/conj แค่/adv กระดิ่ง/ncn กระดิ่ง/ncn เล็ก/adj ๆ/punc กับ/prep ริบบิ้น/ncn ยาว/adj ๆ/punc สัก/advm4 เส้น/ncn "/punc
+หนู/ncn ทั้งหมด/adj ต่าง/adj มอง/vt หน้า/ncn กัน/prec ด้วย/prep ความ/pref1 สงสัย/vt ว่า/conjncl พวก/nct มัน/pper หู/ncn ฝาด/vi ไป/vpost หรือ/conj เปล่า/adj พวก/nct มัน/pper จะ/prev เอา/vt กระดิ่ง/ncn กับ/prep ริบบิ้น/ncn มา/vpost ทำ/vt อะไร/indet กัน/prec แน่/adv
+หนู/pper ฉลาด/vi ตัว/ncn ที่/norm สาม/nnum กระแอม/npn
+"/punc ถ้า/conj พวก/nct เรา/pper ตัว/ncn ใด/indet ตัว/ncn หนึ่ง/adj ย่อง/adv ไป/vpost หา/vt เจ้า/ncn แมว/ncn นั่น/det และ/conj เอา/vt กระดิ่ง/ncn ผูก/vt คอ/ncn มัน/pper ตอน/ncn ที่/prel มัน/pper หลับ/vi อยู่/vpost พวก/nct เรา/pper ทั้งหมด/adv ก็/conj จะ/prev ปลอดภัย/vi เพราะ/conj กระดิ่ง/ncn จะ/prev ส่งเสียง/vi ทุก/adj ครั้ง/cl ที่/prel เจ้า/ntit สัตว์/ncn ร้าย/adj นั่น/det ขยับ/vt ตัว/ncn ทีนี้/det พวก/nct เรา/pper ก็/conj จะ/prev ได้ยิน/vt เสียง/ncn ของ/prep มัน/pper ตอน/ncn ที่/prel มัน/pper พยายาม/vi จะ/prev ย่อง/adv เข้า/vi มา/vpost แล้ว/vpost เรา/pper ก็/conj จะ/prev หนี/vt ได้/vpost ทัน/adv ก่อน/adv ที่/prel จะ/prev ถูก/psm มัน/pper ตะครุบ/npn "/punc
+เสียง/ncn เห็น/vt ด้วย/adv ดัง/adv กึกก้อง/adv
+ช่าง/prev เป็น/vcs ความ/pref1 คิด/vt ที่/prel ชาญ/npn ฉลาด/vi อะไร/pint เช่น/conjncl นี้/det แถม/conj ยัง/prev ง่า/vi แสน/adv ง่าย/adv อีก/adv ด้วย/adv
+แค่/adv เพียง/adv กระดิ่ง/ncn อัน/prel เล็ก/vi กับ/prep ริบบิ้น/ncn ยาว/adj !/punc
+มี/vt แต่/conj หนู/ncn ฉลาด/adj สาม/nnum ตัว/cl ที่/prel วาง/vt แผนการ/ncn ฉลาด/vi ปราดเปรื่อง/vi เช่น/conjncl นี้/det ได้/vpost
+หนู/ncn ผู้/pref2 เฒ่า/ncn ไต่/vi ขึ้น/vpost ต้นไม้/ncn และ/conj โบก/vt อุ้ง/ncn เท้า/ncn จน/conj ทุก/adj ตัว/ncn ใน/prep ที่/prel ประชุม/vi เงียบ/vi เสียง/ncn ลง/vpost
+มัน/pper คง/prev จะ/prev โบก/vt หาง/ncn ด้วย/adv
+แต่/conj หาง/ncn ของ/prep มัน/pper กุด/conj เหลือ/vi แต่/conj ตอ/ncn
+เพราะ/conj ถูก/psm เจ้า/ntit แมว/ncn ตัว/cl นั้น/det กัด/vt จน/conj ขาด/vt
+"/punc แผนการ/ncn ของ/prep พวก/nct หนู/ncn ขาว/adj นั้น/det ฉลาด/vi และ/conj กล้า/vi หาญ/vi จริงๆ/adv "/punc
+มัน/pper กล่าว/vt
+"/punc แต่/conj สมาชิก/ncn ตัว/ncn ไหน/indet ล่ะ/part ที่/prel จะ/prev เอา/vt กระดิ่ง/ncn ไป/vpost ผูก/vt รอบ/ncn คอ/ncn เจ้า/ncn สัตว์/ncn ร้าย/adj "/punc
+ที่/prel ชุมนุม/vi เงียบ/vi เสียง/ncn ลง/vpost ทันควัน/adv
+สายตา/ncn ทุก/adj คู่/cl หัน/vt ไป/vpost ที่/prep กำแพง/ncn สวน/ncn ที่/prel เจ้า/ntit แมว/ncn ยัง/prev คง/prev หลับ/vi อยู่/vpost
+แม้/conj จะ/prev อยู่/vi ไกล/adv
+แต่/conj พวก/nct มัน/pper ก็/conj ยัง/prev เห็น/vt กล้าม/ncn เนื้อ/ncn อัน/prel ทรง/vt พลัง/ncn กระเพื่อม/vi ขึ้น/vpost ลง/vpost ใต้/prep ขน/ncn ของ/prep มัน/pper อยู่/vpost ดี/adv
+"/punc พวก/nct เรา/pper ตัว/ncn เล็ก/adj เกิน/adv กว่า/adv จะ/prev ไต่/vi ขึ้น/vpost หลัง/prep เจ้า/ncn แมว/ncn นั่น/det "/punc
+หนู/ncn ใน/prep ทุ่ง/ncn นา/ncn กลืน/vt น้ำลาย/ncn ดัง/adj เอื๊อก/ncn
+"/punc คง/prev มี/vt พวก/nct เรา/pper สัก/advm4 ตัว/ncn ยอม/vt ทำ/vt ละ/adj น่า/adv แต่/conj พวก/nct เรา/pper เสียง/ncn ดัง/adj เกิน/adv กว่า/adv จะ/prev ย่อง/adv เข้าหา/vt แมว/ncn ที่/prel หลับ/vi อยู่/vpost "/punc
+หนู/ncn ใน/prep โรงงาน/ncn เก็บ/vt เมล็ด/ncn ข้าว/ncn ร้อง/vi จี๊ด/npn ๆ/punc
+"/punc เจ้า/ntit สัตว์/ncn ร้าน/ncn นั่น/det คง/prev ตื่น/vi ก่อน/adv ที่/prel เรา/pper จะ/prev ทัน/vi ได้/vpost ผูก/vt กระดิ่ง/ncn เป็น/advm2 แน่/adv "/punc
+"/punc แถม/vt ตัว/ncn พวก/nct เรา/pper ยัง/prev มี/vt กลิ่น/ncn เนย/npn "/punc
+หนู/ncn ใน/prep โรง/ncn รีด/vt นม/ncn ร้อง/vi
+ด้าน/ncn บน/prep กำแพง/ncn สวน/ncn
+เจ้า/ntit แมว/ncn ตื่น/vi ขึ้น/vpost และ/conj หาว/vi
+มัน/pper นอน/vi หลับ/vi อยู่/vpost นาน/adv พอ/adv สมควร/vi จน/conj ท้อง/ncn ร้อง/vi ด้วย/prep ความ/pref1 หิว/vt
+ตาของ/vt มัน/pper สะท้อน/vi แสงอาทิตย์/ncn ยาม/ncn เย็น/adj
+ขณะ/ncn ที่/prel มอง/vt หา/vt เหยื่อ/ncn ไป/vpost รอบ/ncn ๆ/punc
+ที่/prel มัน/pper เห็น/vt อยู่/vpost ใต้/prep ต้น/adj ส้ม/ncn นั่น/pdem คือ/vcs อะไร/pint
+ใช่/vt พวก/nct หนู/ncn โง่/adj แต่/conj เนื้อ/ncn ฉ่ำ/adv ทั้ง/adj โขยง/nct หรือ/conj เปล่า/adv นะ/part
+เจ้า/ntit แมว/ncn หัวเราะ/vt หึๆ/adv
+เลีย/vt ริมฝีปาก/ncn
+มัน/pper กระโดด/vi ลงพื้น/vi อย่าง/advm1 สง่า/adv งาม/vi
+และ/conj ก่อน/adv ที่/prel พวก/nct หนู/pper จะ/prev สังเกต/vt เห็น/vt ว่า/conjncl มัน/pper ใกล้/vi เข้า/vi มา/vpost
+มัน/pper ก็ดีด/vt ตัว/ncn ลง/vpost ตรง/prep กลาง/ncn ที่/prel ชุมนุม/vi พอดี/adv
+พร้อม/vi กับ/prep แยกเขี้ยว/ncn และ/conj กาง/vt กรงเล็บ/ncn
+พวก/nct หนู/pper เผ่น/vi กัน/prec ไป/vpost คนละ/adv ทิศ/ncn ละ/adj ทาง/prep พร้อม/vi กับ/prep ร้อง/vi จี๊ด/npn ๆ/punc
+จน/conj เสียงหลง/ncn และ/conj ตัว/ncn สั่น/vt ด้วย/prep ความ/pref1 กลัว/vt
+แล้ว/conj แผนการ/ncn อัน/prel ชาญ/npn ฉลาด/vi ของ/prep พวก/nct มัน/pper ก็/conj จบ/vi ลง/vpost ด้วย/prep ประการ/cl ฉะนี้/det !/punc

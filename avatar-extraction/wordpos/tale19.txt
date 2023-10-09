@@ -1,0 +1,103 @@
+ม้า/ncn แกลบ/ncn น้อย/adj ของ/prep ลี/npn น่า/adv
+กาล/ncn ครั้ง/cl หนึ่ง/adj นาน/adv มา/vpost แล้ว/vpost มี/vt หุบเขา/ncn เล็ก/adj ๆ/punc
+ที่/prel เงียบ/vi สงบ/vi แห่ง/cl หนึ่ง/adj
+ผู้คน/ncn ที่/prel อาศัย/vt อยู่/vpost ที่/prel นี่/det ใช้/vt ชีวิต/ncn กัน/prec อย่าง/advm1 มี/vt ความ/pref1 สุข/vi ท่ามกลาง/prep ธรรมชาติ/ncn ที่/prel สวย/vi งาม/vi
+ลี/npn น่า/prev และ/conj ครอบครัว/ncn อาศัย/vi อยู่/vpost ใน/prep บ้าน/ncn ไม้/ncn หลัง/adj เล็ก/adj น่า/prev รัก/vt
+พ่อ/ncn ของ/prep เธอ/pper เป็น/vcs เจ้าของ/ncn ฟาร์ม/ncn เลี้ยง/vt ม้า/ncn
+และ/conj เป็น/vcs ครู/ncn สอน/vt ขี่/vt ม้า/ncn ให้/prep เด็ก/ncn ๆ/punc
+ด้วย/adv
+ลี/npn น่า/prev รัก/vt ม้า/ncn ทุก/adj ตัว/ncn ใน/prep ฟาร์ม/ncn
+แต่/conj ตัว/ncn ที่/prel เธอ/pper รัก/vt มาก/adv ที่สุด/adv ชื่อ/ncn
+"/punc มายา/ncn "/punc
+ตอน/ncn นี้/det มายา/ncn กำลัง/prev ท้อง/ncn และ/conj ใกล้/vi จะ/prev ออกลูก/vi เต็มที/adv แล้ว/vpost
+เช้า/ncn วัน/ncn หนึ่ง/adj ขณะ/ncn กำลัง/prev รับประทาน/vt อาหาร/ncn เช้า/ncn
+พ่อ/ncn ของ/prep ลี/npn น่า/adv ซึ่ง/prel ออก/vt ไป/vpost ที่/prep ฟาร์ม/ncn ตั้งแต่/prep เช้ามืด/ncn ก็/conj วิ่ง/vi เข้า/vi มา/vpost ใน/prep ครัว/ncn อย่าง/advm1 ตื่นเต้น/vi พร้อม/vi กับ/prep ตะโกน/vi ว่า/conjncl
+"/punc มายา/ncn ออกลูก/vi แล้ว/vpost !/punc "/punc
+พอ/conj ลี/npn น่า/prev ได้ยิน/vt ก็/conj รีบ/vi วิ่ง/vi ไป/vpost ที่/prel คอก/vt ม้า/ncn ทันที/adv
+เจ้า/ntit ลูก/ncn ม้า/ncn กำลัง/prev นอน/vi ซุก/vt แม่/ncn ของ/prep มัน/pper อยู่/vpost
+ลี/npn น่า/prev ตื่นเต้น/vi กับ/prep ขน/ncn ที่/prel หยิก/ncn หนา/vi ของ/prep มัน/pper
+"/punc พ่อ/ncn เคย/prev เห็น/vt ลูก/ncn ม้า/ncn ที่/prel มี/vt ขน/vt หยิก/ncn อย่าง/cl นี้/det ไหม/pint คะ/vt "/punc
+เธอ/pper ถาม/vt พ่อ/ncn ซึ่ง/prel เดิน/vi ตาม/advm5 ออก/vpost มา/vpost ด้วย/adv
+"/punc ไม่/neg เลย/vi ลูก/ncn พ่อ/ncn ไม่/neg เคย/prev เห็น/vt มา/vpost ก่อน/adv เลย/part "/punc
+พ่อ/ncn ตอบ/vt
+"/punc จริง/adv หรือ/conj คะ/ncn ถ้า/conj อย่าง/ncn นั้น/det ก็/conj แสดง/vt ว่า/conjncl ม้า/ncn ของ/prep หนู/ncn ไม่/neg เหมือน/adv ของ/prep ใคร/pind เลย/part สิ/part คะ/ncn โอ/npn !/punc เยี่ยม/vt ไป/vpost เลย/part "/punc
+ลี/npn น่า/prev พูด/vt อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+ใน/prep ขณะ/ncn ที่/prel พ่อ/ncn ของ/prep เธอ/pper ท่าทาง/ncn เป็น/vcs กังวล/vi กับ/prep ความ/pref1 ผิด/vi ปกติ/adv ของ/prep เจ้า/ncn ลูก/ncn ม้า/ncn
+ลี/npn น่า/prev รัก/vt ลูก/ncn ม้า/ncn ตัว/ncn นี้/det มาก/adv
+เธอ/pper ตั้ง/vt ชื่อ/ncn ให้/prep มัน/pper ว่า/conjncl
+"/punc ไมกี้/npn "/punc
+หลาย/adj เดือน/cl ผ่าน/vt ไป/vpost
+เจ้า/ntit ไมกี้ก็/part โต/adj พอที่/conj จะ/prev ออก/vi ไป/vpost อยู่/vpost กับ/prep ม้า/ncn อื่นๆ/indet
+ใน/prep ทุ่ง/ncn หญ้า/ncn ได้/vpost
+แต่/conj แทนที่จะ/conj ได้/prev อยู่/vi อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+มัน/pper กลับ/vi ถูก/psm ม้า/ncn อื่นๆ/indet
+แสดง/vt ท่าทาง/ncn รังเกียจ/vi และ/conj ไม่/neg ยอม/vt ให้/conjncl เข้า/vt กลุ่ม/nct ด้วย/adv
+เพราะว่า/conj มัน/pper มี/vt ขน/ncn ไม่/neg เหมือน/vcs ม้า/ncn ตัว/ncn อื่น/indet นั่นเอง/part
+เมื่อ/conj ฤดู/ncn ร้อน/vi มา/vpost ถึง/adv
+เด็ก/ncn ๆ/punc
+ก็/conj มา/vi เรียน/vt ขี่/vt ม้า/ncn กัน/prec มาก/adv ขึ้น/vpost
+ลี/npn น่า/prev ต้อง/prev คอย/vt ช่วย/vt พ่อ/ncn กับ/prep แม่/ncn ทำ/vt งาน/ncn ทุก/adj อย่าง/advm1 เท่า/adv ที่/prel จะ/prev ทำได้/vi
+ตั้งแต่/prep แปรง/ncn ขน/vt ม้า/ncn
+ทำ/vt ความ/pref1 สะอาด/vi รองเท้า/ncn
+และ/conj คอย/vt บอก/vt วิธี/ncn ขึ้น/vpost ลง/vpost ม้า/ncn ให้/conjncl พวก/nct เด็ก/ncn ๆ/punc
+รวม/vt ไป/vpost ถึง/prep คอย/vt จัดการ/vt เวลา/ncn ที่/prel พวก/nct นั้น/det ทะเลาะ/vt กัน/prec ด้วย/adv
+ลี/npn น่า/prev มี/vt ความ/pref1 สุข/vi กับ/prep งาน/ncn ใน/prep ฟาร์ม/ncn
+แต่/conj สิ่ง/ncn ที่/prel ทำให้/vcau เธอ/pper ยัง/prev วิตก/vi กังวล/vi อยู่/vpost ก็/conj คือ/vcs การ/ncn ที่/prel เจ้า/ntit ไมกี้ไม่/npn มี/vt เพื่อน/ncn
+และ/conj มัก/prev ถูก/psm พวก/nct เด็ก/ncn ๆ/punc
+แกล้ง/vi อยู่/vpost เสมอ/adv
+เธอ/pper สงสาร/vt เจ้า/ntit ไมกี้มาก/npn
+จึง/conj ไป/vpost อยู่/vpost เป็น/advm2 เพื่อน/ncn เล่น/vt กับ/prep มัน/pper นาน/adv ๆ/punc
+เพื่อ/conj ไม่/neg ให้/vcau มัน/pper เหงา/vi
+ความ/pref1 รัก/vt จาก/prep ลี/npn น่า/adv นั้น/det เป็น/vcs สิ่ง/ncn เดียว/adj ที่/prel ทำให้/vcau เจ้า/ntit ไมกี้มี/npn ความ/pref1 สุข/vi และ/conj อยาก/prev มี/vt ชีวิต/ncn อยู่/vpost ต่อ/adv ไป/vpost
+เวลา/ncn ผ่าน/vt ไป/vpost
+เจ้า/ntit ไมกี้กลาย/npn เป็น/vcs ม้า/ncn หนุ่ม/adj ที่/prel โต/vi เต็มที่/adv
+แม้/conj ว่า/conjncl มัน/pper จะ/prev ตัว/ncn เล็ก/adj แต่/conj ก็/conj แข็งแรง/vi มาก/adv
+พ่อ/ncn พาลี/npn น่า/adv ไป/vpost ซื้อ/vt อาน/ncn และ/conj อุปกรณ์/ncn ขี่/vt ม้า/ncn อื่นๆ/indet
+เธอ/pper เลือก/vt อาน/ncn หนัง/ncn สี/ncn น้ำตาล/adj กับ/prep บังเหียน/ncn ที่/prel เข้า/vi ชุด/ncn กัน/prec
+และ/conj หลังจาก/conj ใช้/vt เวลา/ncn ไม่/neg นาน/adv
+เจ้า/ntit ไมกี้ก็/part ยอม/vt ให้/conjncl ลี/npn น่า/prev ขึ้น/vpost ขี่/vt หลัง/adv
+แล้ว/conj เรื่อง/ncn แปลก/adj ก็/conj เกิด/vt ขึ้น/vpost
+เมื่อ/conj คุณ/pper ลุง/ncn บาส/npn เตียน/vt ผู้/ncn ใจดี/adj มา/vpost เยี่ยม/vt ลี/npn น่า/adv และ/conj ครอบครัว/ncn
+คุณ/ntit ลุง/ncn เป็น/vcs หัวหน้า/ncn หน่วย/ncn กู้ภัย/npn ประจำ/vt ภูเขา/ncn
+มีหน้า/ncn ที่/prel ช่วยเหลือ/vt ผู้/pref2 บาดเจ็บ/vi จาก/prep การ/pref1 ปีน/vt เขา/pper และ/conj เล่น/vt สกี/npn
+คุณ/pper ลุง/ncn มี/vt สุนัข/ncn คู่ใจ/adj ตัว/ncn หนึ่ง/adj ชื่อ/ncn
+"/punc โต/vi โต้/vi "/punc
+มัน/pper เป็น/vcs สุนัข/ncn ที่/prel ฉลาด/vi มาก/adv
+และ/conj เคย/prev ช่วย/vt ชีวิต/ncn คน/ncn มา/vpost มากมาย/adv นับ/vt ไม่/neg ถ้วน/adv
+ตอน/ncn แรก/adj เจ้า/ncn โต/vi โต้/vi ก็/conj ยัง/prev ไม่ค่อย/vi คุ้น/vi กับ/prep เจ้าไมกี้/npn
+แต่/conj ไม่/neg นาน/vi ทั้ง/adj สอง/nnum ก็/conj สนิทสนม/vi กัน/prec มาก/adv
+ถึงขนาด/conj ไม่/neg ยอม/vt แยก/vt จาก/prep กัน/prec เลย/part
+ทุก/adj คน/cl ต่าง/adj สงสัย/vt ว่า/conjncl ทำไม/pint จึง/conj เป็น/vcs เช่น/conjncl นั้น/det
+ลี/npn น่า/prev ดีใจ/vi ที่/prep ไมกี้มี/ncn เพื่อน/ncn
+แต่/conj พอ/prev ใกล้/vi ถึง/prep วัน/ncn ที่/prel คุณ/pper ลุง/ncn บาส/npn เตียน/vi กับ/prep เจ้า/ncn โต/adj โต้/vi จะ/prev ต้อง/prev กลับ/vi บ้าน/ncn
+ทุก/adj คน/cl ก็/conj เป็น/vcs ห่วง/vt ว่า/conjncl พวก/nct มัน/pper จะ/prev อยู่/vi อย่างไร/pint ถ้า/conj ไม่/neg มี/vt อีก/adv ฝ่าย/ncn หนึ่ง/adj
+หลัง/conj รับประทาน/vt อาหาร/ncn เย็น/adj ใน/prep คืน/ncn สุดท้าย/adj ก่อน/conj จะ/prev กลับ/vi
+คุณ/ntit ลุง/ncn ก็/conj พูด/vt ขึ้น/vpost ว่า/conjncl
+"/punc ลี/npn น่า/adv หลาน/ncn จะ/prev ว่า/conjncl อะไร/pint ไหม/pint ถ้า/conj ลุง/ncn จะ/prev ขอ/vt เจ้า/ncn ไมกี้ไป/adv อยู่/vpost ด้วย/prep ลุง/ncn อยาก/vt ให้/conjncl มัน/pper ไป/vpost ช่วย/vt เจ้า/ncn โต/vi โต้/vi ลาก/vt เลื่อน/vt "/punc
+ลี/npn น่า/prev ได้ยิน/vt ก็/conj ตกใจ/vi
+เธอ/pper ไม่/neg เคย/prev คิด/vt มา/vpost ก่อน/adv ว่า/conjncl จะ/prev ต้อง/prev แยก/vt กับ/prep เจ้าไมกี้/npn
+"/punc ที่/prel นั่น/pdem อากาศ/ncn หนาว/adj มาก/adv ไมกี้จะ/vi ทน/vt ได้/vpost หรือ/conj คะ/vt "/punc
+เธอ/pper หาเหตุ/vi ผล/ncn มา/vpost อ้าง/vt
+"/punc เจ้า/ntit ไมกี้ไม่/npn เหมือน/vcs ม้า/ncn ทั่วไป/adj มัน/pper มี/vt ขน/ncn ที่/prel หนา/vi กว่า/prep ม้า/ncn อื่นๆ/indet แล้ว/vpost ก็/conj แข็งแรง/vi มาก/adv มัน/pper อยู่/vi ที่/prep นั่น/det ได้/vpost อย่าง/advm1 สบาย/adv แน่/adv ๆ/punc หลาน/ncn ไม่/neg ต้อง/prev เป็น/vcs ห่วง/ncn "/punc
+คุณ/ntit ลุง/ncn ว่า/conjncl
+และ/conj ก่อน/adv ที่/prel ลี/npn น่า/prev จะ/prev พูด/vt อะไร/indet อีก/adv
+คุณ/ntit ลุง/ncn ก็/conj พูด/vt ต่อว่า/vi
+"/punc ลุง/ncn รู้/vt ว่า/conjncl หลาน/ncn รัก/vt มัน/pper มาก/adv ลี/npn น่า/adv ลุง/ncn สัญญา/ncn ว่า/conjncl จะ/prev ดูแล/vt มัน/pper อย่าง/advm1 ดี/adv ที่สุด/adv และ/conj ถ้า/conj หลาน/ncn คิดถึง/vt มัน/pper ก็/conj ไป/vi หา/vt ได้/vpost ตลอด/adv เวลา/ncn เลย/part "/punc
+ลี/npn น่า/prev รู้/vt ดี/adv ว่า/conjncl เจ้า/ntit ไมกี้จะ/npn ต้อง/prev มี/vt ความ/pref1 สุข/vi ถ้า/conj ไป/vi อยู่/vpost กับ/prep คุณ/ntit ลุง/ncn และ/conj เพื่อน/ncn รัก/vt ของ/prep มัน/pper
+เธอ/pper รู้/vt ว่า/conjncl คุณ/ntit ลุง/ncn จะ/prev ดูแล/vt มัน/pper เป็น/advm2 อย่าง/advm1 ดี/adv
+ใน/prep ที่สุด/adv เธอ/pper ก็/conj ตัดสินใจ/vi
+"/punc ตกลง/vi ค่ะ/aff หนู/pper จะ/prev ให้/vt มัน/pper ไป/vpost อยู่/vpost กับ/prep คุณ/ntit ลุง/ncn มัน/pper คง/prev มี/vt ความ/pref1 สุข/vi ที่/prel ได้/prev มี/vt เพื่อน/ncn "/punc
+วัน/ncn รุ่ง/vi ขึ้น/vpost
+ก่อน/conj ออก/vi เดินทาง/vi
+ลี/npn น่า/prev กอด/vt เจ้า/ntit ไมกี้อย่าง/npn อาลัยอาวรณ์/npn
+ลูบ/vt ขน/ncn หนา/vi ๆ/punc
+ของ/prep มัน/pper เบา/adv ๆ/punc
+แล้ว/conj คุณ/pper ลุง/ncn บาส/npn เตียน/npn ก็/conj พา/vt มัน/pper ขึ้น/vpost รถ/ncn จาก/prep ไป/vpost
+เมื่อ/conj ถึง/prep ฤดู/ncn หนาว/adj
+ลุง/ncn บาส/npn เตียน/npn ก็/conj ให้/vcau เจ้า/ntit ไมกี้ออก/npn ไป/vpost ทำ/vt งาน/ncn
+โดย/conj ให้/conjncl มัน/pper กับ/prep เจ้า/ncn โต/adj โต้/vi ช่วย/vt กัน/prec ลาก/vt เลื่อน/vt ออก/vpost ไป/vpost ช่วย/vt ผู้/pref2 บาดเจ็บ/vi บน/prep ภูเขา/ncn ที่/prel ปกคลุม/vi ด้วย/prep หิมะ/ncn
+ไม่/neg นาน/adv เพื่อน/ncn รัก/vt ทั้ง/conjc สอง/nnum ก็/conj เป็น/vcs ที่/prel รู้จัก/vt และ/conj กลาย/vt เป็น/advm2 ขวัญใจ/ncn ของ/prep หมู่/nct บ้าน/ncn
+ใคร/pind ที่/prel ไป/vpost เที่ยว/vi ที่/prel นั่น/det ก็/conj มัก/prev จะ/prev ถ่ายรูป/vt กับ/prep พวก/nct มัน/pper ไว้/vpost เป็น/advm2 ที่/prel ระลึก/vi
+พอ/conj ถึง/prep ตอน/ncn ปิด/vt เทอม/ncn
+ลี/npn น่า/adv ไป/vpost เยี่ยมไมกี้/adv
+เธอ/pper ดีใจ/vi มาก/adv ที่/prel เห็น/vt มัน/pper มี/vt ความ/pref1 สุข/vi

@@ -1,0 +1,116 @@
+คน/ncn ตัด/vt ไม้/ncn ผู้/pref2 ซื่อสัตย์/vi
+ระหว่าง/prep ที่/prel คน/ncn ตัด/vt ไม้/ncn กำลัง/prev ตั้งอกตั้งใจ/vi ตัด/vt ต้นไม้/ncn ใหญ่/adj ต้น/ncn หนึ่ง/adj อยู่/vpost
+ขวาน/ncn ของ/prep เขา/pper ก็/conj หลุด/vi จาก/prep มือ/ncn
+หล่น/vi ตูม/vi ลง/vpost ไป/vpost ใน/prep แม่น้ำ/ncn ใกล้/adv ๆ/punc
+ก่อน/conj จะ/prev ถูก/psm พัด/vi ไป/vpost ตาม/prep กระแสน้ำ/ncn ที่/prel ไหล/vi แรง/adv
+"/punc โอ/npn ไม่/neg นะ/part !/punc "/punc
+คน/ncn ตัด/vt ไม้/ncn ร้อง/vi
+เขา/pper คุกเข่า/vi ลง/vpost แล้ว/vpost ยื่นมือ/vi ลง/vpost ไป/vpost ใน/prep น้ำ/ncn
+แต่/conj กระแสน้ำ/ncn ที่/prel ไหล/vi แรง/adv เกือบ/adv จะ/prev พัด/vi เขา/pper ให้/conjncl หล่น/vi ลง/vpost ไป/vpost ด้วย/adv
+ขวาน/ncn ของ/prep เขา/pper ลอย/vi ห่าง/vi ไป/vpost ไกล/adv
+"/punc ข้า/pper มี/vt ขวาน/ncn อยู่/vpost แค่/adv ด้าม/ncn เดียว/adj "/punc
+เขา/pper คร่ำครวญ/vt
+"/punc ทีนี้/conj ข้า/pper จะ/prev ใช้/vt อะไร/indet ตัด/vt ไม้/ncn ล่ะ/part ถ้า/conj ข้า/pper ตัด/vt ไม้/ncn ไม่/neg ได้/vpost ข้า/pper ก็/conj หาเงิน/vi ไม่/neg ได้/vpost แล้ว/vpost ข้า/pper จะ/prev เลี้ยงดู/vt ครอบครัว/ncn ได้/vpost อย่างไร/pint กัน/prec "/punc
+เขา/pper รู้สึก/vi สิ้น/vi หวัง/vi จน/conj ทรุด/vi ตัว/ncn ลง/vpost นั่ง/vi เอา/vt มือ/ncn ปิด/vt หน้า/ncn แล้ว/vpost ร้องไห้/vi ออก/vpost มา/vpost
+เวลา/ncn ผ่าน/vt ไป/vpost ไม่/neg นาน/adv
+คน/ncn ตัด/vt ไม้/ncn ได้ยิน/vt เสียง/ncn ที่/prel อ่อนโยน/vi พูด/vt ขึ้น/vpost ว่า/conjncl
+"/punc ขอโทษ/vt นะ/part "/punc
+เขา/pper เงย/vt หน้า/ncn ขึ้น/vpost ก็/conj เห็น/vt
+เทพเจ้า/ntit เฮอร์มีส/npn ยืน/vi อยู่/vpost ตรง/prep หน้า/ncn
+คน/ncn ตัด/vt ไม้/ncn ผู้/pref2 น่า/prev สงสาร/vt ไม่/neg เคย/prev เห็น/vt เทพเจ้า/ncn มา/vpost ก่อน/adv
+เขา/pper จ้อง/vt เทพเจ้า/ncn เฮอร์มีส/npn ด้วย/prep ความ/pref1 ประหลาด/vi ใจ/ncn ยิ่ง/adv นัก/part
+"/punc เจ้า/pper ร้องไห้/vi ทำไม/pint หรือ/pint "/punc
+เทพเจ้า/ntit เฮอร์มีส/npn ถาม/vt ด้วย/prep ความ/pref1 เมตตา/vt
+"/punc ข้า/pper ทำ/vt ขวาน/ncn หล่น/vi ลง/vpost ไป/vpost ใน/prep แม่น้ำ/ncn โดย/conj ไม่/neg ได้/prev ตั้งใจ/vi "/punc
+คน/ncn ตัด/vt ไม้/ncn เล่า/vt ให้/conjncl ฟัง/vt อย่าง/advm1 เศร้า/vt ๆ/punc
+"/punc ไม่/neg มี/vt ขวาน/ncn ข้า/pper ก็/conj ตัด/vt ต้นไม้/ncn ไม่/neg ได้/vpost แล้ว/vpost ถ้า/conj ข้า/pper ตัด/vt ต้นไม้/ncn ไม่/neg ได้/vpost ข้า/pper ก็/conj หาเงิน/vi มา/vpost ซื้อ/vt อาหาร/ncn ไม่/neg ได้/vpost แล้ว/vpost ลูก/ncn ของ/prep ข้า/pper ก็/conj จะ/prev อด/vt ตาย/vi "/punc
+"/punc บางที/conj ข้า/pper อาจ/prev จะ/prev ช่วย/vt เจ้า/ncn ได้/vpost "/punc
+เทพเจ้า/ntit เฮอร์มีส/npn พูด/vt
+แล้ว/conj พระองค์/pper ก็/conj ดำ/vt ลง/vpost ไป/vpost ใน/prep แม่น้ำ/ncn
+ชั่ว/vi ครู่/adv ต่อ/adv มา/vpost
+พระองค์/pper ก็/conj โผล่/vi ขึ้น/vpost มา/vpost ห่าง/vi จาก/prep จุด/ncn เดิม/adj เพียง/adv เล็กน้อย/adv
+ใน/prep มือ/ncn มี/vt ขวาน/ncn ทองคำ/ncn ขนาด/ncn ใหญ่/adj งดงาม/vi ด้าม/ncn หนึ่ง/adj
+"/punc ด้าม/ncn นี้/det ใช่/vt ของ/prep เจ้า/pper หรือ/conj ไม่/neg "/punc
+เทพเจ้า/ntit เฮอร์มีส/npn ร้อง/vi ถาม/vt
+"/punc ไม่/neg ใช่/vt ขอรับ/ncn "/punc
+คน/ncn ตัด/vt ต้นไม้/ncn ตอบ/vt
+"/punc ขวาน/ncn ของ/prep ข้า/pper ไม่/neg ได้/prev สวย/vi ขนาด/ncn นี้/det เลย/part "/punc
+เทพเจ้า/ncn เฮอร์มีสหาย/vi ไป/vpost ใต้/prep น้ำ/ncn อีก/adj ครั้ง/cl
+ก่อน/conj จะ/prev นำ/vt ขวาน/ncn เงิน/ncn ที่/prel แกะ/vt สลัก/vt อย่าง/advm1 งดงาม/adv ขึ้น/vpost มา/vpost อีก/adv ด้าน/ncn หนึ่ง/adj
+"/punc แล้ว/conj ด้าม/ncn นี้/det ล่ะ/part "/punc
+พระองค์/pper ถาม/vt
+คน/ncn ตัด/vt ไม้/ncn สั่น/vt ศีรษะ/ncn
+"/punc ด้าม/ncn นั้น/det ก็/conj ไม่/neg ใช่/vt ของ/prep ข้า/pper อีก/adv เช่น/conjncl กัน/prec "/punc
+เขา/pper พูด/vt
+"/punc ขวาน/ncn ของ/prep ข้า/pper ทำ/vt มา/vpost จาก/prep เหล็ก/ncn กับ/prep ไม้/ncn แค่/adv นั้น/det เอง/prfx "/punc
+เทพเจ้า/ncn เฮอร์มีสหาย/vi ไป/vpost อีก/adv ครั้ง/cl
+คราว/ncn นี้/det พระองค์/pper กลับ/vi ขึ้น/vpost มา/vpost พร้อม/vi กับ/prep ขวาน/ncn ของ/prep คน/ncn ตัด/vt ไม้/ncn ใน/prep มือ/ncn
+"/punc ด้าม/ncn นี้/det แหละ/part ขอรับ/aff !/punc "/punc
+คน/ncn ตัด/vt ไม้/ncn ร้อง/vi พร้อม/vi กับ/prep กระโดด/vi ด้วย/prep ความ/pref1 ดีใจ/vi
+เทพเจ้า/ntit เฮอร์มีส/npn ปีน/npn ขึ้น/vpost มา/vpost จาก/prep แม่น้ำ/ncn แล้ว/vpost ยื่น/vt ขวาน/ncn คืนให้/vcau คน/ncn ตัด/vt ไม้/ncn
+"/punc ขอบคุณ/vt ขอรับ/ncn "/punc
+คน/ncn ตัด/vt ไม้/ncn ยิ้มแป้น/adv
+"/punc มัน/pper อาจ/prev ไม่/neg ได้/prev ทำ/vt จาก/prep ทอง/ncn หรือ/conj เงิน/ncn แต่/conj สำหรับ/conj ข้า/pper แล้ว/conj มัน/pper มี/vt ค่า/ncn มาก/adv กว่า/prep ทรัพย์/ncn ใดๆ/indet ใน/prep โลก/ncn เสีย/adj อีก/adv "/punc
+เทพเจ้า/ntit เฮอร์มีส/npn ยิ้ม/vi
+"/punc เพื่อ/conj เป็น/vcs รางวัล/ncn ตอบแทน/vt ความ/pref1 ซื่อสัตย์/vi ของ/prep เจ้า/ncn "/punc
+พระองค์/pper พูด/vt
+"/punc นอกจาก/conj ขวาน/vt ด้าม/ncn นี้/det แล้ว/vpost ข้า/pper จะ/prev ยก/vt ขวาน/ncn ทอง/ncn และ/conj ขวาน/vt เงิน/ncn ให้/conjncl เจ้า/ntit ด้วย/adv "/punc
+คน/ncn ตัด/vt ไม้/ncn แทบ/prev ไม่/neg เชื่อ/vt ใน/prep ความ/pref1 โชค/ncn ดี/vi ของ/prep ตน/pper เอง/prfx
+"/punc ขอบคุณ/vt เป็น/advm2 ล้าน/nnum ๆ/punc ครั้ง/cl เลย/part ขอรับ/aff "/punc
+เขา/pper ร้อง/vi
+แล้ว/conj วิ่ง/vi กลับ/vi ไป/vpost เล่า/vt สิ่ง/ncn ที่/prel เกิด/vt ขึ้น/vpost ให้/conjncl ครอบครัว/ncn ฟัง/vt
+ระหว่าง/prep ทาง/ncn กลับ/vi บ้าน/ncn
+เขา/pper ชน/vt กับ/prep คน/ncn ตัด/vt ไม้/ncn อีก/adj คน/cl หนึ่ง/adj
+เพราะ/conj ความ/pref1 ตื่นเต้น/vi
+คน/ncn ตัด/vt ไม้/ncn เล่า/vt เรื่อง/ncn ความ/pref1 โชค/ncn ดี/vi ของ/prep เขา/pper ให้/conjncl ชาย/ncn ผู้/pref2 นั้น/det ฟัง/vt จน/conj หมด/adv
+หลังจาก/conj พวก/nct เขา/pper แยกย้าย/vi กัน/prec
+คน/ncn ตัด/vt ไม้/ncn อีก/adj คน/cl ก็/conj คิด/vt ใน/prep ใจ/ncn ว่า/conjncl
+"/punc บางที/conj ข้า/pper อาจ/prev จะ/prev ได้/prev ขวาน/vt ทองคำ/ncn และ/conj ขวาน/ncn เงิน/ncn โดย/conj ไม่/neg ต้อง/prev ลงแรง/vi อะไร/pint เลย/part ก็ได้/part "/punc
+เขา/pper เดิน/vi ไป/vpost ที่/prel ริม/prep ฝั่ง/ncn แม่น้ำ/ncn เพื่อ/conj จะ/prev ลอง/vt เสี่ยง/vt โชค/ncn
+ไม่/neg มี/vt เงา/ncn ของ/prep เทพเจ้า/ncn เฮอร์มีส/npn หรือ/conj ใคร/pind อื่น/indet
+เขา/pper จึง/conj ตัดสินใจ/vi โยน/vt ขวาน/ncn ลง/vpost ไป/vpost ใน/prep แม่น้ำ/ncn
+แล้ว/conj รอ/vt เทพเจ้า/ncn ปรากฏ/vi ตัว/ncn ขึ้น/vpost
+ไม่/neg มี/vt ใคร/pind มา/vpost เลย/part
+"/punc บางที/conj เทพเจ้า/pper อาจ/prev จะ/prev มา/vi ถ้า/conj ข้า/pper ร้องไห้/vi "/punc
+คน/ncn ตัด/vt ไม้/ncn คิด/vt
+เขา/pper ก็/conj เลย/vi ร้องไห้/vi เสียง/ncn ดัง/adj ที่สุด/adj เท่า/cl ที่/prel จะ/prev ทำได้/vi
+เทพเจ้า/ntit เฮอร์มีส/npn ปรากฏ/vi ตัว/ncn ขึ้น/vpost ตรง/prep หน้า/ncn เขา/pper
+ทำให้/vcau เขา/pper ดีใจ/vi เป็น/advm2 ที่สุด/adv
+คน/ncn ตัด/vt ไม้/ncn แอบ/vt ดู/vt เทพเจ้า/ncn จาก/prep ช่อง/ncn ว่าง/adj ระหว่าง/prep นิ้ว/ncn มือ/ncn
+"/punc เกิด/vt อะไร/pint ขึ้น/vpost หรือ/pint "/punc
+เทพเจ้า/ntit เฮอร์มีส/npn ถาม/vt ด้วย/prep ความ/pref1 เมตตา/vt
+"/punc ข้า/pper ทำ/vt ขวาน/ncn หล่น/vi ลง/vpost ไป/vpost ใน/prep แม่น้ำ/ncn "/punc
+คน/ncn ตัด/vt ไม้/ncn ร้องไห้/vi เหมือน/vcs เด็ก/ncn ๆ/punc
+"/punc ท่าน/pper ช่วย/vt ข้า/pper งม/adv ขวาน/adv ขึ้น/vpost มา/vpost ได้/vpost ไหม/pint "/punc
+"/punc ได้/vt สิ/part "/punc
+เทพเจ้า/ntit เฮอร์มีสต/npn อบ/vt
+แล้ว/conj พระองค์/pper ก็/conj ดำ/vt ลง/vpost ไป/vpost ใน/prep น้ำ/ncn
+คน/ncn ตัด/vt ไม้/ncn ถู/ncn มือ/ncn อย่าง/advm1 ตื่นเต้น/vi ดีใจ/vi
+"/punc รวย/vi แล้ว/vpost เรา/pper !/punc "/punc
+เขา/pper พึมพำ/vi
+ครู่/adv ต่อ/adv มา/vpost
+เทพเจ้า/ntit เฮอร์มีส/npn โผล่/vi ขึ้น/vpost มา/vpost ห่าง/vi จาก/prep จุด/ncn เดิม/adj ไป/vpost เล็กน้อย/adv
+ถือ/vt ขวาน/ncn ทองคำ/ncn ด้าม/ncn งาม/vi ขึ้น/vpost มา/vpost
+"/punc ด้าม/ncn นี้/det ใช่/vt หรือ/conj ไม่/neg "/punc
+พระองค์/pper ร้อง/vi ถาม/vt
+"/punc ใช่/vt แล้ว/vpost ขอรับ/adv "/punc
+คน/ncn ตัด/vt ไม้/ncn ร้อง/vi
+"/punc ด้าม/ncn นั้น/det แหละ/part ของ/prep ข้า/pper "/punc
+เทพเจ้า/ntit เฮอร์มีส/npn เดิน/vi ลุย/vi น้ำ/ncn ไป/vpost ที่/prel ริม/prep ฝั่ง/ncn แล้ว/vpost ปีน/npn ขึ้น/vpost มา/vpost
+"/punc เจ้า/pper แน่ใจ/vi หรือ/pint "/punc
+พระองค์/pper ถาม/vt ซ้ำ/adv
+นำ/vt ขวาน/ncn เข้าไป/adj ใกล้/prep คน/ncn ตัด/vt ไม้/ncn เพื่อ/conj ที่/prel เขา/pper จะ/prev ได้/prev เห็น/vt ชัดเจน/adv ยิ่ง/adv ขึ้น/vpost
+นัยน์ตา/vi ของ/prep คน/ncn ตัด/vt ไม้เป็น/ncn ประกาย/ncn เมื่อ/conj เห็น/vt ทองคำ/ncn มี/vt ค่า/ncn
+"/punc ใช่/vt แล้ว/vpost ใช่/vt แล้ว/vpost ท่าน/pper "/punc
+เขา/pper พูด/vt อย่าง/advm1 กระตือรือร้น/vi
+"/punc ของ/prep ข้า/pper แน่/adv ๆ/punc "/punc
+เขา/pper เอื้อม/vi มือ/ncn ออก/vpost ไป/vpost รับ/vt ขวาน/ncn
+เทพเจ้า/ntit เฮอร์มีส/npn ก้าว/vi ถอยหลัง/vi แล้ว/vpost ขมวด/adv คิ้ว/cl
+"/punc เจ้า/pper โง่/vi !/punc "/punc
+พระองค์/pper พูด/vt
+"/punc ด้วย/prep ความ/pref1 โลภ/vt มาก/adv ของ/prep เจ้า/ntit เจ้า/ntit ไม่/neg เพียง/adv แต่/conj เสีย/vt ขวาน/ncn ของ/prep เจ้า/pper เอง/prfx แต่/conj เจ้า/pper ยัง/prev เสีย/vt ขวาน/ncn ด้าม/ncn นี้/det ด้วย/adv "/punc
+พูด/vt จบ/vi
+เทพเจ้า/ntit เฮอร์มีส/npn ก็/conj โยน/vt ขวาน/ncn ไป/vpost ด้าน/ncn หลัง/adv อย่าง/advm1 ไม่/neg ใส่ใจ/vt
+แล้ว/conj เดิน/vi หาย/vi ไป/vpost ใน/prep หมู่/nct ต้นไม้/ncn
+คน/ncn ตัด/vt ไม้/ncn คอตก/adj เมื่อ/prep เขามอง/ncn ขวาน/ncn ทองคำ/ncn เป็น/vcs ประกาย/ncn อยู่/vpost ใน/prep อากาศ/ncn หล่น/vi ตูม/vi ลง/vpost ไป/vpost ใน/prep น้ำ/ncn แล้ว/vpost กลืน/vt หาย/vi ไป/vpost ใน/prep ฟอง/ncn คลื่น/ncn
+เขา/pper ไม่/neg เคย/prev ได้/prev เห็น/vt ขวาน/ncn นั้น/det อีก/adv เลย/part

@@ -1,0 +1,62 @@
+แมลง/ncn หวี่/npn น้อย/vi ผู้/ncn ยิ่ง/adv ใหญ่/adv
+ครั้ง/ncn หนึ่ง/adj ยัง/prev มี/vt แมลง/ncn หวี่/ncn ตัว/ncn น้อย/vi อาศัย/vi อยู่/vpost กับ/prep พ่อ/ncn
+และ/conj แม่/ncn อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+ทุกๆ/adj เช้า/ncn มัน/pper จะ/prev ปล่อยตัว/vi ให้/conjncl ลอย/vi ตาม/prep กระแสลม/ncn ไป/vpost เยี่ยมเยียน/vt ดอกไม้/ncn และ/conj ต้นไม้/ncn
+พ่อ/ncn แม่/ncn ของ/prep มัน/pper ภูมิใจ/vi ใน/prep ตัว/ncn ลูก/ncn ของ/prep มัน/pper มาก/adv
+แม่/ncn ชอบ/vt พูด/vt ย้ำ/vt เสมอ/adv ว่า/conjncl ลูก/ncn ของ/prep ตน/pper จะ/prev ต้อง/prev ทำ/vt สิ่ง/ncn ที่/prel ยิ่ง/adv ใหญ่/vi ใน/prep อนาคต/ncn
+พวก/nct แมลง/ncn แถว/ncn นั้น/det พา/vt กัน/prec หัวเราะ/vt อยู่/vpost ใน/prep ใจ/ncn คุย/vi กัน/prec ว่า/conjncl
+แมลง/ncn หวี่/npn ตัว/ncn น้อย/adj เท่า/cl นี้/det จะ/prev ทำ/vt อะไร/indet ที่/prel ยิ่ง/prev ใหญ่/vi ได้/vpost
+เช้า/ncn วัน/ncn หนึ่ง/adj
+ขณะ/ncn ที่/prel แมลง/ncn หวี่/npn น้อย/vi ปล่อยตัว/vi ให้/conjncl ลื่น/vi ไหล/vi ไป/vpost ตาม/prep ลำ/ncn แสง/ncn ของ/prep ดวง/ncn อาทิตย์/npn
+สาย/ncn ลม/ncn ก็/conj พัด/vi ตัว/ncn มัน/pper ไป/vpost ติด/vt กับ/prep ใย/ncn แมงมุม/ncn
+มัน/pper พยายาม/vi ดิ้น/vi ให้/conjncl หลุด/vi
+แต่/conj ก็/conj ไม่/neg สำเร็จ/vi
+ขณะ/ncn ที่/prel ถูก/psm แขวน/vt อยู่/vpost กับ/prep ใย/ncn สี/ncn เงิน/ncn
+แมลง/ncn หวี่/conj ผู้/pref2 เคราะห์/ncn ร้าย/adj คิดถึง/vt พ่อ/ncn กับ/prep แม่/ncn มาก/adv กว่า/prep ความ/pref1 ปลอดภัย/vi ของ/prep ตัว/ncn เอง/prfx
+พ่อ/ncn กับ/prep แม่/ncn คง/prev เสียใจ/vi มาก/adv ถ้า/conj ไม่/neg ได้/prev เห็น/vt ลูก/ncn รัก/vt กลับ/vi บ้าน/ncn
+เจ้า/ntit แมงมุม/ncn เดิน/vi มา/vpost แล้ว/vpost
+แมลง/ncn หวี่/npn น้อย/vi ร้องไห้/vi ด้วย/prep ความ/pref1 กลัว/vt
+"/punc แมงมุม/ncn จ๋า/ncn กรุณา/vt เถิด/part ถ้า/conj ฉัน/pper ไม่/neg กลับ/vi ไป/vpost พ่อ/ncn กับ/prep แม่/ncn ของ/prep ฉัน/pper ต้อง/prev เสียใจ/vi มาก/adv แน่/adv ๆ/punc "/punc
+เจ้า/ntit แมงมุม/ncn ได้/prev ฟัง/vt ก็/conj รู้สึก/vi สงสาร/vt
+จึง/conj ปล่อย/vt นักโทษ/vi ของ/prep มัน/pper ไป/vpost แมลง/ncn หวี่/npn บิน/vi ไป/vpost พร้อม/vi กับ/prep ร้องขอบ/ncn คุณ/pper
+สอง/nnum สาม/nnum วัน/cl ต่อ/prep มา/vpost
+ขณะ/ncn ที่/prel แมงมุม/ncn กำลัง/prev ห้อย/vt ตัว/ncn เล่น/vt อย่าง/advm1 สบาย/adv อารมณ์/ncn
+นก/ncn นางแอ่น/ncn ตัว/ncn หนึ่ง/adj ก็/conj บิน/vi มา/vpost คาบ/vt มัน/pper ขึ้น/vpost ไป/vpost ใน/prep อากาศ/ncn อย่าง/advm1 รวดเร็ว/adv
+"/punc กรุณา/vt ฉัน/pper เถิด/part คุณ/pper นก/ncn นางแอ่น/npn "/punc
+แมงมุม/ncn ร้อง/vi ครวญ/vt
+"/punc โปรด/vi เมตตา/vt แมงมุม/ncn ผอมโซ/npn เกิน/vi กว่า/adv จะ/prev เป็น/vcs อาหาร/ncn อัน/prel โอชะ/adj ของ/prep คุณ/pper เถิด/part "/punc
+"/punc แต่/conj ฉัน/pper ว่า/conjncl แมงมุม/ncn ผอม/adj ตัว/ncn เดียว/adj ใน/prep ปาก/ncn ยัง/prev ดี/vi กว่า/prep แมงมุม/ncn อ้วน/adj ๆ/punc สิบ/nnum ตัว/cl ใน/prep โพรง/ncn นะ/part "/punc
+นก/ncn นางแอ่น/vt ว่า/conjncl
+"/punc กรุณา/vt เถิด/part ปล่อย/vt ฉัน/pper ไป/vpost เหมือน/adv ที่/prel ฉัน/pper เคย/prev ปล่อย/vt แมลง/ncn หวี่/npn ที่/prel จับ/vt ได้/vpost เถิด/part "/punc
+แมงมุม/ncn ร้อง/vi วิงวอน/adv
+"/punc คุณ/pper นก/ncn ที่/prel สวย/vi งาม/vi บิน/vi เร็ว/adv ปาน/adv สาย/ncn ลม/ncn จะ/prev มี/vt น้ำใจ/ncn น้อย/vi กว่า/prep แมงมุม/ncn ตัว/ncn หนึ่ง/adj เชียว/vi หรือ/pint "/punc
+นก/ncn นางแอ่น/npn หยุด/vt คิด/vt นิดหนึ่ง/adv แล้ว/vpost
+ตอบ/vt ว่า/conjncl
+"/punc นก/ncn นางแอ่น/npn ต้อง/prev มี/vt น้ำใจ/ncn มาก/adv กว่า/prep แมงมุม/ncn อยู่/vi แล้ว/vpost ไป/vpost เถอะ/part ฉัน/pper จะ/prev ปล่อย/vt เจ้า/ncn ไป/vpost "/punc
+แมงมุม/ncn ไม่/neg อาจ/prev จะ/prev ขอบคุณ/vt ได้/vpost
+เพราะ/conj มัน/pper ร่วง/vi ละ/adj ลิ่ว/adv ลง/vpost มา/vpost จาก/prep ฟ้า/ncn
+หล่น/vi ลง/vpost บน/prep ต้น/ncn หญ้า/ncn นุ่ม/adj ๆ/punc
+มัน/pper นึก/vt ชื่นชม/vt ตัว/ncn เอง/prfx ที่/prel เคย/prev มี/vt เมตตา/vt ต่อ/prep แมลง/ncn หวี่/npn
+สอง/nnum สาม/nnum วัน/cl ต่อ/prep มา/vpost
+ขณะ/ncn ที่/prel นก/ncn นางแอ่น/npn กำลัง/prev ง่วน/vi อยู่/vpost กับ/prep การ/pref1 ทำ/vt รัง/ncn ใน/prep เสา/ncn ต้น/adj หนึ่ง/adj
+มัน/pper ก็/conj เห็น/vt เงา/ncn โฉบ/vi ลง/vpost มาบน/vt ศีรษะ/ncn อย่าง/advm1 รวดเร็ว/adv
+มัน/pper พยายาม/vi หนี/vt
+แต่/conj ก็/conj ถูก/psm จับ/vt ได้/vpost
+นก/ncn นางแอ่น/adj ที่/prel น่า/prev สงสาร/vt รู้สึก/vi ว่า/conjncl ได้/prev ถูก/psm กรงเล็บ/vt อัน/prel น่า/prev สะพรึงกลัว/vi ของ/prep นก/ncn อินทรี/npn ขยุ้ม/vi เอา/vt ไว้/vpost แล้ว/vpost
+ราชา/ncn แห่ง/prep นก/ncn ออก/vi บิน/vi มุ่ง/vi หน้า/ncn ไป/vpost ที่/prep รัง/ncn ของ/prep มัน/pper บน/prep ยอด/ncn เขา/pper
+มัน/pper ได้ยิน/vt เสียง/ncn เล็ก/adj ๆ/punc ที่/prel น่า/prev สงสาร/vt ดัง/conj ออก/vt มา/vpost จาก/prep กระจุก/nct ขน/ncn ใน/prep กรงเล็บ/ncn ว่า/conjncl
+"/punc โอ้/pper ท่าน/pper พญา/ncn อินทรี/npn ผู้ทรง/vt พลัง/ncn และ/conj งาม/vi สง่า/vi ใน/prep หมู่/nct มวล/ncn นก/ncn ทั้งหลาย/adj ท่าน/pper จะ/prev มี/vt น้ำใจ/ncn น้อย/vi กว่า/prep แมงมุม/ncn กระจ้อยร่อย/ncn หรือ/conj นก/ncn นางแอ่น/ncn ผู้/pref2 ยากไร้/vi ตัว/ncn หนึ่ง/adj เลย/part หรือ/conj "/punc
+"/punc ใคร/pind ว่า/conjncl ฉัน/pper ใจแคบ/vt กว่า/prep พวก/nct สัตว์/ncn ต่ำต้อย/vi พวก/nct นั้น/det "/punc
+นก/ncn อินทรี/npn ถาม/vt
+"/punc ฉัน/pper นี่แหละ/det "/punc
+นก/ncn นางแอ่น/npn ตอบ/vt
+"/punc แมงมุม/ncn ปล่อย/vt แมลง/ncn หวี่/npn ที่/prel ติด/vt ใย/ncn ของ/prep มัน/pper และ/conj ฉัน/pper ก็/conj ปล่อย/vt แมงมุม/ncn ที่/prel เป็น/vcs เหยื่อ/ncn ของ/prep ฉัน/pper ไป/vpost แล้ว/vpost "/punc
+เมื่อ/conj นก/ncn อินทรีย์/npn ได้/prev ฟัง/vt เรื่องราว/ncn เช่น/conjncl นั้น/det แล้ว/vpost
+มัน/pper ก็/conj ไม่/neg อยาก/prev ได้ชื่อ/vi ว่า/conjncl ใจแคบ/vt กว่า/prep สัตว์/ncn ที่/prel มี/vt ศักดิ์ศรี/ncn น้อย/vi กว่า/prep พวก/nct นั้น/det
+มัน/pper จึง/conj ปล่อย/vt นก/ncn นางแอ่น/adj เป็น/advm2 อิสระ/adv
+นก/ncn นางแอ่น/npn บิน/vi ไป/vpost ด้วย/prep ความ/pref1 ดีใจ/vi ที่/prel มัน/pper รับ/vt ฟัง/vt คำ/ncn วิงวอน/vi ของ/prep
+แมงมุม/ncn
+และ/conj ตั้งแต่/prep บัดนั้น/ncn เป็นต้น/part มา/vpost
+สัตว์/ncn ที่/prel มี/vt ปีก/ncn ทั้งหลาย/adj
+ตั้งแต่/prep แมลง/ncn ตัว/ncn จิ๋ว/npn ไป/vpost จนถึง/prep พญา/ncn อินทรี/npn ก็/conj อยู่/vi ร่วม/vt กัน/prec อย่าง/advm1 กลมเกลียว/adv
+เนื่องจาก/conj น้ำใจ/ncn แสน/nnum ประเสริฐ/adj ของ/prep แมลง/ncn หวี่/npn ตัว/ncn กระจิริด/npn นั่นเอง/part

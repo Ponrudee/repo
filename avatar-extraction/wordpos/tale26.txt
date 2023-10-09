@@ -1,0 +1,55 @@
+ใบไม้/ncn วิเศษ/adv
+ใน/prep ยุค/ncn กลาง/adj ของ/prep ยุโรป/npn
+มี/vt ปราสาท/ncn ใหญ่/adj ๆ/punc
+หลาย/adj หลัง/cl ล้อม/vt รอบ/ncn ด้วย/prep คู/ncn น้ำ/ncn
+อัศวิน/ncn ทั้งหลาย/adj จะ/prev ฝึก/vt ซ้อม/vt อาวุธ/ncn กัน/prec ใน/prep ปราสาท/ncn เหล่า/nct นี้/det
+และ/conj มี/vt เจ้านาย/ncn นั่ง/vi ดู/vt อยู่/vpost บน/prep หอคอย/ncn อย่าง/advm1 เพลิดเพลิน/vi
+มี/vt ทหาร/ncn ยาม/ncn คอย/vt เดิน/vi ตรวจตรา/npn โดย/advm3 รอบ/ncn
+เจ้าของ/ncn ปราสาท/ncn เหล่า/nct นี้/det ชอบ/vt ทำ/vt สงคราม/ncn กัน/prec
+ปราสาท/ncn แต่ละ/adj หลัง/adj จึง/conj ต้อง/prev คอย/vt ระวัง/vi ป้องกัน/vt ให้/conjncl ดี/vi
+หนู/pper น้อย/vi อัลเบิ/ncn ร์ต/ncn มีหน้า/ncn ที่/prel กวาด/vt ใบไม้/ncn ใน/prep ปราสาท/ncn แห่ง/cl หนึ่ง/adj
+แต่/conj เขา/pper อยาก/prev จะ/prev เล่น/vt สนุก/vi มาก/adv กว่า/adv
+บาง/adj ครั้ง/cl แทนที่จะ/conj ทำ/vt งาน/ncn
+เขา/pper จึง/conj ไป/vi วิ่ง/vi เล่น/vt อยู่/vpost ใน/prep ทุ่ง/ncn หญ้า/ncn
+ทุ่ง/ncn หญ้า/ncn นั้น/det สวย/vi งาม/vi มาก/adv
+ห่าง/vi ออก/vpost ไป/vpost เล็กน้อย/adv มี/vt ลำธาร/ncn น้ำ/ncn ใส/adj สาย/ncn หนึ่ง/adj ไหล/vi ผ่าน/vt
+อัลเบิ/ncn ร์ต/npn ไป/vpost ที่/prep นั่น/det บ่อยๆ/adv
+แม้/conj ว่า/conjncl จะ/prev ถูก/psm ดุ/vt
+แต่/conj เขา/pper ก็/conj ยัง/prev แอบ/vt ไป/vpost เที่ยว/vi เล่น/vt อยู่/vpost เสมอ/adv
+อัลเบิ/ncn ร์ต/npn ชอบ/vt ย่ำ/vt ลง/vpost บน/prep พรม/ncn ใบไม้/ncn สี/ncn ม่วง/adj ซึ่ง/prel ดับ/vt กรอบแกรบ/ncn อยู่/vpost ใต้เท้า/adv
+บน/prep เชิงเทิน/ncn ด้าน/ncn โน้น/det ทหาร/ncn ยาม/ncn หนาว/adj สั่น/vt เพราะ/conj ลม/ncn หนาว/adj ที่/prel เริ่ม/vi พัด/vi มา/vpost
+และ/conj บ่อย/adv ครั้ง/cl ที่/prel ยาม/ncn หลบ/vt เข้าไป/adv อยู่/vpost ใน/prep ป้อม/ncn แทนที่จะ/conj เดิน/vi ตรวจ/vt ภายนอก/ncn
+ไม่/neg มี/vt ใคร/pind จะ/prev คิด/vt ว่า/conjncl ปราสาท/ncn จะ/prev ถูก/psm โจมตี/vt
+เพราะ/conj เจ้านาย/ncn ไม่/neg มี/vt ศัตรู/ncn ที่ไหน/pint
+อัลเบิ/ncn ร์ต/npn มี/vt งาน/ncn ต้อง/prev ทำ/vt มากมาย/adv
+เพราะ/conj ใบไม้/ncn ร่วง/vi อยู่/vpost ตลอด/adv เวลา/ncn
+พอก/npn วาด/vt เสร็จ/adv ก็/conj ต้อง/prev ขน/vt ใส่/vt รถ/ncn เข็น/vt ไป/vpost เผา/vt นอก/prep ปราสาท/ncn
+"/punc ทำ/vt อย่างไร/pint ดี/adv หนอ/part "/punc
+เขา/pper พูด/vt กับ/prep ตน/pper เอง/prfx
+"/punc เรา/pper จะ/prev ทำ/vt อย่างไร/pint ให้/conjncl งาน/ncn นี้/det เสร็จ/vi ง่ายๆ/adv ถ้า/conj เอา/vt ไป/vpost เผา/vt อย่าง/advm1 เคย/vi ก็/conj ต้อง/prev เข็น/vt รถ/ncn จนถึง/prep ทุ่ง/ncn ไกล/adv ลิบ/adv จึง/conj จะ/prev เผา/vt ได้/vpost เพราะ/conj เจ้านาย/ncn ไม่/neg อยาก/vt ให้/conjncl มี/vt เปลว/ncn ไฟ/ncn อยู่/vpost ใกล้/adv ๆ/punc ปราสาท/ncn ฉัน/pper เหนื่อย/vi เหลือเกิน/adv ไม่/neg อยาก/prev ทำ/vt งาน/ncn นี้/det เลย/part จริงๆ/adv "/punc
+แต่/conj แล้ว/conj อัลเบิ/ncn ร์ต/npn ก็/conj คิด/vt ได้/vpost ว่า/conjncl
+"/punc ทิ้ง/vt ลง/vpost ลำธาร/ncn ดี/vi กว่า/adv ไม่/neg มี/vt ใคร/pind รู้/vt หรอก/part "/punc
+ดังนั้น/conj แทนที่จะ/conj เผา/vt ใบไม้/ncn
+อัลเบิ/ncn ร์ต/npn ก็/conj ทิ้ง/vt มัน/pper ลง/vpost ใน/prep ลำธาร/ncn
+ใบไม้/ncn ลอย/vi เกลื่อน/vi อยู่/vpost บน/prep ผิวน้ำ/ncn
+หลังจาก/conj นั้น/det
+อัลเบิ/ncn ร์ต/npn ก็/conj หา/vt ที่นั่ง/ncn ลง/vpost เพื่อ/conj งีบ/vt หลับ/vi และ/conj หลบ/vt ลม/ncn หนาว/adj
+ขณะ/ncn นั้น/det บน/prep หอคอย/ncn
+ทหาร/ncn ยาม/ncn ก็/conj กำลัง/prev นอน/vi หลับ/vi เพราะ/conj เหน็ดเหนื่อย/vi จาก/prep การ/pref1 เดิน/vi ตรวจตรา/vt เช่น/conjncl กัน/prec
+และ/conj เวลา/ncn เดียวกัน/adj นั้น/det เอง/prfx
+เจ้าของ/ncn ปราสาท/ncn อีก/adj หลัง/prep หนึ่งซึ่ง/npn เป็น/vcs คน/ncn โลภ/vt มาก/adv
+ก็/conj แอบ/vt นำ/vt ทหาร/ncn จำนวน/ncn หนึ่ง/adj บุก/vt เข้า/vi มา/vpost ใน/prep อาณาเขต/ncn ของ/prep ปราสาท/ncn นี้/det
+ทั้งหมด/adv หยุด/vi พัก/vi ที่/prel ริม/prep ลำธาร/ncn
+พวก/nct ทหาร/ncn ดื่ม/vt น้ำ/ncn ใน/prep ลำธาร/ncn ที่/prel
+อัลเบิ/ncn ร์ต/npn ทิ้ง/vt ใบไม้/ncn ลง/vpost ไป/vpost
+และ/conj แล้ว/conj เหตุการณ์/ncn ประหลาด/vi ก็/conj เกิด/vt ขึ้น/vpost
+เมื่อ/conj อยู่/vi ๆ/punc
+ทหาร/ncn ที่/prel เข้มแข็ง/vi ก็/conj กลับ/vi หมด/vt เรี่ยวแรง/ncn ไม่/neg ฮึกเหิม/vi เหมือน/adv เคย/prev
+แม้แต่/conj หัวหน้า/ncn เอง/prfx ก็/conj ไม่/neg อยาก/prev จะ/prev สู้/vi รบ/vi อีก/adv ต่อ/adv ไป/vpost
+ทั้งหมด/adv ทรุด/vi ตัว/ncn ลง/vpost นั่ง/vi และ/conj หลับ/vi ไป/vpost
+หลังจาก/conj นั้น/det ไม่/neg นาน/adv
+อัลเบิ/ncn ร์ต/npn ก็/conj ตื่น/vi ขึ้น/vpost
+เขา/pper วิ่ง/vi ไป/vpost ที่/prep ลำธาร/ncn เพื่อ/conj จะ/prev ดู/vt ว่า/conjncl ใบไม้/ncn ที่/prel ทิ้ง/vt ไป/vpost ถูก/psm สายน้ำ/ncn พัด/vi ไป/vpost หมด/adv หรือ/conj ยัง/prev
+แล้ว/conj เขา/pper ก็/conj ต้อง/prev ตกใจ/vi เมื่อ/conj พบ/vt ทหาร/ncn พวก/nct นั้น/det
+เขา/pper จึง/conj วิ่ง/vi กลับ/vi ไป/vpost ยัง/prep ปราสาท/ncn เพื่อ/conj บอก/vt ให้/conjncl ทหาร/ncn ยาม/ncn รู้ตัว/vt และ/conj ส่ง/vt สัญญาณ/ncn เตือน/vt ภัย/ncn
+เจ้าของ/ncn ปราสาท/ncn จึง/conj นำ/vt ทหาร/ncn ออก/vpost ไป/vpost จับ/vt ศัตรู/ncn ที่/prel กำลัง/prev หลับ/vi ใหลได้/vi อย่าง/advm1 ง่ายดาย/adv

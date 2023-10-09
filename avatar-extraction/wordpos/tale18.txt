@@ -1,0 +1,77 @@
+แมงมุม/ncn ใย/ncn ทอง/ncn
+แมงมุม/ncn ตัว/ncn หนึ่ง/adj กำลัง/prev ชัก/vt ใย/ncn อยู่/vpost บน/prep ต้นไม้/ncn ต้น/adj หนึ่ง/adj
+ถ้า/conj มอง/vt เผินๆ/indet
+ก็/conj เหมือนกับ/vcs แมงมุม/ncn ทั่วไป/adj
+แต่/conj ถ้า/conj เรา/pper ดู/vt ที่/prep ใย/ncn ของ/prep มัน/pper ก็/conj จะ/prev รู้ทัน/vi ที/part เลย/part ว่า/conjncl มัน/pper ไม่/neg ใช่/vt แมงมุม/ncn ธรรมดา/adj
+ทำไม/pint น่ะหรือ/ncn
+ก็/conj เพราะ/conj ใย/ncn ของ/prep มัน/pper เป็น/vcs
+"/punc ทองคำ/ncn "/punc
+น่ะสิ/part
+เจ้า/ntit แมงมุม/ncn ตัว/cl นี้/det มี/vt ความ/pref1 ภาคภูมิ/adv ใจ/ncn ใน/prep ใย/ncn ทองคำ/ncn ของ/prep มัน/pper มาก/adv
+มัน/pper มัก/prev จะ/prev พูด/vt โอ้อวด/ncn ใย/ncn ทองคำ/ncn ของ/prep มัน/pper กับ/prep แมลง/ncn ตัว/ncn อื่นๆ/indet
+เสมอ/adv
+ใน/prep บรรดา/nct แมลง/ncn ที่/prel อาศัย/vt อยู่/vpost ใน/prep ป่า/ncn
+มี/vt แมลง/ncn ทับ/vt ชรา/adv
+ซึ่ง/prel เป็น/vcs ที่/prel เคารพ/vt นับถือ/vt ของ/prep แมลง/ncn ทั้งหลาย/adj อยู่ตัว/ncn หนึ่ง/adj
+มัน/pper มัก/prev จะ/prev เตือน/vt เจ้า/ncn แมงมุม/ncn อยู่/vpost เสมอ/adv ว่า/conjncl ให้/vcau เลิก/vt นิสัย/ncn ขี้/npn คุย/vi
+และ/conj ไม่/neg ให้/vcau หลง/vi ตัว/ncn เอง/prfx
+แต่/conj เจ้า/ntit แมงมุม/ncn ไม่/neg เคย/prev เชื่อฟัง/vi
+แถม/conj ยัง/prev ย้อน/vt อีก/adv ว่า/conjncl
+"/punc อิจฉา/vi ฉัน/pper ล่ะ/part สิ/part ตา/ncn แก่/prep เห็น/vt ใย/ncn ของ/prep ฉัน/pper สวย/vi กว่า/prep ปีก/ncn เขียว/adj อี๋/adj ของ/prep แก/pper ก็/conj เลย/vi ทำเป็น/adv ว่า/conjncl ฉัน/pper รู้ทัน/vi หรอก/part น่า/adv "/punc
+ดังนั้น/conj แมลง/ncn ทับ/vt ชรา/npn จึง/conj ไม่/neg เตือน/vt อะไร/indet เจ้า/ntit แมงมุม/ncn อีก/adv เลย/part
+ข่าว/ncn เรื่อง/ncn ใย/ncn ทองคำ/ncn ของ/prep เจ้า/ntit แมงมุม/ncn แพร่/vt กระจาย/vi ไป/vpost ทั่ว/adv จนถึง/prep ใน/prep วัง/ncn
+องค์/ncn หญิง/ncn อยาก/vt ได้/vpost เจ้า/ncn แมงมุม/ncn ไป/vpost เป็น/advm2 ช่าง/ncn ทอ/vt ผ้า/ncn ประจำ/adj พระองค์/cl
+จึง/conj สั่ง/vt ให้/conjncl ทหาร/ncn ไป/vpost นำ/vt ตัว/ncn มัน/pper มา/vpost
+เจ้า/ntit แมงมุม/ncn ตื่นเต้น/vi มาก/adv ที่/prel จะ/prev ได้/prev เข้าไป/vi อยู่/vpost ใน/prep วัง/ncn
+มัน/pper รู้สึก/vi ราวกับ/adv เป็น/vcs บุคคล/ncn สำคัญ/adj เมื่อ/prep ทหาร/ncn มา/vpost โค้ง/vi คำนับ/vt เชิญ/vt
+แมลง/ncn ต่างๆ/adj
+พา/vt กัน/prec มอง/vt ด้วย/prep ความ/pref1 อิจฉา/vi
+มี/vt เพียง/adv แมลง/ncn ทับ/vt ชรา/adv เท่านั้น/adv ที่/prel มอง/vt อย่าง/advm1 เป็น/advm2 ห่วง/ncn
+"/punc เจ้า/pper แน่ใจ/vi หรือ/conj ว่า/conjncl อยาก/vt ไป/vpost อยู่/vpost ที่/prel นั่น/det จริงๆ/adv เจ้า/pper อาจ/prev จะ/prev มี/vt อาหาร/ncn กิน/vt มากมาย/adv อาจ/prev จะ/prev ได้/prev นอน/vi ที่นอน/vi นุ่ม/vi ๆ/punc แต่/conj เจ้า/pper จะ/prev ไม่/neg มี/vt อิสระ/adv อีก/adv ต่อ/adv ไป/vpost "/punc
+มัน/pper เตือน/vt เจ้า/ncn แมงมุม/ncn ด้วย/prep ความ/pref1 ห่วงใย/vt
+"/punc ใคร/pind เขา/pper สนใจ/vt เรื่อง/ncn อิสระ/adv อะไร/pint นั่น/det ล่ะ/part ตัว/ncn เอง/prfx ไม่/neg ได้/prev ไป/vi ก็/conj อิจฉา/vi ล่ะ/part สิ/part "/punc
+เจ้า/ntit แมงมุม/ncn ว่า/conjncl
+แล้ว/conj มัน/pper ก็/conj เดินทาง/vi เข้า/vi วังไปกับพวกทหาร/ncn
+เมื่อ/conj องค์/ncn หญิง/ncn เห็น/vt ใย/ncn ของ/prep เจ้า/ntit แมงมุม/ncn ก็/conj รู้สึก/vi ทึ่ง/vt มาก/adv
+"/punc งดงาม/vi อะไร/indet อย่าง/advm1 นี้/det เรา/pper ไม่/neg เคย/prev เห็น/vt เส้นใย/ncn อะไร/indet สวย/vi งาม/vi เช่น/conjncl นี้/det มา/vpost ก่อน/adv "/punc
+แล้ว/conj องค์/ncn หญิง/ncn ก็/conj สั่ง/vt ให้/conjncl เจ้า/ntit แมงมุม/ncn ทอ/vt เส้นใย/ncn ทองคำ/ncn ออก/vpost มา/vpost ให้/vpost มาก/adv ที่สุด/adv
+เพื่อ/conj จะ/prev ได้/prev นำ/vt ไป/vpost เย็บ/vt เป็น/advm2 ชุด/ncn สำหรับ/conj ใส่/vt ใน/prep งาน/ncn ต่างๆ/adj
+องค์/ncn หญิง/ncn จับ/vt มัน/pper ใส่/vt โหล/cl แก้ว/ncn และ/conj สั่ง/vt ให้/conjncl ทหาร/ncn เอา/vt แมลง/ncn อ้วน/adj ๆ/punc
+มา/vi ให้/conjncl กิน/vt
+พระองค์/pper กำชับ/vt ให้/conjncl ทุก/adj คน/cl ดูแล/vt เจ้า/ncn แมงมุม/ncn ให้/conjncl ดี/vi ไม่/neg ให้/conjncl หนี/vt ไป/vpost ไหน/pint
+วัน/ncn เวลา/ncn ผ่าน/vt ไป/vpost
+เจ้า/ntit แมงมุม/ncn ยัง/prev คง/prev ตั้งหน้าตั้งตา/vi ทอ/vt ใย/ncn ของ/prep มัน/pper อย่าง/advm1 ไม่/neg รู้จัก/vt เหน็ดเหนื่อย/vi
+จนกระทั่ง/conj วัน/ncn หนึ่ง/adj
+ขณะ/ncn ที่/prel กำลัง/prev ทำ/vt งาน/ncn อยู่/vpost อย่าง/advm1 ขะมักเขม้น/vi
+มัน/pper ก็/conj เห็น/vt แมลง/ncn ต่างๆ/adj
+ใน/prep สวน/ncn กำลัง/prev บิน/vi แล่น/vi อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+มัน/pper จึง/conj ขอ/vt อนุญาต/vt องค์/ncn หญิง/ncn เพื่อ/conj ออก/vi ไป/vpost เดิน/vi เล่น/vt ใน/prep สวน/ncn บ้าง/adv
+แต่/conj องค์/ncn หญิง/ncn ตอบ/vt ว่า/conjncl
+"/punc ไม่/neg ได้/vpost หรอก/part เจ้า/ntit แมงมุม/ncn น้อย/vi เจ้า/ncn มี/vt ค่า/ncn สำหรับ/prep เรา/pper มาก/adv เรา/pper ปล่อย/vt เจ้า/pper ออก/vpost ไป/vpost ไม่/neg ได้/vpost หรอก/part ถ้า/conj เจ้า/pper ไม่/neg กลับ/vi มา/vpost เรา/pper ก็/conj แย่/vi น่ะสิ/part "/punc
+"/punc หม่อมฉัน/npn ไม่/neg หนี/vt ไป/vpost ไหน/pint หรอก/part องค์/ncn หญิง/ncn แค่/adv ออก/vpost ไป/vpost เดิน/vi เล่น/vt เดี๋ยวเดียว/adv เอง/prfx "/punc
+เจ้า/ntit แมงมุม/ncn ว่า/conjncl
+"/punc ไม่/neg ใช่/vt ว่า/conjncl เรา/pper ไม่/neg เชื่อใจ/vt เจ้า/ncn หรอก/part นะ/part แต่/conj ถ้า/conj เกิด/vt เจ้า/ntit ถูก/psm นก/ncn จับ/vt ไป/vpost กิน/vt หรือ/conj เกิด/vt อะไร/indet ขึ้น/vpost กับ/prep เจ้า/pper ล่ะ/part เรา/pper ยอม/vt ไม่/neg ได้/vpost หรอก/part "/punc
+องค์/ncn หญิง/ncn ยืนกราน/vi
+ดังนั้น/conj เจ้า/ntit แมงมุม/ncn จึง/conj ต้อง/prev ใช้/vt ชีวิต/ncn อยู่/vpost ใน/prep โหล/cl แก้ว/ncn แคบ/adj ๆ/punc
+นั้น/det ต่อ/adv ไป/vpost
+มัน/pper เริ่ม/vi นึกถึง/vt คำ/ncn พูด/vt ของ/prep แมลง/ncn ทับ/vt ชรา/adv
+"/punc ถ้า/conj เรา/pper เชื่อ/vt คำ/ncn เตือน/vt ของ/prep แมลง/ncn ทับ/vt แต่/conj แรก/adj ก็/conj คง/prev ไม่/neg ต้อง/prev มาทน/vi อุดอู้/vt อยู่/vpost ใน/prep นี้/det หรอก/part "/punc
+เจ้า/ntit แมงมุม/ncn หมด/vi หวัง/vi ที่/prel จะ/prev ได้/prev ออก/vi ไป/vpost ใช้/vt ชีวิต/ncn ข้าง/cl นอก/adj
+มัน/pper คิด/vt ว่า/conjncl ตัว/ncn เอง/prfx คง/prev จะ/prev ต้องตา/vi ยอ/vt ยู่/ncn ใน/prep โหล/cl
+และ/conj ไม่/neg มี/vt วัน/ncn จะ/prev ได้/prev กลับ/vi ไป/vpost ที่/prep ป่า/ncn อีก/adv แล้ว/vpost
+แต่/conj วัน/ncn หนึ่ง/adj ก็/conj เกิด/vt เรื่อง/ncn ไม่/neg คาด/vi ฝัน/vi ขึ้น/vpost
+ขณะ/ncn ที่/prel ทหาร/ncn กำลัง/prev ถือ/vt โหล/cl แก้ว/ncn จะ/prev นำ/vt ไป/vpost ให้/prep องค์/ncn หญิง/ncn
+เขา/pper ก็/conj เกิด/vt สะดุด/vt หกล้ม/ncn และ/conj ทำ/vt โหล/cl แก้ว/ncn ตก/vi แตก/vi
+เจ้า/ntit แมงมุม/ncn ถูก/psm แรง/ncn กระแทก/vt งง/vi ไป/vpost ครู่/ncn หนึ่ง/adj
+แต่/conj พอ/prev รู้สึก/vi ตัว/ncn มัน/pper ก็/conj รีบ/vi หนี/vt ไป/vpost ทันที/adv
+มันดี/ncn ใจมาก/adj ที่/prel ได้/prev เป็น/vcs อิสระ/ncn อีก/adj ครั้ง/cl
+หลาย/adj วัน/cl ผ่าน/vt ไป/vpost
+ใน/prep ที่สุด/adv มัน/pper ก็/conj กลับ/vi ถึง/prep บ้าน/ncn
+เจ้า/ntit แมงมุม/ncn รีบ/vi ไป/vpost หา/vt แมลง/ncn ทับ/vt ชรา/adv
+มัน/pper เล่า/vt เรื่อง/ncn ทั้งหมด/adj ให้/conjncl ฟัง/vt และ/conj ขอโทษ/vi ที่/prel เคย/prev พูด/vt ไม่/neg ดี/vi กับ/prep แมลง/ncn ทับ/vt ชรา/adv
+มัน/pper สัญญา/vi ว่า/conjncl จะ/prev ปรับปรุง/vt ตัว/ncn
+และ/conj จะ/prev ไม่/neg เป็น/vcs เหมือน/adv เมื่อ/conj ก่อน/adv อีก/adv แล้ว/vpost
+แมลง/ncn ทับ/vt ชรา/npn ได้/prev ฟัง/vt ก็ดี/part ใจ/ncn และ/conj ยก/vt โทษ/ncn ให้/conjncl
+ตั้งแต่/prep นั้น/det เป็นต้น/part มา/vpost
+เจ้า/ntit แมงมุม/ncn ก็/conj ใช้/vt ชีวิต/ncn อย่าง/advm1 มี/vt ความ/pref1 สุข/vi ใน/prep ป่า/ncn อัน/prel อบอุ่น/vi กับ/prep เพื่อน/ncn ๆ/punc
+ของ/prep มัน/pper

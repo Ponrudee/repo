@@ -1,0 +1,147 @@
+พร/npn วิเศษ/vi จาก/prep นก/ncn น้อย/adv
+เช้า/ncn วัน/ncn หนึ่ง/adj หลังจาก/conj หิมะ/ncn ตกหนัก/vi มา/vpost ตลอด/adv ทั้ง/adv คืน/vt
+กา/vt มี/vt ย์รีบ/ncn ตื่น/vi มา/vpost เตรียมตัว/vi ออก/vpost ไป/vpost เล่น/vt กับ/prep เพื่อน/ncn ๆ/punc
+"/punc แม่/ncn จ๋า/adj !/punc หนู/ncn ออก/vi ไป/vpost เล่น/vt กับ/prep เพื่อน/ncn นะ/part "/punc
+เธอ/pper ตะโกน/vi บอก/vt แม่/ncn ก่อน/adj จะ/prev วิ่ง/vi ตื๋อ/npn ออก/vi ไป/vpost รวม/vt กับ/prep เด็ก/ncn อื่นๆ/indet
+ที่/prel กำลัง/prev เล่น/vt ปา/vt หิมะ/ncn กัน/prec อย่าง/advm1 สนุกสนาน/adv บน/prep ถนน/ncn
+ซึ่ง/prel ตอน/ncn นี้/det กลาย/vi เป็น/vcs สนาม/ncn เด็ก/ncn เล่น/vt ไป/vpost แล้ว/vpost
+"/punc กา/ncn มีย์/npn !/punc "/punc
+ใคร/pind คน/ncn หนึ่ง/adj ตะโกน/vi เรียก/vt
+พอ/conj เธอ/pper หัน/vt ไป/vpost ก็/conj ถูก/psm ปา/vt ด้วย/prep หิมะ/ncn ก้อน/cl เบ้อเริ่ม/adj
+จู/npn เลียน/vt เพื่อน/ncn ของ/prep เธอ/pper หัวเราะ/vt ชอบใจ/vt
+"/punc ฮ่า/npn ฮ่า/conj ฮ่า/npn โดน/psm เต็ม/vt หน้า/ncn เลย/part "/punc
+กา/vt มี/vt ย์รีบ/ncn โกย/vt หิมะ/ncn แล้ว/vpost ขว้าง/vt กลับ/vi ไป/vpost
+พวก/nct เด็ก/ncn ๆ/punc
+เล่น/vt ทำ/vt สงคราม/ncn หิมะ/ncn กัน/prec อย่าง/advm1 สนุกสนาน/adv
+แต่/conj ไม่/neg นาน/vi ก็/conj เริ่ม/vi รู้สึก/vi หนาว/adv
+ทั้งหมด/adv จึง/conj ตกลง/vi กัน/prec ว่า/conjncl จะ/prev ไป/vpost ผิง/vt ไฟ/ncn ที่/prel บ้าน/ncn ของ/prep จู/npn เลียน/vt
+ระหว่าง/prep ที่/prel กำลัง/prev เดิน/vi ไป/vpost ยัง/prep บ้าน/ncn ของ/prep จู/npn เลียน/vt
+กา/vt มี/vt ย์ก็ได้/ncn ยิน/ncn อะไร/indet บาง/adj อย่าง/cl จึง/conj หยุด/vt เดิน/vi
+"/punc หยุด/vi ทำไม/pint ล่ะ/part กา/vt มีย์/ncn รีบ/vi ไป/vpost เถอะ/part หนาว/adj จะ/prev แย่/vi อยู่/vpost แล้ว/vpost "/punc
+จู/npn เลียน/vt บอก/vt
+"/punc ฉัน/pper ได้ยิน/vt เสียง/ncn อะไร/indet บาง/adj อย่าง/cl เธอ/pper ไม่/neg ได้ยิน/vt เห/vi รอ/vt "/punc
+กา/vt มี/vt ย์ว่า/ncn
+"/punc เสียง/ncn อะไร/indet ไม่/neg เห็น/vt ได้ยิน/vt เลย/vi ไป/vi กัน/prec เถอะ/part ฉัน/pper อยาก/prev ดื่ม/vt โกโก้/ncn ร้อนๆ/indet กับ/prep ขนมปัง/ncn แสน/nnum อร่อย/adj ฝีมือ/ncn แม่/ncn จะ/prev แย่/vi อยู่/vpost แล้ว/vpost "/punc
+จู/npn เลียน/vt เร่ง/vt
+"/punc นั่นไง/pint ฟัง/vt สิ/part "/punc
+กา/vt มี/vt ย์ยัง/ncn ยืน/vi นิ่ง/adv
+"/punc จิ๊บ/adv จิ๊บ/adv "/punc
+เสียง/ncn นั้น/det ดัง/adv ขึ้น/vpost
+"/punc จริง/adv ด้วย/adv มีเสียง/adv จาก/prep ตรง/adv นั้น/det "/punc
+จู/npn เลียน/vt พูด/vt พลาง/adv ชี้/vt มือ/ncn ไป/vpost ที่/prep ใต้/ncn ต้นไม้/ncn
+แล้ว/conj พวก/nct เด็ก/ncn ๆ/punc
+ก็/conj พา/vt กัน/prec เดิน/vi ไป/vpost ดู/vt
+"/punc อยู่/vpost ตรง/adv นี้/det เอง/prfx โถ/npn .../punc เจ้า/ntit นก/ncn ที่/prel น่า/prev สงสาร/vt คง/prev จะ/prev หนาว/vi มาก/adv สินะ/npn "/punc
+กา/vt มี/vt ย์พูด/ncn พลาง/adv ถอด/vt หมวก/ncn ไหม/ncn พรม/ncn ของ/prep ตัว/ncn เอง/prfx ออก/vpost มา/vpost คลุม/vt ตัว/ncn มัน/pper ไว้/vpost
+"/punc ไป/vpost หา/vt คุณ/ncn ปู่/ncn กัน/prec เถอะ/part คุณ/pper ปู่/ncn ต้อง/prev ช่วย/vt มัน/pper ได้/vpost แน่/adv ๆ/punc "/punc
+จู/npn เลียน/vt พูด/vt
+ปู่/ncn ของ/prep จู/npn เลียน/vt เป็น/advm2 คน/ncn เลี้ยง/vt แกะ/ncn ที่/prel เก่ง/vi มาก/adv
+เวลา/ncn มี/vt สัตว์/ncn บาดเจ็บ/vi
+ชาว/pref3 บ้าน/ncn ก็/conj มัก/prev จะ/prev พา/vt มา/vpost ให้/conjncl คุณ/pper ปู่/ncn รักษา/vt
+"/punc ต้อง/prev ให้/vcau มัน/pper นอน/vi ใน/prep กล่อง/ncn ที่/prel ปู/vt ด้วย/prep ฟาง/ncn มัน/pper ถึง/conj จะ/prev อุ่น/vi สบาย/adv "/punc
+คุณ/pper ปู่/ncn บอก/vt เด็ก/ncn ๆ/punc
+เมื่อ/conj ไป/vpost ถึง/prep
+กา/vt มี/vt ย์จึง/vt ไป/vpost หาก/conj ล่อง/vi เล็ก/adj ๆ/punc
+มา/vpost ใส่/vt ฟาง/ncn แล้ว/vpost วาง/vt นก/ncn น้อย/adv ลง/vpost ไป/vpost
+"/punc หนู/pper จะ/prev เลี้ยง/vt มัน/pper จน/conj โต/vi เลย/part "/punc
+กา/vt มี/vt ย์บอก/ncn
+"/punc แต่/conj ปู่/ncn ว่า/conjncl เรา/pper ช่วย/vt กัน/prec รักษา/vt มัน/pper ให้/conjncl หาย/vi แล้ว/vpost ปล่อย/vt มัน/pper กลับ/vi ไป/vpost อยู่/vpost กับ/prep ครอบครัว/ncn ตาม/prep ธรรมชาติ/ncn ดี/adv กว่า/adv ไหม/pint "/punc
+คุณ/pper ปู่/ncn บอก/vt
+"/punc ก็ได้/part ค่ะ/aff หนู/pper จะ/prev รักษา/vt มัน/pper ให้/conjncl หาย/vi แล้ว/vpost ก็/conj ปล่อย/vt มัน/pper ไป/vpost "/punc
+"/punc ถ้า/conj อย่าง/cl นั้น/det ก็/conj ให้/vcau เจ้า/ntit นก/ncn อยู่/vi ที่/prel นี่/det ก่อน/conj ปู่/ncn จะ/prev ได้/prev ช่วย/vt ดูแล/vt "/punc
+วัน/ncn รุ่ง/vi ขึ้น/vpost
+กา/vt มี/vt ย์รีบ/vt ไป/vpost ดู/vt นก/ncn น้อย/adv แต่/conj เช้า/ncn
+"/punc เป็น/vcs ยัง/prev ไงบ้าง/vt เจ้า/ncn นก/ncn สบาย/vi ดี/adv หรือ/conj ยัง/prev "/punc
+เธอ/pper พูด/vt พลาง/adv ลูบ/vt ขน/ncn อัน/prel อ่อน/vi นุ่ม/vi ของ/prep เจ้า/ncn นก/ncn เบา/adj ๆ/punc
+"/punc เกือบ/adv จะ/prev หาย/vi ดีแล้ว/adv ล่ะ/part ขอบใจ/vi เธอ/pper มาก/adv เลย/part นะ/part ที่/prel ช่วย/vt ฉัน/pper ไว้/vpost "/punc
+มีเสียง/npn ตอบ/vt เธอ/pper
+กา/vt มี/vt ย์ตกใจ/vi มาก/adv
+"/punc เธอ/pper .../punc เธอ/pper พูด/vt ได้/prev เห/vi รอ/vt "/punc
+"/punc ได้/vt สิ/part ทำไม/pint จะ/prev ไม่/neg ได้/vpost ล่ะ/part "/punc
+เจ้า/ntit นก/ncn ว่า/conjncl
+"/punc ฉัน/pper ไม่/neg เคย/prev เห็น/vt นก/ncn ตัว/ncn ไหน/indet พูด/vt ได้/vpost มา/vpost ก่อน/adv เลย/part อย่าง/advm1 มาก/adv ก็/conj พูด/vt ประโยค/ncn ซ้ำ/adv ๆ/punc ที่/prel มีคน/npn ฝึก/vt ให้/conjncl พูด/vt ไม่/neg ใช่/vt พูด/vt โต้ตอบ/vi กับ/prep มนุษย์/ncn อย่าง/cl นี้/det "/punc
+กา/vt มี/vt ย์บอก/ncn
+"/punc ก็/conj เพราะ/conj เธอ/pper ไม่/neg เคย/prev คิด/vt ที่/prel จะ/prev คุย/vi กับ/prep พวก/nct ฉัน/pper มาก/adv กว่า/adv น่ะสิ/part สิ่ง/ncn มี/vt ชีวิต/ncn ทุก/adj อย่าง/cl บน/prep โลก/ncn นี้/det ล้วน/adv มี/vt ภาษา/ncn ของ/prep ตัว/ncn เอง/prfx เพียง/adv แต่/conj พยายาม/vi ฟัง/vt เธอ/pper ก็/conj จะ/prev ได้ยิน/vt "/punc
+เจ้า/ntit นก/ncn อธิบาย/vt
+"/punc แล้ว/conj เธอ/pper ชื่อ/ncn อะไร/pint ล่ะ/part "/punc
+กา/vt มี/vt ย์ถาม/ncn
+"/punc ซิลแวง/npn แล้ว/vpost เธอ/pper ล่ะ/part "/punc
+มัน/pper ถาม/vt บ้าง/adv
+"/punc ฉัน/pper ชื่อ/ncn กา/vt มีย์/npn "/punc
+"/punc ฉัน/pper เคย/prev เห็น/vt เธอ/pper หลาย/adj ครั้ง/cl แล้ว/vpost ล่ะ/part ตอน/ncn ที่/prel เธอ/pper เอา/vt อาหาร/ncn ไป/vpost ให้/conjncl พวก/nct นก/ncn ที่/prel หิว/vt โหยน่ะ/det เธอ/pper เป็น/vcs เด็ก/ncn ดี/vi มาก/adv นะ/part และ/conj เพื่อ/conj เป็นการ/ncn ตอบแทน/vt ที่/prel เธอ/pper ช่วย/vt ฉัน/pper ไว้/vpost ฉัน/pper จะ/prev ให้/vcau เธอ/pper ขอ/vt พร/npn วิเศษ/vi ได้/vpost สาม/nnum ข้อ/cl "/punc
+เจ้า/ntit นก/ncn ซิลแวง/npn บอก/vt
+"/punc เธอ/pper จะ/prev ทำได้/vi ยังไง/pint ใน/prep เมื่อ/prep เธอ/pper เป็น/vcs แค่นก/ncn เล็ก/adj ๆ/punc ตัว/ncn หนึ่ง/adj เท่านั้น/adv "/punc
+กา/vt มี/vt ย์สงสัย/ncn
+"/punc แล้ว/conj ใคร/pind บอก/vt เธอ/pper ล่ะ/part ว่า/conjncl ฉัน/pper เป็น/vcs แค่นก/vt ธรรมดา/adj ฉัน/pper เป็น/vcs เทวดา/npn นะ/part เดี๋ยว/adv จะ/prev แปลง/vt ร่าง/ncn ให้/conjncl ดู/vt "/punc
+ซิลแวง/npn พูด/vt
+ทันใด/conj นั้น/det !/punc
+เจ้า/ntit นก/ncn น้อย/vi ก็/conj กลาย/vi เป็น/advm2 เด็ก/ncn ผู้ชาย/ncn สวม/vt เสื้อ/ncn หนัง/ncn กับ/prep กางเกง/ncn ยีน/ncn ขาด/vt ๆ/punc
+"/punc โอ้โฮ/npn !/punc แต่งตัว/vi อย่าง/advm1 กับ/prep นัก/pref2 ร้อง/vi วงร็อก/npn ไม่/neg เห็น/vt เหมือน/vcs เทวดา/ncn ใน/prep หนังสือ/ncn นิทาน/ncn เลย/part "/punc
+กา/vt มี/vt ย์แปลก/ncn ใจ/ncn
+"/punc ฉัน/pper เป็น/vcs เทวดา/ncn รุ่น/ncn ใหม่/adj นะ/part จะ/prev ให้/vcau แต่งตัว/vi เชย/vi ๆ/punc เหมือน/adv เมื่อ/conj ก่อน/adv ได้/vpost ยังไงล่ะ/part "/punc
+"/punc แล้ว/conj ฉัน/pper ขอ/vt อะไร/pint ได้/vpost บ้าง/adv ล่ะ/part "/punc
+กา/vt มี/vt ย์ถาม/ncn
+"/punc อะไร/pint ก็ได้/part ที่/prel เธอ/pper ต้องการ/vt "/punc
+เขา/pper บอก/vt
+"/punc อืม/vt .../punc คิด/vt ได้/vpost อย่าง/advm1 หนึ่ง/adv แล้ว/vpost แต่/conj ไม่/neg รู้/vt ว่า/conjncl เธอ/pper จะ/prev ทำได้/vi หรือ/conj เปล่า/adv นะ/part "/punc
+"/punc ก็/conj ลอง/vt บอก/vt มา/vpost ก่อน/adv สิ/part "/punc
+"/punc ฉัน/pper อยาก/vt ให้/conjncl เธอ/pper ช่วย/vt ซ่อม/vt หลังคา/ncn บ้าน/ncn ของ/prep คุณ/pper ปู่/ncn ให้/vt หน่อยน่ะ/part เพราะ/conj มัน/pper เก่า/adj มาก/adv แล้ว/vpost และ/conj ที่/prel หลังคา/ncn ก็/conj มี/vt รู/ncn รั่ว/vi ตั้ง/vt หลาย/adj รู/ncn เวลา/ncn ฝน/ncn หรือ/conj หิมะ/ncn ตก/vi คุณ/ntit ปู่/ncn จะ/prev ลำบาก/vi มาก/adv "/punc
+"/punc เรื่อง/ncn แค่/adv นี้/det เอง/prfx สบาย/vi มาก/adv เดี๋ยว/adv เธอ/pper คอย/vt ดู/vt นะ/part "/punc
+แล้ว/conj ซิลแวง/vi ก็/conj เริ่ม/vi ร่าย/vt มนต์/ncn
+"/punc อะบราคะ/ncn ดา/vt เทพธิดา/ncn พ่อ/ncn มด/ncn ที่/prel มี/vt ทั้งหมด/adv จง/prev มา/vi ทันที/adv "/punc
+ทันใด/conj นั้น/det ก็/conj มีค/npn วัน/ncn สี/ncn ขาว/adj ลอย/vi ขึ้น/vpost รอบ/prep ตัว/ncn ของ/prep เขา/pper
+พอ/conj กา/vt มี/vt ย์มอง/ncn ไป/vpost ที่/prep บ้าน/ncn ของ/prep คุณ/ntit ปู่/ncn ก็/conj พบ/vt ว่า/conjncl มี/vt เทวดา/ncn
+และ/conj นางฟ้า/vi มากมาย/adv กำลัง/prev ช่วย/vt กัน/prec ซ่อมแซม/vt หลังคา/ncn บ้าน/ncn ของ/prep คุณ/ncn ปู่/ncn อย่าง/advm1 ตั้งอกตั้งใจ/vi
+เวลา/ncn ผ่าน/vt ไป/vpost ไม่/neg นาน/adv ทุก/adj อย่าง/cl ก็/conj เรียบร้อย/adv
+"/punc โอ้โฮ/npn !/punc ไม่/neg น่า/prev เชื่อ/vt เลย/part ฉัน/pper ไม่/neg คิด/vt เลย/part ว่า/conjncl จะ/prev มี/vt เทวดา/ncn นางฟ้า/ncn อยู่จริง/npn ๆ/punc "/punc
+กา/vt มี/vt ย์บอก/ncn อย่าง/advm1 ตื่นเต้น/vi
+แต่/conj พอ/conj เธอ/pper หัน/vt มา/vpost ที่/prel ซิลแวง/vi ก็/conj ปรากฏ/vi ว่า/conjncl เขา/pper กลาย/vcs ร่าง/ncn กลับ/vi ไป/vpost เป็น/advm2 นก/ncn น้อย/adv เหมือน/adv เดิม/adv แล้ว/vpost
+"/punc ขอบใจ/vi นะ/part ซิลแวง/adv "/punc
+เธอ/pper พูด/vt พลาง/adv ลูบ/vt ขน/ncn มัน/pper เบา/adv ๆ/punc
+วัน/ncn ต่อ/prep มา/vpost กา/vt มี/vt ย์ก็/part ไป/vpost หา/vt ซิลแวง/ncn อีก/adv
+"/punc สวัสดี/vi ซิลแวง/adv "/punc
+เธอ/pper ทัก/vi
+แต่/conj เจ้า/ntit นก/ncn น้อย/vi กลับ/vi นอน/vi นิ่ง/adv
+"/punc เป็น/vcs อะไร/pint ไป/vpost ซิลแวง/adv ทำไม/pint เธอ/pper ดูเหมือน/vcs ป่วย/vi หนัก/adv อย่าง/cl นี้/det ล่ะ/part เมื่อ/conj วาน/ncn ยัง/prev ดู/vt แข็งแรง/vi อยู่/vpost เลย/part "/punc
+กา/vt มี/vt ย์เริ่ม/ncn ร้องไห้/vi เพราะ/conj กลัว/vt ว่า/conjncl เจ้า/ntit นก/ncn น้อย/adv จะ/prev เป็น/vcs อะไร/indet ไป/vpost
+"/punc ร้องไห้/vi ทำไม/pint กา/ncn มีย์/npn "/punc
+เสียง/ncn ของ/prep นก/ncn ตัว/ncn หนึ่ง/adj ที่/prel กำลัง/prev บิน/vi เข้า/vi มา/vpost พูด/vt ขึ้น/vpost
+แล้ว/conj มัน/pper ก็/conj กลาย/vt ร่าง/ncn เป็น/advm2 เทวดา/ncn น้อย/adv ซิลแวง/adv
+"/punc ฉัน/pper นึก/vt ว่านก/vt ตัว/ncn นี้/det เป็น/vcs เธอ/pper ฉัน/pper เรียก/vt แล้ว/vpost มัน/pper ไม่/neg ตอบ/vt ก็/conj เลย/vi นึก/vt ว่า/conjncl เธอ/pper เป็น/vcs อะไร/pint ไป/vpost แล้ว/vpost "/punc
+"/punc นี่/pdem เพื่อน/ncn ฉัน/pper เอง/prfx ฉัน/pper เห็น/vt เขา/pper นอน/vi หนาว/vi อยู่/vpost ข้าง/cl นอก/adj ก็/conj เลย/vi พา/vt มา/vpost ที่/prel นี่/det "/punc
+ซิลแวง/npn อธิบาย/vt ก่อน/adv จะ/prev ถาม/vt ต่อ/adv
+"/punc แล้ว/conj เธอ/pper คิด/vt ออก/vpost หรือ/conj ยัง/prev ว่า/conjncl จะ/prev ขอ/vt อะไร/indet อีก/adv สอง/nnum ข้อ/cl "/punc
+"/punc ฉัน/pper คิด/vt ได้/vpost แล้ว/vpost ล่ะ/part แต่/conj ข้อ/cl นี้/det ยาก/vi กว่า/prep ข้อ/ncn แรก/adj อีก/adv นะ/part ไม่/neg รู้/vt ว่า/conjncl เธอ/pper จะ/prev ทำได้/vi หรือ/conj เปล่า/adv "/punc
+กา/vt มี/vt ย์บอก/ncn
+"/punc บอก/vt มา/vpost สิ/part แล้ว/vpost ฉัน/pper จะ/prev ลอง/vt ดู/vt "/punc
+"/punc อีก/adv ไม่/neg กี่/indet วัน/cl ก็/conj จะ/prev ถึง/prep วัน/ncn คริสต์มาส/npn ฉัน/pper อยาก/vt ให้/conjncl เด็ก/ncn ๆ/punc ได้/vt ของขวัญ/ncn จาก/prep ซาน/npn ตา/ncn คลอส/npn กัน/prec ทุก/adj คน/cl เลย/part "/punc
+เธอ/pper บอก/vt ความ/pref1 ต้องการ/vt
+"/punc ยาก/vi เหมือน/vcs กัน/prec นะ/part ข้อ/ncn นี้/det "/punc
+ซิลแวง/npn บอก/vt ก่อน/adv จะ/prev ร่าย/vt มนต์/ncn
+"/punc อะบราคา/npn ดา/vt ท่าน/ntit ซาน/npn ต้าอยู่/ncn ไหน/indet รีบ/vi มา/vpost เร็ว/adv ไว/adv ขอ/vt ให้/conjncl ช่วย/vt ที/part "/punc
+ทันใด/conj นั้น/det ซาน/npn ตา/ncn คลอส/npn ก็/conj ปรากฏ/vi ตัว/ncn ขึ้น/vpost
+"/punc สวัสดี/vi จ้ะ/vt หนู/ncn น้อย/adv มี/vt อะไร/pint ให้/conjncl ฉัน/pper ช่วย/vt หรือ/pint จ๊ะ/aff "/punc
+เขา/pper ถาม/vt กา/vt มีย์/ncn
+"/punc คือ/vcs หนู/ncn อยาก/vt ให้/conjncl เด็ก/ncn ทุก/adj คน/cl ได้/prev ของขวัญ/ncn คริสต์มาส/npn น่ะค่ะ/det พวก/nct เขา/pper จะ/prev ได้/prev มี/vt ความ/pref1 สุข/vi "/punc
+กา/vt มี/vt ย์พูด/ncn
+"/punc ฉัน/pper ก็/conj อยาก/vt ให้/conjncl เป็น/vcs อย่าง/ncn นั้น/det เหมือน/vcs กัน/prec แต่/conj ลำพัง/adv ฉัน/pper คน/cl เดียว/adj ก็/conj คง/prev ไป/vpost แจก/vt ของขวัญ/ncn ให้/prep เด็ก/ncn ทุก/adj คน/cl ไม่/neg ไหว/vi เรื่อง/ncn นี้/det คง/prev ต้อง/prev ให้/vcau เทวดา/ncn น้อย/vi ช่วย/vt แล้ว/vpost ล่ะ/part "/punc
+ซาน/npn ตา/ncn คลอส/npn พูด/vt พลาง/adv หัน/vt ไป/vpost มอง/vt ซิลแวง/ncn
+"/punc ถ้า/conj อย่าง/ncn นั้น/det ผม/pper ไป/vpost บอก/vt เพื่อน/ncn ๆ/punc ให้/vt มา/vpost ช่วย/vt คุณ/ncn ลุง/ncn แล้วกัน/part นะ/part ครับ/aff "/punc
+ซิลแวง/npn บอก/vt ก่อน/adv ที่/prel จะ/prev กลาย/vt ร่าง/ncn เป็น/advm2 นก/ncn แล้ว/vpost บิน/vi ไป/vpost
+พอ/conj กา/vt มี/vt ย์หัน/adv ไป/vpost เพื่อ/conj จะ/prev พูด/vt กับ/prep ซาน/npn ตา/ncn คลอส/npn ก็/conj ปรากฏ/vi ว่า/conjncl เขา/pper หาย/vi ไป/vpost แล้ว/vpost
+กา/vt มี/vt ย์จึง/conj กลับ/vt บ้าน/ncn
+สาม/nnum วัน/cl ต่อ/vt มา/vpost เป็น/advm2 วัน/ncn คริสต์มาส/npn
+กา/vt มี/vt ย์มา/adv หา/vt ซิลแวง/ncn แต่/conj เช้า/ncn
+"/punc ฉัน/pper จะ/prev มา/vi ขอ/vt พร/ncn ข้อ/ncn สุดท้าย/adj "/punc
+เธอ/pper รีบ/vi บอก/vt
+"/punc ว่า/conjncl มา/vpost เลย/part "/punc
+ซิลแวง/npn พูด/vt
+"/punc ฉัน/pper ขอ/vt ให้/conjncl ทุก/adj คนใน/ncn ครอบครัว/ncn ของ/prep ฉัน/pper มี/vt ความ/pref1 สุข/vi ตลอด/adv ไป/vpost "/punc
+เธอ/pper บอก/vt
+ซิลแวง/npn ได้/prev ฟัง/vt ก็/conj ยิ้ม/vi แล้ว/vpost พูด/vt ขึ้น/vpost ว่า/conjncl
+"/punc ฉัน/pper ว่า/conjncl เรื่อง/ncn นี้/det ฉัน/pper คง/prev ไม่/neg ต้อง/prev ใช้/vt อำนาจ/ncn วิเศษ/adv อะไร/pint ช่วย/vt หรอก/part นะ/part เพราะ/conj ทุก/adj อย่าง/cl ขึ้น/vpost อยู่/vpost กับ/prep ตัว/ncn ของ/prep เธอ/pper เอง/prfx เธอ/pper คง/prev รู้/vt นะ/part ว่า/conjncl ทำ/vt อย่างไร/pint คน/ncn รอบ/ncn ข้าง/ncn ของ/prep เธอ/pper จึง/conj จะ/prev มี/vt ความ/pref1 สุข/vi "/punc
+พูด/vt จบ/vt ซิลแวง/ncn ก็/conj กลาย/vt ร่าง/ncn เป็น/vcs นก/ncn น้อย/vi แล้ว/vpost บิน/vi จาก/prep ไป/vpost
+กา/vt มี/vt ย์ยืน/ncn มอง/vt จน/conj นก/ncn น้อย/vi บิน/vi ลับตา/vi ไป/vpost แล้ว/vpost ก็/conj กลับ/vi บ้าน/ncn
+และ/conj ตั้งแต่/prep นั้น/det เป็นต้น/part มา/vpost
+กา/vt มี/vt ย์ก็/part ไม่/neg ได้/prev พบ/vt ซิลแวง/ncn อีก/adv เลย/part
+แต่/conj เธอ/pper ก็/conj ยัง/prev จดจำ/vt นก/ncn น้อย/adj ที่/prel แสน/adv วิเศษ/adv นั้น/det ได้/prev ไม่/neg มี/vt วัน/ncn ลืม/vt

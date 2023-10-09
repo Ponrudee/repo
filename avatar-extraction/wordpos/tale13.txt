@@ -1,0 +1,93 @@
+พระ/ntit อาทิตย์/npn กับ/prep ลม/ncn เหนือ/ncn
+"/punc ข้า/pper แข็งแรง/vi กว่า/prep เจ้า/pper เยอะ/adv เลย/part "/punc
+ลม/ncn เหนือ/prep โอ้อวด/ncn กับ/prep พระอาทิตย์/ncn
+"/punc ข้า/pper พัด/vi เรือ/ncn ออก/vt ทะเล/ncn ได้/prev พัด/vi นก/ncn ให้/vt ไป/vpost พ้น/vt ท้อง/ncn ฟ้า/adj ได้/vpost ข้า/pper ผลัก/vt ต้นไม้/ncn ให้/conjncl ล้ม/vi ลง/vpost แล้ว/vpost กระชาก/vt หลังคา/ncn บ้าน/ncn ให้/conjncl ปลิว/vi หลุด/vi ออก/vpost จาก/prep บ้าน/ncn ได้/vpost แล้ว/vpost เจ้า/pper ทำ/vt อะไร/pint ได้/vpost บ้าง/adv ละ/part "/punc
+"/punc ทำลาย/vt ข้าวของ/ncn หลุด/vi เป็น/advm2 ชิ้น/ncn ๆ/indet น่ะ/part ไม่/neg ใช่/vt วิธี/ncn ของ/prep ข้า/pper หรอก/part "/punc
+พระอาทิตย์/ncn ตอบ/vt เสียง/ncn นุ่มนวล/vi
+"/punc ข้า/pper กล่อม/vt ดอกไม้/ncn ให้/conjncl บาน/vi แล้ว/vpost ช่วย/vt ต้นไม้/ncn ให้/conjncl โต/vi ได้/vpost "/punc
+"/punc เชอะ/npn !/punc นั้น/det มัน/pper เด็ก/ncn ๆ/punc เขา/pper เล่น/vt กัน/prec "/punc
+ลม/ncn เหนือ/prep เยาะ/npn เย้ย/pint
+"/punc ถ้า/conj แข่ง/vi เรื่อง/ncn ความ/pref1 แข็งแรง/vi แล้ว/vpost ละ/adj ก็/conj วัน/ncn ไหน/indet ๆ/punc ข้า/pper ก็/conj ชนะ/vt เจ้า/ncn ได้/vpost อยู่/vpost แล้ว/vpost "/punc
+ขณะ/ncn นั้น/det เอง/prfx
+ลม/ncn เหนือ/ncn ก็/conj มอง/vt เห็น/vt ผู้ชาย/ncn คน/cl หนึ่ง/adj กำลัง/prev เดิน/vi มา/vpost
+"/punc ข้า/pper รู้/vt แล้ว/vpost "/punc
+ลม/ncn เหนือ/ncn พูด/vt ขึ้น/vpost
+"/punc เรา/pper มา/vi แข่ง/vi กัน/prec เถอะ/part ว่า/conjncl ใคร/pint ทำให้/vcau เสื้อ/ncn คลุม/vt หลุด/vi จาก/prep ตัว/ncn ชาย/ncn คน/cl นั้น/det ได้/vpost ใคร/pind ทำได้/adv เป็น/vcs ผู้/pref2 ชนะ/vt "/punc
+"/punc ก็ได้/part "/punc
+พระ/ntit อาทิตย์/npn เห็น/vt ด้วย/adv
+"/punc ข้า/pper ลอง/vt ก่อน/adv เจ้า/pper จะ/prev ได้/prev รู้/vt ว่า/conjncl ต้อง/prev ทำ/vt อย่างไร/pint "/punc
+ลม/ncn เหนือ/ncn ส่งเสียง/vi ดัง/adv
+แล้ว/conj ก็/conj พัด/vi หยอกเย้า/vi ไป/vpost สอง/nnum สาม/nnum รอบ/cl เพื่อ/conj แกล้ง/vi ให้/conjncl หมวก/ncn ของ/prep ชาย/ncn หนุ่ม/adj หล่น/vi ไป/vpost
+แต่/conj ชาย/ncn หนุ่ม/adj กลับ/vi คว้า/vt หมวก/ncn ไว้/vpost ได้/vpost ทัน/adv
+เขา/pper สวม/vt หมวก/ncn กลับ/vi ไป/vpost บน/prep ศีรษะ/ncn ให้/conjncl แน่น/vi ยิ่ง/adv ขึ้น/vpost
+ลม/ncn เหนือ/ncn สูด/vt ลม/ncn ข้าง/prep แก้ม/ncn จบ/vt พอง/npn แล้ว/vpost เป่า/vt แรง/ncn ขึ้น/vpost อีก/adv
+จน/conj เสื้อ/ncn คลุม/vt ของ/prep ชาย/ncn หนุ่ม/adj เปิด/vt ออก/vpost
+ลม/ncn เหนือ/ncn หัน/vt ไป/vpost ทาง/prep พระอาทิตย์/ncn พร้อม/vi กับ/prep รอย/ncn ยิ้ม/vi
+แสดง/vt ความ/pref1 พึง/prev พอใจ/vt บน/prep ใบหน้า/ncn
+แต่/conj พอ/vi ลม/ncn เหนือ/ncn หัน/vt หลับ/vi มา/vpost อีก/adv ครั้ง/cl
+ชาย/ncn หนุ่ม/adj ก็/conj ยิ่ง/prev ดึง/vt เสื้อ/ncn คลุม/vt ให้/conjncl กระชับ/vi ยิ่ง/adv ขึ้น/vpost และ/conj ติดกระดุม/ncn ตลอด/adj แนว/ncn
+ลม/ncn เหนือ/prep ขมวด/ncn คิ้ว/npn แล้ว/vpost สูด/vt ลม/ncn หายใจ/vi ลึก/adv ๆ/punc
+ยื่น/vt ปาก/ncn เป่า/ncn สุดแรงเกิด/npn
+ชาย/ncn หนุ่ม/adj เดิน/vi ตัว/ncn เอียง/vi เล็กน้อย/adv
+ต้าน/vt แรง/ncn หายใจ/vi ของ/prep ลม/ncn เหนือ/ncn
+เสื้อ/ncn คลุม/vt ของ/prep เขา/ncn พอง/npn ขึ้น/vpost ที่/prep ด้าน/ncn หลัง/adj
+แต่/conj ยัง/prev ไม่/neg หลุด/vi จาก/prep ตัว/ncn
+ชาย/ncn หนุ่ม/adj พยายาม/vi ต่อสู้/vi กับ/prep แรง/ncn ลม/ncn ให้/vt ได้/vpost
+เขา/pper ดึง/vt ผ้าพันคอ/ncn ผืน/ncn ยาว/adj ออก/vpost มา/vpost จาก/prep กระเป๋า/ncn แล้ว/vpost พัน/nnum รอบ/cl คอ/ncn อย่าง/advm1 แน่นหนา/vi
+ลม/ncn เหนือ/ncn พัด/vi ดึง/vt เสื้อ/ncn คลุม/vt ของ/prep ชาย/ncn หนุ่ม/adj ด้วย/prep ความ/pref1 หงุดหงิด/vi
+แต่/conj ชาย/ncn หนุ่ม/adj กลับ/vi พลิก/vt ปก/ncn เสื้อ/ncn ขึ้น/vpost มา/vpost แล้ว/vpost ยัด/vt มือ/ncn ใส่/vt กระเป๋า/ncn
+ยิ่ง/adv ลม/ncn เหนือ/ncn ออกแรง/vt เป่า/ncn มาก/adv ขึ้น/vpost เท่าใด/pint
+ชาย/ncn หนุ่ม/adj ก็/conj ยิ่ง/adv กระชับ/vi เสื้อ/ncn คลุม/vt ให้/conjncl ติดตัว/vi มาก/adv ขึ้น/vpost เท่านั้น/adv
+ใน/prep ที่สุด/adv
+ลม/ncn เหนือ/ncn ก็/conj ยอม/vt แพ้/vt
+"/punc ชาย/ncn หนุ่ม/adj คน/cl นั้น/det ไม่/neg มี/vt ทาง/ncn จะ/prev ยอม/vt ปล่อย/vt เสื้อ/ncn คลุม/vt เลย/part "/punc
+ลม/ncn เหนือ/ncn พูด/vt
+"/punc ดื้อ/adj ชะมัด/npn "/punc
+แล้ว/conj ลม/ncn เหนือ/ncn ก็/conj ขยับ/vt ไป/vpost ข้างๆ/prep
+ให้/vcau พระ/ntit อาทิตย์/npn ได้/prev ลอง/vt บ้าง/adv
+พระอาทิตย์/ncn จ้อง/vt ชาย/ncn หนุ่ม/adj พลาง/adv ใช้/vt ความ/pref1 คิด/vt
+ชาย/ncn หนุ่ม/adj เดิน/vi อย่าง/advm1 เร่งรีบ/vi
+ใบหน้า/ncn ของ/prep เขา/pper ซูบ/vt ตอบ/vt
+และ/conj ไหล่/ncn ห่อ/vt ด้วย/prep ความ/pref1 หนาว/vi เหน็บ/vt
+พระอาทิตย์/ncn เริ่ม/vi ต้น/ncn ด้วย/prep การแผ่รังสี/ncn อัน/prel อบอุ่น/vi ไป/vpost ยัง/prep พื้น/ncn ดิน/ncn
+ชาย/ncn หนุ่ม/adj คลาย/vt ไหล่/ncn ที่/prel ห่อ/vt ไว้/vpost และ/conj มี/vt ท่าที/ncn โล่ง/adj ใจ/ncn
+เขา/pper หลับตา/vi แล้ว/vpost เงย/vt หน้า/ncn ขึ้น/vpost มอง/vt ท้อง/ncn ฟ้า/adj
+พระอาทิตย์/ncn ยิ้ม/vi อย่าง/advm1 มี/vt กำลังใจ/ncn
+จน/conj ทั่ว/adj บริเวณ/ncn นั้น/det มี/vt ชีวิตชีวา/adv ด้วย/prep แสง/ncn สี/ncn ทอง/ncn
+นก/ncn เริ่ม/vi ร้องเพลง/vi
+และ/conj กลีบ/ncn ดอกไม้/ncn เริ่ม/vi บาน/vi
+ชาย/ncn หนุ่ม/adj คลาย/vt ผ้าพันคอ/idm ออก/vpost ช้า/adv ๆ/punc
+และ/conj พับ/vt คอเสื้อ/ncn ลง/vpost
+พระอาทิตย์/ncn ยิ้ม/vi กว้าง/vi อย่าง/advm1 ดีใจ/vi
+"/punc เชอะ/npn !/punc "/punc
+ลม/ncn เหนือ/ncn พูด/vt
+"/punc ก็/conj แค่/adv โชค/ncn ดี/adj ตอน/ncn เริ่ม/vi ต้น/ncn เท่านั้น/adv แหละ/part !/punc "/punc
+ใบหน้า/ncn ของ/prep ชาย/ncn หนุ่ม/adj กลาย/adj เป็น/vcs สี/ncn ชมพู/adj เพราะ/conj ความ/pref1 ร้อน/vi
+เขา/pper ถอด/vt หมวก/ncn และ/conj ปลด/vt กระดุม/ncn เสื้อ/ncn คลุม/vt ออก/vpost
+"/punc ทำได้/vi ไม่/neg เลว/vi นี่/det "/punc
+ลม/ncn เหนือ/ncn พูด/vt อย่าง/advm1 ไม่/neg สบ/vt อารมณ์/ncn
+"/punc แต่/conj เจ้า/pper ยัง/prev ต้อง/prev ทำให้/vcau เสื้อ/ncn คลุม/vt หลุด/vi ไป/vpost จาก/prep ตัว/ncn เขา/pper ด้วย/adv "/punc
+"/punc เดี๋ยว/adv ถึง/prep เวลา/ncn ก็/conj ทำได้/idm เอง/prfx แหละ/part "/punc
+พระ/ntit อาทิตย์/npn พูด/vt
+แล้ว/conj เปล่ง/vt แสงสว่าง/ncn ที่สุด/adv เท่า/adv ที่/prel จะ/prev ทำได้/vi
+ชาย/ncn หนุ่ม/adj หยุด/vt ปาด/vt เหงื่อ/ncn ที่/prel คิ้ว/vi
+"/punc ทำไม/pint อากาศ/ncn ถึง/prep ได้/prev ประหลาด/vi อย่าง/cl นี้/det นะ/part "/punc
+เขา/pper บ่น/vi
+พลาง/adv ส่าย/vt หัว/ncn อย่าง/advm1 สับสน/vi
+แล้ว/conj ลม/ncn เหนือ/ncn ก็/conj ต้อง/prev ผิดหวัง/vi เป็น/advm2 ที่สุด/adv
+เมื่อ/conj ชาย/ncn หนุ่ม/adj ถอด/vt เสื้อ/ncn คลุม/vt ออก/vpost
+และ/conj ยัง/prev คลาย/vt กระดุม/ncn เสื้อ/ncn เชิ้ต/ncn อีก/adv ด้วย/adv
+"/punc ก็ได้/part ก็ได้/part "/punc
+ลม/ncn เหนือ/ncn ถอน/vt หายใจ/vi
+"/punc เจ้า/pper เป็น/vcs ผู้/pref2 ชนะ/vt "/punc
+ตรง/prep พื้น/ncn ดิน/ncn
+ชาย/ncn หนุ่ม/adj มา/vpost ถึง/prep ทะเลสาบ/ncn
+ทันใด/conj นั้น/det เขา/pper ก็/conj สะบัด/vt รองเท้า/ncn
+ถุง/ncn เท้า/ncn
+รวม/vt ทั้ง/conjc ถอด/vt เสื้อ/ncn ผ้า/ncn ออก/vpost
+เหลือ/vi แต่/conj กางเกง/ncn ใน/prep ตัว/ncn เดียว/adj
+ดำ/vt ลง/vpost ไป/vpost ใน/prep น้ำ/ncn เพื่อ/conj คลาย/vt ร้อน/vi
+พระอาทิตย์/ncn ยิ้ม/vi ให้/prep ลม/ncn เหนือ/ncn อย่าง/advm1 สดใส/adv
+"/punc ไม่/neg ต้อง/prev มา/vi อวด/vt หรอก/part น่า/adv "/punc
+ลม/ncn เหนือ/ncn พูด/vt อย่าง/advm1 เครียด/vi แค้น/vt
+ก่อน/conj จะ/prev พัด/vi ไป/vpost จาก/prep ท้อง/ncn ฟ้า/adj

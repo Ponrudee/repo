@@ -1,0 +1,166 @@
+ห้องสมุด/ncn บิน/vi ได้/vpost
+ณ/prep
+ห้องสมุด/ncn เล็ก/adj ๆ/punc กลาง/ncn สวน/ncn ดอกไม้/ncn งาม/vi
+บน/prep เนิน/ncn เขา/pper
+มี/vt คุณ/pper ยาย/ncn ใจดี/adj คน/cl หนึ่ง/adj เป็น/vcs บรรณารักษ์/ncn ผู้/pref2 ก่อตั้ง/vt ห้องสมุด/ncn แห่ง/cl นี้/det ขึ้น/vpost มา/vpost ด้วย/prep ความ/pref1 รัก/vt
+คุณ/pper ยาย/ncn ชอบ/vt อ่าน/vt หนังสือ/ncn ทุก/adj ประเภท/cl มา/vpost ตั้งแต่/prep เด็ก/ncn ๆ/punc
+ห้องสมุด/ncn แห่ง/cl นี้/det จึง/conj เต็ม/vt ไป/vpost ด้วย/prep หนังสือ/ncn ที่/prel อ่าน/vt และ/conj สะสม/vt มา/vpost ตลอด/adv ชีวิต/ncn
+เด็ก/ncn ๆ/punc และ/conj ชาว/pref3 บ้าน/ncn ทุก/adj คน/cl ก็/conj รัก/vt การ/pref1 อ่าน/vt และ/conj รัก/vt ห้องสมุด/ncn แห่ง/cl นี้/det มาก/adv
+เพราะ/conj ความ/pref1 เอาใจใส่/vt และ/conj คอย/vt แนะนำ/vt หนังสือ/ncn ดีๆ/adj ของ/prep คุณ/pper ยาย/ncn นั่นเอง/det
+คืน/vt วัน/ncn หนึ่ง/adj
+ท่ามกลาง/ncn ความ/pref1 เงียบ/vi สงัด/adv
+หลังจาก/conj คุณ/pper ยาย/ncn กลับ/vi บ้าน/ncn ไป/vpost พักผ่อน/vi แล้ว/vpost
+จู่ๆ/conj ก็/conj มีเสียง/vt หนังสือ/ncn หล่น/vi จาก/prep ชั้น/ncn ดัง/conj แปะ/vt !/punc
+เจ้า/ntit หนังสือ/ncn นิทาน/ncn เล่ม/ncn น้อย/adv นั่นเอง/part
+มัน/pper กระโดด/vi ไป/vpost ตาม/prep พื้น/ncn ห้อง/ncn ท่ามกลาง/ncn ความ/pref1 มืด/vi
+สัก/advm4 ครู่/ncn ก็/conj มีเสียง/vt เปิด/vt สวิตช์/ncn ไฟ/ncn ดัง/adj ขึ้น/vpost
+แล้ว/conj หลอด/ncn ไฟ/ncn ภายใน/prep ห้อง/ncn ก็/conj สว่าง/vi จ้า/adv
+"/punc เอ่อ/ncn "/punc
+เจ้า/ntit หนังสือ/ncn นิทาน/ncn เอ่ย/vt ขึ้น/vpost
+มัน/pper กระโดด/vi ออก/vpost มา/vpost ยืน/vi กลาง/prep ห้อง/ncn
+แล้ว/conj พูด/vt เสียง/ncn ดัง/adv ขึ้น/vpost
+"/punc ขอโทษ/vt ทุกๆ/adj เล่ม/cl ด้วย/adv นะ/part ครับ/aff ที่/prel ต้อง/prev ปลุก/vt ขึ้น/vpost มาก/adv ลาง/ncn ดึก/adj แบบ/ncn นี้/det แต่ว่า/conj ผม/pper มี/vt เรื่อง/ncn สำคัญ/adj จะ/prev ประกาศ/vt ให้/conjncl ทราบ/vt "/punc
+"/punc ดึก/adj ป่านนี้/ncn แล้ว/vpost ใคร/pind มี/vt เรื่อง/ncn อะไร/indet กันเนี่ย/vi "/punc
+หนังสือ/ncn ทุก/adj เล่ม/cl งัวเงีย/npn ลืมตา/vi ตื่น/vi ขึ้น/vpost มา/vpost
+หลาย/adj เล่ม/cl ขยี้/vt ตา/ncn แล้ว/vpost ทำท่า/vi จะ/prev หลับ/vi ต่อ/adv
+"/punc คือ/vcs ว่า/conjncl ผม/pper ได้ยิน/vt มา/vpost ว่า/conjncl ห้องสมุด/ncn แห่ง/cl นี้/det อาจ/prev จะ/prev ไม่/neg มี/vt อยู่/vpost อีก/adv ต่อ/adv ไป/vpost "/punc
+หนังสือ/ncn นิทาน/ncn ประกาศ/vt เสียง/ncn ดัง/adj
+บรรดา/nct หนังสือ/ncn ที่/prel ยัง/prev คง/prev งัวเงีย/vi อยู่/vpost ตา/ncn สว่าง/vi ทันที/adv
+แล้ว/conj ก็/conj เกิด/vt เสียง/ncn พูด/vt คุย/vi พึมพำ/vi ไป/vpost ทั่ว/adj ห้อง/ncn
+"/punc จุ๊ๆ/adj ทุก/adj คน/cl อยู่/vi ใน/prep ความ/pref1 สงบ/vi "/punc
+หนังสือ/ncn ประวัติศาสตร์/ncn เก่า/adj คร่ำคร่า/npn เล่ม/cl หนึ่ง/adj ส่งเสียง/vi เตือน/vt
+ทั้ง/conjc ห้อง/ncn เงียบ/vi ลง/vpost ทันที/adv
+"/punc อย่า/neg ลืม/vt สิ/part ว่าที่/ncn นี่/det คือ/vcs ห้องสมุด/ncn เพราะฉะนั้น/conj กรุณา/vt อย่า/neg ส่งเสียง/vi ดัง/adv ว่า/conjncl ต่อ/adv ไป/vpost สิ/part เจ้า/ntit นิทาน/ncn เล่ม/cl น้อย/adj มัน/pper เกิด/vt อะไร/pint ขึ้น/vpost "/punc
+"/punc เมื่อ/conj วาน/ncn นี้/det มี/vt เด็ก/ncn ผู้ชาย/ncn คน/ncn หนึ่ง/adj มา/vpost ยืม/vt ผม/pper กลับ/vi ไป/vpost อ่าน/vt ที่/prep บ้าน/ncn "/punc
+หนังสือ/ncn นิทาน/ncn เริ่ม/vi เล่า/part
+"/punc หลังจาก/conj ยืม/vt และ/conj เก็บผม/ncn ใส่/vt กระเป๋า/ncn แล้ว/vpost ผม/pper ได้ยิน/vt คุณ/ntit บรรณารักษ์/npn บอก/vt กับ/prep เด็ก/ncn ว่า/conjncl คุณ/ntit ยาย/ncn อาจ/prev จะ/prev ต้อง/prev เลิก/vt ดูแล/vt ห้องสมุด/ncn แห่ง/cl นี้/det เพราะ/conj ท่าน/pper อายุ/ncn มาก/adj และ/conj สุขภาพ/ncn ไม่ค่อย/vi ดี/vi เดินทาง/vi มา/vpost ห้องสมุด/ncn ไม่/neg ไหว/vi และ/conj ไม่/neg มี/vt ใคร/pind ดูแล/vt ต่อ/prep ได้/vt ห้องสมุด/ncn แห่ง/cl นี้/det จึง/conj อาจ/prev จะ/prev ต้อง/prev ปิด/vt ตัว/ncn ลง/vpost "/punc
+"/punc มัน/pper เป็น/vcs เรื่อง/ncn ธรรมดา/adj ของ/prep ธรรมชาติ/ncn สิ่ง/ncn ใด/indet เคย/prev มี/vt อยู่/vpost สัก/advm4 วัน/ncn ก็/conj ต้อง/prev ดับ/vt สูญ/vt ไป/vpost "/punc
+หนังสือ/ncn ธรรมะ/ncn ให้/prep ความ/pref1 เห็น/vt
+"/punc ผม/pper รู้/vt "/punc
+หนังสือ/ncn นิทาน/ncn พูด/vt ต่อ/adv
+"/punc และ/conj ผม/pper ก็/conj รู้/vt ด้วยว่า/adv คุณ/pper ยาย/ncn รัก/vt ห้องสมุด/ncn นี้/det มาก/adv เพราะ/conj เป็น/vcs ผู้/pref2 ก่อตั้ง/vt และ/conj ดูแล/vt มา/vpost แสน/adv นาน/adv ห้องสมุด/ncn นี้/det เป็น/vcs ที่รัก/ncn ของ/prep คน/ncn ทั้ง/conjc เมือง/ncn โดย/conj เฉพาะ/prep เด็ก/ncn ๆ/punc ที่มา/ncn อ่าน/vt นิทาน/ncn กัน/prec อย่าง/advm1 สนุกสนาน/adv เด็ก/ncn ผู้ชาย/ncn ที่/prel ยืม/vt ผม/pper ไป/vpost เมื่อ/prep วาน/ncn หลังจาก/conj อ่าน/vt นิทาน/ncn จบ/vi ก็/conj ร้องไห้/vi เพราะ/conj จะ/prev ไม่/neg ได้/prev มา/vi ห้องสมุด/ncn อีก/adv แล้ว/vpost "/punc
+หนังสือ/ncn นิทาน/ncn เสียง/ncn สั่น/vt
+น้ำตา/ncn เริ่ม/vi คลอ/vi
+"/punc ผม/pper สงสาร/vt เด็ก/ncn คน/cl นั้น/det มาก/adv จึง/conj เผลอ/vi พูด/vt กับ/prep เขา/pper ทั้งๆ/adv ที่/prel รู้/vt ว่า/conjncl ผิดกฎ/vi ของ/prep พวก/nct เรา/pper ที่/prel ห้าม/vt เปิดเผย/vt ว่า/conjncl หนังสือ/ncn ทุก/adj เล่ม/cl มี/vt ชีวิต/ncn จิตใจ/ncn และ/conj สามารถ/prev พูด/vt ได้/vpost "/punc
+"/punc เอ่อ/ncn .../punc ไม่/neg เป็นไร/vi หรอก/part "/punc
+หนังสือ/ncn กฎหมาย/ncn แง้ม/vt ตู้/ncn กระจก/ncn ออก/vpost มา/vpost ให้/conjncl ความ/pref1 เห็น/vt
+"/punc บาง/adj สถานการณ์/ncn กฎ/ncn ก็/conj อนุโลม/adv กัน/prec ได้/vpost นะ/part "/punc
+"/punc ถ้า/conj ห้องสมุด/ncn ปิด/vt ตัว/ncn ลง/vpost จริงๆ/adv หนังสือ/ncn อย่าง/advm1 เรา/pper คง/prev ต้อง/prev แปร/vt สภาพ/ncn เป็น/vcs ถุง/ncn กระดาษ/ncn หรือ/conj ไม่/neg ก็/conj ถูก/psm ย่อย/vt สลาย/vt นำ/vt กลับ/vi ไป/vpost ผลิต/vt เป็น/advm2 กระดาษ/ncn ว่าง/adj เปล่า/adv นั่น/det อาจ/prev จะ/prev ดี/vi ต่อ/prep โลก/ncn แต่/conj น่า/prev เสียดาย/vt ความ/pref1 รู้/vt ที่/prel อยู่/vi ใน/prep ตัว/ncn พวก/nct เรา/pper "/punc
+หนังสือ/ncn สิ่งแวดล้อม/ncn ออก/vt ความ/pref1 เห็น/vt
+"/punc ผม/pper ได้/prev ปรึกษา/vt กับ/prep เด็ก/ncn คน/cl นั้น/det แล้ว/vpost "/punc
+หนังสือ/ncn นิทาน/ncn พูด/vt ต่อ/adv
+"/punc คืน/ncn นี้/det เด็ก/ncn ๆ/punc และ/conj ชาว/pref3 บ้าน/ncn จะ/prev มา/vi ประชุม/vi ร่วม/vi กับ/prep พวก/nct เรา/pper "/punc
+เมื่อ/conj มอง/vt ออก/vpost ไป/vpost นอก/prep หน้าต่าง/ncn ท่ามกลาง/ncn ความ/pref1 มือ/ncn มิด/adv
+เห็น/vt แสง/ncn ไฟ/ncn ค่อยๆ/adj ปรากฏ/vi ขึ้น/vpost ที/cl ละ/adj ดวง/cl ๆ/punc
+ใกล้/vi เข้า/vi มา/vpost เรื่อยๆ/adv
+ชาว/pref3 บ้าน/ncn และ/conj เด็ก/ncn ๆ/indet นั่นเอง/part
+ทุก/adj คน/cl เดินทาง/vi มา/vpost ด้วย/prep ความ/pref1 รัก/vt ที่/prel มี/vt ให้/conjncl แก่/prep ห้องสมุด/ncn แห่ง/cl นี้/det
+ทั้งหมด/adv เข้าไป/adv นั่ง/vi ประชุม/vi รวม/vt กับ/prep หนังสือ/ncn อย่าง/advm1 อบอุ่น/vi
+ทุก/adj คน/cl ลง/vt ความ/pref1 เห็น/vt ว่า/conjncl จะ/prev ต้อง/prev ช่วย/vt กัน/prec เพื่อให้/conj มี/vt ห้องสมุด/ncn แห่ง/cl นี้/det ต่อ/adv ไป/vpost
+แต่/conj ไม่/neg ว่า/conjncl จะ/prev อย่างไร/pint
+คุณ/ntit ยาย/ncn ก็/conj คง/prev เดินทาง/vi มา/vpost ห้องสมุด/ncn ทุก/adj วัน/ncn ไม่/neg ไหว/vi แน่/adv ๆ/punc
+ความ/pref1 คิดมาก/vi มาย/vi ถูก/psm เสนอ/vt ขึ้น/vpost มา/vpost แต่/conj ก็/conj ยัง/prev ไม่/neg เป็น/vcs ที่/prel ถูกใจ/vt ของ/prep ทุก/adj คน/cl
+"/punc หรือ/conj ว่า/vt ความ/pref1 จริง/vi คุณ/ntit ยาย/ncn ควร/prev จะ/prev พักผ่อน/vi "/punc
+หนังสือ/ncn เกี่ยว/vi กับ/prep สุขภาพ/ncn ตั้ง/vt ข้อ/ncn เสนอ/vt
+"/punc ใน/prep เมื่อ/conj คุณ/ntit ยาย/ncn อายุ/ncn มาก/adv แล้ว/vpost อาจ/prev จะ/prev ดี/vi กว่า/adv ถ้า/conj ให้/vcau คุณ/pper ยาย/ncn เลิก/vt ดูแล/vt ห้องสมุด/ncn "/punc
+"/punc ชีวิต/ncn ของ/prep คุณ/pper ยาย/ncn คือ/vcs ห้องสมุด/ncn แห่ง/cl นี้/det "/punc
+คุณ/ntit ตา/ncn หนังสือ/ncn ประวัติศาสตร์/ncn แย้ง/vt
+"/punc ใน/prep ฐานะ/ncn ที่/prel ฉัน/pper เป็น/vcs หนังสือ/ncn เก่า/adj แก่/prep ที่สุด/adv ใน/prep นี้/det และ/conj เป็น/vcs สมบัติ/ncn ของ/prep ครอบครัว/ncn นี้/det มา/vpost ตั้งแต่/prep คุณ/ncn ยาย/ncn ยัง/prev ไม่/neg เกิด/vt และ/conj เห็น/vt คุณ/ntit ยาย/ncn เติบโต/vi มา/vpost กับ/prep หนังสือ/ncn มากมาย/adv ตลอด/adv ชีวิต/ncn ขอ/vt ยืนยัน/vi ว่าการ/vt ได้/vpost ดูแล/vt ห้องสมุด/ncn แห่ง/cl นี้/det เป็น/vcs ความ/pref1 สุข/vi ของ/prep คุณ/ntit ยาย/ncn จริงๆ/adv "/punc
+"/punc เอาอย่าง/vt นี้/det มั้ยล่ะ/part "/punc
+หนังสือ/ncn นิยาย/ncn เสนอ/vt ขึ้น/vpost
+"/punc เรา/pper จะ/prev สร้าง/vt ห้องสมุด/ncn แห่ง/cl นี้/det เป็น/vcs ห้องสมุด/ncn บิน/vi ได้/vpost เท่า/adv นี้/det คุณ/ntit ยาย/ncn ก็/conj ไม่/neg ต้อง/prev เดินทาง/vi ให้/conjncl เหนื่อย/vi อีก/adv ต่อ/adv ไป/vpost "/punc
+เด็ก/ncn ๆ/punc ตา/ncn เป็น/vcs ประกาย/ncn
+เมื่อ/conj ได้ยิน/vt คำว่า/ncn ห้องสมุด/ncn บิน/vi ได้/vpost
+"/punc อยู่/vpost ดีๆ/adv ห้องสมุด/ncn จะ/prev บิน/vi ได้/vpost ยัง/prev ไงกัน/vt พวก/nct เรา/pper มา/vi คิดถึง/vt เรื่อง/ncn ที่/prel เป็น/vcs ไป/vpost ได้/vpost ดี/adv กว่า/adv นะ/part "/punc
+คุณ/pper ป้า/ncn ขาย/vt ข้าวแกง/ncn แย้ง/vt ขึ้น/vpost
+"/punc เป็น/vcs ไป/vpost ได้/vpost สิ/part ครับ/aff "/punc
+ชาย/ncn หนุ่ม/adj คน/cl หนึ่ง/adj ลุก/vi ขึ้น/vpost ยืน/vi ให้/prep ความ/pref1 เห็น/vt
+"/punc ผม/pper เป็น/vcs วิศวกร/ncn ก็/conj เพราะ/conj แรง/ncn บันดาล/vt ใจ/ncn จาก/prep การ/pref1 อ่าน/vt หนังสือ/ncn ใน/prep ห้องสมุด/ncn นี้/det ตั้งแต่/prep เด็ก/ncn ผม/pper จะ/prev ใช้/vt ความ/pref1 รู้/vt ความ/pref1 สามารถ/vi ใน/prep ด้าน/ncn วิศวกรรม/ncn ถ้า/conj พวก/nct เรา/pper ทุก/adj คน/cl และ/conj หนังสือ/ncn ทุก/adj เล่ม/cl ช่วย/vt กัน/prec ใช้/vt ความ/pref1 รู้/vt ที่/prel มี/vt เรา/pper ต้อง/prev สร้าง/vt ห้องสมุด/ncn บิน/vi ได้/vpost ให้/conjncl คุณ/pper ยาย/ncn ได้/vpost แน่/adv ๆ/punc "/punc
+"/punc ผม/pper เห็น/vt ด้วย/adv "/punc
+นัก/pref2 วิทยาศาสตร์/ncn พูด/vt ขึ้น/vpost บ้าง/adv
+"/punc จริงๆ/adv แล้ว/vpost ตอน/ncn เด็ก/ncn ๆ/punc ผม/pper เรียน/vt ไม่/neg เก่ง/vi และ/conj ไม่/neg ชอบ/vt อ่าน/vt หนังสือ/ncn เลย/part แต่/conj คุณ/ntit ยาย/ncn บรรณารักษ์/npn แนะนำ/vt ให้/conjncl อ่าน/vt หนังสือ/ncn แสน/nnum สนุก/vi มากมาย/adv และ/conj พอ/prev เริ่ม/vi สนใจ/vt เรื่องราว/ncn ใน/prep หนังสือ/ncn วิทยาศาสตร์/ncn ผม/pper ก็/conj ตั้งใจ/vi เรียน/vt และ/conj ได้/prev เป็น/vcs นัก/pref2 วิทยาศาสตร์/ncn นั่น/det ไงเพื่อน/vi รัก/vt ของ/prep ผม/pper "/punc
+หนังสือ/ncn วิทยาศาสตร์/ncn เก่า/adj ๆ/punc
+ที่/prel แอบ/vt อยู่/vpost หลัง/prep ตู้/ncn หนังสือ/ncn ได้/prev ฟัง/vt ก็/conj ซาบซึ้ง/vi จน/conj น้ำตา/ncn ไหล/vi
+กระโดด/vi ออก/vpost มา/vpost สู่/prep อ้อม/vi กอด/vt ของ/prep นัก/pref2 วิทยาศาสตร์/ncn ทันที/adv
+"/punc เอา/vt ล่ะ/part หยุด/vi ร้องไห้/vi เถอะ/part "/punc
+นัก/pref2 วิทยาศาสตร์/ncn ปลอบ/adj
+"/punc นาย/ntit เป็น/vcs หนังสือ/ncn นะ/part เดี๋ยว/adv ก็/conj เปียก/vi หมด/adv หรอก/part "/punc
+นักบิน/ncn วัย/ncn กลางคน/npn จูงมือ/vt หนังสือ/ncn เกี่ยว/vi กับ/prep เครื่องบิน/ncn ออก/vpost มาก/adv ลาง/ncn ห้อง/ncn
+"/punc ผม/pper อยาก/prev เป็น/vcs นักบิน/ncn ก็/conj เพราะ/conj ชอบ/vt ดู/vt รูป/ncn เครื่องบิน/ncn จาก/prep หนังสือ/ncn เล่ม/cl นี้/det วัน/ncn นี้/det ผม/pper กับ/prep เพื่อน/ncn รัก/vt จะ/prev ช่วย/vt กัน/prec ดูแล/vt เรื่อง/ncn การ/pref1 บิน/vi ของ/prep ห้องสมุด/ncn ให้/prep เอง/prfx "/punc
+"/punc ขอบคุณ/vt ครับ/aff ทุก/adj คน/cl ขอบคุณ/vt แทน/vt คุณ/ncn ยาย/ncn ด้วย/adv "/punc
+หนังสือ/ncn นิทาน/ncn เล่ม/cl น้อย/adj พูด/vt ขึ้น/vpost
+"/punc พรุ่งนี้/ncn เรา/pper จะ/prev เริ่ม/vi ลงมือ/vt กัน/prec เลย/part นะ/part ครับ/aff "/punc
+"/punc ไชโย/npn "/punc
+ทุก/adj คน/cl ร้อง/vi ขึ้น/vpost พร้อม/vi กัน/prec
+หนังสือ/ncn ประวัติศาสตร์/ncn ยกมือ/ncn กุม/vt ขมับ/ncn
+"/punc บอก/vt แล้ว/vpost ว่า/conjncl อย่า/neg เสียง/ncn ดัง/adj ใน/prep ห้องสมุด/ncn "/punc
+และ/conj แล้ว/conj การ/pref1 สร้าง/vt ห้องสมุด/ncn บิน/vi ได้/vpost ก็/conj เริ่ม/vi ขึ้น/vpost ใน/prep เช้า/ncn วัน/ncn ต่อ/adv มา/vpost
+วัน/ncn นี้/det เป็น/vcs วัน/ncn หยุด/vt ประจำ/adj สัปดาห์/cl
+คุณ/ntit ยาย/ncn จึง/conj ไม่/neg ได้/prev มา/vi ที่/prep ห้องสมุด/ncn
+หนังสือ/ncn ใน/prep หมวด/ncn วิทยาศาสตร์/ncn
+และ/conj การ/pref1 บิน/vi จับกลุ่ม/vi ปรึกษา/vt กับ/prep วิศวกร/ncn
+นัก/pref2 วิทยาศาสตร์/ncn
+และ/conj นักบิน/ncn ถึง/prep วิธีการ/ncn ดัดแปลง/vt ให้/conjncl ห้องสมุด/ncn สามารถ/prev บิน/vi ขึ้น/vpost ไป/vpost บน/prep ฟ้า/ncn ได้/vpost
+ช่าง/ncn ก่อสร้าง/vt เตรียม/vt วัสดุ/ncn อุปกรณ์/ncn ใน/prep การ/pref1 ก่อสร้าง/vt ร่วม/vt กับ/prep หนังสือ/ncn ใน/prep หมวด/ncn งาน/ncn ช่าง/ncn
+เด็ก/ncn ๆ/punc ช่วย/vt กัน/prec ทำ/vt ความ/pref1 สะอาด/vi และ/conj ซ่อมแซม/vt หนังสือ/ncn เก่า/adj แก่/prep ทั้งหลาย/adj อย่าง/advm1 ทะนุถนอม/adv
+"/punc หิว/vt หรือ/conj ยัง/prev ทุกๆ/adj คน/cl "/punc
+คุณ/pper ป้า/ncn ขาย/vt ข้าวแกง/ncn เข็น/vt รถ/ncn กับข้าว/ncn เข้า/vi มา/vpost
+ใน/prep ภาชนะ/ncn แต่ละ/adj ใบ/ncn เต็ม/vt ไป/vpost ด้วย/prep ข้าว/ncn ปลา/ncn อาหาร/ncn น่า/prev กิน/vt
+"/punc รู้/vt หรือ/conj เปล่า/adv ว่า/conjncl เบื้องหลัง/ncn ความ/pref1 อร่อย/vi ของ/prep ร้าน/ncn ข้าวแกง/npn ประจำเมือง/vi มา/vpost จาก/prep ตำรา/ncn อาหาร/ncn ใน/prep ห้องสมุด/ncn นี้/det "/punc
+"/punc และ/conj ฉัน/pper ก็/conj ยัง/prev มี/vt ความ/pref1 จำเป็น/vi ยิ่ง/adv ป้า/ncn ใกล้/vi ถึง/prep วัย/ncn ขี้/npn หลง/vi ขี้/adv ลืม/vt แล้วด้วย/adv "/punc
+หนังสือ/ncn ตำรา/ncn อาหาร/ncn แซว/vi คุณ/ntit ป้า/ncn ทำให้/vcau ทุก/adj คน/cl หัวเราะ/vt เป็น/advm2 ที่/prel ขบขัน/adv
+หลังจาก/conj กิน/vt อาหาร/ncn กัน/prec อย่าง/advm1 เอร็ดอร่อย/adv แล้ว/vpost ทุก/adj คน/cl ก็/conj ช่วย/vt กัน/prec ทำ/vt งาน/ncn ต่อ/adv
+พวก/nct ช่าง/ncn เริ่ม/vi ลงมือ/vt สร้าง/vt ส่วน/ncn ปีก/ncn ติด/vt ให้/conjncl ห้องสมุด/ncn
+โดย/conj มี/vt วิศวกร/ncn กับ/prep หนังสือ/ncn คู่ใจ/adj ช่วย/vt ออก/vt แบบ/ncn และ/conj ควบคุม/vt ดูแล/vt การ/pref1 สร้าง/vt
+นัก/pref2 วิทยาศาสตร์/ncn กับ/prep ช่างเครื่อง/ncn ยนต์/ncn ได้/prev ช่วย/vt กัน/prec ติด/vt ตั้ง/vt เครื่องยนต์/ncn
+โดย/conj มี/vt หนังสือ/ncn ตำรา/ncn ร่วม/vt ให้/conjncl คำ/ncn ปรึกษา/vt
+ส่วน/conj นักบิน/ncn กำลัง/prev ออก/vt แบบ/ncn ระบบ/ncn ควบคุม/vt การ/pref1 บิน/vi ให้/conjncl คุณ/pper ยาย/ncn สามารถ/prev บังคับ/vt ได้/vpost อย่าง/advm1 สบาย/adv ด้วย/prep ปุ่ม/ncn เพียง/adv ปุ่ม/ncn เดียว/adj
+"/punc ไหน/indet ๆ/punc เรา/pper จะ/prev ทำให้/vcau ห้องสมุด/ncn บิน/vi ได้/vpost แล้ว/vpost เรา/pper ก็/conj ถือโอกาส/vi ซ่อมแซม/vt ตกแต่ง/vt ให้/conjncl สวย/vi งาม/vi ไป/vpost ด้วย/adv เลย/part ดี/vi กว่า/adv "/punc
+หนังสือ/ncn ศิลปะ/ncn ออก/vt ความ/pref1 เห็น/vt
+ทุก/adj คน/cl เห็น/vt ด้วย/adv จึง/conj มอบหมาย/vt ให้/conjncl หนังสือ/ncn ศิลปะ/ncn ช่วย/vt ออก/vt แบบ/ncn และ/conj เลือก/vt สี/ncn
+ชาว/pref3 บ้าน/ncn และ/conj เด็ก/ncn ๆ/punc ช่วย/vt กัน/prec ทาสี/ncn ห้องสมุด/ncn จน/conj สวย/vi งาม/vi
+"/punc น่า/prev จะ/prev มีด/ncn อก/ncn ไม้/ncn ตกแต่ง/vt ให้/conjncl บรรยากาศ/ncn สดชื่น/vi เวลา/ncn อ่าน/vt หนังสือ/ncn ด้วย/adv นะ/part "/punc
+หนังสือ/ncn ภาพ/ncn ดอกไม้/ncn เสนอ/vt
+ชาว/pref3 สวน/ncn รีบ/vi ไป/vpost หาด/ncn อก/ncn ไม้/ncn สวย/adj ๆ/punc
+มา/vpost ตกแต่ง/vt บน/prep โต๊ะ/ncn และ/conj ชั้น/ncn หนังสือ/ncn ทันที/adv
+ทุกๆ/adj คน/cl ช่วย/vt กัน/prec ทำ/vt งาน/ncn คนละ/adj ไม้/ncn คนละ/adj มือ/ncn ตาม/prep ความ/pref1 ถนัด/vt ของ/prep ตน/pper
+เย็น/ncn วัน/ncn นั้น/det ห้องสมุด/ncn ก็/conj ถูก/psm ปรับปรุง/vt จน/conj เสร็จ/vi
+ปีก/ncn และ/conj เครื่องยนต์/ncn ติด/vt ตั้ง/vt พร้อม/vi สำหรับ/conj ทำ/vt การ/pref1 บิน/vi ได้/vpost อย่าง/advm1 ปลอดภัย/vi
+ทั้ง/conjc ภายนอก/ncn และ/conj ภายใน/ncn ตกแต่ง/vt ทาสี/ncn สวย/vi งาม/vi
+มีด/ncn อก/ncn ไม้/ncn สวย/adj ประดับประดา/ncn
+ชั้น/ncn และ/conj ตู้/ncn ใส่/vt หนังสือ/ncn ถูก/psm ซ่อมแซม/vt ให้/conjncl แข็งแรง/vi และ/conj ทาสี/ncn ใหม่/adj
+หนังสือ/ncn ทุก/adj เล่ม/cl ทยอย/vi เดิน/vi เรียง/vt แถว/ncn กัน/prec เข้า/vpost ประจำ/adv ที่/prel ใน/prep หมวด/ncn หมู่/nct ของ/prep ตน/pper เอง/prfx อย่าง/advm1 เป็น/advm2 ระเบียบ/ncn
+ชาว/pref3 บ้าน/ncn ต่าง/pind ทยอย/vi กัน/prec เข้า/vpost มา/vpost ชื่นชม/vt ห้องสมุด/ncn โฉม/ncn ใหม่/adj ที่/prel สำเร็จ/vt ได้/vpost ด้วย/prep ความ/pref1 ร่วมมือ/vi ร่วมใจ/vi ของ/prep ทุก/adj คน/cl
+"/punc ขอบคุณ/vt มาก/adv ครับ/aff ทุกๆ/adj คน/cl "/punc
+หนังสือ/ncn นิทาน/ncn เล่ม/ncn น้อย/vi ออก/vpost มา/vpost ยืน/vi กลาง/prep ห้อง/ncn
+"/punc ขอบคุณ/vt แทน/vt คุณ/ntit ยาย/ncn บรรณารักษ์/npn ขอบคุณ/vt แทน/vt เด็ก/ncn ๆ/punc ที่/prel จะ/prev ได้/prev มี/vt ห้องสมุด/ncn ไว้/vpost อ่าน/vt หนังสือ/ncn ต่อ/adv ไป/vpost "/punc
+"/punc ผม/pper ดีใจ/vi ที่/prel จะ/prev ได้/prev อ่าน/vt หนังสือ/ncn นิทาน/ncn สนุก/adj ๆ/punc อีก/adv "/punc
+เด็กชายผู้/vt เคย/prev ร้องไห้/vi ตอน/ncn ที่/prel รู้/vt ข่าว/ncn ว่า/conjncl จะ/prev ปิด/vt ห้องสมุด/ncn เดิน/vi ออก/vpost มา/vpost
+อุ้ม/vt หนังสือ/ncn นิทาน/ncn ไว้/vpost อย่าง/advm1 ทะนุถนอม/adv
+คุณ/ntit ตา/ncn หนังสือ/ncn ประวัติศาสตร์/ncn ถาม/vt ขึ้น/vpost ว่า/conjncl
+"/punc เด็ก/ncn น้อย/vi ไหน/indet ลอง/vt บอก/vt ตา/ncn หน่อย/adv สิ/part ว่า/conjncl เธอ/pper ได้/prev รับ/vt แรง/ncn บันดาล/vt ใจ/ncn อะไร/indet จาก/prep หนังสือ/ncn บ้าง/adv "/punc
+"/punc ผม/pper อยาก/prev เป็น/vcs นัก/pref2 เขียน/vt นิทาน/ncn ครับ/aff ห้องสมุด/ncn จะ/prev ได้/prev มี/vt นิทาน/ncn ดีๆ/indet สนุก/vi ๆ/punc ให้/vt เด็ก/ncn ๆ/punc ได้/prev อ่าน/vt เรื่อย/adv ไป/vpost ไม่/neg มี/vt วัน/ncn สิ้นสุด/vi "/punc
+พอ/conj สิ้น/adj เสียง/ncn ของ/prep เด็กชายทุก/ncn คนใน/ncn ห้องสมุด/ncn และ/conj หนังสือ/ncn ทุก/adj เล่ม/cl ต่าง/pind พา/vt กัน/prec ปรบ/ncn มือ/ncn ชื่นชม/vt ใน/prep ความ/pref1 สำเร็จ/vi ร่วม/vt กัน/prec เสียง/ncn ดัง/adj สนั่น/npn
+ทุก/adj ใบหน้า/ncn มี/vt แต่/conj รอย/ncn ยิ้ม/vi เบิกบาน/vi
+"/punc ถ้า/conj งั้นพ/ncn วก/vi เรา/pper ขับ/vt ห้องสมุด/ncn บิน/vi ไป/vpost บ้าน/ncn คุณ/pper ยาย/ncn กัน/prec เลย/part "/punc
+นักบิน/ncn ประกาศ/vt
+ทุก/adj คน/cl ส่งเสียง/vi ไชโย/npn พร้อม/vi กัน/prec อีก/adj ครั้ง/cl
+นักบิน/ncn กด/vt ปุ่ม/ncn ที่/prel โต๊ะ/ncn คุณ/pper ยาย/ncn บรรณารักษ์/npn เพียง/adv หนึ่ง/adj ครั้ง/cl
+ปีก/ncn เล็ก/adj ๆ/punc ก็/conj ยื่น/vt ออก/vpost มา/vpost จาก/prep ด้าน/ncn ข้าง/ncn ของ/prep ห้องสมุด/ncn
+เกิด/vt แรง/ncn ขับ/vt ดัน/vt ด้าน/ncn ล่าง/adj ค่อยๆ/adj ยก/vt ตัว/ncn ห้องสมุด/ncn ขึ้น/vpost ช้า/adv ๆ/punc
+ลอย/vi ขึ้น/vpost สู่/prep ท้อง/ncn ฟ้า/ncn เบื้องบน/ncn
+คืน/ncn นั้น/det
+คุณ/ntit ยาย/ncn บรรณารักษ์/npn นอน/vi หลับ/vi พักผ่อน/vi อยู่/vpost บน/prep เตียง/ncn นุ่ม/vi สบาย/adv
+ก่อน/conj หลับ/vi คุณ/ntit ยาย/ncn ยัง/prev นึก/vt เป็น/advm2 ห่วง/vt ห้องสมุด/ncn ว่า/conjncl จะ/prev ไม่/neg มี/vt ใคร/pind ดูแล/vt
+ไม่/neg มี/vex ใคร/pind คอย/vt แนะนำ/vt เด็ก/ncn ๆ/punc ให้/conjncl อ่าน/vt หนังสือ/ncn
+แต่/conj ถ้า/conj คุณ/pper ยาย/ncn ตื่น/vi ขึ้น/vpost มา/vpost ตอน/ncn นี้/det และ/conj มอง/vt ออก/vpost ไป/vpost นอก/prep หน้าต่าง/ncn จะ/prev เห็น/vt ห้องสมุด/ncn หลัง/adj หนึ่ง/adj กาง/vt ปีก/ncn ข้าม/vt ฟ้า/ncn มา/vpost อย่าง/advm1 ช้า/adv ๆ/punc ค่อยๆ/adv ลด/vt ระดับ/ncn ลง/vpost จอด/vi ข้าง/prep หน้าต่าง/ncn ห้อง/ncn คุณ/ntit ยาย/ncn
+สายตา/ncn หลาย/adj สิบ/nnum คู่/cl ของ/prep ชาว/pref3 บ้าน/ncn และ/conj เด็ก/ncn ๆ/punc
+และ/conj สายตา/ncn นับ/vt พัน/nnum ของ/prep หนังสือ/ncn เต็ม/vt ห้องสมุด/ncn ต่าง/adj มอง/vt มายัง/ncn คุณ/ncn ยาย/ncn อย่าง/advm1 ขอบคุณ/vt
+พรุ่งนี้/ncn ตอน/ncn เช้า/ncn
+เด็ก/ncn ๆ/punc จะ/prev ไป/vi ยืน/vi รอ/vt ที่/prel เดิม/adj
+แหงน/vi หน้า/ncn มอง/vt ท้อง/ncn ฟ้า/ncn รอ/vt ให้/conjncl คุณ/pper ยาย/ncn บังคับ/vt ห้องสมุด/ncn บิน/vi ร่อน/vi ลง/vpost บน/prep เนิน/ncn เขา/pper กลาง/adj สวน/ncn ดอกไม้/ncn
+ที่/prel ซึ่ง/prel คุณ/pper ยาย/ncn กับ/prep ห้องสมุด/ncn เล็ก/adj ๆ/punc
+ให้/vcau ความ/pref1 รู้/vt
+ความ/pref1 สุข/vi
+สนุกสนาน/adv
+และ/conj แรง/ncn บันดาล/vt ใจ/ncn แก่/prep ทุก/adj คน/ncn ตลอด/adv มา/vpost

@@ -1,0 +1,55 @@
+ต้นไม้/ncn ร้องไห้/vi
+เด็ก/ncn ๆ/punc
+รู้จัก/vt ต้น/ncn หลิว/vt ไหม/pint จ๊ะ/aff
+หลิว/npn เป็นต้น/part ไม้/ncn ที่/prel มี/vt ใบ/ncn เหมือน/vcs หยด/ncn น้ำตา/ncn
+เรา/pper จึง/conj เรียก/vt มัน/pper ว่า/conjncl
+"/punc ต้นไม้/ncn ร้องไห้/vi "/punc
+กวี/ncn ที่/prel เขียน/vt กลอน/ncn เศร้า/vt ๆ/punc
+จะ/prev ชอบ/vt มัน/pper เป็น/advm2 พิเศษ/adv
+วัน/ncn หนึ่ง/adj
+กวี/ncn หนุ่ม/adj คน/cl หนึ่ง/adj ท่อง/vi บท/ncn กวี/ncn ของ/prep เขา/pper อยู่/vpost ข้าง/prep ถนน/ncn
+แต่/conj โชค/ncn ร้าย/adj ที่/prel ไม่/neg มี/vt ใคร/pind ฟัง/vt เขา/pper เลย/part
+กวี/ncn หนุ่ม/adj เสียใจ/vi มาก/adv
+ความ/pref1 เศร้า/vt ของ/prep เขา/pper เหมือน/adv จะ/prev ทำให้/vcau คน/ncn ทั้ง/adj โลก/ncn ร้องไห้/vi ไป/vpost ด้วย/adv
+เขา/pper ดู/vt น่า/prev กลัว/vt สำหรับ/prep เด็ก/ncn ๆ/punc
+ตอน/ncn เย็น/adj เขา/pper นั่ง/vi อยู่/vpost ใต้/prep ต้น/ncn หลิว/npn ตรง/vi ริม/prep น้ำ/ncn
+เพื่อ/conj แต่ง/vt บท/ncn กวี/ncn โดย/conj อาศัย/vt เรื่อง/ncn เศร้า/vt ที่/prep ใบ/ncn หลิว/ncn แสน/nnum โศก/adj เล่า/vt ให้/conjncl ฟัง/vt
+เย็น/ncn วัน/ncn หนึ่ง/adj
+เขา/pper นั่ง/vi อยู่/vpost ตรง/adv ที่/prel ประจำ/vt ใต้/prep ต้น/ncn หลิว/npn
+รู้สึก/vi เศร้า/vt เกิน/adv กว่า/adv จะ/prev เขียน/vt บท/ncn กวี/ncn
+ต้น/ncn หลิว/npn รู้สึก/vi สงสาร/vt เขา/pper มาก/adv
+"/punc จะ/prev ว่า/vt ไป/vpost แล้ว/vpost "/punc
+ต้น/ncn หลิว/npn พูด/vt ขึ้น/vpost
+"/punc เขา/pper มา/vi หา/vt แรง/ncn บันดาล/vt ใจ/ncn อยู่/vpost ใกล้/adv ๆ/punc ฉัน/pper ฉัน/pper น่า/prev จะ/prev ต้อง/prev รับผิดชอบ/vt ใน/prep สิ่ง/ncn ที่/prel เกิด/vt ขึ้น/vpost แก่/prep เขา/pper เหมือน/vcs กัน/prec ฉัน/pper อยาก/prev จะ/prev ช่วย/vt แต่/conj ไม่/neg รู้/vt จะ/prev ทำ/vt อย่างไร/pint ดี/adv "/punc
+นกกระจอก/ncn ตัว/ncn หนึ่ง/adj บิน/vi มา/vpost เกาะ/ncn พัก/vi อยู่/vpost ที่/prep กิ่ง/ncn หลิว/npn
+"/punc ฉัน/pper รู้/vt ว่า/conjncl เธอ/pper จะ/prev ช่วย/vt เพื่อน/ncn ของ/prep เธอ/pper ได้/vpost อย่างไร/pint "/punc
+นก/ncn พูด/vt ขึ้น/vpost
+"/punc ทำ/vt อย่างไร/pint ล่ะ/part "/punc
+ต้น/ncn หลิว/npn ถาม/vt
+"/punc เธอ/pper ให้/vt แรง/ncn บันดาล/vt ใจ/ncn แก่/prep เขา/pper เธอ/pper ก็/conj ป้อน/vt ความ/pref1 คิด/vt ที่/prel สนุกสนาน/vi รื่นเริง/vi ให้/conjncl เขา/pper แทนที่จะ/conj ให้/vt ความ/pref1 คิด/vt ที่/prel โศก/adj เศร้า/vt สิ/part "/punc
+"/punc เธอ/pper ไม่/neg รู้/vt หรือ/conj ว่า/conjncl ฉัน/pper เป็นต้น/part หลิว/vi ร้องไห้/vi ฉัน/pper เปลี่ยน/vt ไม่/neg ได้/vpost หรอก/part "/punc
+"/punc ได้/vpost สิ/part แม้/conj ว่า/conjncl ธรรมชาติ/ncn สร้าง/vt ให้/conjncl เธอ/pper มี/vt ลักษณะ/ncn โศก/adj เศร้า/vt แต่/conj เธอ/pper เปลี่ยนแปลง/vt ตัว/ncn เอง/prfx ได้/vpost ถ้า/conj เธอ/pper ตั้งใจ/vi จริง/adv ลืม/vt เรื่อง/ncn ที่/prel เธอ/pper เป็นต้น/part หลิว/vi ร้องไห้/vi เสีย/vpost แล้ว/vpost เป็นต้น/part หลิว/ncn หัวเราะ/vt ให้/vt ได้/vpost "/punc
+นกกระจอก/vt ว่า/conjncl
+"/punc ฉัน/pper จะ/prev พยายาม/vi "/punc
+ต้น/ncn หลิว/npn พูด/vt
+นกกระจอก/npn เล่า/vt เรื่องราว/ncn มากมาย/adv ที่/prel มัน/pper ได้ยิน/vt ระหว่าง/prep การ/pref1 เดินทาง/vi ให้/prep ต้น/ncn หลิว/npn ฟัง/vt
+แต่ละ/adj เรื่อง/ncn สนุกสนาน/adj จน/conj ต้น/adj หลิว/ncn อด/vt หัวเราะ/vt ไม่/neg ได้/vpost
+ใบ/ncn ที่/prel มี/vt รูปร่าง/ncn เหมือน/vcs หยด/ncn น้ำตา/ncn สั่น/vt ไหว/adv อย่าง/advm1 ลังเล/vi ใน/prep ตอน/ncn แรก/adj
+มัน/pper ไม่/neg เคย/prev ชิน/npn กับ/prep การ/pref1 หัวเราะ/vt นี่/det
+แต่/conj อารมณ์ขัน/vi ของ/prep นกกระจอก/ncn ก็/conj เอาชนะ/vt มัน/pper ได้/vpost
+สาย/ncn ลม/ncn ที่/prel พัด/vi ผ่าน/vt ใบ/ncn หลิว/ncn ทำให้/vcau เกิด/vt เสียง/ncn เพลง/ncn ที่/prel ร่าเริง/vi มาก/adv ระ/npn ทบ/vt หู/ncn ของ/prep กวี/ncn
+เขา/pper ไม่/neg เข้าใจ/vt เลย/part ว่า/conjncl ทำไม/pint ต้น/ncn หลิว/npn ซึ่ง/prel เป็นต้น/part ไม้/ncn แห่ง/prep ความ/pref1 โศก/adj เศร้า/vt
+ถึง/prep ส่งเสียง/vi เพลง/ncn ที่/prel มี/vt ชีวิตชีวา/adv เช่น/conjncl นี้/det
+วัน/ncn รุ่ง/vi ขึ้น/vpost
+ดวง/ncn อาทิตย์/npn ที่/prel ร่าเริง/vi ก็/conj ปลุก/vt ให้/conjncl โลก/ncn ตื่น/vi ขึ้น/vpost
+นกกระจอก/npn บิน/vi เข้า/vi เมือง/ncn เพื่อ/conj หา/vt อาหาร/ncn ตาม/advm5 ปกติ/adv
+ต้น/ncn หลิว/npn ยืน/vi นิ่ง/vi สงบ/vi
+ยัง/prev คง/prev สงสัย/vt ที่/prep ตัว/ncn เอง/prfx ไม่/neg ได้/vpost เป็นต้น/part ร้องไห้/vi อีก/adv แล้ว/vpost
+ส่วน/conj กวี/ncn หนุ่ม/adj นั้น/det เมื่อ/conj ถูก/psm แสง/ncn แดด/ncn ปลุก/vt ให้/conjncl ตื่น/vi
+ก็/conj ออก/vi เดิน/vi เข้า/vi เมือง/ncn ไป/vpost ท่อง/vi บท/ncn กวี/ncn ใหม่/adj ๆ/punc
+ของ/prep เขา/pper
+บท/ncn กวี/ncn ที่/prel สนุกสนาน/vi
+พูด/vt ถึง/prep แต่/conj เรื่อง/ncn ที่/prel น่า/prev เบิกบาน/vi ใจ/ncn
+เมื่อ/conj ทุก/adj คน/cl ได้ยิน/vt ก็/conj แทบ/prev ไม่/neg เชื่อ/vt หู/ncn ตัว/ncn เอง/prfx
+พวก/nct เขา/pper ถาม/vt กวี/ncn หนุ่ม/adj ว่า/conjncl ได้/prev รับ/vt แรง/ncn บันดาล/vt ใจมา/adv จาก/prep ไหน/pind
+กวี/ncn หนุ่ม/adj ยิ้ม/vi แต่/conj ไม่/neg ได้/prev พูด/vt อะไร/pint

@@ -1,0 +1,45 @@
+ของขวัญ/ncn ของ/prep มาร์ติน/npn
+วัน/ncn นี้/det เป็น/vcs วัน/ncn เกิด/vt ของ/prep มาร์ติน/npn
+เธอ/pper บอก/vt กับ/prep คุณ/pper ปู่/ncn ของ/prep เธอ/pper ว่า/conjncl
+"/punc คุณ/pper ปู่/ncn คะ/vt หนู/ncn อยาก/vt ได้/vpost นาฬิกา/ncn เป็น/vcs ของขวัญ/ncn วัน/ncn เกิด/vt ค่ะ/aff "/punc
+คุณ/ntit ปู่/ncn ได้/prev ฟัง/vt ก็/conj ยิ้ม/vi
+เพราะ/conj รู้/vt ว่า/conjncl เด็ก/ncn ห้า/nnum ขวบ/cl อย่าง/prep มาร์ติน/npn ไม่/neg จำเป็น/vi ต้อง/prev ใช้/vt ของ/prep ที่/prel มี/vt ราคา/ncn แพง/adj อย่าง/prep นาฬิกา/ncn
+แต่/conj คุณ/ntit ปู่/ncn ก็/conj ไม่/neg ได้/prev ตอบ/vt อะไร/pint
+เพียง/adv แต่/conj จับ/vt มือ/ncn ของ/prep เธอ/pper ไว้/vpost และ/conj พูด/vt ว่า/conjncl
+"/punc ไป/vt มาร์ติน/npn ไป/vpost เดิน/vi เล่น/vt กับ/prep ปู่/ncn แล้ว/vpost หนู/pper จะ/prev เข้าใจ/vt "/punc
+มาร์ติน/npn ดีใจ/vi มาก/adv เพราะ/conj เธอ/pper ชอบ/vt ไป/vpost เดิน/vi เล่น/vt กับ/prep คุณ/ntit ปู่/ncn
+คุณ/pper ปู่/ncn จูงมือ/vt มาร์ติน/npn เดิน/vi ออก/vpost จาก/prep บ้าน/ncn ไป/vpost
+มาร์ติน/npn สงสัย/vt ว่า/conjncl คุณ/ntit ปู่/ncn จะ/prev พา/vt เธอ/pper ไป/vpost ไหน/pint
+แล้ว/conj ทั้ง/adj สอง/nnum ก็/conj เดิน/vi มา/vpost ถึง/prep สถานี/ncn รถ/ncn ประจำ/vt ทาง/ncn
+ที่/prel นั่น/det มี/vt รถ/ncn ประจำ/vt ทาง/ncn มากมาย/adv จอด/vi อยู่/vpost
+แล้ว/conj มาร์ติน/npn ก็/conj เห็น/vt ผู้ชาย/ncn คน/ncn หนึ่ง/adj ท่าทาง/ncn เคร่งเครียด/vi
+เขา/pper สวม/vt เสื้อ/ncn ผ้า/ncn สี/ncn น้ำเงิน/adj เข้ม/adj
+ทุก/adj ครั้ง/cl ที่/prel มี/vt รถ/ncn เข้า/vi มา/vpost เขา/pper ก็/conj จะ/prev ดู/vt เวลา/ncn แล้ว/vpost จด/vt ลง/vpost สมุด/ncn ของ/prep เขา/pper
+บาง/adj ครั้ง/cl เขา/pper ก็/conj เรียก/vt คน/ncn ขับ/vt มา/vpost ดุ/adv
+"/punc ทำไม/pint เขา/pper ต้อง/prev โมโห/vi ด้วย/prep คะ/ncn คุณ/pper ปู่/ncn "/punc
+เธอ/pper ถาม/vt คุณ/pper ปู่/ncn อย่าง/advm1 สงสัย/vt
+"/punc หลาน/ncn เอ๋ย/int ผู้ชาย/ncn คน/cl นั้น/det เป็น/vcs นายตรวจ/ncn เขา/pper มีหน้า/vi ที่/prel ดูแล/vt ให้/conjncl รถ/ncn เข้า/vi ออก/vpost ตาม/prep เวลา/ncn ที่/prel กำหนด/vt เห็น/vt ไหม/pint ว่า/conjncl เขา/pper ต้อง/prev ดู/vt นาฬิกา/ncn อยู่/vpost ตลอด/adv เลย/part ถ้า/conj รถ/ncn คัน/cl ไหน/indet มา/vpost ช้า/adv เขา/pper ก็/conj ต้อง/prev ตำหนิ/vt คน/ncn ขับ/vt และ/conj คน/ncn ขับ/vt รถ/ncn แต่ละ/adj คน/cl ก็/conj ต้อง/prev คอย/vt ดู/vt นาฬิกา/ncn อยู่/vpost ตลอด/adv เหมือน/adv กัน/prec เพื่อ/conj ไม่/neg ให้/vt มา/vpost ช้า/adv "/punc
+มาร์ติน/npn คิด/vt ใน/prep ใจ/ncn ว่า/conjncl นายตรวจ/ncn คน/cl นั้น/det ช่าง/prev น่า/prev สงสาร/vt เสีย/vpost จริง/adv ที่/prel ต้อง/prev อารมณ์/ncn เสีย/vpost ตลอด/adv เวลา/ncn
+"/punc ไป/vi เถอะ/part เรา/pper ไป/vpost ที่/prep ถนน/ncn ใหญ่/vi กัน/prec "/punc
+คุณ/pper ปู่/ncn บอก/vt
+บน/prep ทาง/ncn เดิน/vi มี/vt ผู้คน/ncn มากมาย/adv
+ทุก/adj คน/cl ดู/vt เร่งรีบ/vt และ/conj ไม่/neg มี/vt ความ/pref1 สุข/vi
+บาง/adj คน/cl ดู/vt เวลา/ncn แล้ว/vpost ทำ/vt หน้า/ncn เครียด/vi
+"/punc ตาย/vi แล้ว/vpost ฉัน/pper ต้อง/prev ไป/vpost ไม่ทัน/adv แน่/adv ๆ/punc "/punc
+มาร์ติน/npn ได้ยิน/vt ผู้ใหญ่/ncn คน/cl หนึ่ง/adj พูด/vt
+คุณ/pper ปู่/ncn พา/vt เธอ/pper ข้าม/vt ถนน/ncn ไป/vpost อีก/adv ฝั่ง/cl หนึ่ง/adj
+ที่/prel นั่น/pdem เธอ/pper ก็ได้/part ยิน/npn ผู้หญิง/ncn อีก/adj คน/cl หนึ่ง/adj พูด/vt เด็ก/ncn ผู้ชาย/ncn ตัว/ncn เล็ก/adj ๆ/punc ว่า/conjncl
+"/punc เร็ว/adv ๆ/punc สิ/part แม่/ncn ต้อง/prev ไม่/neg รับ/vt น้อง/ncn ที่/prel โรงเรียนอนุบาลอีกนะ/npn "/punc
+แล้ว/conj ผู้หญิง/ncn คน/cl นั้น/det ก็/conj ก้ม/vi ดู/vt นาฬิกา/ncn ที่/prel ข้อ/ncn มือ/ncn
+"/punc เดี๋ยว/adv ก็/conj ไม่ทัน/vi กัน/prec พอดี/adv "/punc
+จาก/prep นั้น/det ปู่/ncn ก็/conj พา/vt เธอ/pper มา/vpost ที่/prep ห้องสมุด/ncn
+แต่/conj เมื่อ/prep ไป/vpost ถึง/adv
+เจ้าหน้าที่/ncn ก็/conj ชี้/vt ไป/vpost ที่/prep นาฬิกา/ncn เรือน/ncn ใหญ่/adj แล้ว/vpost บอก/vt ว่า/conjncl
+"/punc หก/nnum โมง/cl เย็น/vi แล้ว/vpost ห้องสมุด/ncn ปิด/vt แล้ว/vpost ครับ/aff "/punc
+คุณ/ntit ปู่/ncn จึง/conj พา/vt มาร์ตินก/vt ลับ/adj บ้าน/ncn
+ระหว่าง/prep ทาง/ncn มี/vt ชาย/ncn คน/cl หนึ่ง/adj เดิน/vi ผิวปาก/vi อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
+มาร์ตินม/ncn อง/ncn ที่/prel ข้อ/ncn มือ/ncn ทั้ง/adj สอง/nnum ข้าง/cl ของ/prep เขา/pper แล้ว/vpost พูด/vt ว่า/conjncl
+"/punc ผู้ชาย/ncn คน/cl นั้น/det ท่าทาง/ncn มี/vt ความ/pref1 สุข/vi จัง/adv นะ/part คะ/aff คุณ/pper ปู่/ncn แล้ว/vpost เขา/pper ก็/conj ไม่/neg ได้/prev สวม/vt นาฬิกา/ncn ด้วย/adv "/punc
+"/punc ถูก/vi แล้ว/vpost ละ/adj หลาน/ncn เขา/pper สบาย/vi ใจ/ncn เพราะ/conj ไม่/neg ต้อง/prev คอย/vt คิด/vt เรื่อง/ncn เวลา/ncn อยู่/vpost ตลอด/adv เหมือน/adv คน/cl อื่นๆ/indet "/punc
+"/punc หนู/pper เข้าใจ/vt แล้ว/vpost ค่ะ/aff ตอน/ncn นี้/det หนู/pper ไม่/neg อยาก/prev ได้/vt นาฬิกา/ncn แล้ว/vpost ละ/part ค่ะ/aff "/punc
+เธอ/pper บอก/vt คุณ/pper ปู่/ncn แล้ว/vpost ทั้ง/adj สอง/nnum ก็/conj พา/vt กัน/prec เดิน/vi กลับ/vi บ้าน/ncn อย่าง/advm1 มี/vt ความ/pref1 สุข/vi
