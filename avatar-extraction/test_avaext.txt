@@ -1,0 +1,334 @@
+Add <PPER>
+เนิน
+เขา
+ตาข่าย
+พื้น
+เสียง
+เธ•เธฑเธง
+หนู
+ราชสีห์
+มัน
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 152
+len np 152 len avatar  8
+เนิน
+เขา
+ตาข่าย
+เสียง
+เธ•เธฑเธง
+หนู
+ราชสีห์
+มัน
+>>> ava_extract(f3,4)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 152
+len np 152 len avatar  7
+เนิน
+เขา
+ตาข่าย
+เธ•เธฑเธง
+หนู
+ราชสีห์
+มัน
+Add <NCN><PPER>
+>>> f3 = open('wordpos//tale3.txt').read()
+>>> ava_extract(f3,2)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 152
+len np 152 len avatar  9
+เนิน
+เขา
+ตาข่าย
+พื้น
+เสียง
+เธ•เธฑเธง
+หนู
+ราชสีห์
+มัน
+>>> ava_extract(f3,3)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 152
+len np 152 len avatar  8
+เนิน
+เขา
+ตาข่าย
+เสียง
+เธ•เธฑเธง
+หนู
+ราชสีห์
+มัน
+>>> ava_extract(f3,4)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 152
+len np 152 len avatar  7
+เนิน
+เขา
+ตาข่าย
+เธ•เธฑเธง
+หนู
+ราชสีห์
+มัน
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>> f8 = open('wordpos//tale8.txt').read()
+>>> ava_extract(f8,2)
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 182
+len np 182 len avatar  15
+เขา
+คน
+ขวาน
+โชค
+เฮอร์มีส
+น้ำ
+เทพเจ้า
+แม่น้ำ
+เธ•เธฑเธง
+พระองค์
+ไม้
+ทองคำ
+เธกเธทเธญ
+หน้า
+ต้นไม้
+>>> ava_extract(f8,3)
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 182
+len np 182 len avatar  11
+เขา
+คน
+ขวาน
+เฮอร์มีส
+น้ำ
+เทพเจ้า
+แม่น้ำ
+พระองค์
+ไม้
+ทองคำ
+เธกเธทเธญ
+>>> ava_extract(f8,4)
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 182
+len np 182 len avatar  9
+เขา
+คน
+ขวาน
+เฮอร์มีส
+น้ำ
+เทพเจ้า
+พระองค์
+ไม้
+เธกเธทเธญ
+สลับลำดับ กฎ
+>>> f8 = open('wordpos//tale8.txt').read()
+>>> ava_extract(f8,2)
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 153
+len np 153 len avatar  11
+เขา
+ขวาน
+โชค
+เฮอร์มีส
+น้ำ
+เทพเจ้า
+แม่น้ำ
+เธ•เธฑเธง
+พระองค์
+คนตัดไม้
+เธกเธทเธญ
+>>> ava_extract(f8,3)
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 153
+len np 153 len avatar  9
+เขา
+ขวาน
+เฮอร์มีส
+น้ำ
+เทพเจ้า
+แม่น้ำ
+พระองค์
+คนตัดไม้
+เธกเธทเธญ
+>>> ava_extract(f8,4)
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 153
+len np 153 len avatar  8
+เขา
+ขวาน
+เฮอร์มีส
+น้ำ
+เทพเจ้า
+พระองค์
+คนตัดไม้
+เธกเธทเธญ
+>>> f3 = open('wordpos//tale3.txt').read()
+>>> ava_extract(f3,2)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 139
+len np 139 len avatar  8
+พื้น
+เสียง
+เธ•เธฑเธง
+หนู
+ราชสีห์
+ตาข่าย
+มัน
+เนินเขา
+>>> ava_extract(f3,3)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 139
+len np 139 len avatar  6
+เธ•เธฑเธง
+หนู
+ราชสีห์
+ตาข่าย
+มัน
+เนินเขา
+>>> ava_extract(f3,4)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 139
+len np 139 len avatar  5
+เธ•เธฑเธง
+หนู
+ราชสีห์
+มัน
+เนินเขา
+len of sentences 50
+len of sentences after remove punc 43
+list np len: 62
+len np 62 len avatar  4
+เธอ
+แม่
+ลม
+ยายแห้ง
+>>> ava_extract(tale17,3)
+len of sentences 50
+len of sentences after remove punc 43
+list np len: 62
+len np 62 len avatar  2
+เธอ
+ยายแห้ง
+>>> ava_extract(tale17,4)
+len of sentences 50
+len of sentences after remove punc 43
+list np len: 62
+len np 62 len avatar  2
+เธอ
+ยายแห้ง
+>>> f3 = open('wordpos//tale3.txt').read()
+>>> ava_extract(f3,2)
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 133
+len np 133 len avatar  7
+พื้น
+เธ•เธฑเธง
+หนู
+ราชสีห์
+ตาข่าย
+มัน
+เนินเขา
+>>> f8 = open('wordpos//tale8.txt').read()
+>>> ava_extract(f8,2)
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 145
+len np 145 len avatar  9
+เขา
+ขวาน
+เฮอร์มีส
+น้ำ
+แม่น้ำ
+เธ•เธฑเธง
+พระองค์
+คนตัดไม้
+เธกเธทเธญ
+>>> tale24 = open('wordpos//tale24.txt').read()
+>>> ava_extract(tale24,2)
+len of sentences 50
+len of sentences after remove punc 46
+list np len: 104
+len np 104 len avatar  8
+สัตว์
+เขา
+สร้อยคอ
+เจ้านกเขา
+ปลอกคอ
+เธ•เธฑเธง
+มัน
+นกเขา
+>>> tale31 = open('wordpos//tale31.txt').read()
+>>> ava_extract(tale31,2)
+len of sentences 99
+len of sentences after remove punc 66
+list np len: 104
+len np 104 len avatar  12
+เนิน
+เสื้อ
+พ่อ
+ม้า
+ทุ่ง
+เธคเธ”เธน
+อก
+เจ้าลา
+เจ้า
+แม่
+มัน
+เธอ
+>>> tale32 = open('wordpos//tale32.txt').read()
+>>> ava_extract(tale32,2)
+len of sentences 33
+len of sentences after remove punc 28
+list np len: 58
+len np 58 len avatar  6
+ชาวบ้าน
+เธชเธต
+สุนัขจิ้งจอก
+จิ้งจอก
+เธ•เธฑเธง
+มัน
+>>> tale33 = open('wordpos//tale33.txt').read()
+>>> ava_extract(tale33,2)
+len of sentences 62
+len of sentences after remove punc 49
+list np len: 104
+len np 104 len avatar  9
+แมลงหวี่
+พ่อ
+แมงมุม
+ขณะ
+เธ•เธฑเธง
+มัน
+นก
+แม่
+นกนางแอ่น
+>>> tale34 = open('wordpos//tale34.txt').read()
+>>> ava_extract(tale34,2)
+len of sentences 92
+len of sentences after remove punc 82
+list np len: 171
+len np 171 len avatar  12
+วัน
+คำ
+จดหมาย
+เน€เธงเธฅเธฒ
+บุรุษไปรษณีย์
+คุณยาย
+ลูกสาว
+พ่อ
+เธอ
+จู้จี้
+เธฅเธนเธญเธดเธช
+เขา

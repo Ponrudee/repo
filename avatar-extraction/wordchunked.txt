@@ -1,0 +1,144 @@
+นกกระสา/NP(ncn npn) กับ/prep หมาจิ้งจอก/npn
+มี หมาจิ้งจอก/ncn จอมเจ้าเล่ห์ตัวหนึ่ง/NP(ncn ncn ncn adj) อาศัย/vi อยู่/vpost ใน/prep ป่า/ncn ใกล้/prep ทะเลสาบ/ncn
+มัน ขึ้นชื่อ/vi เรื่องการก/NP(ncn ncn) ลั่น/vt แกล้ง/vi ผู้/ncn อื่น/indet
+บรรดา สัตว์ในป่าแห่งนี้/NP(ncn prep ncn cl det) ต่าง/pind รู้/vt กิตติศัพท์ของมัน/NP(ncn prep pper) เป็น/advm2 อย่าง/advm1 ดี/adv
+จึง ไม่/neg มี/vt สัตว์ตัวไหน/NP(ncn ncn indet) จะ/prev หลงกล/vi มัน/pper อีก/adv ต่อ/adv ไป/vpost
+บ่าย วัน/ncn หนึ่ง/adj
+หมาจิ้งจอก เห็น/vt นกกระสา/NP(ncn npn) บิน/vi ร่อน/vi ลง/vpost มา/vpost ที่/prel ริม/prep ทะเลสาบ/ncn
+" เรา/pper มี/vt ผู้/pref2 มา/vi เยือน/vt หน้าใหม่ละ/NP(ncn adj adj) "/punc
+หมาจิ้งจอก คุย/vi กับ/prep กระรอก/ncn ที่/prel วิ่ง/vi ไป/vpost มา/vpost อยู่/vpost บน/prep กิ่งไม้/NP(ncn ncn) เหนือ/prep ศีรษะ/ncn
+" ข้า/pper ว่า/conjncl ข้า/pper จะ/prev ไป/vpost แนะนำ/vt เธอ/pper ให้/conjncl รู้จัก/vt ดิน/ncn แดนแห่งนี้/NP(ncn cl det) สัก/advm4 หน่อย/adv "/punc
+" คิด/vt หรือ/conj ว่า/conjncl เจ้า/pper จะ/prev หลอก/vi นกกระสา/NP(ncn npn) ได้/vpost "/punc
+กระรอก เตือน/vt
+" นกกระสา/NP(ncn npn) น่ะฉลาด/vi มาก/adv เลย/part นะ/part ไม่/neg หลงกล/vi เจ้า/pper ง่ายๆ/adv หรอก/part "/punc
+" พวกเจ้า/NP(nct ncn) คิด/vt อย่าง/cl นั้น/det หรือ/pint "/punc
+หมาจิ้งจอก พูด/vt
+" งั้น/det ก็/conj คอย/vt ดู/vt ละ/adj กัน/prec "/punc
+มัน เดิน/vi ทอดน่อง/vi ออก/vpost จาก/prep หมู่ไม้เข้าไป/NP(nct ncn adj) หานกก/NP(ncn npn) ระ/npn สา/npn
+" สวัสดี/vi ตอนบ่ายจ้ะ/NP(ncn ncn npn) "/punc
+หมาจิ้งจอก ทัก/npn อย่าง/advm1 สุภาพ/adv
+" สวัสดี/vi ตอนบ่าย/NP(ncn ncn) "/punc
+นก กระสา/npn ตอบ/vt
+" ข้า/pper ไม่/neg เคย/prev เห็น/vt เจ้า/ncn มา/vpost ก่อน/adv เลย/part "/punc
+หมาจิ้งจอก พูด/vt ด้วย/prep ท่าที/ncn เป็น/advm2 กันเอง/adv
+" เจ้า/pper เพิ่ง/prev มา/vi ที่/prel นี่/pdem เป็น/vcs ครั้ง/cl แรก/adj หรือ/conj "/punc
+" ใช่/vt แล้ว/vpost "/punc
+นก กระสา/npn ตอบ/vt
+" จริงๆ/adv แล้ว/vpost ข้า/pper บิน/vi มา/vpost ตั้ง/vt ไกล/vi แน่ะ/int ข้า/pper แค่/adv มา/vpost หยุด/vi ที่/prel นี่/det เพื่อ/conj พักผ่อน/vi สัก/advm4 สอง/nnum สาม/nnum วันน่ะ/part "/punc
+" จริง/adv หรือ/pint "/punc
+หมาจิ้งจอก ตอบ/vt
+" งั้น/det ให้/conjncl ข้า/pper ได้/prev ต้อนรับ/vt เจ้า/ncn ก่อน/conj ผู้อื่น/NP(ncn indet) ก็/conj แล้วกัน/npn "/punc
+มัน เอียง/vi ศีรษะ/ncn ไป/vpost ข้าง/cl หนึ่ง/adj แล้ว/vpost ยิ้ม/vi กว้าง/vi อย่าง/advm1 เจ้าเล่ห์/vi
+" ใน/prep ป่าแถว/NP(ncn ncn) นี้/det เรา/pper มัก/prev จะ/prev แบ่ง/vt อาหาร/ncn ให้/vcau ผู้/pref2 มา/vi ใหม่/adv เสมอ/adv งั้น/det ข้า/pper ขอ/vt เชิญ/vt เจ้า/ncn ไป/vpost กิน/vt อาหารเย็น/NP(ncn adj) ที่/prel บ้าน/ncn ข้า/pper ก็/conj แล้วกัน/npn "/punc
+นก กระสา/npn แสดง/vt ความ/pref1 ดีใจ/vi
+" ขอบคุณ/vt เจ้าใจดี/NP(ncn adj) มาก/adv เลย/part "/punc
+" ข้า/pper ขอตัว/ncn ไป/vpost เตรียม/vt อาหาร/ncn ให้/conjncl พร้อม/vi ก่อน/adv "/punc
+หมาจิ้งจอก พูด/vt
+" ไว้/vpost อีก/adv สัก/advm4 ชั่วโมงเจ้า/NP(ncn adj) ค่อย/prev แวะ/vi มานะ/npn "/punc
+" ได้/vt จ้ะ/part "/punc
+นก กระสา/npn ผงก/vt หัว/ncn
+" ประตูบ้าน/NP(ncn ncn) ข้า/pper อยู่/vi ใต้/prep ต้นโอ๊กใหญ่/NP(ncn ncn adj) นะ/part "/punc
+หมาจิ้งจอก พูด/vt
+แล้ว มัน/pper ก็/conj วิ่ง/vi เหยาะๆ/adv
+เข้าไป ใน/prep ป่า/ncn
+เมื่อ ได้/vt เวลานกกระสา/NP(ncn ncn npn) มา/vpost กิน/vt อาหารเย็น/NP(ncn adj) ด้วย/adv
+หมาจิ้งจอก ก็/conj แสดง/vt ท่าที/ncn ยินดี/vi อย่าง/advm1 เคย/vi
+" ยินดี/vi ต้อนรับ/vt "/punc
+มัน พูด/vt
+แล้ว นำ/vt จานก้นแบน/NP(ncn ncn adj) ขนาดใหญ่ใส่ซุป/NP(ncn adj vt ncn) ผักควัน/NP(ncn ncn) หอม/vi ฉุย/vi ออก/vpost มา/vpost ต้อนรับ/vt
+" เป็น/vcs ธรรมเนียมของเรา/NP(ncn prep pper) ที่/prel จะ/prev ต้อง/prev กิน/vt จาก/prep จานใบเดียวกัน/NP(ncn ncn adj) "/punc
+หมาจิ้งจอก พูด/vt
+พร้อม กับ/prep วาง/vt จาน/ncn ลง/vpost บน/prep โต๊ะ/ncn
+" เจ้า/pper ไม่/neg ว่า/conjncl อะไร/pint ใช่/vi ไหม/pint "/punc
+" แน่นอน/adv "/punc
+นก กระสา/npn จุ่ม/vt ปาก/ncn ลง/vpost ไป/vpost ใน/prep ซุป/ncn เพื่อ/conj ชิม/vt ดู/vt
+แต่ เพราะ/conj จานตื้น/NP(ncn adj) มาก/adv และ/conj ปากของ/vt มัน/pper ก็/conj ยาว/vi เกินไป/adv
+มัน จึง/conj ได้/prev แต่/conj ชิม/vt แค่/adv น้ำซุป/NP(ncn ncn) หยด/vi น้อย/adv ๆ/punc
+เท่านั้น เอง/prfx
+ขณะ ที่/prel หมาจิ้งจอก/vt ใช้/vt ลิ้นเลียน้ำ/NP(ncn vt ncn) ซุป/ncn
+นก กระสา/npn มอง/vt ดู/vt อย่าง/advm1 ไม่/neg มี/vt ความ/pref1 สุข/vi
+เมื่อ หมาจิ้งจอก/ncn ตั้งหน้าตั้งตา/vi เลีย/vt เอา/vt
+เลีย เอา/vt
+" โอ้/pper อร่อย/vi ชะมัด/adv "/punc
+หมาจิ้งจอก พึมพำ/npn
+" ขนาด/ncn ข้า/pper ยัง/prev อด/vt พูด/vt เอง/prfx ไม่/neg ได้/vpost เลย/part "/punc
+มัน ชายตา/vi มอง/vt นก/ncn กระสา/npn
+" เจ้า/pper ไม่/neg หิว/vt หรือ/pint "/punc
+หมาจิ้งจอก ยิ้มเยาะ/npn
+แล้ว เลีย/vt ซุป/ncn อีก/adv
+นก กระสา/npn พยายาม/vi จะ/prev กิน/vt ซุป/ncn อีก/adv เล็กน้อย/adv
+มัน จุ่ม/vt ปาก/ncn ลง/vpost ไป/vpost อีก/adv ครั้ง/cl
+แต่ ก็/conj ยัง/prev ตัก/vt อะไร/indet ขึ้น/vpost มา/vpost ไม่/neg ได้/vpost
+มัน พยายาม/vi เอียง/vi ปาก/ncn ไป/vpost ด้านข้าง/NP(ncn ncn) แต่/conj ก็/conj ไม่/neg พอดี/vi จาน/ncn อยู่/vpost เหมือน/adv เดิม/adv
+ยิ่ง หมาจิ้งจอก/vt เลีย/vt ซุป/ncn ไป/vpost มาก/adv เท่าไร/pint
+ซุป ก็/conj ยิ่ง/adv เหลือ/vi น้อย/adv ลง/vpost
+นก กระสา/npn ก็/conj ยิ่ง/prev กิน/vt ไม่/neg ได้/vpost เข้าไป/adv ใหญ่/adv
+มัน มอง/vt หมาจิ้งจอก/ncn เลีย/vt จน/conj เกลี้ยง/vt จาน/ncn ด้วย/prep ความเศร้า/NP(pref1 vt) ใจ/ncn
+เมื่อ หมาจิ้งจอก/ncn จัดการ/vt กับ/prep ซุป/ncn หยด/vi น้อย/adv หยุด/vi สุดท้าย/adv จน/conj เสร็จ/vi สิ้น/vi ก็/conj เอนหลัง/vi แล้ว/vpost ตบ/vt พุงเบา/NP(ncn adj) ๆ/punc
+มัน มอง/vt ใบหน้า/ncn งอ/vi ๆ/punc
+ของ นกกระสา/NP(ncn npn) แล้ว/vpost ยิ้มแป้น/adv
+" เจ้า/pper ไม่/neg ชอบ/vt ซุป/ncn หรือ/conj "/punc
+มัน ถาม/vt
+นก กระสา/npn มอง/vt ใบหน้าของหมาจิ้งจอก/NP(ncn prep ncn) แวบ/vt หนึ่ง/adj
+จึง ได้/prev เข้าใจ/vt ว่า/conjncl มัน/pper ถูก/psm หลอก/vi เสีย/vpost แล้ว/vpost
+แต่ มัน/pper ก็/conj แกล้ง/vi ทำเป็น/adv ซื่อ/adv
+" อร่อย/vi ดี/vi จ้ะ/npn ขอบคุณ/vt มาก/adv เลย/part "/punc
+" ด้วย/prep ความยินดี/NP(pref1 vi) "/punc
+หมาจิ้งจอก ตอบ/vt
+พยายาม ตีหน้า/adv เฉย/adv
+ต่อ มา/vpost ใน/prep คืน/ncn นั้น/det
+เมื่อ นกกระสา/NP(ncn npn) เดิน/vi ลุย/vi น้ำ/ncn ไป/vpost รอบ/ncn ๆ/punc
+ทะเลสาบ จะ/prev จับ/vt ปลาใส่ท้องที่/NP(ncn vt ncn) ว่าง/vi เปล่า/adv
+มัน จึง/conj ขบคิด/vt หา/vt ทางเอาคืน/NP(ncn vt vt) หมาจิ้งจอก/ncn ให้/conjncl ได้/prev จน/vi ใน/prep ที่สุด/adv
+มัน ก็ได้/part ความคิด/NP(pref1 vt) ดีๆ/adv
+ขึ้น มา/vpost
+ใน ตอน/ncn เช้า/ncn
+นก กระสา/npn รีบ/vi ไป/vpost หา/vt หมาจิ้งจอก/ncn
+" ข้า/pper อยาก/prev จะ/prev เชิญ/vt เจ้า/ncn ไป/vpost กิน/vt อาหารกลางวัน/NP(ncn ncn) เพื่อ/conj เป็นการ/ncn ตอบแทน/vt ความมีน้ำใจ/NP(pref1 vt ncn) น่ะจ้ะ/npn "/punc
+นก กระสา/npn พูด/vt
+" งั้น/det หรือ/conj "/punc
+หมาจิ้งจอก มี/vt ท่าทีประหลาด/NP(ncn adj) ใจ/ncn
+" ใช่/vt แล้ว/vpost จ้ะ/part "/punc
+นก กระสา/npn พูด/vt
+" มา/vpost ที่/prep ทะเลสาบตอนบ่าย/NP(ncn ncn ncn) โมง/ncn นะ/part ข้า/pper จะ/prev เตรียม/vt ทุกอย่าง/NP(adj cl) ไว้/vpost ให้/conjncl พร้อม/vi "/punc
+แล้ว นกกระสา/NP(ncn npn) ก็/conj เดิน/vi เข้าไป/adv ใน/prep หมู่/nct ไม้/ncn
+มีเสียง หัวเราะ/vt ดัง/adv ขึ้น/vpost จาก/prep กิ่งไม้ด้าน/NP(ncn ncn ncn) บน/adj
+" ระวัง/vi ตัว/ncn ให้/conjncl ดี/vi ล่ะ/part "/punc
+กระรอก ร้อง/vi บอก/vt
+" นกตัวนั้น/NP(ncn cl det) คง/prev จะ/prev หา/vt ทางเอาคืน/NP(ncn vt vt) แน่/adv "/punc
+หมาจิ้งจอก ส่าย/vt หัว/ncn
+" ไม่/neg มี/vt ใคร/pind จะ/prev เอาชนะ/vt หมาจิ้งจอก/ncn ได้/vpost หรอก/part !/punc "/punc
+บ่าย วัน/cl นั้น/det
+หมาจิ้งจอก มา/vpost ที่/prep ทะเลสาบ/ncn
+เตรียมพร้อม สำหรับ/prep มื้อ/ncn กลางวัน/ncn
+" ใช้/vt ธรรมเนียมของเจ้าที่/NP(ncn prep npn) กิน/vt ซุปจากจาน/NP(ncn prep ncn) เดียวกัน/adj เถอะ/part "/punc
+นก กระสา/npn พูด/vt
+แล้ว มัน/pper ก็/conj หยิบ/vt ไห/ncn ทรง/honm สูง/vi ที่/prel มีคอ/vi ขวดผอม/NP(ncn adj) ยาว/vi ออก/vpost มา/vpost
+" อย่า/neg มัว/adv แต่/conj เกรงใจ/vt ล่ะ/part "/punc
+มัน คะยั้นคะยอ/vt หมาจิ้งจอก/ncn
+" เริ่ม/vi ได้/vpost เลย/part จ้ะ/aff "/punc
+หมาจิ้งจอก มอง/vt ไห/ncn อย่าง/advm1 ไม่/neg แน่ใจ/vi
+มัน ยืน/vi ด้วย/prep ขาหลัง/NP(ncn adj) แล้ว/vpost วาง/vt อุ้ง/vt เท้าหน้า/NP(ncn adj) บน/prep ขอบ/ncn ไห/ncn
+กลิ่น หอมหวน/ncn ลอย/vi มา/vpost จาก/prep ซุป/ncn จน/conj มัน/pper น้ำลายสอ/vi
+มัน ยืด/vt คอ/ncn ขึ้น/vpost
+แต่ ก็/conj ทำได้/vi แค่/adv จุ่ม/vt ปลาย/ncn ลิ้น/vi ลง/vpost ไป/vpost ใน/prep ซุป/ncn เท่านั้น/adv
+นก กระสา/npn โน้ม/vt ตัว/ncn ลง/vpost มา/vpost แล้ว/vpost เลื่อน/vt ปากบางยาวของมัน/NP(ncn adj adj prep pper) ลง/vpost ไป/vpost ใน/prep ไห/ncn
+" อร่อย/vi จัง/adv "/punc
+มัน พูด/vt
+กลืน ซุปคำ/NP(ncn ncn) ใหญ่/adj
+" ขนาด/ncn ข้า/pper ยัง/prev อด/vt พูด/vt เอง/prfx ไม่/neg ได้/vpost เลย/part "/punc
+นก กระสา/npn ยิ้ม/vi ให้/vpost
+หมาจิ้งจอก มอง/vt คอขวด/NP(ncn ncn) อย่าง/advm1 เศร้า/vt ใจ/ncn
+" ไม่/neg หิว/vt หรือ/pint จ๊ะ/aff "/punc
+นก กระสา/npn ถาม/vt อย่าง/advm1 ใส/vi ซื่อ/adv
+หมาจิ้งจอก พยายาม/vi จุ่ม/vi ลิ้น/vi ลง/vpost ไป/vpost ใน/prep ซุปอีก/NP(ncn adj) ครั้ง/cl
+แต่ มัน/pper ก็/conj ไม่/neg สามารถ/vi เข้าไป/adv ถึง/prep ซุป/ncn ได้/vpost เลย/part
+เพราะ นกกระสา/NP(ncn npn) ได้/prev กิน/vt ไป/vpost บาง/adj ส่วน/ncn แล้ว/vpost
+หมาจิ้งจอก เลีย/vt หยดน้ำซุป/NP(ncn ncn ncn) สอง/nnum สาม/nnum หยด/cl ที่/prel กระเด็น/vi ออก/vpost ไป/vpost ด้าน/ncn ข้าง/adj
+แต่ นั่น/pdem ยิ่ง/prev ทำให้/vcau มัน/pper หิว/vt มาก/adv เข้าไป/adv อีก/adv
+มัน นั่ง/vi ลง/vpost แล้ว/vpost มอง/vt นกกระสา/NP(ncn ncn) อย่าง/advm1 ไม่/neg เป็น/advm2 สุข/ncn
+เมื่อ เห็น/vt นกกระสา/NP(ncn npn) จัดการ/vt กับ/prep น้ำซุปหยดสุดท้าย/NP(ncn ncn ncn adj) จน/conj เกลี้ยง/vi
+เสียง หัวเราะ/vt ดัง/adv ขึ้น/vpost จาก/prep ต้นไม้แถว/NP(ncn ncn) นั้น/det
+" สมน้ำหน้า/npn !/punc "/punc
+กระรอก ตำหนิ/vt
+" นกกระสา/NP(ncn npn) ตัว/cl นั้น/det จัดการ/vt กับ/prep เจ้า/ntit ด้วย/prep อุบายเดียว/NP(ncn adj) กับ/prep ที่/prel เจ้า/pper ใช้/vt เลย/part !/punc "/punc

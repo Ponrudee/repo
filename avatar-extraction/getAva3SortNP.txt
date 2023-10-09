@@ -1,0 +1,543 @@
+Python 2.7.5 (default, May 15 2013, 22:43:36) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+>>> get_ava(3)
+wordpos//tale1.txt
+len of sentences 270
+len of sentences after remove punc 188
+list np len: 371
+len np 371 len avatar  13
+àÊÕÂ§
+à¸•à¸±à¸§
+Ë¹éÒµèÒ§
+­ÒµÔ
+ºéÒ¹
+Ë¹Ù¹Ò
+Ã¶ä¿
+¢¹Ò´
+Ë¹Ù
+ÁÑ¹
+âµêÐ
+Ë¹ÙºéÒ¹
+¶¹¹
+===========================
+
+wordpos//tale2.txt
+len of sentences 57
+len of sentences after remove punc 33
+list np len: 51
+len np 51 len avatar  2
+à¨éÒÅÒ
+ÁÑ¹
+===========================
+
+wordpos//tale3.txt
+len of sentences 120
+len of sentences after remove punc 78
+list np len: 133
+len np 133 len avatar  5
+Ë¹Ù
+ÃÒªÊÕËì
+µÒ¢èÒÂ
+ÁÑ¹
+à¹Ô¹à¢Ò
+===========================
+
+wordpos//tale4.txt
+len of sentences 145
+len of sentences after remove punc 96
+list np len: 169
+len np 169 len avatar  8
+·ÐàÅÊÒº
+ËÁÒ¨Ôé§¨Í¡
+»Ò¡
+¹¡¡ÃÐÊÒ
+ÁÑ¹
+¡ÃÐÃÍ¡
+¨Ò¹
+«Ø»
+===========================
+
+wordpos//tale5.txt
+len of sentences 164
+len of sentences after remove punc 123
+list np len: 253
+len np 253 len avatar  14
+¤¹
+«Õ
+à¸•à¸±à¸§
+ÇÑ¹
+¹éÓ¼Öé§
+¾ÃÐÍ§¤ì
+à¸­à¸¸à¸ª
+ÃÑ§
+à¸¡à¸·à¸­
+ÁÑ¹
+à¢Ò
+à·¾à¨éÒ«Õ
+¼Öé§
+ÃÒªÔ¹Õ
+===========================
+
+wordpos//tale6.txt
+len of sentences 175
+len of sentences after remove punc 101
+list np len: 173
+len np 173 len avatar  7
+à¾×èÍ¹
+Ë¹Ù¹Ò
+¿Ò§
+·éÍ§
+àµèÒ
+ÁÑ¹
+¹¡ÍÔ¹·ÃÕ
+===========================
+
+wordpos//tale7.txt
+len of sentences 55
+len of sentences after remove punc 45
+list np len: 73
+len np 73 len avatar  4
+µé¹
+µé¹ÁÐ¡Í¡
+ÁÑ¹
+·Ò§
+===========================
+
+wordpos//tale8.txt
+len of sentences 116
+len of sentences after remove punc 78
+list np len: 145
+len np 145 len avatar  6
+à¢Ò
+¢ÇÒ¹
+àÎÍÃìÁÕÊ
+¹éÓ
+¾ÃÐÍ§¤ì
+¤¹µÑ´äÁé
+===========================
+
+wordpos//tale9.txt
+len of sentences 54
+len of sentences after remove punc 32
+list np len: 51
+len np 51 len avatar  1
+µé¹äÁé
+===========================
+
+wordpos//tale10.txt
+len of sentences 166
+len of sentences after remove punc 102
+list np len: 194
+len np 194 len avatar  7
+ËéÍ§ÊÁØ´
+Ë¹Ñ§Ê×Í¹Ô·Ò¹
+àÊÕÂ§
+¤Ø³
+ËéÍ§
+Ë¹Ñ§Ê×Í
+¹Ñ¡ÇÔ·ÂÒÈÒÊµÃì
+===========================
+
+wordpos//tale11.txt
+len of sentences 93
+len of sentences after remove punc 75
+list np len: 151
+len np 151 len avatar  7
+¤¹
+à¸•à¸±à¸§
+ÇÑ¹
+à¨éÒ´èÒ§
+à¨éÒ
+ÁÑ¹
+ÊÐ¾Ò¹ÅÍÂ
+===========================
+
+wordpos//tale12.txt
+len of sentences 190
+len of sentences after remove punc 141
+list np len: 247
+len np 247 len avatar  12
+ÁÑ¹
+àÊÕÂ§
+à¸•à¸±à¸§
+ã¨
+ËÁÒ¨Ôé§¨Í¡
+àµèÒ
+ªÑÂ
+ÊÑµÇì
+¢³Ð
+ËÍÂ·Ò¡
+¡ÃÐµèÒÂ
+àÊé¹ªÑÂ
+===========================
+
+wordpos//tale13.txt
+len of sentences 93
+len of sentences after remove punc 70
+list np len: 125
+len np 125 len avatar  5
+à¢Ò
+àÊ×éÍ
+ÅÁàË¹×Í
+ÍÒ·ÔµÂì
+ªÒÂ
+===========================
+
+wordpos//tale14.txt
+len of sentences 121
+len of sentences after remove punc 84
+list np len: 169
+len np 169 len avatar  6
+à¸•à¸±à¸§
+à¸¤à¸”à¸¹
+ÀÙà¢Ò
+ÊØ¹Ñ¢ºéÒ¹
+ÁÑ¹
+ËÁÒ»èÒ
+===========================
+
+wordpos//tale15.txt
+len of sentences 121
+len of sentences after remove punc 95
+list np len: 229
+len np 229 len avatar  12
+à¨éÒË­Ô§
+ªÒÇàÁ×Í§
+µØè¹
+à¨éÒªÒÂ
+¾ÃÐÍ§¤ì
+à¸ªà¸µ
+¹éÓ
+´Ô¹
+ÁÑ¹
+à¸ªà¸²à¸¢à¸¥à¸¡
+´Ô¹á´¹
+·ÔÈµÐÇÑ¹µ¡
+===========================
+
+wordpos//tale16.txt
+len of sentences 86
+len of sentences after remove punc 59
+list np len: 107
+len np 107 len avatar  6
+¹éÓ
+¼Ùéà²èÒ
+à¸•à¸±à¸§
+¡º
+ÍèÒ§ºÑÇ
+¡ºµÑÇ
+===========================
+
+wordpos//tale17.txt
+len of sentences 48
+len of sentences after remove punc 41
+list np len: 62
+len np 62 len avatar  2
+ÂÒÂáËé§
+à¸Í
+===========================
+
+wordpos//tale18.txt
+len of sentences 77
+len of sentences after remove punc 65
+list np len: 121
+len np 121 len avatar  5
+à¨éÒáÁ§ÁØÁ
+Í§¤ìË­Ô§
+áÁÅ§
+ãÂ
+ÁÑ¹
+===========================
+
+wordpos//tale19.txt
+len of sentences 103
+len of sentences after remove punc 83
+list np len: 177
+len np 177 len avatar  9
+à¸•à¸±à¸§
+¤Ø³
+¤Ø³ÅØ§
+¾èÍ
+à¸¥à¸µ
+ÅØ§ºÒÊ
+ÁÑ¹
+ÁéÒ
+à¸Í
+===========================
+
+wordpos//tale20.txt
+len of sentences 77
+len of sentences after remove punc 53
+list np len: 90
+len np 90 len avatar  5
+à¢Ò
+à¨éÒ¢Í§¿ÒÃìÁ
+ÃéÒ¹
+à¸ à¸£à¸£à¸¢à¸²
+ÁÑ¹
+===========================
+
+wordpos//tale21.txt
+len of sentences 147
+len of sentences after remove punc 80
+list np len: 134
+len np 134 len avatar  8
+à¢Ò
+¹¡
+ÂìºÍ¡
+à¨éÒ¹¡
+«ÔÅáÇ§
+ºéÒ¹
+¨Ù
+à¸Í
+===========================
+
+wordpos//tale22.txt
+len of sentences 81
+len of sentences after remove punc 52
+list np len: 77
+len np 77 len avatar  5
+à¢Ò
+¨ÍËì¹
+à¨éÒ¹¡
+¤Ø³ÂÒÂ
+ÁÑ¹
+===========================
+
+wordpos//tale23.txt
+len of sentences 53
+len of sentences after remove punc 47
+list np len: 107
+len np 107 len avatar  4
+Ë§Êì
+à¸•à¸±à¸§
+·Í§
+ÁÑ¹
+===========================
+
+wordpos//tale24.txt
+len of sentences 50
+len of sentences after remove punc 46
+list np len: 104
+len np 104 len avatar  7
+ÊÑµÇì
+à¢Ò
+ÊÃéÍÂ¤Í
+à¨éÒ¹¡à¢Ò
+à¸•à¸±à¸§
+ÁÑ¹
+¹¡à¢Ò
+===========================
+
+wordpos//tale25.txt
+len of sentences 93
+len of sentences after remove punc 72
+list np len: 119
+len np 119 len avatar  7
+ÅÔÅÅÕè·Øè§
+à¢Ò
+ªÒÇäÃè
+á¾Ð
+«Ò
+ÁÑ¹
+ÁÒÃìáµ§
+===========================
+
+wordpos//tale26.txt
+len of sentences 55
+len of sentences after remove punc 50
+list np len: 94
+len np 94 len avatar  6
+à¢Ò
+à¸—à¸«à¸²à¸£à¸¢à¸²à¸¡
+ÅÓ¸ÒÃ
+ãºäÁé
+ÍÑÅàºÔÃìµ
+»ÃÒÊÒ·
+===========================
+
+wordpos//tale27.txt
+len of sentences 35
+len of sentences after remove punc 31
+list np len: 60
+len np 60 len avatar  1
+½¹
+===========================
+
+wordpos//tale28.txt
+len of sentences 63
+len of sentences after remove punc 54
+list np len: 81
+len np 81 len avatar  4
+à¸¥à¸¡
+àÁ¦¹éÍÂ
+ÁÑ¹
+àÁ¦
+===========================
+
+wordpos//tale29.txt
+len of sentences 152
+len of sentences after remove punc 115
+list np len: 224
+len np 224 len avatar  9
+ä¢è
+ªÒÇ¹Ò
+ã¨
+ËèÒ¹
+à¸ à¸£à¸£à¸¢à¸²
+ÁÑ¹
+à¢Ò
+Ë­Ô§ªÃÒ
+à¸Í
+===========================
+
+wordpos//tale30.txt
+len of sentences 55
+len of sentences after remove punc 42
+list np len: 83
+len np 83 len avatar  5
+à¢Ò
+º·¡ÇÕ
+¡ÇÕ
+µé¹ËÅÔÇ
+ÁÑ¹
+===========================
+
+wordpos//tale31.txt
+len of sentences 99
+len of sentences after remove punc 66
+list np len: 104
+len np 104 len avatar  6
+àÊ×éÍ
+ÁéÒ
+Í¡
+áÁè
+ÁÑ¹
+à¸Í
+===========================
+
+wordpos//tale32.txt
+len of sentences 33
+len of sentences after remove punc 28
+list np len: 58
+len np 58 len avatar  3
+ªÒÇºéÒ¹
+¨Ôé§¨Í¡
+ÁÑ¹
+===========================
+
+wordpos//tale33.txt
+len of sentences 62
+len of sentences after remove punc 49
+list np len: 104
+len np 104 len avatar  6
+áÁÅ§ËÇÕè
+¢³Ð
+à¸•à¸±à¸§
+ÁÑ¹
+áÁè
+¹¡¹Ò§áÍè¹
+===========================
+
+wordpos//tale34.txt
+len of sentences 92
+len of sentences after remove punc 82
+list np len: 171
+len np 171 len avatar  8
+ÇÑ¹
+¨´ËÁÒÂ
+à¹€à¸§à¸¥à¸²
+ºØÃØÉä»ÃÉ³ÕÂì
+¾èÍ
+à¸Í
+à¸¥à¸¹à¸­à¸´à¸ª
+à¢Ò
+===========================
+
+wordpos//tale35.txt
+len of sentences 102
+len of sentences after remove punc 82
+list np len: 177
+len np 177 len avatar  6
+¹¡ÂÙ§
+à¸•à¸±à¸§
+¢¹
+ÁÑ¹
+¹¡ÊÒÅÔ¡Ò
+ÊÇ¹
+===========================
+
+wordpos//tale36.txt
+len of sentences 45
+len of sentences after remove punc 32
+list np len: 80
+len np 80 len avatar  6
+à¢Ò
+¤Ø³
+¤Ø³»Ùè
+ÁÒÃìµÔ¹
+à¸Í
+»Ùè
+===========================
+
+wordpos//tale37.txt
+len of sentences 45
+len of sentences after remove punc 37
+list np len: 77
+len np 77 len avatar  5
+à¢Ò
+ªÒÂªÃÒ
+ºéÒ¹
+¤éÒ§¤ÒÇ
+ÁÑ¹
+===========================
+
+wordpos//tale38.txt
+len of sentences 85
+len of sentences after remove punc 77
+list np len: 165
+len np 165 len avatar  8
+µé¹
+ÅÙ¡àÎ
+à¨éÒ¹¡
+¹¡à¤éÒáÁÇ
+Å¹Ñµ
+¡ÃÐÃÍ¡
+ÁÑ¹
+µé¹àÎ
+===========================
+
+wordpos//tale39.txt
+len of sentences 109
+len of sentences after remove punc 75
+list np len: 175
+len np 175 len avatar  6
+àÊÕÂ§
+à¸•à¸±à¸§
+¼Ùéà²èÒ
+à¨éÒáÁÇ
+Ë¹Ù
+ÁÑ¹
+===========================
+
+wordpos//tale40.txt
+len of sentences 114
+len of sentences after remove punc 88
+list np len: 181
+len np 181 len avatar  11
+«Õ
+à¸•à¸±à¸§
+ªÕÇÔµ
+à¸ªà¸£à¸°
+à¸­à¸¸à¸ª
+ÊÑµÇì
+¹éÓ
+à·¾
+¡º
+ÁÑ¹
+¹¡
+===========================
+
+>>> 

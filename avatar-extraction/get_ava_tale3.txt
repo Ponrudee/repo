@@ -1,0 +1,31 @@
+>>> ava_extract(tale3,2)
+len of sentences 121
+len of sentences after remove punc 79
+list np len: 97
+len np 97 len avatar  7
+ราชสีห์
+ตาข่าย
+เสียง
+เนิน
+หนู
+ตัว
+พื้น
+>>> ava_extract(tale3,3)
+len of sentences 121
+len of sentences after remove punc 79
+list np len: 97
+len np 97 len avatar  4
+ราชสีห์
+ตาข่าย
+เนิน
+ตัว
+>>> ava_extract(tale3,4)
+len of sentences 121
+len of sentences after remove punc 79
+list np len: 97
+len np 97 len avatar  4
+ราชสีห์
+ตาข่าย
+เนิน
+ตัว
+>>>
